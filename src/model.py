@@ -160,3 +160,168 @@ tgt = torch.randint(0, config.vocab_size, (32, 100))  # (batch_size, seq_len)
 src, tgt = src.to(device), tgt.to(device)
 output = model(src=src, tgt=tgt)
 print(output.shape)  # Should be (32, 100, 51876)
+
+
+
+
+
+
+
+
+
+
+To address the problem statement using Neo4j, we'll need to utilize various pathfinding algorithms, as mentioned in the procedure. Here's a breakdown of how each of the tasks can be tackled using Neo4j's query language, Cypher.
+
+### 1. **Find the shortest path between 'TomC' and 'ReneeZ' using the shortest Path function.**
+
+```cypher
+MATCH (start:Person {name: 'TomC'}), (end:Person {name: 'ReneeZ'})
+CALL algo.shortestPath.stream(start, end, null)
+YIELD nodeId, cost
+RETURN algo.getNodeById(nodeId).name AS node, cost
+```
+
+### 2. **Find the shortest path between 'ReginaK' and 'JohnC' and calculate the weight of the path using the A* algorithm.**
+
+```cypher
+MATCH (start:Person {name: 'ReginaK'}), (end:Person {name: 'JohnC'})
+CALL algo.shortestPath.stream(start, end, null, {algorithm: 'astar'})
+YIELD nodeId, cost
+RETURN algo.getNodeById(nodeId).name AS node, cost
+```
+
+### 3. **Find all possible paths between 'JackN' and 'Helen' with any relationship type.**
+
+```cypher
+MATCH p = (start:Person {name: 'JackN'})-[*]-(end:Person {name: 'Helen'})
+RETURN p
+```
+
+### 4. **Find all shortest paths between 'GregK' and 'CubaI' where the path only includes 'ACTED_IN' relationships.**
+
+```cypher
+MATCH p = allShortestPaths((start:Person {name: 'GregK'})-[:ACTED_IN*]-(end:Person {name: 'CubaI'}))
+RETURN p
+```
+
+### 5. **Find the shortest path from 'TomC' to 'JamesC' with a maximum depth of 5 relationships.**
+
+```cypher
+MATCH p = shortestPath((start:Person {name: 'TomC'})-[*..5]-(end:Person {name: 'JamesC'}))
+RETURN p
+```
+
+### 6. **Find the shortest path between 'EthanH' and 'JohnC' with a maximum of 3 relationships.**
+
+```cypher
+MATCH p = shortestPath((start:Person {name: 'EthanH'})-[*..3]-(end:Person {name: 'JohnC'}))
+RETURN p
+```
+
+### 7. **Perform a random walk starting from 'GregK' and traverse up to 3 relationships, returning the path.**
+
+```cypher
+MATCH (start:Person {name: 'GregK'})
+CALL algo.randomWalk.stream(start, 3)
+YIELD node
+RETURN node
+```
+
+### 8. **Perform a random walk starting from 'TomH' with a constraint to only include 'ACTED_IN' relationships, traversing up to 5 steps.**
+
+```cypher
+MATCH (start:Person {name: 'TomH'})
+CALL algo.randomWalk.stream(start, 5, {relationshipQuery: 'ACTED_IN'})
+YIELD node
+RETURN node
+```
+
+### 9. **Perform a spanning tree DFS starting from 'ReneeZ' and include relationships up to a depth of 5.**
+
+```cypher
+MATCH p = (start:Person {name: 'ReneeZ'})-[:*..5]->(end)
+RETURN p
+```
+
+### 10. **Perform a DFS starting from 'Nathan' and expand up to a maximum of 5 levels, returning the paths found.**
+
+```cypher
+MATCH p = (start:Person {name: 'Nathan'})-[:*..5]->(end)
+RETURN p
+```
+
+### 11. **Perform a BFS starting from 'BillyC' and expand up to a maximum of 2 levels, returning the paths.**
+
+```cypher
+MATCH p = (start:Person {name: 'BillyC'})-[:*..2]->(end)
+RETURN p
+```
+
+### 12. **Perform a BFS starting from 'TomH' with a maximum of 3 levels of expansion, returning the paths.**
+
+```cypher
+MATCH p = (start:Person {name: 'TomH'})-[:*..3]->(end)
+RETURN p
+```
+
+### 13. **Generate a minimum spanning tree for nodes labeled 'Person' using the 'ACTED_IN' relationship and return the edges and weights.**
+
+```cypher
+CALL algo.spanningTree('Person', 'ACTED_IN')
+YIELD node1, node2, weight
+RETURN algo.getNodeById(node1).name AS from, algo.getNodeById(node2).name AS to, weight
+```
+
+### 14. **Generate a minimum spanning tree for nodes labeled 'Movie' using the 'DIRECTED_IN' relationship and return the edges and weights.**
+
+```cypher
+CALL algo.spanningTree('Movie', 'DIRECTED_IN')
+YIELD node1, node2, weight
+RETURN algo.getNodeById(node1).name AS from, algo.getNodeById(node2).name AS to, weight
+```
+
+### 15. **Find the shortest path between 'The Matrix' and 'That Thing You Do' using any relationship type.**
+
+```cypher
+MATCH p = shortestPath((start:Movie {title: 'The Matrix'})-[*]-(end:Movie {title: 'That Thing You Do'}))
+RETURN p
+```
+
+### 16. **Find the shortest path from 'The Replacements' to 'Orlando' using the 'ACTED_IN' relationship.**
+
+```cypher
+MATCH p = shortestPath((start:Movie {title: 'The Replacements'})-[:ACTED_IN*]-(end:Movie {title: 'Orlando'}))
+RETURN p
+```
+
+### 17. **Find the shortest path between 'The Replacements' and 'The Birdcage' based on the 'REVIEWED' relationship.**
+
+```cypher
+MATCH p = shortestPath((start:Movie {title: 'The Replacements'})-[:REVIEWED*]-(end:Movie {title: 'The Birdcage'}))
+RETURN p
+```
+
+### 18. **Find the shortest path between 'MikeN' and 'RobertI' using any relationship type.**
+
+```cypher
+MATCH p = shortestPath((start:Person {name: 'MikeN'})-[*]-(end:Person {name: 'RobertI'}))
+RETURN p
+```
+
+### 19. **Find the shortest path from 'TomH' to 'CloudAtlas' with a maximum depth of 5 relationships.**
+
+```cypher
+MATCH p = shortestPath((start:Person {name: 'TomH'})-[*..5]-(end:Movie {title: 'CloudAtlas'}))
+RETURN p
+```
+
+### 20. **Find the shortest path between 'TomH' and 'TomC' and calculate the weight of the path.**
+
+```cypher
+MATCH (start:Person {name: 'TomH'}), (end:Person {name: 'TomC'})
+CALL algo.shortestPath.stream(start, end, null)
+YIELD nodeId, cost
+RETURN algo.getNodeById(nodeId).name AS node, cost
+```
+
+This structured set of queries should provide the desired results using Neo4j's algorithms for pathfinding, spanning trees, and random walks. Be sure to adapt any syntax if there are updates in Neo4j libraries or custom requirements in your database setup.
