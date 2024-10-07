@@ -88,7 +88,7 @@ class DecoderLayer(nn.Module):
         x = self.norm3(x + self.dropout(self.ffn(x)))
         return x
 
-class CoLiX_Encoder(nn.Module):
+class SONATA_Encoder(nn.Module):
     def __init__(self, config: Configuration):
         super().__init__()
         self.conv1 = nn.Conv1d(config.n_conv_channels[0], config.n_conv_channels[1], 3, 1, 1)
@@ -110,7 +110,7 @@ class CoLiX_Encoder(nn.Module):
             x = layer(x)
         return self.layer_norm(x)
 
-class CoLiX_Decoder(nn.Module):
+class SONATA_Decoder(nn.Module):
     def __init__(self, config: Configuration):
         super().__init__()
         self.embed_tokens = nn.Embedding(config.vocab_size, config.d_model)
@@ -128,12 +128,12 @@ class CoLiX_Decoder(nn.Module):
         x = x.transpose(0, 1)  # Change back to (batch_size, seq_len, d_model)
         return self.layer_norm(x)
 
-class CoLiX(nn.Module):
+class SONATA(nn.Module):
     def __init__(self, config: Configuration):
         super().__init__()
         self.config = config
-        self.Encoder = CoLiX_Encoder(self.config)
-        self.Decoder = CoLiX_Decoder(self.config)
+        self.Encoder = SONATA_Encoder(self.config)
+        self.Decoder = SONATA_Decoder(self.config)
         self.proj_out = nn.Linear(config.d_model, config.vocab_size)
 
     def forward(self, src: torch.Tensor, tgt: torch.Tensor, tgt_mask: torch.Tensor = None, src_mask: torch.Tensor = None) -> torch.Tensor:
@@ -146,7 +146,7 @@ def count_parameters(model):
 
  
 config = Configuration()
-model = CoLiX(config)
+model = SONATA(config)
 device = "cpu"
 # device = "cuda" if torch.cuda.is_available() else "cpu"
 model = model.to(device) 
