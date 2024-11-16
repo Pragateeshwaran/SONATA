@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0005.flac",
+    "text": "FOR INSTANCE LOOK AT THEIR BEHAVIOUR IN THE MATTER OF THE RING",
+    "tokens": [
+        13775,
+        40589,
+        19240,
+        48045,
+        5161,
+        47278,
+        9348,
+        7801,
+        12861,
+        11698,
+        3268,
+        3336,
+        36775,
+        5781,
+        3963,
+        3336,
+        371,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0005"
+    }
+}

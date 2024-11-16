@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0010.flac",
+    "text": "MY ARMS ARE RIGHT BUT MY LEGS ARE GETTING A LITTLE STIFF",
+    "tokens": [
+        26708,
+        5923,
+        5653,
+        15986,
+        33621,
+        21728,
+        17615,
+        20978,
+        50,
+        15986,
+        17151,
+        48996,
+        317,
+        406,
+        22470,
+        2538,
+        3563,
+        29267
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0010"
+    }
+}

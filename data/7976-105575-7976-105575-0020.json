@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0020.flac",
+    "text": "I HASTENED BACK TO THE LINES",
+    "tokens": [
+        40,
+        367,
+        11262,
+        1677,
+        1961,
+        28767,
+        5390,
+        3336,
+        43277,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0020"
+    }
+}

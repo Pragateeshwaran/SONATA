@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0015.flac",
+    "text": "THE PROFESSOR KNEW WHOM HE HAD TO DEAL WITH",
+    "tokens": [
+        10970,
+        4810,
+        19238,
+        7597,
+        1581,
+        509,
+        13965,
+        7655,
+        2662,
+        11179,
+        367,
+        2885,
+        5390,
+        5550,
+        1847,
+        13315
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0015"
+    }
+}

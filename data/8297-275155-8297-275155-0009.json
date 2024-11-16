@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0009.flac",
+    "text": "BUT YOU OUGHT TO HAVE KNOWN THAT WE ARE ONLY HALF AN HOUR BEHIND YOU AT SYDENHAM IN THE MATTER OF NEWS",
+    "tokens": [
+        47526,
+        7013,
+        440,
+        7340,
+        6535,
+        5390,
+        21515,
+        22466,
+        14165,
+        14603,
+        12887,
+        15986,
+        22224,
+        42968,
+        37,
+        3537,
+        367,
+        11698,
+        9348,
+        39,
+        12115,
+        7013,
+        5161,
+        19704,
+        41819,
+        33363,
+        3268,
+        3336,
+        36775,
+        5781,
+        3963,
+        28840
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275155",
+        "file_id": "8297-275155-0009"
+    }
+}

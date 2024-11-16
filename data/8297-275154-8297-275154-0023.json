@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0023.flac",
+    "text": "LET ME HEAR WHAT IT IS FIRST",
+    "tokens": [
+        28882,
+        11948,
+        11179,
+        1503,
+        25003,
+        7283,
+        3180,
+        31328
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0023"
+    }
+}

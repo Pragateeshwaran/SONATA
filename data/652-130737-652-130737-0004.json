@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0004.flac",
+    "text": "CHABLIS A WHITE BURGUNDY DRY AND OF AGREEABLE AROMA",
+    "tokens": [
+        3398,
+        6242,
+        43,
+        1797,
+        317,
+        44925,
+        45604,
+        38,
+        4944,
+        35,
+        56,
+        10560,
+        56,
+        5357,
+        3963,
+        13077,
+        11587,
+        17534,
+        5923,
+        2662,
+        32
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130737",
+        "file_id": "652-130737-0004"
+    }
+}

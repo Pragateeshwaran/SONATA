@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0032.flac",
+    "text": "IT WHIPPED HIS BLOOD AS IT BLEW DOWN FROM THE SLOPES AND CRESTS",
+    "tokens": [
+        2043,
+        7655,
+        31444,
+        1961,
+        33700,
+        9878,
+        22808,
+        7054,
+        7283,
+        347,
+        2538,
+        54,
+        30320,
+        16034,
+        3336,
+        12419,
+        3185,
+        1546,
+        5357,
+        8740,
+        1546,
+        4694
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0032"
+    }
+}

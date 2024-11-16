@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0026.flac",
+    "text": "OUR ROADS LIE TOGETHER DOCTOR",
+    "tokens": [
+        11698,
+        15107,
+        47149,
+        406,
+        10008,
+        5390,
+        18851,
+        16879,
+        8410,
+        4177,
+        1581
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0026"
+    }
+}

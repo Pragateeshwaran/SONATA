@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0044.flac",
+    "text": "HE WAS THE PLAIN FACED DETECTIVE WHO HAD SPOKEN TO GEORGE",
+    "tokens": [
+        13909,
+        21725,
+        3336,
+        9297,
+        29833,
+        44216,
+        1961,
+        38267,
+        9782,
+        9306,
+        19494,
+        367,
+        2885,
+        6226,
+        11380,
+        1677,
+        5390,
+        22319,
+        49697
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0044"
+    }
+}

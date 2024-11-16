@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0009.flac",
+    "text": "IT WAS NOT A QUESTION WHO WAS DEAD OR WOUNDED BUT WHO WAS NOT",
+    "tokens": [
+        2043,
+        21725,
+        5626,
+        317,
+        43658,
+        2849,
+        19494,
+        21725,
+        42533,
+        6375,
+        370,
+        15919,
+        1961,
+        21728,
+        19494,
+        21725,
+        5626
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0009"
+    }
+}

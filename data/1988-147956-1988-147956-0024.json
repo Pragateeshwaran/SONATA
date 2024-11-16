@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0024.flac",
+    "text": "SHE GOT UP ON HER KNEES AND WRUNG HER HANDS",
+    "tokens": [
+        9693,
+        36,
+        41725,
+        15958,
+        6177,
+        24906,
+        509,
+        12161,
+        1546,
+        5357,
+        11342,
+        4944,
+        38,
+        24906,
+        367,
+        1565,
+        5258
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0024"
+    }
+}

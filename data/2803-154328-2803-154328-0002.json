@@ -1,0 +1,16 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0002.flac",
+    "text": "THE MEAL ENDED",
+    "tokens": [
+        10970,
+        11948,
+        1847,
+        23578,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0002"
+    }
+}

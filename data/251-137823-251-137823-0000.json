@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0000.flac",
+    "text": "I'LL BE GLAD TO TRY SIR HE REPLIED",
+    "tokens": [
+        40,
+        6,
+        3069,
+        9348,
+        10188,
+        2885,
+        5390,
+        7579,
+        56,
+        311,
+        4663,
+        11179,
+        45285,
+        19767
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0000"
+    }
+}

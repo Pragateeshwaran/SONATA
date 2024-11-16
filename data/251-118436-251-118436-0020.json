@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0020.flac",
+    "text": "YOUR CRY AND THE GRIP OF YOUR FINGERS BROUGHT ME BACK BUT I AM GOING FAST",
+    "tokens": [
+        56,
+        11698,
+        8740,
+        56,
+        5357,
+        3336,
+        10863,
+        4061,
+        3963,
+        16592,
+        376,
+        2751,
+        4877,
+        11177,
+        2606,
+        38,
+        6535,
+        11948,
+        28767,
+        21728,
+        314,
+        3001,
+        10351,
+        2751,
+        376,
+        11262
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0020"
+    }
+}

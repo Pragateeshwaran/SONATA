@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0011.flac",
+    "text": "THE DEVIL HE IS I HEARD SOMETHING ABOUT IT TOO",
+    "tokens": [
+        10970,
+        5550,
+        53,
+        4146,
+        11179,
+        3180,
+        314,
+        11179,
+        9795,
+        42121,
+        20702,
+        2751,
+        33478,
+        7283,
+        5390,
+        46
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0011"
+    }
+}

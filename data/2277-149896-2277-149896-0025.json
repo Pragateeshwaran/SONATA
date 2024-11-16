@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0025.flac",
+    "text": "HE AROSE FROM HIS CHAIR AND WENT AND LOOKED OUT INTO THE STREET",
+    "tokens": [
+        13909,
+        5923,
+        14058,
+        16034,
+        33700,
+        5870,
+        42149,
+        5357,
+        370,
+        3525,
+        5357,
+        48045,
+        1961,
+        16289,
+        39319,
+        3336,
+        3563,
+        2200,
+        2767
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0025"
+    }
+}

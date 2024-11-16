@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0021.flac",
+    "text": "IN THAT CASE SAID BUTTON BRIGHT YOU'RE ENTITLED TO THE BEST THERE IS TO PAY FOR YOUR TROUBLE",
+    "tokens": [
+        1268,
+        14603,
+        42001,
+        14719,
+        2389,
+        21728,
+        11357,
+        11177,
+        9947,
+        7013,
+        6,
+        2200,
+        47353,
+        2043,
+        30465,
+        5390,
+        3336,
+        38502,
+        34702,
+        3180,
+        5390,
+        38444,
+        7473,
+        16592,
+        7579,
+        2606,
+        19146
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0021"
+    }
+}

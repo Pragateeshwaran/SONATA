@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0024.flac",
+    "text": "THAT WILL DO MISSUS PRESTY YOUR DEFENSE IS THOROUGHLY WORTHY OF YOUR CONDUCT IN ALL OTHER RESPECTS",
+    "tokens": [
+        4221,
+        1404,
+        17682,
+        8410,
+        49684,
+        2937,
+        4810,
+        6465,
+        56,
+        16592,
+        48551,
+        3180,
+        2320,
+        1581,
+        2606,
+        38,
+        6581,
+        56,
+        21881,
+        4221,
+        56,
+        3963,
+        16592,
+        7102,
+        35,
+        18415,
+        3268,
+        11096,
+        25401,
+        47203,
+        2943,
+        4694
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275155",
+        "file_id": "8297-275155-0024"
+    }
+}

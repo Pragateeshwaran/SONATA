@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0010.flac",
+    "text": "STIR THE SOAKED GELATIN IN WHILE THE CUCUMBER IS HOT",
+    "tokens": [
+        2257,
+        4663,
+        3336,
+        12809,
+        10206,
+        1961,
+        402,
+        3698,
+        1404,
+        1268,
+        3268,
+        7655,
+        41119,
+        3336,
+        327,
+        9598,
+        5883,
+        13246,
+        3180,
+        44607
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "129742",
+        "file_id": "652-129742-0010"
+    }
+}

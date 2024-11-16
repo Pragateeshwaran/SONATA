@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0013.flac",
+    "text": "SHE BEGAN TO SHOW THEM HOW TO WEAVE THE BITS OF THINGS TOGETHER INTO NESTS AS THEY SHOULD BE MADE",
+    "tokens": [
+        9693,
+        36,
+        347,
+        7156,
+        1565,
+        5390,
+        37041,
+        44788,
+        29630,
+        5390,
+        12887,
+        32,
+        6089,
+        3336,
+        347,
+        29722,
+        3963,
+        2320,
+        20754,
+        5390,
+        18851,
+        16879,
+        39319,
+        31925,
+        4694,
+        7054,
+        33302,
+        40312,
+        9348,
+        337,
+        19266
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "281318",
+        "file_id": "7850-281318-0013"
+    }
+}

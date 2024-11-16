@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0006.flac",
+    "text": "IT WAS THAT IDEA OF WASTE THAT DOMINATED MY MIND IN A STRANGE INTERVIEW I HAD WITH JUSTIN",
+    "tokens": [
+        2043,
+        21725,
+        14603,
+        4522,
+        16412,
+        3963,
+        21725,
+        9328,
+        14603,
+        24121,
+        1268,
+        11617,
+        17615,
+        337,
+        12115,
+        3268,
+        317,
+        19269,
+        27746,
+        23255,
+        28206,
+        314,
+        367,
+        2885,
+        13315,
+        25848,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "84280",
+        "file_id": "174-84280-0006"
+    }
+}

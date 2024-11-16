@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0019.flac",
+    "text": "THAT'S FUNNY REMARKED BETSY THOUGHTFULLY",
+    "tokens": [
+        4221,
+        1404,
+        6,
+        50,
+        29397,
+        12805,
+        22657,
+        14175,
+        1961,
+        38651,
+        23060,
+        2320,
+        2606,
+        38,
+        6535,
+        37,
+        9994,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0019"
+    }
+}

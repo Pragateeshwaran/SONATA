@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0011.flac",
+    "text": "HER HANDS AND FEET WERE ACHING WITH COLD",
+    "tokens": [
+        16879,
+        367,
+        1565,
+        5258,
+        5357,
+        18630,
+        2767,
+        370,
+        9338,
+        317,
+        3398,
+        2751,
+        13315,
+        327,
+        15173
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93302",
+        "file_id": "6345-93302-0011"
+    }
+}

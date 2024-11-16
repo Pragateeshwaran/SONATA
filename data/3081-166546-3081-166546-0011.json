@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0011.flac",
+    "text": "THE BOYS LOOK WIDE AWAKE ENOUGH BUT WHO CAN TELL I WOULD SOONER BELIEVE THAT",
+    "tokens": [
+        10970,
+        16494,
+        16309,
+        48045,
+        370,
+        14114,
+        14356,
+        32,
+        7336,
+        12964,
+        32632,
+        21728,
+        19494,
+        15628,
+        13368,
+        3069,
+        314,
+        370,
+        24010,
+        12809,
+        1340,
+        1137,
+        29991,
+        10008,
+        6089,
+        14603
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0011"
+    }
+}

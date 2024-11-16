@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0014.flac",
+    "text": "HE CAME TO HER SIDE AND SHE GAVE HIM NO GREETING",
+    "tokens": [
+        13909,
+        327,
+        10067,
+        5390,
+        24906,
+        311,
+        14114,
+        5357,
+        48052,
+        14545,
+        6089,
+        45909,
+        8005,
+        19928,
+        2767,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "64257",
+        "file_id": "6345-64257-0014"
+    }
+}

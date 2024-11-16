@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0023.flac",
+    "text": "BUT KIRKLAND KEPT STEADILY ON FOR THE RIVER",
+    "tokens": [
+        47526,
+        509,
+        4663,
+        42,
+        28182,
+        509,
+        8905,
+        51,
+        24483,
+        2885,
+        33340,
+        6177,
+        7473,
+        3336,
+        371,
+        38757
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0023"
+    }
+}

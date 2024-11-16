@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0007.flac",
+    "text": "ALL THE AMENITIES WERE PRESERVED BETWEEN THE CAPTURED GARRISON AND THEIR CAPTORS",
+    "tokens": [
+        7036,
+        3336,
+        3001,
+        1677,
+        30383,
+        370,
+        9338,
+        32552,
+        1137,
+        53,
+        1961,
+        38651,
+        8845,
+        1677,
+        3336,
+        20176,
+        51,
+        4261,
+        1961,
+        402,
+        26465,
+        39960,
+        5357,
+        47278,
+        20176,
+        51,
+        20673
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0007"
+    }
+}

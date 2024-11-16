@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0025.flac",
+    "text": "A WRANGLER'S A WRANGLER ANSWERED BIG FOOT STOLIDLY",
+    "tokens": [
+        32,
+        11342,
+        1565,
+        8763,
+        1137,
+        6,
+        50,
+        317,
+        11342,
+        1565,
+        8763,
+        1137,
+        3537,
+        17887,
+        1137,
+        1961,
+        26746,
+        11895,
+        2394,
+        3563,
+        3535,
+        2389,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0025"
+    }
+}

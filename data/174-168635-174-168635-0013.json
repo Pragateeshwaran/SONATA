@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0013.flac",
+    "text": "WEEK FOLLOWED WEEK THESE TWO BEINGS LED A HAPPY LIFE IN THAT HOVEL",
+    "tokens": [
+        54,
+        33823,
+        11895,
+        44765,
+        1961,
+        43765,
+        48947,
+        35288,
+        9348,
+        20754,
+        12365,
+        317,
+        367,
+        24805,
+        56,
+        36821,
+        3268,
+        14603,
+        367,
+        8874,
+        3698
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "168635",
+        "file_id": "174-168635-0013"
+    }
+}

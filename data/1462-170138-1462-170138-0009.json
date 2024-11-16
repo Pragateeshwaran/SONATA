@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0009.flac",
+    "text": "IT'S DELIGHTFUL TO HEAR IT IN A LONDON THEATRE",
+    "tokens": [
+        2043,
+        6,
+        50,
+        28163,
+        9947,
+        46476,
+        5390,
+        11179,
+        1503,
+        7283,
+        3268,
+        317,
+        406,
+        47383,
+        3336,
+        1404,
+        2200
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0009"
+    }
+}

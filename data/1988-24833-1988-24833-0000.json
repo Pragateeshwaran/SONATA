@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0000.flac",
+    "text": "THE TWO STRAY KITTENS GRADUALLY MAKE THEMSELVES AT HOME",
+    "tokens": [
+        10970,
+        35288,
+        3563,
+        30631,
+        509,
+        22470,
+        16938,
+        10863,
+        2885,
+        52,
+        19807,
+        39134,
+        3336,
+        5653,
+        3698,
+        53,
+        1546,
+        5161,
+        41779
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0000"
+    }
+}

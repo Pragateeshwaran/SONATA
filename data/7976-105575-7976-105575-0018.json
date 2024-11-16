@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0018.flac",
+    "text": "GO BACK TO THE REGIMENT HE SAID SMILING ALL WILL BE NEEDED",
+    "tokens": [
+        11230,
+        28767,
+        5390,
+        3336,
+        23337,
+        3955,
+        3525,
+        11179,
+        14719,
+        2389,
+        9447,
+        4146,
+        2751,
+        11096,
+        17682,
+        9348,
+        36465,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0018"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0006.flac",
+    "text": "THE CAPTURE OF LEE WAS A FAR MORE DIFFICULT UNDERTAKING",
+    "tokens": [
+        10970,
+        20176,
+        51,
+        11335,
+        3963,
+        406,
+        6500,
+        21725,
+        317,
+        39024,
+        12011,
+        360,
+        29267,
+        2149,
+        16724,
+        35219,
+        5603,
+        37286
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "111771",
+        "file_id": "7850-111771-0006"
+    }
+}

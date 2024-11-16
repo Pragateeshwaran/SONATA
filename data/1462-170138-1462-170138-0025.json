@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0025.flac",
+    "text": "ALL THE SAME HE LIFTED HIS GLASS HERE'S TO YOU LITTLE HILDA",
+    "tokens": [
+        7036,
+        3336,
+        311,
+        10067,
+        11179,
+        406,
+        32297,
+        1961,
+        33700,
+        10188,
+        10705,
+        15698,
+        6,
+        50,
+        5390,
+        7013,
+        406,
+        22470,
+        2538,
+        367,
+        4146,
+        5631
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0025"
+    }
+}

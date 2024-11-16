@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0042.flac",
+    "text": "SUFFICIENT FOR A MODERATE SIZED HADDOCK OR PIKE",
+    "tokens": [
+        12564,
+        5777,
+        2149,
+        28495,
+        7473,
+        317,
+        19164,
+        1137,
+        6158,
+        311,
+        14887,
+        1961,
+        367,
+        29266,
+        11290,
+        6375,
+        30434,
+        7336
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0042"
+    }
+}

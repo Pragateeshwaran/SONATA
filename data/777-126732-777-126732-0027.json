@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0027.flac",
+    "text": "HIS OWN SKIN HAD SIZZLED UNDER THE RED HOT BRAND HE MURMURED SOFTLY",
+    "tokens": [
+        39,
+        1797,
+        47672,
+        14277,
+        1268,
+        367,
+        2885,
+        311,
+        14887,
+        57,
+        30465,
+        35219,
+        3336,
+        23848,
+        44607,
+        11177,
+        6981,
+        11179,
+        337,
+        4261,
+        44,
+        4261,
+        1961,
+        12809,
+        9792,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0027"
+    }
+}

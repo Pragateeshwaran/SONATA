@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0051.flac",
+    "text": "HE LOOKED DUBIOUSLY AT HIS BROTHER IN LAW BUT HE DID NOT ASK HIM FOR INFORMATION",
+    "tokens": [
+        13909,
+        48045,
+        1961,
+        35480,
+        3483,
+        2606,
+        8634,
+        56,
+        5161,
+        33700,
+        11177,
+        31858,
+        3268,
+        38675,
+        21728,
+        11179,
+        35697,
+        5626,
+        7054,
+        42,
+        45909,
+        7473,
+        38044
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0051"
+    }
+}

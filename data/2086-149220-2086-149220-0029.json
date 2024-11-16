@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0029.flac",
+    "text": "I CAN ASSURE YOU THAT THIS IS A MODERN FACE AND ONE WHICH YOU WILL VERY PROBABLY MEET",
+    "tokens": [
+        40,
+        15628,
+        24994,
+        11335,
+        7013,
+        14603,
+        12680,
+        3180,
+        317,
+        19164,
+        28778,
+        46587,
+        5357,
+        16329,
+        7655,
+        20739,
+        7013,
+        17682,
+        29550,
+        21965,
+        4339,
+        9148,
+        56,
+        11948,
+        2767
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0029"
+    }
+}

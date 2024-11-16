@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0011.flac",
+    "text": "THESE THEY SPREAD OUT ON THE GROUND USING BOOTS WRAPPED IN COATS FOR PILLOWS",
+    "tokens": [
+        4221,
+        33635,
+        33302,
+        6226,
+        15675,
+        16289,
+        6177,
+        3336,
+        10863,
+        15919,
+        1294,
+        2751,
+        16494,
+        33472,
+        11342,
+        24805,
+        1961,
+        3268,
+        7375,
+        33586,
+        7473,
+        350,
+        8267,
+        22845
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0011"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0013.flac",
+    "text": "MARY AND ALICE DREW NEAR THE FIRE AND STOOD IN QUIET SORROW FOR SOME TIME",
+    "tokens": [
+        44,
+        13153,
+        5357,
+        8355,
+        8476,
+        360,
+        2200,
+        54,
+        10635,
+        1503,
+        3336,
+        39110,
+        5357,
+        3563,
+        22808,
+        3268,
+        1195,
+        10080,
+        2767,
+        311,
+        1581,
+        49,
+        3913,
+        7473,
+        41670,
+        20460
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147149",
+        "file_id": "1993-147149-0013"
+    }
+}

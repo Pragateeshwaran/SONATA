@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0027.flac",
+    "text": "HURSTWOOD ALMOST EXCLAIMED OUT LOUD AT THE INSISTENCY OF THIS THING",
+    "tokens": [
+        39,
+        4261,
+        2257,
+        49466,
+        8355,
+        44,
+        10892,
+        7788,
+        48778,
+        1961,
+        16289,
+        406,
+        2606,
+        35,
+        5161,
+        3336,
+        29194,
+        8808,
+        45155,
+        3963,
+        12680,
+        2320,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0027"
+    }
+}

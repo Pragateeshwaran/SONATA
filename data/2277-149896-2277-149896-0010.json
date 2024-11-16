@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0010.flac",
+    "text": "SO LITTLE DID HE CONSIDER DROUET THAT IT NEVER ONCE OCCURRED TO HIM TO WORRY ABOUT HIS FINDING OUT",
+    "tokens": [
+        15821,
+        406,
+        22470,
+        2538,
+        35697,
+        11179,
+        39537,
+        41237,
+        10560,
+        2606,
+        2767,
+        14603,
+        7283,
+        33602,
+        6177,
+        5222,
+        440,
+        4093,
+        4261,
+        22083,
+        5390,
+        45909,
+        5390,
+        21881,
+        18276,
+        33478,
+        33700,
+        376,
+        12115,
+        2751,
+        16289
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0010"
+    }
+}

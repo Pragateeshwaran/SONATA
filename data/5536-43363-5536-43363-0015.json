@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0015.flac",
+    "text": "FIVE YEARS LATER HE REPEATED THE SERVICE AND AGAIN SAVED HIS PEOPLE FROM AWFUL SLAUGHTER",
+    "tokens": [
+        37,
+        9306,
+        32914,
+        50,
+        406,
+        23261,
+        11179,
+        4526,
+        11401,
+        11617,
+        3336,
+        47453,
+        5357,
+        36218,
+        1268,
+        311,
+        10116,
+        1961,
+        33700,
+        36388,
+        16034,
+        14356,
+        46476,
+        12419,
+        32,
+        44004,
+        5781
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43363",
+        "file_id": "5536-43363-0015"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0037.flac",
+    "text": "IF HE DIDN'T GO AND SEE THEM THEY WOULD SUE HIM PROMPTLY",
+    "tokens": [
+        5064,
+        11179,
+        35697,
+        45,
+        6,
+        51,
+        10351,
+        5357,
+        31107,
+        44788,
+        33302,
+        370,
+        24010,
+        311,
+        8924,
+        45909,
+        4810,
+        2662,
+        11571,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0037"
+    }
+}

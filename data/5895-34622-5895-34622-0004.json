@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0004.flac",
+    "text": "THE WHEELS WERE ALL OF THE SAME SIZE AND HIGH AS WAGON WHEELS",
+    "tokens": [
+        10970,
+        7655,
+        36,
+        37142,
+        370,
+        9338,
+        11096,
+        3963,
+        3336,
+        311,
+        10067,
+        311,
+        35400,
+        5357,
+        34677,
+        7054,
+        370,
+        4760,
+        1340,
+        7655,
+        36,
+        37142
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0004"
+    }
+}

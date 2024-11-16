@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0025.flac",
+    "text": "THIS CONNOISSEUR WAS SUDDENLY FASCINATED AND HAD ADOPTED THE LAUGHING MAN",
+    "tokens": [
+        43559,
+        7102,
+        15285,
+        1797,
+        5188,
+        4261,
+        21725,
+        311,
+        8322,
+        41819,
+        11319,
+        376,
+        42643,
+        1268,
+        11617,
+        5357,
+        367,
+        2885,
+        5984,
+        3185,
+        36493,
+        3336,
+        9131,
+        44004,
+        2751,
+        17254
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0025"
+    }
+}

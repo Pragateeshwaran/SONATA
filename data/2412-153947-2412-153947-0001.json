@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0001.flac",
+    "text": "THIS IS A MISTAKE THOUGH A PERFECTLY NATURAL ONE",
+    "tokens": [
+        43559,
+        3180,
+        317,
+        50029,
+        5603,
+        7336,
+        2320,
+        32632,
+        317,
+        19878,
+        37,
+        9782,
+        11319,
+        10149,
+        4261,
+        1847,
+        16329
+    ],
+    "metadata": {
+        "speaker_id": "2412",
+        "chapter_id": "153947",
+        "file_id": "2412-153947-0001"
+    }
+}

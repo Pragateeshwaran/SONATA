@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0006.flac",
+    "text": "YES I HAD THE TIME TO THINK THINGS OUT A LITTLE HE ADDED WITHOUT EMPHASIS",
+    "tokens": [
+        43335,
+        314,
+        367,
+        2885,
+        3336,
+        20460,
+        5390,
+        2320,
+        17248,
+        2320,
+        20754,
+        16289,
+        317,
+        406,
+        22470,
+        2538,
+        11179,
+        27841,
+        1961,
+        42881,
+        38144,
+        39,
+        1921,
+        1797
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0006"
+    }
+}

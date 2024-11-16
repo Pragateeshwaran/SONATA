@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0025.flac",
+    "text": "IF YOU WOULD HAVE GONE TO MISTER SKINT SIR SUGGESTED BOZZLE",
+    "tokens": [
+        5064,
+        7013,
+        370,
+        24010,
+        21515,
+        402,
+        11651,
+        5390,
+        337,
+        41517,
+        14277,
+        12394,
+        311,
+        4663,
+        311,
+        7340,
+        38,
+        6465,
+        1961,
+        16494,
+        30148,
+        2538
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0025"
+    }
+}

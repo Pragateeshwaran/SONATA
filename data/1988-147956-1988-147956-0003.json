@@ -1,0 +1,17 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0003.flac",
+    "text": "NOW WHY IS THAT OTTO",
+    "tokens": [
+        45669,
+        44463,
+        3180,
+        14603,
+        21676,
+        10468
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0003"
+    }
+}

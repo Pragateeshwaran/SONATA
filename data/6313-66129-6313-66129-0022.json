@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0022.flac",
+    "text": "ALL AGREED THAT TAD'S SUPERIOR HORSEMANSHIP ALONE HAD WON THE RACE FOR HIM",
+    "tokens": [
+        7036,
+        13077,
+        2200,
+        1961,
+        14603,
+        309,
+        2885,
+        6,
+        50,
+        33088,
+        41254,
+        367,
+        20673,
+        3620,
+        1565,
+        49423,
+        8355,
+        11651,
+        367,
+        2885,
+        370,
+        1340,
+        3336,
+        371,
+        11598,
+        7473,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0022"
+    }
+}

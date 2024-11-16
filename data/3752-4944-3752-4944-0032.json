@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0032.flac",
+    "text": "MISTER MEEKIN EXPRESSED SOME ALARM BUT DOCTOR MACKLEWAIN RE ASSURED HIM",
+    "tokens": [
+        44,
+        41517,
+        337,
+        33823,
+        1268,
+        7788,
+        32761,
+        1961,
+        41670,
+        8355,
+        33456,
+        21728,
+        8410,
+        4177,
+        1581,
+        337,
+        8120,
+        2538,
+        15543,
+        1268,
+        4526,
+        24994,
+        4261,
+        1961,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0032"
+    }
+}

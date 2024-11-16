@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0017.flac",
+    "text": "THAT SUCCESS WAS PRODIGIOUS STILL IT REMAINED LOCAL",
+    "tokens": [
+        4221,
+        1404,
+        13558,
+        4093,
+        7597,
+        21725,
+        4810,
+        3727,
+        3528,
+        40,
+        20958,
+        3563,
+        8267,
+        7283,
+        22657,
+        29833,
+        1961,
+        37347,
+        1847
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0017"
+    }
+}

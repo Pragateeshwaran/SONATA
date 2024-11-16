@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0014.flac",
+    "text": "A GREAT RASCAL PUT IN NORTH",
+    "tokens": [
+        32,
+        37853,
+        371,
+        42643,
+        1847,
+        350,
+        3843,
+        3268,
+        25273,
+        4221
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0014"
+    }
+}

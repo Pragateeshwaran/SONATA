@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0014.flac",
+    "text": "FROM OUR BENCH WE COULD SEE WHAT A HOLLOW CASE HIS BODY WAS",
+    "tokens": [
+        10913,
+        2662,
+        30229,
+        44849,
+        3398,
+        12887,
+        327,
+        24010,
+        31107,
+        25003,
+        317,
+        40115,
+        44765,
+        42001,
+        33700,
+        347,
+        33076,
+        21725
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0014"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0004.flac",
+    "text": "I HOPE MISS MILNER YOU PASS THIS EVENING AT HOME",
+    "tokens": [
+        40,
+        367,
+        32135,
+        49684,
+        31515,
+        21479,
+        7013,
+        41752,
+        12680,
+        45886,
+        2751,
+        5161,
+        41779
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "23268",
+        "file_id": "3536-23268-0004"
+    }
+}

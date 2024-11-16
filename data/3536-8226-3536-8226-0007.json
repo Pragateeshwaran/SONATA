@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0007.flac",
+    "text": "OF COURSE IT AIN'T SAID MISSUS BOZZLE",
+    "tokens": [
+        19238,
+        37384,
+        5188,
+        7283,
+        317,
+        1268,
+        6,
+        51,
+        14719,
+        2389,
+        49684,
+        2937,
+        16494,
+        30148,
+        2538
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0007"
+    }
+}

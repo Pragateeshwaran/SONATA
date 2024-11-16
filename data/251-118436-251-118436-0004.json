@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0004.flac",
+    "text": "A LOW CONFUSED MOAN WANED FROM HIS MOUTH",
+    "tokens": [
+        32,
+        46663,
+        7102,
+        37,
+        2937,
+        1961,
+        13070,
+        1565,
+        370,
+        1565,
+        1961,
+        16034,
+        33700,
+        337,
+        2606,
+        4221
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0004"
+    }
+}

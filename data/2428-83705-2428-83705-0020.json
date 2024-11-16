@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0020.flac",
+    "text": "IT WAS PLAIN THAT TOGETHER WE SHOULD MANAGE MOST COMFORTABLY DELIGHTFULLY IN FACT",
+    "tokens": [
+        2043,
+        21725,
+        9297,
+        29833,
+        14603,
+        5390,
+        18851,
+        16879,
+        12887,
+        40312,
+        17254,
+        11879,
+        337,
+        10892,
+        9440,
+        13775,
+        5603,
+        9148,
+        56,
+        28163,
+        9947,
+        37,
+        9994,
+        56,
+        3268,
+        376,
+        10659
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0020"
+    }
+}

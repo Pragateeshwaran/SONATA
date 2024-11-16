@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0023.flac",
+    "text": "TOM SAYS THANKS AND LOOKS AT HILDA AND SHE BLUSHES REALLY",
+    "tokens": [
+        51,
+        2662,
+        45687,
+        50,
+        49360,
+        50,
+        5357,
+        48045,
+        50,
+        5161,
+        367,
+        4146,
+        5631,
+        5357,
+        48052,
+        9878,
+        27143,
+        1546,
+        36413
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0023"
+    }
+}

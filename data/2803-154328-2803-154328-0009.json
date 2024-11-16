@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0009.flac",
+    "text": "MY LORD WHICHEVER OF US SURVIVES THE OTHER WILL FULFILL THE WISH OF LADY HELENA AND MARY GRANT",
+    "tokens": [
+        26708,
+        35750,
+        7655,
+        2149,
+        13909,
+        5959,
+        3963,
+        1294,
+        41016,
+        53,
+        42472,
+        3336,
+        25401,
+        17682,
+        376,
+        6239,
+        37,
+        8267,
+        3336,
+        370,
+        18422,
+        3963,
+        406,
+        2885,
+        56,
+        36255,
+        45510,
+        5357,
+        337,
+        13153,
+        10863,
+        8643
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0009"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0023.flac",
+    "text": "SOMETHING HAD TO BE DONE A CLIMAX WAS NEAR AND SHE WOULD NOT SIT IDLE",
+    "tokens": [
+        50,
+        2662,
+        20702,
+        2751,
+        367,
+        2885,
+        5390,
+        9348,
+        360,
+        11651,
+        317,
+        7852,
+        3955,
+        25922,
+        21725,
+        10635,
+        1503,
+        5357,
+        48052,
+        370,
+        24010,
+        5626,
+        311,
+        2043,
+        4522,
+        2538
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0023"
+    }
+}

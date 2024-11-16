@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0014.flac",
+    "text": "IT HAS CHANGED FROM WHAT IT WAS IN THE OLD DAYS BUT IS STILL AN EXCELLENT PLACE TO DINE",
+    "tokens": [
+        2043,
+        33930,
+        5870,
+        15567,
+        1961,
+        16034,
+        25003,
+        7283,
+        21725,
+        3268,
+        3336,
+        440,
+        11163,
+        24644,
+        50,
+        21728,
+        3180,
+        3563,
+        8267,
+        3537,
+        7788,
+        5222,
+        3069,
+        3525,
+        9297,
+        11598,
+        5390,
+        360,
+        8881
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130726",
+        "file_id": "652-130726-0014"
+    }
+}

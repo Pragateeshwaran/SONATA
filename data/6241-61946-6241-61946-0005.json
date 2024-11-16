@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0005.flac",
+    "text": "THEY VERY RARELY SUCCEED IN A GOOD SHOW OF YELLOW",
+    "tokens": [
+        10970,
+        56,
+        29550,
+        371,
+        1503,
+        30943,
+        13558,
+        4093,
+        41841,
+        3268,
+        317,
+        21090,
+        37041,
+        3963,
+        575,
+        23304,
+        3913
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0005"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0033.flac",
+    "text": "THE BELL REVERBERATED THROUGH WHAT SEEMED LIKE AN EMPTY HOUSE",
+    "tokens": [
+        10970,
+        9348,
+        3069,
+        4526,
+        5959,
+        13246,
+        11617,
+        35383,
+        32632,
+        25003,
+        7946,
+        3620,
+        1961,
+        34178,
+        3537,
+        38144,
+        9936,
+        46586
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0033"
+    }
+}

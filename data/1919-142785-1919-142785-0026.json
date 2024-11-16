@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0026.flac",
+    "text": "IN JAMAICA IT FLOWERS ABOUT AUGUST OR SEPTEMBER FADING ABOUT THE END OF THE YEAR",
+    "tokens": [
+        1268,
+        449,
+        25087,
+        25241,
+        7283,
+        9977,
+        3913,
+        4877,
+        33478,
+        317,
+        7340,
+        7759,
+        6375,
+        7946,
+        11571,
+        28952,
+        376,
+        2885,
+        2751,
+        33478,
+        3336,
+        23578,
+        3963,
+        3336,
+        32914
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0026"
+    }
+}

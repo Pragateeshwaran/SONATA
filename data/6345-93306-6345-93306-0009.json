@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0009.flac",
+    "text": "HE HURRIEDLY CUT CAKE AND PRESSED IT UPON HER",
+    "tokens": [
+        13909,
+        367,
+        4261,
+        7112,
+        1961,
+        11319,
+        327,
+        3843,
+        7257,
+        7336,
+        5357,
+        44310,
+        1961,
+        7283,
+        15958,
+        1340,
+        24906
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0009"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0003.flac",
+    "text": "A COUNTER ATTACK WAS MADE UPON WOONGA AND HE WAS DRIVEN DEEP INTO THE WILDERNESS WITH GREAT LOSS",
+    "tokens": [
+        32,
+        31404,
+        5781,
+        26195,
+        8120,
+        21725,
+        337,
+        19266,
+        15958,
+        1340,
+        370,
+        46,
+        1340,
+        9273,
+        5357,
+        11179,
+        21725,
+        10560,
+        3824,
+        1677,
+        5550,
+        8905,
+        39319,
+        3336,
+        370,
+        4146,
+        14418,
+        31097,
+        13315,
+        37853,
+        406,
+        18420
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0003"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0016.flac",
+    "text": "A SNAKE OF HIS SIZE IN FIGHTING TRIM WOULD BE MORE THAN ANY BOY COULD HANDLE",
+    "tokens": [
+        32,
+        311,
+        4535,
+        7336,
+        3963,
+        33700,
+        311,
+        35400,
+        3268,
+        39941,
+        2751,
+        7579,
+        3955,
+        370,
+        24010,
+        9348,
+        12011,
+        2320,
+        1565,
+        15529,
+        16494,
+        56,
+        327,
+        24010,
+        367,
+        6981,
+        2538
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0016"
+    }
+}

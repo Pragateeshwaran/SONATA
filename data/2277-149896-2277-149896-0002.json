@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0002.flac",
+    "text": "HURSTWOOD WALKED THE FLOOR MENTALLY ARRANGING THE CHIEF POINTS OF HIS SITUATION",
+    "tokens": [
+        39,
+        4261,
+        2257,
+        49466,
+        370,
+        28082,
+        1961,
+        3336,
+        9977,
+        46,
+        1581,
+        337,
+        3525,
+        19807,
+        5923,
+        49,
+        15567,
+        2751,
+        3336,
+        5870,
+        10008,
+        37,
+        19922,
+        1268,
+        4694,
+        3963,
+        33700,
+        311,
+        2043,
+        52,
+        6234
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0002"
+    }
+}

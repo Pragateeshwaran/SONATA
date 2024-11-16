@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0017.flac",
+    "text": "THEIR FINGERS SEAR ME LIKE FIRE",
+    "tokens": [
+        10970,
+        4663,
+        376,
+        2751,
+        4877,
+        7946,
+        1503,
+        11948,
+        34178,
+        39110
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0017"
+    }
+}

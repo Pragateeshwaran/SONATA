@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0018.flac",
+    "text": "LIGE QUICKLY MADE FAST THE LINE TO A TREE",
+    "tokens": [
+        43,
+        3528,
+        36,
+        19604,
+        11860,
+        11319,
+        337,
+        19266,
+        376,
+        11262,
+        3336,
+        48920,
+        5390,
+        317,
+        309,
+        11587
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0018"
+    }
+}

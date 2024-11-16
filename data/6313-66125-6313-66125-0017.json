@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0017.flac",
+    "text": "AFTER WHAT SEEMED TO THEM HOURS A SHARP CALL FROM THE DEPTHS REACHED THEIR EARS",
+    "tokens": [
+        8579,
+        5781,
+        25003,
+        7946,
+        3620,
+        1961,
+        5390,
+        44788,
+        29068,
+        6998,
+        317,
+        6006,
+        36035,
+        42815,
+        16034,
+        3336,
+        5550,
+        47,
+        4221,
+        50,
+        4526,
+        16219,
+        1961,
+        47278,
+        412,
+        27415
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0017"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0014.flac",
+    "text": "HE WAS HOWEVER BUT A CIVIL SERVANT A MAGISTRATE THE GOVERNOR OF THE ISLAND BARON TRAMPE",
+    "tokens": [
+        13909,
+        21725,
+        29630,
+        36,
+        5959,
+        21728,
+        317,
+        327,
+        3824,
+        4146,
+        42887,
+        8643,
+        317,
+        28263,
+        1797,
+        5446,
+        6158,
+        3336,
+        10351,
+        5959,
+        35510,
+        3963,
+        3336,
+        3180,
+        28182,
+        31597,
+        1340,
+        7579,
+        2390,
+        11401
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0014"
+    }
+}

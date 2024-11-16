@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0016.flac",
+    "text": "A LITTLE LONGER AND SHE WAS COMPELLED TO YIELD AND THE SILENT TEARS FLOWED FREELY",
+    "tokens": [
+        32,
+        406,
+        22470,
+        2538,
+        44533,
+        1137,
+        5357,
+        48052,
+        21725,
+        9440,
+        11401,
+        3069,
+        1961,
+        5390,
+        575,
+        49979,
+        5357,
+        3336,
+        47551,
+        3525,
+        13368,
+        27415,
+        9977,
+        3913,
+        1961,
+        44253,
+        30943
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0016"
+    }
+}

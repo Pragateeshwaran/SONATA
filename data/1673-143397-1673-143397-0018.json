@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0018.flac",
+    "text": "AT THE SAME TIME EVERY AVENUE OF THE THRONE WAS ASSAULTED WITH GOLD",
+    "tokens": [
+        1404,
+        3336,
+        311,
+        10067,
+        20460,
+        27222,
+        14661,
+        1677,
+        8924,
+        3963,
+        3336,
+        35383,
+        11651,
+        21725,
+        7054,
+        4090,
+        16724,
+        1961,
+        13315,
+        44428
+    ],
+    "metadata": {
+        "speaker_id": "1673",
+        "chapter_id": "143397",
+        "file_id": "1673-143397-0018"
+    }
+}

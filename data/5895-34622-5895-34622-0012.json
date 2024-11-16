@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0012.flac",
+    "text": "THE CURIOSITY OF ONE PLACE EXHAUSTED THEY PASSED ON TO ANOTHER",
+    "tokens": [
+        10970,
+        327,
+        47269,
+        2640,
+        9050,
+        3963,
+        16329,
+        9297,
+        11598,
+        7788,
+        7801,
+        7759,
+        1961,
+        33302,
+        41752,
+        1961,
+        6177,
+        5390,
+        3537,
+        31858
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0012"
+    }
+}

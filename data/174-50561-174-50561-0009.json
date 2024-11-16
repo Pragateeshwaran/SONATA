@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0009.flac",
+    "text": "THE WANDERING SINGER",
+    "tokens": [
+        10970,
+        370,
+        6981,
+        1137,
+        2751,
+        311,
+        2751,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "50561",
+        "file_id": "174-50561-0009"
+    }
+}

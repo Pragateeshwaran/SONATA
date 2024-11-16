@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0021.flac",
+    "text": "THE CLOUD OF REBELS WE HAD SEEN DIVIDED ITSELF INTO THREE COLUMNS",
+    "tokens": [
+        10970,
+        7852,
+        2606,
+        35,
+        3963,
+        4526,
+        33,
+        37142,
+        12887,
+        367,
+        2885,
+        7946,
+        1677,
+        360,
+        3824,
+        2389,
+        1961,
+        42437,
+        37738,
+        39319,
+        48697,
+        20444,
+        5883,
+        8035
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0021"
+    }
+}

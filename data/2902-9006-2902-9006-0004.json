@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0004.flac",
+    "text": "THE VERY EMPERORS HAD ARRAYED THEMSELVES ON HER SIDE",
+    "tokens": [
+        10970,
+        29550,
+        38144,
+        1137,
+        20673,
+        367,
+        2885,
+        5923,
+        30631,
+        1961,
+        3336,
+        5653,
+        3698,
+        53,
+        1546,
+        6177,
+        24906,
+        311,
+        14114
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9006",
+        "file_id": "2902-9006-0004"
+    }
+}

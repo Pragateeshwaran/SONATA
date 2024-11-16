@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0013.flac",
+    "text": "MISTER QUILTER HAS MISSED HIS CHANCE FOR HE HAS FAILED EVEN TO MAKE HIMSELF THE TUPPER OF PAINTING",
+    "tokens": [
+        44,
+        41517,
+        19604,
+        4146,
+        5781,
+        33930,
+        49684,
+        1961,
+        33700,
+        5870,
+        19240,
+        7473,
+        11179,
+        33930,
+        9677,
+        4146,
+        1961,
+        45886,
+        5390,
+        39134,
+        45909,
+        50,
+        37738,
+        3336,
+        309,
+        8577,
+        18973,
+        3963,
+        8147,
+        12394,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "128104",
+        "file_id": "1272-128104-0013"
+    }
+}

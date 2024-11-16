@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0039.flac",
+    "text": "P S THE CARDS ARE OUT FOR THE WEDDING",
+    "tokens": [
+        47,
+        311,
+        3336,
+        17368,
+        5258,
+        15986,
+        16289,
+        7473,
+        3336,
+        370,
+        1961,
+        35,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0039"
+    }
+}

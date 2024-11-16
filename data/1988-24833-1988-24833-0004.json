@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0004.flac",
+    "text": "RIGHT AWAY WHEN I BRING HOME MY NEW PROGRAM HE SAYS HOW COME YOU'RE TAKING ONE LESS COURSE THIS HALF",
+    "tokens": [
+        49,
+        9947,
+        14356,
+        4792,
+        42099,
+        314,
+        11177,
+        2751,
+        41779,
+        17615,
+        12682,
+        46805,
+        11179,
+        45687,
+        50,
+        29630,
+        9440,
+        36,
+        7013,
+        6,
+        2200,
+        309,
+        43602,
+        16329,
+        406,
+        7597,
+        37384,
+        5188,
+        12680,
+        42968,
+        37
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0004"
+    }
+}

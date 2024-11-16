@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0003.flac",
+    "text": "YOU HAVE NOT BEEN LONG IN THE COLONY MISTER MEEKIN",
+    "tokens": [
+        36981,
+        21515,
+        5626,
+        9348,
+        1677,
+        44533,
+        3268,
+        3336,
+        20444,
+        40508,
+        337,
+        41517,
+        337,
+        33823,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0003"
+    }
+}

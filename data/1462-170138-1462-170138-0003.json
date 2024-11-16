@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0003.flac",
+    "text": "ALEXANDER EXCLAIMED MILDLY",
+    "tokens": [
+        1847,
+        6369,
+        6981,
+        1137,
+        7788,
+        48778,
+        1961,
+        337,
+        26761,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0003"
+    }
+}

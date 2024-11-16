@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0035.flac",
+    "text": "SUFFICIENT TO SERVE WITH FIVE OR SIX MACKEREL",
+    "tokens": [
+        12564,
+        5777,
+        2149,
+        28495,
+        5390,
+        18871,
+        6089,
+        13315,
+        376,
+        9306,
+        6375,
+        311,
+        10426,
+        337,
+        8120,
+        1137,
+        3698
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0035"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0015.flac",
+    "text": "THEN SHE HEARD HIM GO DOWN THE STAIRWAY AND UNBOLT THE HEAVY DOORS WHICH LED INTO THE STORE",
+    "tokens": [
+        4221,
+        1677,
+        48052,
+        11179,
+        9795,
+        45909,
+        10351,
+        30320,
+        3336,
+        3563,
+        42149,
+        27285,
+        5357,
+        4725,
+        33,
+        3535,
+        51,
+        3336,
+        11179,
+        10116,
+        56,
+        8410,
+        20673,
+        7655,
+        20739,
+        12365,
+        39319,
+        3336,
+        3563,
+        6965
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0015"
+    }
+}

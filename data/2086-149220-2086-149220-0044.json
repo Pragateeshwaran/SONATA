@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0044.flac",
+    "text": "HOW WONDERFULLY RESPONSIVE TO EVERY EMOTION OF THE HUMAN SOUL",
+    "tokens": [
+        37181,
+        370,
+        1340,
+        14418,
+        37,
+        9994,
+        56,
+        47203,
+        19213,
+        9306,
+        5390,
+        27222,
+        17228,
+        2394,
+        2849,
+        3963,
+        3336,
+        45850,
+        1565,
+        30065,
+        43
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0044"
+    }
+}

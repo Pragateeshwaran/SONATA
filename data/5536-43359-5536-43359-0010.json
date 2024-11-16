@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0010.flac",
+    "text": "HIS DAILY DEVOTIONS WERE MORE NECESSARY TO HIM THAN DAILY FOOD",
+    "tokens": [
+        39,
+        1797,
+        17051,
+        33340,
+        5550,
+        53,
+        2394,
+        11053,
+        370,
+        9338,
+        12011,
+        41804,
+        7597,
+        13153,
+        5390,
+        45909,
+        2320,
+        1565,
+        17051,
+        33340,
+        11895,
+        3727
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43359",
+        "file_id": "5536-43359-0010"
+    }
+}

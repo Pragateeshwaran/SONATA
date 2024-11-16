@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0003.flac",
+    "text": "WHO IS TOUCHING ME AND UNTRUSSING ME",
+    "tokens": [
+        41856,
+        3180,
+        309,
+        2606,
+        3398,
+        2751,
+        11948,
+        5357,
+        4725,
+        5446,
+        32835,
+        2751,
+        11948
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0003"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0008.flac",
+    "text": "POUR MAYONNAISE OVER ALL CHILL AND SERVE",
+    "tokens": [
+        47,
+        11698,
+        26720,
+        1340,
+        4535,
+        24352,
+        28729,
+        11096,
+        5870,
+        8267,
+        5357,
+        18871,
+        6089
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "129742",
+        "file_id": "652-129742-0008"
+    }
+}

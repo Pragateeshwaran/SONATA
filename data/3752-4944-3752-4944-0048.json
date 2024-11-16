@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0048.flac",
+    "text": "I AM A MINISTER OF GOD SIR AND I FORBID YOU TO COMMIT THIS CRIME",
+    "tokens": [
+        40,
+        3001,
+        317,
+        20625,
+        41517,
+        3963,
+        29562,
+        311,
+        4663,
+        5357,
+        314,
+        7473,
+        33,
+        2389,
+        7013,
+        5390,
+        22240,
+        2043,
+        12680,
+        8740,
+        12789
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0048"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0059.flac",
+    "text": "I WISH I HADN'T TAKEN THAT BRANDY HE SAID FOOL THAT I AM",
+    "tokens": [
+        40,
+        370,
+        18422,
+        314,
+        367,
+        2885,
+        45,
+        6,
+        51,
+        309,
+        10206,
+        1677,
+        14603,
+        11177,
+        6981,
+        56,
+        11179,
+        14719,
+        2389,
+        11895,
+        3535,
+        14603,
+        314,
+        3001
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0059"
+    }
+}

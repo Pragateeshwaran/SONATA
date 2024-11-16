@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0052.flac",
+    "text": "MISTER VERLOC PERCEIVED WITH SOME SURPRISE THAT HE DID NOT KNOW REALLY WHAT TO SAY TO STEVIE",
+    "tokens": [
+        44,
+        41517,
+        33310,
+        29701,
+        19878,
+        5222,
+        3824,
+        1961,
+        13315,
+        41670,
+        41016,
+        4805,
+        24352,
+        14603,
+        11179,
+        35697,
+        5626,
+        35876,
+        36413,
+        25003,
+        5390,
+        45687,
+        5390,
+        3563,
+        20114,
+        10008
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0052"
+    }
+}

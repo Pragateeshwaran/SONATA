@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0045.flac",
+    "text": "FEWER WORDS THAN BEFORE BUT WITH THE SAME MYSTERIOUS MUSIC IN THEM",
+    "tokens": [
+        37,
+        6217,
+        1137,
+        21881,
+        5258,
+        2320,
+        1565,
+        38331,
+        21728,
+        13315,
+        3336,
+        311,
+        10067,
+        17615,
+        41809,
+        40,
+        20958,
+        39484,
+        2149,
+        3268,
+        44788
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0045"
+    }
+}

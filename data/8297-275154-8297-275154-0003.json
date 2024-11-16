@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0003.flac",
+    "text": "RANDAL WAITED A WHILE IN LONDON ON THE CHANCE THAT BENNYDECK MIGHT PAY HIM A VISIT",
+    "tokens": [
+        49,
+        6981,
+        1847,
+        16400,
+        22061,
+        317,
+        7655,
+        41119,
+        3268,
+        406,
+        47383,
+        6177,
+        3336,
+        5870,
+        19240,
+        14603,
+        44849,
+        12805,
+        35,
+        25171,
+        337,
+        9947,
+        38444,
+        45909,
+        317,
+        50035,
+        2043
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0003"
+    }
+}

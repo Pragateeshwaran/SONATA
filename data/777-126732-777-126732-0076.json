@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0076.flac",
+    "text": "I WISH HE HAD NEVER BEEN TO SCHOOL MISSUS VERLOC BEGAN AGAIN BRUSQUELY",
+    "tokens": [
+        40,
+        370,
+        18422,
+        11179,
+        367,
+        2885,
+        33602,
+        9348,
+        1677,
+        5390,
+        35883,
+        49684,
+        2937,
+        33310,
+        29701,
+        347,
+        7156,
+        1565,
+        36218,
+        1268,
+        11177,
+        2937,
+        10917,
+        30943
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0076"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0024.flac",
+    "text": "A REGIMENT WAS SENT TO THE ATTACK IT WAS JIM'S REGIMENT",
+    "tokens": [
+        32,
+        23337,
+        3955,
+        3525,
+        21725,
+        311,
+        3525,
+        5390,
+        3336,
+        26195,
+        8120,
+        7283,
+        21725,
+        449,
+        3955,
+        6,
+        50,
+        23337,
+        3955,
+        3525
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64038",
+        "file_id": "5694-64038-0024"
+    }
+}

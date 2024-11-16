@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0020.flac",
+    "text": "STRAIN AND BOTTLE AND PUT IN ICE BOX SHAKE BEFORE USING EACH TIME",
+    "tokens": [
+        2257,
+        3861,
+        1268,
+        5357,
+        347,
+        29089,
+        2538,
+        5357,
+        350,
+        3843,
+        3268,
+        23358,
+        45216,
+        25630,
+        7336,
+        38331,
+        1294,
+        2751,
+        412,
+        16219,
+        20460
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "129742",
+        "file_id": "652-129742-0020"
+    }
+}

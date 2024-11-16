@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0018.flac",
+    "text": "HAVE YOU EVER BEEN IN THAT THAT PLACE I WAS IN LAST NIGHT ASKED KIRKLAND",
+    "tokens": [
+        7801,
+        6089,
+        7013,
+        20498,
+        9348,
+        1677,
+        3268,
+        14603,
+        14603,
+        9297,
+        11598,
+        314,
+        21725,
+        3268,
+        41894,
+        37707,
+        7054,
+        42,
+        1961,
+        509,
+        4663,
+        42,
+        28182
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0018"
+    }
+}

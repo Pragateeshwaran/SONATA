@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0025.flac",
+    "text": "IT IS OFTEN THE UNGRATEFUL TASK OF A FRIEND TO BE TROUBLESOME SOMETIMES UNMANNERLY",
+    "tokens": [
+        2043,
+        3180,
+        3963,
+        51,
+        1677,
+        3336,
+        4725,
+        10761,
+        6158,
+        46476,
+        309,
+        1921,
+        42,
+        3963,
+        317,
+        48167,
+        10619,
+        5390,
+        9348,
+        7579,
+        2606,
+        9148,
+        1546,
+        13649,
+        42121,
+        2767,
+        3955,
+        1546,
+        4725,
+        10725,
+        21479,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "23268",
+        "file_id": "3536-23268-0025"
+    }
+}

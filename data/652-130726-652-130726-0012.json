@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0012.flac",
+    "text": "IN EITHER OF THESE RESTAURANTS YOU WILL BE SERVED WITH THE BEST THE MARKET AFFORDS COOKED THE RIGHT WAY",
+    "tokens": [
+        1268,
+        412,
+        10554,
+        1137,
+        3963,
+        48947,
+        15731,
+        5603,
+        4261,
+        1565,
+        4694,
+        7013,
+        17682,
+        9348,
+        42887,
+        1961,
+        13315,
+        3336,
+        38502,
+        3336,
+        39641,
+        2767,
+        317,
+        5777,
+        1581,
+        5258,
+        327,
+        15308,
+        1961,
+        3336,
+        33621,
+        34882
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130726",
+        "file_id": "652-130726-0012"
+    }
+}

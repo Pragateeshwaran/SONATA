@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0018.flac",
+    "text": "HE WAS WISE IN HIS OWN CONCEIT",
+    "tokens": [
+        13909,
+        21725,
+        370,
+        24352,
+        3268,
+        33700,
+        47672,
+        7102,
+        5222,
+        2043
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0018"
+    }
+}

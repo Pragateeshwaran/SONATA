@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0015.flac",
+    "text": "OTTO WINKED AT ME",
+    "tokens": [
+        2394,
+        10468,
+        370,
+        17248,
+        1961,
+        5161,
+        11948
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0015"
+    }
+}

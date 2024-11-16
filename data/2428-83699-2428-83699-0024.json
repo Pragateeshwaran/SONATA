@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0024.flac",
+    "text": "I WAS CHILLED TO THE BONE WET TIRED HUNGRY",
+    "tokens": [
+        40,
+        21725,
+        5870,
+        8267,
+        1961,
+        5390,
+        3336,
+        347,
+        11651,
+        370,
+        2767,
+        309,
+        37819,
+        41041,
+        10761,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0024"
+    }
+}

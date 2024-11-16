@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0023.flac",
+    "text": "I HAVE THOUGHT ABOUT IT UNTIL I AM WORN OUT",
+    "tokens": [
+        40,
+        21515,
+        2320,
+        2606,
+        38,
+        6535,
+        33478,
+        7283,
+        4725,
+        51,
+        4146,
+        314,
+        3001,
+        21881,
+        45,
+        16289
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0023"
+    }
+}

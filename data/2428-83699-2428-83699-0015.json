@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0015.flac",
+    "text": "HE WAS IMPERVIOUS TO REASON",
+    "tokens": [
+        13909,
+        21725,
+        30023,
+        1137,
+        12861,
+        20958,
+        5390,
+        4526,
+        36033
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0015"
+    }
+}

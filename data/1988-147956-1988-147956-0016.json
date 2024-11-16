@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0016.flac",
+    "text": "AT THAT MOMENT THE FATHER CAME OUT OF THE HOLE IN THE BANK",
+    "tokens": [
+        1404,
+        14603,
+        337,
+        2662,
+        3525,
+        3336,
+        376,
+        45226,
+        327,
+        10067,
+        16289,
+        3963,
+        3336,
+        40115,
+        2538,
+        3268,
+        3336,
+        347,
+        15154
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0016"
+    }
+}

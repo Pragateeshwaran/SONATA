@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0040.flac",
+    "text": "IN OLDEN DAYS THEY WOULD HAVE SAID STRUCK BY A BOLT FROM HEAVEN",
+    "tokens": [
+        1268,
+        440,
+        11163,
+        1677,
+        24644,
+        50,
+        33302,
+        370,
+        24010,
+        21515,
+        14719,
+        2389,
+        19269,
+        16696,
+        11050,
+        317,
+        347,
+        3535,
+        51,
+        16034,
+        11179,
+        10116,
+        1677
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0040"
+    }
+}

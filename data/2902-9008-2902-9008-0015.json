@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0015.flac",
+    "text": "HIS EXCELLENCY MADAM THE PREFECT",
+    "tokens": [
+        39,
+        1797,
+        7788,
+        5222,
+        3069,
+        45155,
+        45878,
+        2390,
+        3336,
+        22814,
+        37,
+        9782
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9008",
+        "file_id": "2902-9008-0015"
+    }
+}

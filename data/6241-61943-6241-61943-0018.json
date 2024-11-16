@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0018.flac",
+    "text": "NOW HARRY SAID MY UNCLE RUBBING HIS HANDS AN GOES WELL THE WORSE DIFFICULTY IS NOW OVER",
+    "tokens": [
+        45669,
+        43638,
+        18276,
+        14719,
+        2389,
+        17615,
+        4725,
+        29931,
+        371,
+        10526,
+        33,
+        2751,
+        33700,
+        367,
+        1565,
+        5258,
+        3537,
+        10351,
+        1546,
+        12887,
+        3069,
+        3336,
+        21881,
+        5188,
+        360,
+        29267,
+        2149,
+        6239,
+        9936,
+        3180,
+        20229,
+        28729
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0018"
+    }
+}

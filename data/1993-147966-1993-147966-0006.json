@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147966\\1993-147966-0006.flac",
+    "text": "YOU'VE GOT A BIRTHDAY PRESENT THIS TIME JIM AND NO MISTAKE",
+    "tokens": [
+        36981,
+        6,
+        6089,
+        41725,
+        317,
+        347,
+        4663,
+        4221,
+        26442,
+        32552,
+        3525,
+        12680,
+        20460,
+        449,
+        3955,
+        5357,
+        8005,
+        50029,
+        5603,
+        7336
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147966",
+        "file_id": "1993-147966-0006"
+    }
+}

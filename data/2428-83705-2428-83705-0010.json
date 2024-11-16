@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0010.flac",
+    "text": "FROM A COUSIN OF OURS WHO'S IN THAT LINE",
+    "tokens": [
+        10913,
+        2662,
+        317,
+        327,
+        20958,
+        1268,
+        3963,
+        30229,
+        50,
+        19494,
+        6,
+        50,
+        3268,
+        14603,
+        48920
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0010"
+    }
+}

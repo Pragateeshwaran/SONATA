@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0006.flac",
+    "text": "THE ACCIDENT IN QUESTION OCCURRED UPON THE SUNDAY EVENING",
+    "tokens": [
+        10970,
+        15859,
+        25256,
+        3268,
+        43658,
+        2849,
+        440,
+        4093,
+        4261,
+        22083,
+        15958,
+        1340,
+        3336,
+        35329,
+        26442,
+        45886,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0006"
+    }
+}

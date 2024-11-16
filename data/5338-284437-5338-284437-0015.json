@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0015.flac",
+    "text": "PERHAPS YOU ARE TRYING TO RIDICULE ME SHE CONTINUED REGARDING THE SAILOR'S FACE CLOSELY",
+    "tokens": [
+        18973,
+        39,
+        44580,
+        7013,
+        15986,
+        7579,
+        45761,
+        5390,
+        371,
+        2389,
+        2149,
+        24212,
+        11948,
+        48052,
+        43659,
+        52,
+        1961,
+        23337,
+        9795,
+        2751,
+        3336,
+        14719,
+        4146,
+        1581,
+        6,
+        50,
+        46587,
+        7852,
+        2640,
+        30943
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0015"
+    }
+}

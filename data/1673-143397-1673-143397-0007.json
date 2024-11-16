@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0007.flac",
+    "text": "EXTERMINATE WITH ME THE HERETICS AND WITH YOU I WILL EXTERMINATE THE PERSIANS",
+    "tokens": [
+        6369,
+        5781,
+        23678,
+        6158,
+        13315,
+        11948,
+        3336,
+        24906,
+        2767,
+        19505,
+        5357,
+        13315,
+        7013,
+        314,
+        17682,
+        7788,
+        5781,
+        23678,
+        6158,
+        3336,
+        350,
+        4877,
+        40,
+        15037
+    ],
+    "metadata": {
+        "speaker_id": "1673",
+        "chapter_id": "143397",
+        "file_id": "1673-143397-0007"
+    }
+}

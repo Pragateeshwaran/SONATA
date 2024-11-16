@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0023.flac",
+    "text": "MY CHILD MY CHILD MURMURED LADY HELENA THE SAVAGES DID NOT KILL YOU",
+    "tokens": [
+        26708,
+        5870,
+        26761,
+        17615,
+        5870,
+        26761,
+        337,
+        4261,
+        44,
+        4261,
+        1961,
+        406,
+        2885,
+        56,
+        36255,
+        45510,
+        3336,
+        311,
+        10116,
+        25552,
+        35697,
+        5626,
+        45257,
+        7013
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0023"
+    }
+}

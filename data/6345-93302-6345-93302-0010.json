@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0010.flac",
+    "text": "THE KEEN WIND THRUST ITSELF EVEN INSIDE THE HIGH COLLAR OF HER JACKET",
+    "tokens": [
+        10970,
+        47134,
+        1677,
+        370,
+        12115,
+        35383,
+        7759,
+        42437,
+        37738,
+        45886,
+        29194,
+        14114,
+        3336,
+        34677,
+        7375,
+        3069,
+        1503,
+        3963,
+        24906,
+        45586,
+        2767
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93302",
+        "file_id": "6345-93302-0010"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0008.flac",
+    "text": "THE MEN WERE AS HANDSOME AS THE WOMEN BEAUTIFUL",
+    "tokens": [
+        10970,
+        41597,
+        370,
+        9338,
+        7054,
+        367,
+        1565,
+        5258,
+        13649,
+        7054,
+        3336,
+        45386,
+        1677,
+        9348,
+        39371,
+        5064,
+        6239
+    ],
+    "metadata": {
+        "speaker_id": "2412",
+        "chapter_id": "153954",
+        "file_id": "2412-153954-0008"
+    }
+}

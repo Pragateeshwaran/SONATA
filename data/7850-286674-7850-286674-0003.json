@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0003.flac",
+    "text": "THEY ALWAYS ATE PLAIN FOOD AND PLENTY OF IT AND THEY NEVER ATE BETWEEN MEALS",
+    "tokens": [
+        10970,
+        56,
+        49576,
+        5161,
+        36,
+        9297,
+        29833,
+        11895,
+        3727,
+        5357,
+        9297,
+        3525,
+        56,
+        3963,
+        7283,
+        5357,
+        33302,
+        33602,
+        5161,
+        36,
+        38651,
+        8845,
+        1677,
+        11948,
+        23333
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "286674",
+        "file_id": "7850-286674-0003"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0016.flac",
+    "text": "HE'S ANOTHER WHO'S AWFULLY KEEN ABOUT HER LET ME INTRODUCE YOU",
+    "tokens": [
+        13909,
+        6,
+        50,
+        3537,
+        31858,
+        19494,
+        6,
+        50,
+        14356,
+        37,
+        9994,
+        56,
+        47134,
+        1677,
+        33478,
+        24906,
+        37994,
+        11948,
+        3268,
+        5446,
+        3727,
+        52,
+        5222,
+        7013
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0016"
+    }
+}

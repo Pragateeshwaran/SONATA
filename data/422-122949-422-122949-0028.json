@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\422\\122949\\422-122949-0028.flac",
+    "text": "AND WHOEVER THOU ART WHAT IS IT THAT NOW PLEASES THEE",
+    "tokens": [
+        6981,
+        19494,
+        36,
+        5959,
+        2320,
+        2606,
+        24278,
+        25003,
+        3180,
+        7283,
+        14603,
+        20229,
+        350,
+        2538,
+        1921,
+        1546,
+        3336,
+        36
+    ],
+    "metadata": {
+        "speaker_id": "422",
+        "chapter_id": "122949",
+        "file_id": "422-122949-0028"
+    }
+}

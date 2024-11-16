@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0006.flac",
+    "text": "SAYS HE I WOULD NOT TRUST A SECESH ON HIS WORD OATH OR BOND MARCH I SAY",
+    "tokens": [
+        4090,
+        16309,
+        11179,
+        314,
+        370,
+        24010,
+        5626,
+        7579,
+        7759,
+        317,
+        10729,
+        44011,
+        6177,
+        33700,
+        370,
+        12532,
+        440,
+        12599,
+        6375,
+        347,
+        18672,
+        18805,
+        3398,
+        314,
+        45687
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0006"
+    }
+}

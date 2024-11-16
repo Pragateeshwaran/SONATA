@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0002.flac",
+    "text": "OH YOU SIMPLETON SAID SHE THEN WE MUST ALL FOUR DIE OF HUNGER YOU HAD BETTER PLANE THE COFFINS FOR US",
+    "tokens": [
+        12096,
+        7013,
+        23749,
+        16437,
+        11357,
+        14719,
+        2389,
+        48052,
+        42243,
+        12887,
+        17191,
+        11096,
+        376,
+        11698,
+        360,
+        10008,
+        3963,
+        41041,
+        30373,
+        7013,
+        367,
+        2885,
+        38651,
+        5781,
+        9297,
+        30525,
+        3336,
+        7375,
+        5777,
+        20913,
+        7473,
+        1294
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110523",
+        "file_id": "7976-110523-0002"
+    }
+}

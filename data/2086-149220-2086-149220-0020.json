@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0020.flac",
+    "text": "I TURN UP THE EARTH BY WAY OF PASTIME",
+    "tokens": [
+        40,
+        309,
+        27064,
+        15958,
+        3336,
+        31834,
+        4221,
+        11050,
+        34882,
+        3963,
+        350,
+        11262,
+        12789
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0020"
+    }
+}

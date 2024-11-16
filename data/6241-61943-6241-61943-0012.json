@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0012.flac",
+    "text": "THE FACT WAS THAT SCARCELY ANY ONE OF THEM BUT EXPECTED SOME GOODS BY THE PERIODICAL VESSEL",
+    "tokens": [
+        10970,
+        376,
+        10659,
+        21725,
+        14603,
+        6374,
+        25793,
+        30943,
+        15529,
+        16329,
+        3963,
+        44788,
+        21728,
+        25703,
+        9782,
+        1961,
+        41670,
+        21090,
+        50,
+        11050,
+        3336,
+        19878,
+        40,
+        3727,
+        20151,
+        569,
+        7597,
+        3698
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0012"
+    }
+}

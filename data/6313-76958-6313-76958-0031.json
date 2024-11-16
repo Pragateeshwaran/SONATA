@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0031.flac",
+    "text": "WE HAD BETTER START THE DRIVE THIS MORNING",
+    "tokens": [
+        8845,
+        367,
+        2885,
+        38651,
+        5781,
+        33303,
+        3336,
+        10560,
+        9306,
+        12680,
+        35208,
+        15871
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0031"
+    }
+}

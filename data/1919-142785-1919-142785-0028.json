@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0028.flac",
+    "text": "BOIL THEM BEFORE THEY ARE PUT INTO THE SOUP OR OTHER DISH THEY MAY BE INTENDED FOR",
+    "tokens": [
+        8202,
+        4146,
+        44788,
+        38331,
+        33302,
+        15986,
+        350,
+        3843,
+        39319,
+        3336,
+        311,
+        27755,
+        6375,
+        25401,
+        13954,
+        39,
+        33302,
+        26720,
+        9348,
+        17828,
+        49361,
+        7473
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0028"
+    }
+}

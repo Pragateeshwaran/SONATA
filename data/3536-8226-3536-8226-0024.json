@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0024.flac",
+    "text": "I DO NOT SUPPOSE THAT ANYBODY WILL QUESTION MY RIGHT TO HAVE THE CARE OF MY OWN CHILD SAID TREVELYAN",
+    "tokens": [
+        40,
+        8410,
+        5626,
+        19549,
+        48933,
+        14603,
+        15529,
+        33,
+        33076,
+        17682,
+        43658,
+        2849,
+        17615,
+        33621,
+        5390,
+        21515,
+        3336,
+        47342,
+        3963,
+        17615,
+        47672,
+        5870,
+        26761,
+        14719,
+        2389,
+        43236,
+        18697,
+        56,
+        1565
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0024"
+    }
+}

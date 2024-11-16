@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0013.flac",
+    "text": "I SAW A FEW SHEEP WITH ROUNDED NOSES AND ENORMOUS TAILS",
+    "tokens": [
+        40,
+        311,
+        12298,
+        317,
+        376,
+        6217,
+        6006,
+        35238,
+        13315,
+        371,
+        15919,
+        1961,
+        399,
+        2640,
+        1546,
+        5357,
+        12964,
+        1581,
+        44,
+        20958,
+        21664,
+        45484
+    ],
+    "metadata": {
+        "speaker_id": "2412",
+        "chapter_id": "153954",
+        "file_id": "2412-153954-0013"
+    }
+}

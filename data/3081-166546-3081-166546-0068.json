@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0068.flac",
+    "text": "BUT THEY'LL PUT A MAN ON FOR YOU",
+    "tokens": [
+        47526,
+        33302,
+        6,
+        3069,
+        350,
+        3843,
+        317,
+        17254,
+        6177,
+        7473,
+        7013
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0068"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0026.flac",
+    "text": "ROSECRANS PROTESTED IT WAS IN VAIN",
+    "tokens": [
+        49,
+        2640,
+        2943,
+        49,
+        15037,
+        48006,
+        6465,
+        1961,
+        7283,
+        21725,
+        3268,
+        13753,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0026"
+    }
+}

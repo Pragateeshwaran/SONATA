@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0008.flac",
+    "text": "THE OUTSIDE DID NOT DEPEND ON THE INTERIOR",
+    "tokens": [
+        10970,
+        16289,
+        50,
+        14114,
+        35697,
+        5626,
+        5550,
+        47,
+        10619,
+        6177,
+        3336,
+        23255,
+        41254
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34615",
+        "file_id": "5895-34615-0008"
+    }
+}

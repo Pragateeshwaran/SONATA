@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0012.flac",
+    "text": "THIS HAS INDUCED SOME EDITORS OF THE VITA NUOVA TO EXPLAIN THE TITLE AS MEANING EARLY LIFE",
+    "tokens": [
+        43559,
+        33930,
+        24413,
+        9598,
+        1961,
+        41670,
+        48483,
+        20673,
+        3963,
+        3336,
+        569,
+        2043,
+        32,
+        399,
+        52,
+        41576,
+        5390,
+        7788,
+        6489,
+        29833,
+        3336,
+        37977,
+        2538,
+        7054,
+        11948,
+        1565,
+        2751,
+        31834,
+        11319,
+        36821
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302196",
+        "file_id": "8842-302196-0012"
+    }
+}

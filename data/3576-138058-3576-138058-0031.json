@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0031.flac",
+    "text": "WHAT ARE YOU TALKING ABOUT MAN",
+    "tokens": [
+        32971,
+        15986,
+        7013,
+        309,
+        28082,
+        2751,
+        33478,
+        17254
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0031"
+    }
+}

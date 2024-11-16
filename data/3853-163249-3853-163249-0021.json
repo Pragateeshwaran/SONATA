@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0021.flac",
+    "text": "I KNEW YOU WOULD GO I SAW YOU GETTING READY AND I MADE UP MY MIND TO FOLLOW",
+    "tokens": [
+        40,
+        509,
+        13965,
+        7013,
+        370,
+        24010,
+        10351,
+        314,
+        311,
+        12298,
+        7013,
+        17151,
+        48996,
+        20832,
+        56,
+        5357,
+        314,
+        337,
+        19266,
+        15958,
+        17615,
+        337,
+        12115,
+        5390,
+        11895,
+        44765
+    ],
+    "metadata": {
+        "speaker_id": "3853",
+        "chapter_id": "163249",
+        "file_id": "3853-163249-0021"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0015.flac",
+    "text": "NIECE I COMMAND YOU NOT TO STIR OUT OF THIS ROOM THIS EVENING",
+    "tokens": [
+        22125,
+        2943,
+        36,
+        314,
+        22240,
+        6981,
+        7013,
+        5626,
+        5390,
+        3563,
+        4663,
+        16289,
+        3963,
+        12680,
+        15107,
+        2662,
+        12680,
+        45886,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "23268",
+        "file_id": "3536-23268-0015"
+    }
+}

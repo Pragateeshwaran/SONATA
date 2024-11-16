@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0015.flac",
+    "text": "AND THEN HE TALKED OF HER MOTHER AND HE MADE HER PRAY",
+    "tokens": [
+        6981,
+        42243,
+        11179,
+        309,
+        28082,
+        1961,
+        3963,
+        24906,
+        337,
+        31858,
+        5357,
+        11179,
+        337,
+        19266,
+        24906,
+        350,
+        30631
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "168635",
+        "file_id": "174-168635-0015"
+    }
+}

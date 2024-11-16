@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0001.flac",
+    "text": "BUT IN LESS THAN FIVE MINUTES THE STAIRCASE GROANED BENEATH AN EXTRAORDINARY WEIGHT",
+    "tokens": [
+        47526,
+        3268,
+        406,
+        7597,
+        2320,
+        1565,
+        376,
+        9306,
+        20625,
+        3843,
+        1546,
+        3336,
+        3563,
+        42149,
+        34,
+        11159,
+        10863,
+        46,
+        1565,
+        1961,
+        347,
+        39267,
+        12599,
+        3537,
+        27489,
+        3861,
+        12532,
+        1268,
+        13153,
+        12887,
+        9947
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0001"
+    }
+}

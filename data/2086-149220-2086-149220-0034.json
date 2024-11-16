@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0034.flac",
+    "text": "IF THE ORIGINAL IS STILL IN THE WORLD I THINK HE MIGHT DEFY THE SUN TO MAKE HIM LOOK STERN AND HARD",
+    "tokens": [
+        5064,
+        3336,
+        43901,
+        17961,
+        3180,
+        3563,
+        8267,
+        3268,
+        3336,
+        29564,
+        314,
+        2320,
+        17248,
+        11179,
+        337,
+        9947,
+        23449,
+        56,
+        3336,
+        35329,
+        5390,
+        39134,
+        45909,
+        48045,
+        3563,
+        28778,
+        5357,
+        367,
+        9795
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0034"
+    }
+}

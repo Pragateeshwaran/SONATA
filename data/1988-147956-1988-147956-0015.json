@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0015.flac",
+    "text": "HE STRUCK AMBROSCH ON THE BACK AND THE BOY SMILED KNOWINGLY",
+    "tokens": [
+        13909,
+        19269,
+        16696,
+        3001,
+        11473,
+        2640,
+        3398,
+        6177,
+        3336,
+        28767,
+        5357,
+        3336,
+        16494,
+        56,
+        9447,
+        4146,
+        1961,
+        35876,
+        2751,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0015"
+    }
+}

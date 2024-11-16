@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0000.flac",
+    "text": "ONE WHO WRITES OF SUCH AN ERA LABOURS UNDER A TROUBLESOME DISADVANTAGE",
+    "tokens": [
+        11651,
+        19494,
+        11342,
+        2043,
+        1546,
+        3963,
+        13558,
+        3398,
+        3537,
+        18802,
+        406,
+        6242,
+        2606,
+        6998,
+        35219,
+        317,
+        7579,
+        2606,
+        9148,
+        1546,
+        13649,
+        13954,
+        2885,
+        53,
+        8643,
+        11879
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9006",
+        "file_id": "2902-9006-0000"
+    }
+}

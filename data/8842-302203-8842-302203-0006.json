@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0006.flac",
+    "text": "THEN SAW I MANY BROKEN HINTED SIGHTS IN THE UNCERTAIN STATE I STEPP'D INTO",
+    "tokens": [
+        4221,
+        1677,
+        311,
+        12298,
+        314,
+        17254,
+        56,
+        11177,
+        11380,
+        1677,
+        367,
+        12394,
+        1961,
+        311,
+        34874,
+        3268,
+        3336,
+        39151,
+        1137,
+        30339,
+        35454,
+        314,
+        49154,
+        47,
+        6,
+        35,
+        39319
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302203",
+        "file_id": "8842-302203-0006"
+    }
+}

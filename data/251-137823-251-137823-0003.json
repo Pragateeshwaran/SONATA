@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0003.flac",
+    "text": "ANOTHER ENGINEER RUSHED TOWARD THE DOOR TO SEE WHAT WAS HAPPENING OUTSIDE",
+    "tokens": [
+        1565,
+        31858,
+        36924,
+        8881,
+        1137,
+        371,
+        27143,
+        1961,
+        309,
+        3913,
+        9795,
+        3336,
+        8410,
+        1581,
+        5390,
+        31107,
+        25003,
+        21725,
+        367,
+        24805,
+        1677,
+        2751,
+        16289,
+        50,
+        14114
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0003"
+    }
+}

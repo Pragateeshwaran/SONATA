@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0027.flac",
+    "text": "HOWEVER A LITTLE LATER WE HAD A COMFORTABLE CHAT",
+    "tokens": [
+        37181,
+        36,
+        5959,
+        317,
+        406,
+        22470,
+        2538,
+        406,
+        23261,
+        12887,
+        367,
+        2885,
+        317,
+        9440,
+        13775,
+        38148,
+        5870,
+        1404
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0027"
+    }
+}

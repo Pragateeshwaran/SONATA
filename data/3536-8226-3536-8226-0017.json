@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0017.flac",
+    "text": "THEN BOZZLE CAME FORWARD AND INTRODUCED HIS WIFE",
+    "tokens": [
+        4221,
+        1677,
+        16494,
+        30148,
+        2538,
+        327,
+        10067,
+        7473,
+        39743,
+        5357,
+        3268,
+        5446,
+        3727,
+        9598,
+        1961,
+        33700,
+        370,
+        29150
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0017"
+    }
+}

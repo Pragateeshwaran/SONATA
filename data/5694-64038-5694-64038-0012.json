@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0012.flac",
+    "text": "THE POOR FELLOW STAYED IN THAT WELL ALL NIGHT",
+    "tokens": [
+        10970,
+        19922,
+        1581,
+        18630,
+        44765,
+        3563,
+        4792,
+        1961,
+        3268,
+        14603,
+        12887,
+        3069,
+        11096,
+        37707
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64038",
+        "file_id": "5694-64038-0012"
+    }
+}

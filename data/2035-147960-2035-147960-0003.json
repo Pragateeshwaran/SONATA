@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0003.flac",
+    "text": "THERE HAD BEEN ANOTHER BLACK FROST THE NIGHT BEFORE AND THE AIR WAS CLEAR AND HEADY AS WINE",
+    "tokens": [
+        4221,
+        9338,
+        367,
+        2885,
+        9348,
+        1677,
+        3537,
+        31858,
+        31963,
+        8782,
+        10892,
+        3336,
+        37707,
+        38331,
+        5357,
+        3336,
+        31600,
+        21725,
+        30301,
+        1503,
+        5357,
+        39837,
+        56,
+        7054,
+        370,
+        8881
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0003"
+    }
+}

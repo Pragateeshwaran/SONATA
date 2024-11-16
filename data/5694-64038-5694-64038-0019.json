@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0019.flac",
+    "text": "HE WANTED TO GO BY HOME AND TELL HIS WIFE AND CHILDREN GOOD BYE AND TO GET HIS CLOTHES IT WAS NO GO",
+    "tokens": [
+        13909,
+        41300,
+        1961,
+        5390,
+        10351,
+        11050,
+        41779,
+        5357,
+        13368,
+        3069,
+        33700,
+        370,
+        29150,
+        5357,
+        5870,
+        4146,
+        7707,
+        1677,
+        21090,
+        11050,
+        36,
+        5357,
+        5390,
+        17151,
+        33700,
+        7852,
+        26946,
+        1546,
+        7283,
+        21725,
+        8005,
+        10351
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64038",
+        "file_id": "5694-64038-0019"
+    }
+}

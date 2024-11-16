@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0004.flac",
+    "text": "NEVER HAD ANY ACT SEEMED SO IMPOSSIBLE",
+    "tokens": [
+        12161,
+        5959,
+        367,
+        2885,
+        15529,
+        11741,
+        7946,
+        3620,
+        1961,
+        12809,
+        30023,
+        18420,
+        34563
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0004"
+    }
+}

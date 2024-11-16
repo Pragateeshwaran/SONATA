@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0022.flac",
+    "text": "THERE WAS AN EXTRAORDINARY FORCE OF SUGGESTION IN THIS POSTURING",
+    "tokens": [
+        4221,
+        9338,
+        21725,
+        3537,
+        27489,
+        3861,
+        12532,
+        1268,
+        13153,
+        7473,
+        5222,
+        3963,
+        311,
+        7340,
+        38,
+        6465,
+        2849,
+        3268,
+        12680,
+        24582,
+        4261,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0022"
+    }
+}

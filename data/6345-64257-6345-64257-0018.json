@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0018.flac",
+    "text": "SHALL I POUR OUT MY SOUL INTO THE EAR OF A MIST A FUME FROM MY OWN BRAIN",
+    "tokens": [
+        9693,
+        7036,
+        314,
+        350,
+        11698,
+        16289,
+        17615,
+        30065,
+        43,
+        39319,
+        3336,
+        31834,
+        3963,
+        317,
+        337,
+        8808,
+        317,
+        376,
+        38340,
+        16034,
+        17615,
+        47672,
+        39947,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "64257",
+        "file_id": "6345-64257-0018"
+    }
+}

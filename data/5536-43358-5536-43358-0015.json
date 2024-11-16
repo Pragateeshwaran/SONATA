@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0015.flac",
+    "text": "NOTHING OF THE MARVELOUS COULD ASTONISH HIM AS THAT A BEAST SHOULD SPEAK OR THE SUN STAND STILL",
+    "tokens": [
+        11929,
+        39,
+        2751,
+        3963,
+        3336,
+        18805,
+        18697,
+        20958,
+        327,
+        24010,
+        29273,
+        1340,
+        18422,
+        45909,
+        7054,
+        14603,
+        317,
+        9348,
+        11262,
+        40312,
+        6226,
+        36,
+        10206,
+        6375,
+        3336,
+        35329,
+        49053,
+        3563,
+        8267
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43358",
+        "file_id": "5536-43358-0015"
+    }
+}

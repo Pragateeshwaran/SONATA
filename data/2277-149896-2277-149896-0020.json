@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0020.flac",
+    "text": "THEN HE SAT DOWN IN HIS CHAIR AND GAZED WITHOUT SEEING CONTEMPLATING THE RESULT OF HIS WORK",
+    "tokens": [
+        4221,
+        1677,
+        11179,
+        29020,
+        30320,
+        3268,
+        33700,
+        5870,
+        42149,
+        5357,
+        14545,
+        57,
+        1961,
+        42881,
+        31107,
+        2751,
+        22904,
+        3620,
+        6489,
+        33881,
+        3336,
+        15731,
+        16724,
+        3963,
+        33700,
+        30936
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0020"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0021.flac",
+    "text": "THEN I LOOK PERHAPS LIKE WHAT I AM",
+    "tokens": [
+        4221,
+        1677,
+        314,
+        48045,
+        19878,
+        39,
+        44580,
+        34178,
+        25003,
+        314,
+        3001
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0021"
+    }
+}

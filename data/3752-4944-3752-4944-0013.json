@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0013.flac",
+    "text": "IN FACT THE RINGLEADER JOHN REX GAVE ME HIS CONFESSION AND I SENT IT TO THE BISHOP",
+    "tokens": [
+        1268,
+        376,
+        10659,
+        3336,
+        371,
+        2751,
+        2538,
+        2885,
+        1137,
+        39263,
+        4526,
+        55,
+        14545,
+        6089,
+        11948,
+        33700,
+        7102,
+        37,
+        47621,
+        5357,
+        314,
+        311,
+        3525,
+        7283,
+        5390,
+        3336,
+        347,
+        18422,
+        3185
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0013"
+    }
+}

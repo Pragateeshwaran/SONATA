@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0008.flac",
+    "text": "THEN ALL THE OTHER BIRDS CHIRPED EAGERLY YES YES LET US ASK HER TO TEACH US",
+    "tokens": [
+        4221,
+        1677,
+        11096,
+        3336,
+        25401,
+        347,
+        4663,
+        5258,
+        5870,
+        4663,
+        47,
+        1961,
+        412,
+        4760,
+        1137,
+        11319,
+        21560,
+        21560,
+        37994,
+        1294,
+        7054,
+        42,
+        24906,
+        5390,
+        13368,
+        16219,
+        1294
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "281318",
+        "file_id": "7850-281318-0008"
+    }
+}

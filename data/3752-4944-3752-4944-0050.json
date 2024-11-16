@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0050.flac",
+    "text": "YOU'RE A DISMISSED OFFICER OF THE GOVERNMENT SIR",
+    "tokens": [
+        36981,
+        6,
+        2200,
+        317,
+        13954,
+        44,
+        16744,
+        1961,
+        47601,
+        1137,
+        3963,
+        3336,
+        10351,
+        5959,
+        45,
+        10979,
+        311,
+        4663
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0050"
+    }
+}

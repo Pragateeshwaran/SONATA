@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0010.flac",
+    "text": "ON ALL SIDES WERE TO BE SEEN WHOLE SCHOOLS OF WHALES AND SHARKS",
+    "tokens": [
+        1340,
+        11096,
+        311,
+        42538,
+        370,
+        9338,
+        5390,
+        9348,
+        7946,
+        1677,
+        19494,
+        2538,
+        35883,
+        50,
+        3963,
+        7655,
+        1847,
+        1546,
+        5357,
+        6006,
+        14175,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0010"
+    }
+}

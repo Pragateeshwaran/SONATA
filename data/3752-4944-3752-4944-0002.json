@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0002.flac",
+    "text": "IN THE VALLEY OF THE SHADOW OF DEATH HE IS WITH US",
+    "tokens": [
+        1268,
+        3336,
+        26173,
+        25173,
+        3963,
+        3336,
+        6006,
+        2885,
+        3913,
+        3963,
+        5550,
+        12599,
+        11179,
+        3180,
+        13315,
+        1294
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0002"
+    }
+}

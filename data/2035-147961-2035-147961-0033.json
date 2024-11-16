@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0033.flac",
+    "text": "THEY WERE RUN OUT OF THEIR VILLAGE",
+    "tokens": [
+        10970,
+        56,
+        370,
+        9338,
+        32494,
+        16289,
+        3963,
+        47278,
+        569,
+        8267,
+        11879
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0033"
+    }
+}

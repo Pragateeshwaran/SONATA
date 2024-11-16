@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0004.flac",
+    "text": "D'AVRIGNY RUSHED TOWARDS THE OLD MAN AND MADE HIM INHALE A POWERFUL RESTORATIVE",
+    "tokens": [
+        35,
+        6,
+        10116,
+        49,
+        3528,
+        12805,
+        371,
+        27143,
+        1961,
+        309,
+        3913,
+        48294,
+        3336,
+        440,
+        11163,
+        17254,
+        5357,
+        337,
+        19266,
+        45909,
+        3268,
+        39,
+        21358,
+        317,
+        40295,
+        46476,
+        30617,
+        1581,
+        37045
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0004"
+    }
+}

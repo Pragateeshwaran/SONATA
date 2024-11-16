@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0009.flac",
+    "text": "THE FAMILY HAD BEEN LIVING ON CORNCAKES AND SORGHUM MOLASSES FOR THREE DAYS",
+    "tokens": [
+        10970,
+        42129,
+        33340,
+        367,
+        2885,
+        9348,
+        1677,
+        406,
+        3824,
+        2751,
+        6177,
+        23929,
+        7792,
+        10206,
+        1546,
+        5357,
+        311,
+        1581,
+        17511,
+        5883,
+        337,
+        3535,
+        10705,
+        1546,
+        7473,
+        48697,
+        24644,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0009"
+    }
+}

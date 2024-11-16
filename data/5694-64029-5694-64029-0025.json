@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0025.flac",
+    "text": "I THOUGHT IT HAD BEEN TORN FROM MY SHOULDER",
+    "tokens": [
+        40,
+        2320,
+        2606,
+        38,
+        6535,
+        7283,
+        367,
+        2885,
+        9348,
+        1677,
+        309,
+        30649,
+        16034,
+        17615,
+        40312,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0025"
+    }
+}

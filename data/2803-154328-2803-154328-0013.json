@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0013.flac",
+    "text": "LISTEN SAID HE MOTIONING THEM TO STOOP",
+    "tokens": [
+        45849,
+        1677,
+        14719,
+        2389,
+        11179,
+        42982,
+        2849,
+        2751,
+        44788,
+        5390,
+        3563,
+        46,
+        3185
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0013"
+    }
+}

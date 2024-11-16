@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0008.flac",
+    "text": "SHE ADDED LOOKING AT HIM SUSPICIOUSLY",
+    "tokens": [
+        9693,
+        36,
+        27841,
+        1961,
+        48045,
+        2751,
+        5161,
+        45909,
+        311,
+        2937,
+        47,
+        2149,
+        40,
+        2606,
+        8634,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275155",
+        "file_id": "8297-275155-0008"
+    }
+}

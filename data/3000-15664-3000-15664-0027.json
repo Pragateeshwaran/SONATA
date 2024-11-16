@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0027.flac",
+    "text": "THEIR LONG MASSIVE EARS GIVE THEM A VERY STRIKING APPEARANCE",
+    "tokens": [
+        10970,
+        4663,
+        44533,
+        337,
+        10705,
+        9306,
+        412,
+        27415,
+        402,
+        9306,
+        44788,
+        317,
+        29550,
+        3563,
+        7112,
+        37286,
+        3486,
+        11401,
+        1503,
+        19240
+    ],
+    "metadata": {
+        "speaker_id": "3000",
+        "chapter_id": "15664",
+        "file_id": "3000-15664-0027"
+    }
+}

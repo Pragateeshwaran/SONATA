@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0005.flac",
+    "text": "THE MAN SHRUGGED HIS BROAD SHOULDERS AND TURNED BACK INTO THE ARABESQUE CHAMBER",
+    "tokens": [
+        10970,
+        17254,
+        6006,
+        49,
+        7340,
+        38,
+        1961,
+        33700,
+        11177,
+        41048,
+        40312,
+        4877,
+        5357,
+        309,
+        27064,
+        1961,
+        28767,
+        39319,
+        3336,
+        317,
+        3861,
+        33,
+        1546,
+        48,
+        8924,
+        5870,
+        2390,
+        13246
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0005"
+    }
+}

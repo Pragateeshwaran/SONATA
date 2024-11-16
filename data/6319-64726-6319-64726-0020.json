@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0020.flac",
+    "text": "HE TURNED TO SHOW THEM THE CASTLE BUT BEHOLD",
+    "tokens": [
+        13909,
+        309,
+        27064,
+        1961,
+        5390,
+        37041,
+        44788,
+        3336,
+        327,
+        11262,
+        2538,
+        21728,
+        9348,
+        39,
+        15173
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "64726",
+        "file_id": "6319-64726-0020"
+    }
+}

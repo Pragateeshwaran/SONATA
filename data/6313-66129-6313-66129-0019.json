@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0019.flac",
+    "text": "A TEMPORARY CAMP WAS QUICKLY PITCHED",
+    "tokens": [
+        32,
+        309,
+        39494,
+        1581,
+        13153,
+        327,
+        23518,
+        21725,
+        19604,
+        11860,
+        11319,
+        350,
+        31949,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0019"
+    }
+}

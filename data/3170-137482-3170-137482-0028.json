@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0028.flac",
+    "text": "DELIGHTED WITH SUCH A FORTUNATE RESULT WE LAY DOWN AGAIN",
+    "tokens": [
+        35,
+        3698,
+        9947,
+        1961,
+        13315,
+        13558,
+        3398,
+        317,
+        7473,
+        51,
+        4944,
+        6158,
+        15731,
+        16724,
+        12887,
+        406,
+        4792,
+        30320,
+        36218,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "3170",
+        "chapter_id": "137482",
+        "file_id": "3170-137482-0028"
+    }
+}

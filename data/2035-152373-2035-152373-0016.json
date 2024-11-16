@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0016.flac",
+    "text": "THE TRIBUTE WAS AT THIS PERIOD ENORMOUS FIFTEEN THOUSAND HEAD OF CATTLE ANNUALLY",
+    "tokens": [
+        10970,
+        37679,
+        33,
+        37780,
+        21725,
+        5161,
+        12680,
+        19878,
+        40,
+        3727,
+        12964,
+        1581,
+        44,
+        20958,
+        376,
+        5064,
+        9328,
+        1677,
+        2320,
+        20958,
+        6981,
+        39837,
+        3963,
+        327,
+        35455,
+        40126,
+        52,
+        19807
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "152373",
+        "file_id": "2035-152373-0016"
+    }
+}

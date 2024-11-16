@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0028.flac",
+    "text": "BUT NEITHER THE GLORIFIED WOODS ON THE ONE HAND NOR THE LAKE ON THE OTHER COULD AT FIRST HOLD THE EYE",
+    "tokens": [
+        47526,
+        10635,
+        10554,
+        1137,
+        3336,
+        10188,
+        1581,
+        28343,
+        370,
+        22808,
+        50,
+        6177,
+        3336,
+        16329,
+        367,
+        6981,
+        25273,
+        3336,
+        9131,
+        7336,
+        6177,
+        3336,
+        25401,
+        327,
+        24010,
+        5161,
+        31328,
+        367,
+        15173,
+        3336,
+        412,
+        48743
+    ],
+    "metadata": {
+        "speaker_id": "3000",
+        "chapter_id": "15664",
+        "file_id": "3000-15664-0028"
+    }
+}

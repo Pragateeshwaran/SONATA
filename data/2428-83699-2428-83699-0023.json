@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0023.flac",
+    "text": "I DID NOT ASK I WAS BEYOND IT",
+    "tokens": [
+        40,
+        35697,
+        5626,
+        7054,
+        42,
+        314,
+        21725,
+        9348,
+        56,
+        18672,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0023"
+    }
+}

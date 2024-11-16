@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0046.flac",
+    "text": "BEEN OVER THE GROUND STUDIED THE AFFAIR CAREFULLY",
+    "tokens": [
+        12473,
+        1677,
+        28729,
+        3336,
+        10863,
+        15919,
+        49348,
+        19767,
+        3336,
+        317,
+        5777,
+        42149,
+        47342,
+        37,
+        9994,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0046"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0008.flac",
+    "text": "ANY ANSWER I GUESS NOT",
+    "tokens": [
+        31827,
+        3537,
+        17887,
+        1137,
+        314,
+        19348,
+        7597,
+        5626
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0008"
+    }
+}

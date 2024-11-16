@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0000.flac",
+    "text": "THE LAST TWO DAYS OF THE VOYAGE BARTLEY FOUND ALMOST INTOLERABLE",
+    "tokens": [
+        10970,
+        41894,
+        35288,
+        24644,
+        50,
+        3963,
+        3336,
+        569,
+        21414,
+        11879,
+        42346,
+        25173,
+        376,
+        15919,
+        8355,
+        44,
+        10892,
+        17828,
+        3535,
+        1137,
+        17534
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0000"
+    }
+}

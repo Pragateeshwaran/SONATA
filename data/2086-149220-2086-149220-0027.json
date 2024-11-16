@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0027.flac",
+    "text": "HE EXHIBITED A DAGUERREOTYPE MINIATURE IN A MOROCCO CASE",
+    "tokens": [
+        13909,
+        7788,
+        39,
+        9865,
+        22061,
+        317,
+        360,
+        4760,
+        52,
+        1137,
+        2200,
+        2394,
+        56,
+        11401,
+        20625,
+        40,
+        40086,
+        3268,
+        317,
+        35208,
+        46,
+        4093,
+        46,
+        42001
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0027"
+    }
+}

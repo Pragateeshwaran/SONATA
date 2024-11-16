@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0003.flac",
+    "text": "WHEN BEING AROUSED I OPENED MINE EYES AND KNEW THAT IT HAD BEEN A DECEPTION",
+    "tokens": [
+        12418,
+        1677,
+        9348,
+        2751,
+        5923,
+        20958,
+        1961,
+        314,
+        38303,
+        1961,
+        337,
+        8881,
+        412,
+        43335,
+        5357,
+        509,
+        13965,
+        14603,
+        7283,
+        367,
+        2885,
+        9348,
+        1677,
+        317,
+        27196,
+        8905,
+        24131
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302203",
+        "file_id": "8842-302203-0003"
+    }
+}

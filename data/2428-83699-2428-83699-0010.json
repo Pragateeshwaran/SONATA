@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0010.flac",
+    "text": "I DID NOT EXPECT A PRINCELY ENTERTAINMENT",
+    "tokens": [
+        40,
+        35697,
+        5626,
+        25703,
+        9782,
+        317,
+        4810,
+        30158,
+        30943,
+        46962,
+        30339,
+        10979
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0010"
+    }
+}

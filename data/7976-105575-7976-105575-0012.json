@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0012.flac",
+    "text": "HE SURVIVED THE WAR ONLY TO BE MURDERED LATER ON A PLANTATION IN MISSISSIPPI",
+    "tokens": [
+        13909,
+        41016,
+        53,
+        3824,
+        1961,
+        3336,
+        11837,
+        22224,
+        5390,
+        9348,
+        337,
+        4261,
+        14418,
+        1961,
+        406,
+        23261,
+        6177,
+        317,
+        9297,
+        8643,
+        6234,
+        3268,
+        49684,
+        16744,
+        4061,
+        11901
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0012"
+    }
+}

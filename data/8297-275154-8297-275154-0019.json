@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0019.flac",
+    "text": "I TRIED IT YESTERDAY IT SET MY BRAINS ON FIRE I'M FEELING THAT GLASS I TOOK JUST NOW",
+    "tokens": [
+        40,
+        37679,
+        1961,
+        7283,
+        21560,
+        5781,
+        26442,
+        7283,
+        25823,
+        17615,
+        39947,
+        20913,
+        6177,
+        39110,
+        314,
+        6,
+        44,
+        18630,
+        3698,
+        2751,
+        14603,
+        10188,
+        10705,
+        314,
+        5390,
+        11380,
+        25848,
+        20229
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0019"
+    }
+}

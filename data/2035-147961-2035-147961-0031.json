@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0031.flac",
+    "text": "PETER CROUCHING IN THE FRONT SEAT SAW NOTHING",
+    "tokens": [
+        47731,
+        1137,
+        8740,
+        2606,
+        3398,
+        2751,
+        3268,
+        3336,
+        8782,
+        35830,
+        7946,
+        1404,
+        311,
+        12298,
+        5626,
+        39,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0031"
+    }
+}

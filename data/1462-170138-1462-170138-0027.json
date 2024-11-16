@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0027.flac",
+    "text": "IT WAS YOUTH AND POVERTY AND PROXIMITY AND EVERYTHING WAS YOUNG AND KINDLY",
+    "tokens": [
+        2043,
+        21725,
+        7013,
+        4221,
+        5357,
+        19922,
+        5959,
+        9936,
+        5357,
+        21965,
+        55,
+        3955,
+        9050,
+        5357,
+        27222,
+        39356,
+        21725,
+        7013,
+        10503,
+        5357,
+        509,
+        12115,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0027"
+    }
+}

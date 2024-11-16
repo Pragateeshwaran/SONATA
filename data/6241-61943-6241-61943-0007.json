@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0007.flac",
+    "text": "AT ALL EVENTS WE SHALL GET THERE SOME DAY",
+    "tokens": [
+        1404,
+        11096,
+        22399,
+        12887,
+        50163,
+        17151,
+        34702,
+        41670,
+        24644
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0007"
+    }
+}

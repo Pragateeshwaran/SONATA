@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0041.flac",
+    "text": "ILLUSTRATION BUNS",
+    "tokens": [
+        8267,
+        7759,
+        49,
+        6234,
+        347,
+        4944,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "2078",
+        "chapter_id": "142845",
+        "file_id": "2078-142845-0041"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0007.flac",
+    "text": "THE POODLE DOG HAS A HOTEL ATTACHMENT WHERE ONE MAY GET ROOMS OR FULL APARTMENTS",
+    "tokens": [
+        10970,
+        19922,
+        3727,
+        2538,
+        360,
+        7730,
+        33930,
+        317,
+        44607,
+        3698,
+        26195,
+        16219,
+        10979,
+        33411,
+        16329,
+        26720,
+        17151,
+        15107,
+        2662,
+        50,
+        6375,
+        34958,
+        3486,
+        7227,
+        28957
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130726",
+        "file_id": "652-130726-0007"
+    }
+}

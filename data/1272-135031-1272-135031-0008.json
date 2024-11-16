@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0008.flac",
+    "text": "I HOPE HE DOESN'T WORK TOO HARD SAID SHAGGY",
+    "tokens": [
+        40,
+        367,
+        32135,
+        11179,
+        38359,
+        45,
+        6,
+        51,
+        30936,
+        5390,
+        46,
+        367,
+        9795,
+        14719,
+        2389,
+        6006,
+        4760,
+        31212
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0008"
+    }
+}

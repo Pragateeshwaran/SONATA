@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0012.flac",
+    "text": "IN THE FOURTH REPEATING TO WHOM I PURPOSE SPEAKING I TELL THE REASON WHY I SPEAK TO THEM",
+    "tokens": [
+        1268,
+        3336,
+        376,
+        11698,
+        4221,
+        4526,
+        11401,
+        33881,
+        5390,
+        7655,
+        2662,
+        314,
+        33079,
+        48933,
+        6226,
+        36,
+        43602,
+        314,
+        13368,
+        3069,
+        3336,
+        4526,
+        36033,
+        44463,
+        314,
+        6226,
+        36,
+        10206,
+        5390,
+        44788
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302201",
+        "file_id": "8842-302201-0012"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0039.flac",
+    "text": "YOU SEE LOVING SOME ONE AS I LOVE YOU MAKES THE WHOLE WORLD DIFFERENT",
+    "tokens": [
+        36981,
+        31107,
+        406,
+        8874,
+        2751,
+        41670,
+        16329,
+        7054,
+        314,
+        27889,
+        7013,
+        8779,
+        42,
+        1546,
+        3336,
+        19494,
+        2538,
+        29564,
+        360,
+        5064,
+        24302,
+        3525
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0039"
+    }
+}

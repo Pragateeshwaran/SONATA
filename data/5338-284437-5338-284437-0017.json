@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0017.flac",
+    "text": "CORALIE DO YOU CONSIDER MAJESTY A PROPER WORD TO USE WHEN ADDRESSING A QUEEN",
+    "tokens": [
+        44879,
+        1847,
+        10008,
+        8410,
+        7013,
+        39537,
+        41237,
+        8779,
+        41,
+        6465,
+        56,
+        317,
+        4810,
+        31054,
+        370,
+        12532,
+        5390,
+        23210,
+        42099,
+        5984,
+        7707,
+        7597,
+        2751,
+        317,
+        1195,
+        8924,
+        1677
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0017"
+    }
+}

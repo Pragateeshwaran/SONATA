@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0009.flac",
+    "text": "HOW CAN HE WHOSE SPHERE LIES ABOVE THE STARS STOOP EVERY MOMENT TO EARTH",
+    "tokens": [
+        37181,
+        15628,
+        11179,
+        7655,
+        14058,
+        6226,
+        39,
+        9338,
+        406,
+        11015,
+        317,
+        8202,
+        6089,
+        3336,
+        25424,
+        50,
+        3563,
+        46,
+        3185,
+        27222,
+        337,
+        2662,
+        3525,
+        5390,
+        31834,
+        4221
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9008",
+        "file_id": "2902-9008-0009"
+    }
+}

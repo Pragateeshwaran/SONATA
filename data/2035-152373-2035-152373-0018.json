@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0018.flac",
+    "text": "NOTHING COULD BE MORE NATURAL THAN SUCH AN ASSEMBLY IN SUCH A PLACE AT SUCH A PERIOD",
+    "tokens": [
+        11929,
+        39,
+        2751,
+        327,
+        24010,
+        9348,
+        12011,
+        10149,
+        4261,
+        1847,
+        2320,
+        1565,
+        13558,
+        3398,
+        3537,
+        24994,
+        3620,
+        9148,
+        56,
+        3268,
+        13558,
+        3398,
+        317,
+        9297,
+        11598,
+        5161,
+        13558,
+        3398,
+        317,
+        19878,
+        40,
+        3727
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "152373",
+        "file_id": "2035-152373-0018"
+    }
+}

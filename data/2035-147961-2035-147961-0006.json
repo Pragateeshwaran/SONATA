@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0006.flac",
+    "text": "I COULD NOT TAKE MY EYES OFF THE MAN IN THE BED",
+    "tokens": [
+        40,
+        327,
+        24010,
+        5626,
+        21664,
+        7336,
+        17615,
+        412,
+        43335,
+        18562,
+        3336,
+        17254,
+        3268,
+        3336,
+        347,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0006"
+    }
+}

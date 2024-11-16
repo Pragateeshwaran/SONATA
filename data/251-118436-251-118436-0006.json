@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0006.flac",
+    "text": "THIS MAN WAS CLAD IN A BROWN CAMEL HAIR ROBE AND SANDALS AND A GREEN TURBAN WAS ON HIS HEAD",
+    "tokens": [
+        43559,
+        17254,
+        21725,
+        7852,
+        2885,
+        3268,
+        317,
+        11177,
+        14165,
+        32421,
+        3698,
+        14558,
+        4663,
+        36449,
+        36,
+        5357,
+        311,
+        6981,
+        23333,
+        5357,
+        317,
+        47606,
+        309,
+        4261,
+        33,
+        1565,
+        21725,
+        6177,
+        33700,
+        39837
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0006"
+    }
+}

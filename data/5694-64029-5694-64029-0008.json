@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0008.flac",
+    "text": "MY GUN WAS AT MY FEET AND ONE STEP WOULD GET IT",
+    "tokens": [
+        26708,
+        43794,
+        21725,
+        5161,
+        17615,
+        18630,
+        2767,
+        5357,
+        16329,
+        49154,
+        370,
+        24010,
+        17151,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0008"
+    }
+}

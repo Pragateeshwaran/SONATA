@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0001.flac",
+    "text": "IT WAS THE AFTERNOON OF A HOLIDAY AND SHE HAD CLOSED EARLY",
+    "tokens": [
+        2043,
+        21725,
+        3336,
+        36050,
+        15285,
+        1340,
+        3963,
+        317,
+        49707,
+        2389,
+        4792,
+        5357,
+        48052,
+        367,
+        2885,
+        7852,
+        48751,
+        31834,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0001"
+    }
+}

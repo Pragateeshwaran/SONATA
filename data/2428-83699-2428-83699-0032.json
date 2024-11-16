@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0032.flac",
+    "text": "MAYBE THEY'RE UP TO SOME OF THEIR GAMES AND WANTS ROUSING",
+    "tokens": [
+        44,
+        4792,
+        12473,
+        33302,
+        6,
+        2200,
+        15958,
+        5390,
+        41670,
+        3963,
+        47278,
+        402,
+        29559,
+        5357,
+        370,
+        1565,
+        4694,
+        371,
+        20958,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0032"
+    }
+}

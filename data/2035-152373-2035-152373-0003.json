@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0003.flac",
+    "text": "THE POETS OF SUCCEEDING AGES HAVE DWELT MUCH IN DETAIL ON THE OCCURRENCES OF THIS MEMORABLE DAY",
+    "tokens": [
+        10970,
+        19922,
+        32716,
+        3963,
+        13558,
+        4093,
+        41841,
+        2751,
+        13077,
+        1546,
+        21515,
+        29652,
+        3698,
+        51,
+        45859,
+        3268,
+        360,
+        20892,
+        4146,
+        6177,
+        3336,
+        440,
+        4093,
+        31302,
+        24181,
+        1546,
+        3963,
+        12680,
+        35153,
+        1581,
+        17534,
+        24644
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "152373",
+        "file_id": "2035-152373-0003"
+    }
+}

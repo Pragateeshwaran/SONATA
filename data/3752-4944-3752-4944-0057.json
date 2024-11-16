@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0057.flac",
+    "text": "THEY SHALL NOT FLOG THAT BOY HE SAID",
+    "tokens": [
+        10970,
+        56,
+        50163,
+        5626,
+        9977,
+        7730,
+        14603,
+        16494,
+        56,
+        11179,
+        14719,
+        2389
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0057"
+    }
+}

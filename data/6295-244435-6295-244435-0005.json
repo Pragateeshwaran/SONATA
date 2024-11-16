@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0005.flac",
+    "text": "THAT WHITE FLAG AND THOSE BOATS GOING OUT MEAN THAT SUMTER IS OURS",
+    "tokens": [
+        4221,
+        1404,
+        44925,
+        9977,
+        4760,
+        5357,
+        2320,
+        14058,
+        16494,
+        33586,
+        10351,
+        2751,
+        16289,
+        11948,
+        1565,
+        14603,
+        35683,
+        5781,
+        3180,
+        30229,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0005"
+    }
+}

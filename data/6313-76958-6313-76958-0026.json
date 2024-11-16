@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0026.flac",
+    "text": "HE'S A FELLOW WHO'S ALL THE TIME MAKING TROUBLE ISN'T HE ASKED STACY INNOCENTLY",
+    "tokens": [
+        13909,
+        6,
+        50,
+        317,
+        18630,
+        44765,
+        19494,
+        6,
+        50,
+        11096,
+        3336,
+        20460,
+        8779,
+        37286,
+        7579,
+        2606,
+        19146,
+        3180,
+        45,
+        6,
+        51,
+        11179,
+        7054,
+        42,
+        1961,
+        3563,
+        43300,
+        3268,
+        45,
+        4503,
+        3525,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0026"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0021.flac",
+    "text": "HE SAYS TIDE REPLIED MY UNCLE TRANSLATING THE DANISH WORD FOR MY INFORMATION",
+    "tokens": [
+        13909,
+        45687,
+        50,
+        309,
+        14114,
+        45285,
+        19767,
+        17615,
+        4725,
+        29931,
+        48213,
+        8634,
+        33881,
+        3336,
+        360,
+        1565,
+        18422,
+        370,
+        12532,
+        7473,
+        17615,
+        38044
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0021"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0009.flac",
+    "text": "NO ONE COULD ESCAPE FROM THIS RICTUS",
+    "tokens": [
+        15285,
+        16329,
+        327,
+        24010,
+        40251,
+        45721,
+        16034,
+        12680,
+        371,
+        18379,
+        2937
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34615",
+        "file_id": "5895-34615-0009"
+    }
+}

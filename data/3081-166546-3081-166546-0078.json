@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0078.flac",
+    "text": "NO A VERY NATURAL ONE I SHOULD SAY",
+    "tokens": [
+        15285,
+        317,
+        29550,
+        10149,
+        4261,
+        1847,
+        16329,
+        314,
+        40312,
+        45687
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0078"
+    }
+}

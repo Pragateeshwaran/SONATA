@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147964\\1993-147964-0001.flac",
+    "text": "ANYWAY HE WOULD NEVER ALLOW ONE OF HIS HORSES TO BE PUT TO SUCH A STRAIN",
+    "tokens": [
+        31827,
+        27285,
+        11179,
+        370,
+        24010,
+        33602,
+        11096,
+        3913,
+        16329,
+        3963,
+        33700,
+        367,
+        20673,
+        1546,
+        5390,
+        9348,
+        350,
+        3843,
+        5390,
+        13558,
+        3398,
+        317,
+        3563,
+        3861,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147964",
+        "file_id": "1993-147964-0001"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0024.flac",
+    "text": "HE GAZED UPON A WORLD FULL OF RESPONSIBILITIES AND PERILS",
+    "tokens": [
+        13909,
+        14545,
+        57,
+        1961,
+        15958,
+        1340,
+        317,
+        29564,
+        34958,
+        3963,
+        47203,
+        1340,
+        11584,
+        49516,
+        5357,
+        19878,
+        45484
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0024"
+    }
+}

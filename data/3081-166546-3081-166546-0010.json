@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0010.flac",
+    "text": "I KNOW IT SOUNDS FOOLISH BUT THE ALTERNATIVE IS SO IMPROBABLE",
+    "tokens": [
+        40,
+        35876,
+        7283,
+        311,
+        19385,
+        5258,
+        11895,
+        3535,
+        18422,
+        21728,
+        3336,
+        8355,
+        31800,
+        37045,
+        3180,
+        12809,
+        8959,
+        31190,
+        4339,
+        19146
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0010"
+    }
+}

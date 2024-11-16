@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0011.flac",
+    "text": "THE YOUNG INVENTOR HAD JUST NOTICED HIS FRIEND LYING PINNED BENEATH A HEAVY BEAM NEARBY",
+    "tokens": [
+        10970,
+        7013,
+        10503,
+        34899,
+        3525,
+        1581,
+        367,
+        2885,
+        25848,
+        5626,
+        2149,
+        1961,
+        33700,
+        48167,
+        10619,
+        406,
+        45761,
+        34279,
+        45,
+        1961,
+        347,
+        39267,
+        12599,
+        317,
+        11179,
+        10116,
+        56,
+        9348,
+        2390,
+        10635,
+        1503,
+        17513
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0011"
+    }
+}

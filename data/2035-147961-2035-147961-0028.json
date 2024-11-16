@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0028.flac",
+    "text": "TWENTY THIRTY ENOUGH",
+    "tokens": [
+        34551,
+        3525,
+        56,
+        2320,
+        4663,
+        9936,
+        12964,
+        32632
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0028"
+    }
+}

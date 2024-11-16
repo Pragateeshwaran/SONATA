@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0021.flac",
+    "text": "WE SHALL MAKE MORE MONEY UP HERE THIS WINTER THAN YOU COULD EARN IN DETROIT IN THREE YEARS",
+    "tokens": [
+        8845,
+        50163,
+        39134,
+        12011,
+        337,
+        48399,
+        15958,
+        15698,
+        12680,
+        25779,
+        5781,
+        2320,
+        1565,
+        7013,
+        327,
+        24010,
+        31834,
+        45,
+        3268,
+        38267,
+        13252,
+        2043,
+        3268,
+        48697,
+        32914,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0021"
+    }
+}

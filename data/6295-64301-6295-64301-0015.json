@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0015.flac",
+    "text": "HER HEART SEEMED TO SWELL UP INTO HER THROAT AND IT WAS ALL SHE COULD DO TO KEEP FROM WEEPING",
+    "tokens": [
+        16879,
+        11179,
+        7227,
+        7946,
+        3620,
+        1961,
+        5390,
+        311,
+        8845,
+        3069,
+        15958,
+        39319,
+        24906,
+        2320,
+        13252,
+        1404,
+        5357,
+        7283,
+        21725,
+        11096,
+        48052,
+        327,
+        24010,
+        8410,
+        5390,
+        509,
+        35238,
+        16034,
+        370,
+        35238,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0015"
+    }
+}

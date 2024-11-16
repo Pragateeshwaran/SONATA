@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0004.flac",
+    "text": "THREE DAYS LATER MINNETAKI BECAME NEWSOME'S WIFE AT THE HUDSON BAY POST",
+    "tokens": [
+        4221,
+        11587,
+        24644,
+        50,
+        406,
+        23261,
+        20625,
+        12884,
+        10206,
+        40,
+        347,
+        2943,
+        10067,
+        28840,
+        13649,
+        6,
+        50,
+        370,
+        29150,
+        5161,
+        3336,
+        367,
+        52,
+        5258,
+        1340,
+        347,
+        4792,
+        24582
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0004"
+    }
+}

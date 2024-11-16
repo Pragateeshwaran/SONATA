@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0002.flac",
+    "text": "SHE DOESN'T PICK THEM UP BUT JUST HAVING THEM IN THE ROOM SURE DOESN'T GIVE HER ASTHMA",
+    "tokens": [
+        9693,
+        36,
+        38359,
+        45,
+        6,
+        51,
+        350,
+        11860,
+        44788,
+        15958,
+        21728,
+        25848,
+        367,
+        10116,
+        2751,
+        44788,
+        3268,
+        3336,
+        15107,
+        2662,
+        311,
+        11335,
+        38359,
+        45,
+        6,
+        51,
+        402,
+        9306,
+        24906,
+        29273,
+        39,
+        5673
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0002"
+    }
+}

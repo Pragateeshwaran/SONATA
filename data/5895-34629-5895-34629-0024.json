@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0024.flac",
+    "text": "THE EMPTYING OF TANKARDS DID NOT DECREASE THEIR SUCCESS",
+    "tokens": [
+        10970,
+        38144,
+        9936,
+        2751,
+        3963,
+        309,
+        15154,
+        48294,
+        35697,
+        5626,
+        27196,
+        2200,
+        11159,
+        47278,
+        13558,
+        4093,
+        7597
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0024"
+    }
+}

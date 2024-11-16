@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0031.flac",
+    "text": "HIS TREASURE TAKEN TYPE OF HIS SELF AND A WOMAN GIVEN HIM INSTEAD",
+    "tokens": [
+        39,
+        1797,
+        43236,
+        1921,
+        11335,
+        309,
+        10206,
+        1677,
+        41876,
+        3963,
+        33700,
+        311,
+        37738,
+        5357,
+        317,
+        45386,
+        1565,
+        402,
+        3824,
+        1677,
+        45909,
+        3268,
+        30516,
+        2885
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0031"
+    }
+}

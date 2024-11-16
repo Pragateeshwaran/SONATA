@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0001.flac",
+    "text": "HOW CAN WE FEED OUR CHILDREN WHEN WE HAVE NO MORE THAN WE CAN EAT OURSELVES",
+    "tokens": [
+        37181,
+        15628,
+        12887,
+        18630,
+        1961,
+        30229,
+        5870,
+        4146,
+        7707,
+        1677,
+        42099,
+        12887,
+        21515,
+        8005,
+        12011,
+        2320,
+        1565,
+        12887,
+        15628,
+        412,
+        1404,
+        30229,
+        50,
+        3698,
+        53,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110523",
+        "file_id": "7976-110523-0001"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0027.flac",
+    "text": "WHICH CLOUDS SEEING THAT THERE WAS NO ROOF SOMETIMES WEPT OVER THE MASTERPIECE OF URSUS",
+    "tokens": [
+        12418,
+        20739,
+        7852,
+        2606,
+        5258,
+        31107,
+        2751,
+        14603,
+        34702,
+        21725,
+        8005,
+        371,
+        6684,
+        37,
+        42121,
+        2767,
+        3955,
+        1546,
+        370,
+        8905,
+        51,
+        28729,
+        3336,
+        32337,
+        5781,
+        11901,
+        2943,
+        36,
+        3963,
+        471,
+        6998,
+        2937
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0027"
+    }
+}

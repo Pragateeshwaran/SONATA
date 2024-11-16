@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0008.flac",
+    "text": "IT SEEMED TO ME THAT HE DESPISED HIM FOR BEING SO SIMPLE AND DOCILE",
+    "tokens": [
+        2043,
+        7946,
+        3620,
+        1961,
+        5390,
+        11948,
+        14603,
+        11179,
+        22196,
+        47,
+        1797,
+        1961,
+        45909,
+        7473,
+        9348,
+        2751,
+        12809,
+        23749,
+        16437,
+        5357,
+        37760,
+        41119
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0008"
+    }
+}

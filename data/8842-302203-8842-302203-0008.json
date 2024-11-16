@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0008.flac",
+    "text": "THE SECOND PART BEGINS HERE I WAS A THINKING THE FIRST PART DIVIDES INTO TWO",
+    "tokens": [
+        10970,
+        10729,
+        18672,
+        16652,
+        347,
+        7156,
+        20913,
+        15698,
+        314,
+        21725,
+        317,
+        2320,
+        17248,
+        2751,
+        3336,
+        31328,
+        16652,
+        360,
+        3824,
+        42538,
+        39319,
+        35288
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302203",
+        "file_id": "8842-302203-0008"
+    }
+}

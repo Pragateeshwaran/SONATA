@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0011.flac",
+    "text": "QUICKLY IT WAS COVERED WITH BRIGHT RED SPOTS I THOUGHT I HAD NEVER SEEN ANY BLOOD SO BRIGHT",
+    "tokens": [
+        10917,
+        11860,
+        11319,
+        7283,
+        21725,
+        47902,
+        1961,
+        13315,
+        11177,
+        9947,
+        23848,
+        6226,
+        33472,
+        314,
+        2320,
+        2606,
+        38,
+        6535,
+        314,
+        367,
+        2885,
+        33602,
+        7946,
+        1677,
+        15529,
+        9878,
+        22808,
+        12809,
+        11177,
+        9947
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0011"
+    }
+}

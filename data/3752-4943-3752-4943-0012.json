@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0012.flac",
+    "text": "LET HIM OUT CRIED NORTH AGAIN STAMPING HIS FOOT",
+    "tokens": [
+        28882,
+        45909,
+        16289,
+        327,
+        7112,
+        1961,
+        25273,
+        4221,
+        36218,
+        1268,
+        3563,
+        23518,
+        2751,
+        33700,
+        11895,
+        2394
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0012"
+    }
+}

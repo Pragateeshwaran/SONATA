@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0014.flac",
+    "text": "WHAT ALTERNATIVE WAS THERE FOR HER",
+    "tokens": [
+        32971,
+        8355,
+        31800,
+        37045,
+        21725,
+        34702,
+        7473,
+        24906
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "84280",
+        "file_id": "174-84280-0014"
+    }
+}

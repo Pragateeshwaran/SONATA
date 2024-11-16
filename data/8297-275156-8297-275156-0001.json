@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0001.flac",
+    "text": "YOU HAVE BEEN TO THE HOTEL HE BURST OUT YOU HAVE SEEN CATHERINE",
+    "tokens": [
+        36981,
+        21515,
+        9348,
+        1677,
+        5390,
+        3336,
+        44607,
+        3698,
+        11179,
+        45604,
+        2257,
+        16289,
+        7013,
+        21515,
+        7946,
+        1677,
+        327,
+        45226,
+        8881
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275156",
+        "file_id": "8297-275156-0001"
+    }
+}

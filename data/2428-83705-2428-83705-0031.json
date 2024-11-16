@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0031.flac",
+    "text": "SUCH IS THE SELFISHNESS OF HUMAN NATURE",
+    "tokens": [
+        12564,
+        3398,
+        3180,
+        3336,
+        311,
+        37738,
+        18422,
+        31097,
+        3963,
+        45850,
+        1565,
+        10149,
+        11335
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0031"
+    }
+}

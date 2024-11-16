@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0005.flac",
+    "text": "HIS EYES WANDERED CEASELESSLY OVER THE BLANK HORIZON",
+    "tokens": [
+        39,
+        1797,
+        412,
+        43335,
+        370,
+        6981,
+        1137,
+        1961,
+        18671,
+        1921,
+        3698,
+        7597,
+        11319,
+        28729,
+        3336,
+        9878,
+        15154,
+        48345,
+        14887,
+        1340
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154320",
+        "file_id": "2803-154320-0005"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0013.flac",
+    "text": "WE'D BETTER NOT TRY TO MOVE HIM TOM DECIDED WE'LL GET AN AMBULANCE",
+    "tokens": [
+        8845,
+        6,
+        35,
+        38651,
+        5781,
+        5626,
+        7579,
+        56,
+        5390,
+        13070,
+        6089,
+        45909,
+        41526,
+        27196,
+        2389,
+        1961,
+        12887,
+        6,
+        3069,
+        17151,
+        3537,
+        3001,
+        33,
+        6239,
+        19240
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0013"
+    }
+}

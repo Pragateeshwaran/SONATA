@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0005.flac",
+    "text": "I THOUGHT MISS MILNER YOU GAVE ME YOUR WORD THAT YOU WOULD PASS THIS EVENING AT HOME",
+    "tokens": [
+        40,
+        2320,
+        2606,
+        38,
+        6535,
+        49684,
+        31515,
+        21479,
+        7013,
+        14545,
+        6089,
+        11948,
+        16592,
+        370,
+        12532,
+        14603,
+        7013,
+        370,
+        24010,
+        41752,
+        12680,
+        45886,
+        2751,
+        5161,
+        41779
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "23268",
+        "file_id": "3536-23268-0005"
+    }
+}

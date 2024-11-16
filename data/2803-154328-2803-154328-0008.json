@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0008.flac",
+    "text": "I BELIEVE SAID JOHN THAT IN THE SIGHT OF GOD I HAVE A RIGHT TO FULFILL THAT PROMISE",
+    "tokens": [
+        40,
+        29991,
+        10008,
+        6089,
+        14719,
+        2389,
+        39263,
+        14603,
+        3268,
+        3336,
+        311,
+        9947,
+        3963,
+        29562,
+        314,
+        21515,
+        317,
+        33621,
+        5390,
+        376,
+        6239,
+        37,
+        8267,
+        14603,
+        4810,
+        2662,
+        24352
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0008"
+    }
+}

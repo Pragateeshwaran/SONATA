@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0000.flac",
+    "text": "SOME ARE WONDERFULLY WROUGHT PRETTY LITTLE HOMES FOR BIRDIKINS",
+    "tokens": [
+        50,
+        13649,
+        15986,
+        370,
+        1340,
+        14418,
+        37,
+        9994,
+        56,
+        11342,
+        2606,
+        38,
+        6535,
+        22814,
+        51,
+        9936,
+        406,
+        22470,
+        2538,
+        367,
+        2662,
+        1546,
+        7473,
+        347,
+        4663,
+        17931,
+        42,
+        20913
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "281318",
+        "file_id": "7850-281318-0000"
+    }
+}

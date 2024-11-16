@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0017.flac",
+    "text": "A SHOP GIRL WAS THE DESTINY PREFIGURED FOR THE NEWCOMER",
+    "tokens": [
+        32,
+        6006,
+        3185,
+        402,
+        4663,
+        43,
+        21725,
+        3336,
+        360,
+        6465,
+        1268,
+        56,
+        22814,
+        16254,
+        4261,
+        1961,
+        7473,
+        3336,
+        12682,
+        9858,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0017"
+    }
+}

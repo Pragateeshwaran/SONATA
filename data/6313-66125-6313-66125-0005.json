@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0005.flac",
+    "text": "I COULD NOT THINK OF ALLOWING ANY OF MY CHARGES TO TAKE SO TERRIBLE A RISK AND",
+    "tokens": [
+        40,
+        327,
+        24010,
+        5626,
+        2320,
+        17248,
+        3963,
+        11096,
+        3913,
+        2751,
+        15529,
+        3963,
+        17615,
+        28521,
+        48075,
+        5390,
+        21664,
+        7336,
+        12809,
+        28994,
+        7112,
+        19146,
+        317,
+        45698,
+        42,
+        5357
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0005"
+    }
+}

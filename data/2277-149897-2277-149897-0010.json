@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0010.flac",
+    "text": "HE WAS BEATEN FOR TO NIGHT AND HE MIGHT JUST AS WELL MAKE THE BEST OF IT",
+    "tokens": [
+        13909,
+        21725,
+        9348,
+        1404,
+        1677,
+        7473,
+        5390,
+        37707,
+        5357,
+        11179,
+        337,
+        9947,
+        25848,
+        7054,
+        12887,
+        3069,
+        39134,
+        3336,
+        38502,
+        3963,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0010"
+    }
+}

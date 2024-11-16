@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0007.flac",
+    "text": "JUST THEN HE WAS IN NO MOOD TO THINK OF THE SORROWS",
+    "tokens": [
+        25008,
+        42243,
+        11179,
+        21725,
+        3268,
+        8005,
+        13070,
+        3727,
+        5390,
+        2320,
+        17248,
+        3963,
+        3336,
+        311,
+        1581,
+        49,
+        22845
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0007"
+    }
+}

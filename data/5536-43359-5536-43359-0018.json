@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0018.flac",
+    "text": "THIS BOND IS BETWEEN MAN AND MAN IS USUALLY FORMED IN EARLY YOUTH AND CAN ONLY BE BROKEN BY DEATH",
+    "tokens": [
+        43559,
+        347,
+        18672,
+        3180,
+        38651,
+        8845,
+        1677,
+        17254,
+        5357,
+        17254,
+        3180,
+        1294,
+        52,
+        19807,
+        7473,
+        30733,
+        3268,
+        31834,
+        11319,
+        7013,
+        4221,
+        5357,
+        15628,
+        22224,
+        9348,
+        11177,
+        11380,
+        1677,
+        11050,
+        5550,
+        12599
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43359",
+        "file_id": "5536-43359-0018"
+    }
+}

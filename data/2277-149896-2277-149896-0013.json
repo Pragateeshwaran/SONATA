@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0013.flac",
+    "text": "HE WOULD GET ONE TO DAY IT WOULD PROBABLY BE ON HIS DESK WHEN HE GOT BACK HE WOULD LOOK FOR IT AT ONCE",
+    "tokens": [
+        13909,
+        370,
+        24010,
+        17151,
+        16329,
+        5390,
+        24644,
+        7283,
+        370,
+        24010,
+        21965,
+        4339,
+        9148,
+        56,
+        9348,
+        6177,
+        33700,
+        22196,
+        42,
+        42099,
+        11179,
+        41725,
+        28767,
+        11179,
+        370,
+        24010,
+        48045,
+        7473,
+        7283,
+        5161,
+        6177,
+        5222
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0013"
+    }
+}

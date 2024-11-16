@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0011.flac",
+    "text": "AN EVERLASTING LAUGH",
+    "tokens": [
+        1565,
+        20498,
+        43,
+        11262,
+        2751,
+        9131,
+        44004
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34615",
+        "file_id": "5895-34615-0011"
+    }
+}

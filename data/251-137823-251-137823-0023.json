@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0023.flac",
+    "text": "HE'S A GREAT SCIENTIST",
+    "tokens": [
+        13909,
+        6,
+        50,
+        317,
+        37853,
+        6374,
+        28495,
+        8808
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0023"
+    }
+}

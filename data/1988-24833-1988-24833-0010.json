@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0010.flac",
+    "text": "SO HE CARES HUH",
+    "tokens": [
+        15821,
+        11179,
+        17368,
+        1546,
+        367,
+        52,
+        39
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0010"
+    }
+}

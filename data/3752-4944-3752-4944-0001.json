@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0001.flac",
+    "text": "ABANDONED INDEED BY GOD AND MAN ALMOST",
+    "tokens": [
+        6242,
+        6981,
+        1340,
+        1961,
+        3268,
+        7206,
+        1961,
+        11050,
+        29562,
+        5357,
+        17254,
+        8355,
+        44,
+        10892
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0001"
+    }
+}

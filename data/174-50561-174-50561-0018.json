@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0018.flac",
+    "text": "BED TIME CHILDREN",
+    "tokens": [
+        33,
+        1961,
+        20460,
+        5870,
+        4146,
+        7707,
+        1677
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "50561",
+        "file_id": "174-50561-0018"
+    }
+}

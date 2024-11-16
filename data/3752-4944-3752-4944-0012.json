@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0012.flac",
+    "text": "YES ONE OUGHTN'T TO LEAVE THE COLONY WITHOUT SEEING IT SAYS BURGESS IT'S WORTH SEEING",
+    "tokens": [
+        43335,
+        16329,
+        440,
+        7340,
+        6535,
+        45,
+        6,
+        51,
+        5390,
+        12509,
+        32,
+        6089,
+        3336,
+        20444,
+        40508,
+        42881,
+        31107,
+        2751,
+        7283,
+        45687,
+        50,
+        45604,
+        38,
+        7597,
+        7283,
+        6,
+        50,
+        21881,
+        4221,
+        31107,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0012"
+    }
+}

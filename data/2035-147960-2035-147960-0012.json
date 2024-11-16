@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0012.flac",
+    "text": "I FOLLOWED WITH THE SPADE OVER MY SHOULDER DRAGGING MY SNAKE",
+    "tokens": [
+        40,
+        11895,
+        44765,
+        1961,
+        13315,
+        3336,
+        6226,
+        19266,
+        28729,
+        17615,
+        40312,
+        1137,
+        360,
+        3861,
+        11190,
+        2751,
+        17615,
+        311,
+        4535,
+        7336
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0012"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0034.flac",
+    "text": "I DON'T SAY THAT PROTESTED MICHAELIS GENTLY",
+    "tokens": [
+        40,
+        23917,
+        6,
+        51,
+        45687,
+        14603,
+        48006,
+        6465,
+        1961,
+        35878,
+        47452,
+        1797,
+        402,
+        3525,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0034"
+    }
+}

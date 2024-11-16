@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0025.flac",
+    "text": "SHALL WE HAUL UP ASKED LIGE MAKING A MEGAPHONE OF HIS HANDS YES HAUL AWAY",
+    "tokens": [
+        9693,
+        7036,
+        12887,
+        14558,
+        6239,
+        15958,
+        7054,
+        42,
+        1961,
+        406,
+        3528,
+        36,
+        8779,
+        37286,
+        317,
+        337,
+        7156,
+        31300,
+        11651,
+        3963,
+        33700,
+        367,
+        1565,
+        5258,
+        21560,
+        14558,
+        6239,
+        14356,
+        4792
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0025"
+    }
+}

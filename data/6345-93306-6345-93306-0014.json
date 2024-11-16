@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0014.flac",
+    "text": "SHE SAID AGAIN YOU ARE KIND",
+    "tokens": [
+        9693,
+        36,
+        14719,
+        2389,
+        36218,
+        1268,
+        7013,
+        15986,
+        509,
+        12115
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0014"
+    }
+}

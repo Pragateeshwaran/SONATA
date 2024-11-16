@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0037.flac",
+    "text": "I WILL ASK THE LEAST IMAGINABLE BUT I MUST HAVE SOMETHING",
+    "tokens": [
+        40,
+        17682,
+        7054,
+        42,
+        3336,
+        12509,
+        11262,
+        8959,
+        4760,
+        1268,
+        17534,
+        21728,
+        314,
+        17191,
+        21515,
+        42121,
+        20702,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0037"
+    }
+}

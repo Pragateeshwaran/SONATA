@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0007.flac",
+    "text": "JOHN YOU HAVE PROMISED MARY WHAT I PROMISED LADY HELENA WHAT IS YOUR PLAN",
+    "tokens": [
+        47118,
+        7013,
+        21515,
+        4810,
+        2662,
+        1797,
+        1961,
+        337,
+        13153,
+        25003,
+        314,
+        4810,
+        2662,
+        1797,
+        1961,
+        406,
+        2885,
+        56,
+        36255,
+        45510,
+        25003,
+        3180,
+        16592,
+        45650
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0007"
+    }
+}

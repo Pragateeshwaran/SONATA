@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0028.flac",
+    "text": "WHEN I CAME UP HE TOUCHED MY SHOULDER AND LOOKED SEARCHINGLY DOWN INTO MY FACE FOR SEVERAL SECONDS",
+    "tokens": [
+        12418,
+        1677,
+        314,
+        327,
+        10067,
+        15958,
+        11179,
+        309,
+        2606,
+        3398,
+        1961,
+        17615,
+        40312,
+        1137,
+        5357,
+        48045,
+        1961,
+        7946,
+        31315,
+        2751,
+        11319,
+        30320,
+        39319,
+        17615,
+        46587,
+        7473,
+        7946,
+        5959,
+        1847,
+        10729,
+        1340,
+        5258
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0028"
+    }
+}

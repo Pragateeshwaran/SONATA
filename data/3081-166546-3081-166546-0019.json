@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0019.flac",
+    "text": "I ASKED AS SOON AS GEORGE HAD RETURNED TO MY SIDE",
+    "tokens": [
+        40,
+        7054,
+        42,
+        1961,
+        7054,
+        12809,
+        1340,
+        7054,
+        22319,
+        49697,
+        367,
+        2885,
+        30826,
+        27064,
+        1961,
+        5390,
+        17615,
+        311,
+        14114
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0019"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0008.flac",
+    "text": "A FAINT FETID SMELL CAME FROM HIM AND A THREAD OF GREEN LIQUID OOZED FROM HIS CRUSHED HEAD",
+    "tokens": [
+        32,
+        9677,
+        12394,
+        376,
+        2767,
+        2389,
+        9447,
+        23304,
+        327,
+        10067,
+        16034,
+        45909,
+        5357,
+        317,
+        2320,
+        15675,
+        3963,
+        47606,
+        24653,
+        10917,
+        2389,
+        440,
+        46,
+        57,
+        1961,
+        16034,
+        33700,
+        8740,
+        27143,
+        1961,
+        39837
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0008"
+    }
+}

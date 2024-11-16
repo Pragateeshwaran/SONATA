@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0013.flac",
+    "text": "SO THAT ON THAT SCORE THERE IS LITTLE OR NO DANGER",
+    "tokens": [
+        15821,
+        14603,
+        6177,
+        14603,
+        6374,
+        6965,
+        34702,
+        3180,
+        406,
+        22470,
+        2538,
+        6375,
+        8005,
+        360,
+        15567,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154320",
+        "file_id": "2803-154320-0013"
+    }
+}

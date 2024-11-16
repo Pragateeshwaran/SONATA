@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0018.flac",
+    "text": "SEE I COULD EVEN GET IN MYSELF",
+    "tokens": [
+        36078,
+        314,
+        327,
+        24010,
+        45886,
+        17151,
+        3268,
+        337,
+        16309,
+        37738
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110523",
+        "file_id": "7976-110523-0018"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0006.flac",
+    "text": "IF YOU'D SENT ME A NOTE OR TELEPHONED ME OR ANYTHING",
+    "tokens": [
+        5064,
+        7013,
+        6,
+        35,
+        311,
+        3525,
+        11948,
+        317,
+        24550,
+        6375,
+        13368,
+        2538,
+        11909,
+        1340,
+        1961,
+        11948,
+        6375,
+        15529,
+        39356
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170145",
+        "file_id": "1462-170145-0006"
+    }
+}

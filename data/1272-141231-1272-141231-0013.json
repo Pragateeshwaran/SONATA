@@ -1,0 +1,15 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0013.flac",
+    "text": "THE TWENTIES",
+    "tokens": [
+        10970,
+        17306,
+        3525,
+        11015
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0013"
+    }
+}

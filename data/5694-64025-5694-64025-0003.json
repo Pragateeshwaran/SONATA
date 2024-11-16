@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0003.flac",
+    "text": "ABOUT DAYLIGHT ON SUNDAY MORNING CHALMERS BRIGADE RELIEVED GLADDEN'S",
+    "tokens": [
+        6242,
+        12425,
+        24644,
+        43,
+        9947,
+        6177,
+        35329,
+        26442,
+        35208,
+        15871,
+        5870,
+        1847,
+        44,
+        4877,
+        11177,
+        3528,
+        19266,
+        29749,
+        10008,
+        53,
+        1961,
+        10188,
+        29266,
+        1677,
+        6,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0003"
+    }
+}

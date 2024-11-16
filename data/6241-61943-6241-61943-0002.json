@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0002.flac",
+    "text": "WELL AND HAVE WE A FAIR WIND",
+    "tokens": [
+        8845,
+        3069,
+        5357,
+        21515,
+        12887,
+        317,
+        9677,
+        4663,
+        370,
+        12115
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0002"
+    }
+}

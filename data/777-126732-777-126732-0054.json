@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0054.flac",
+    "text": "HE WATCHED HIM GESTICULATING AND MURMURING IN THE KITCHEN",
+    "tokens": [
+        13909,
+        30134,
+        45909,
+        402,
+        6465,
+        2149,
+        6239,
+        33881,
+        5357,
+        337,
+        4261,
+        44,
+        4261,
+        2751,
+        3268,
+        3336,
+        509,
+        31949,
+        1677
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0054"
+    }
+}

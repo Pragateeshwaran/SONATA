@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0020.flac",
+    "text": "ALAS HE WALKED WITH NO LESS INDECISION THAN COSETTE",
+    "tokens": [
+        1847,
+        1921,
+        11179,
+        370,
+        28082,
+        1961,
+        13315,
+        8005,
+        406,
+        7597,
+        24413,
+        2943,
+        42446,
+        2320,
+        1565,
+        327,
+        2640,
+        2767,
+        9328
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "168635",
+        "file_id": "174-168635-0020"
+    }
+}

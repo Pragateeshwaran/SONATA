@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0021.flac",
+    "text": "THERE WAS THE OLD IMPERIOUS NOTE IN HIS FAILING WHISPER",
+    "tokens": [
+        4221,
+        9338,
+        21725,
+        3336,
+        440,
+        11163,
+        30023,
+        1137,
+        40,
+        20958,
+        24550,
+        3268,
+        33700,
+        9677,
+        4146,
+        2751,
+        7655,
+        1797,
+        18973
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0021"
+    }
+}

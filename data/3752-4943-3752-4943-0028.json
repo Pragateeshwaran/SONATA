@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0028.flac",
+    "text": "THAT LAST FELLOW YOU HAD OUGHT TO HAVE BEEN TIED UP HIMSELF",
+    "tokens": [
+        4221,
+        1404,
+        41894,
+        18630,
+        44765,
+        7013,
+        367,
+        2885,
+        440,
+        7340,
+        6535,
+        5390,
+        21515,
+        9348,
+        1677,
+        309,
+        19767,
+        15958,
+        45909,
+        50,
+        37738
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0028"
+    }
+}

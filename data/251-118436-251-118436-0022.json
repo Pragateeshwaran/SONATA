@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0022.flac",
+    "text": "YOU HAVE NEVER DISOBEYED ME OBEY MY LAST COMMAND",
+    "tokens": [
+        36981,
+        21515,
+        33602,
+        13954,
+        9864,
+        22348,
+        1961,
+        11948,
+        440,
+        12473,
+        56,
+        17615,
+        41894,
+        22240,
+        6981
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0022"
+    }
+}

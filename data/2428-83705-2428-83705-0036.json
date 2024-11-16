@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0036.flac",
+    "text": "SOMEONE SNIGGERED",
+    "tokens": [
+        50,
+        13649,
+        11651,
+        11346,
+        3528,
+        30373,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0036"
+    }
+}

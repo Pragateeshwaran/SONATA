@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0000.flac",
+    "text": "ASPARAGUS SALAD COOK THE ASPARAGUS IN SALTED WATER DRAIN AND CHILL",
+    "tokens": [
+        1921,
+        27082,
+        4760,
+        2937,
+        42475,
+        2885,
+        327,
+        15308,
+        3336,
+        34658,
+        1503,
+        4760,
+        2937,
+        3268,
+        311,
+        31429,
+        1961,
+        370,
+        23261,
+        360,
+        3861,
+        1268,
+        5357,
+        5870,
+        8267
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "129742",
+        "file_id": "652-129742-0000"
+    }
+}

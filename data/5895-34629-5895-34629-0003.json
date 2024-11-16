@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0003.flac",
+    "text": "HE ENTERED HEAVEN ONLY BY THE ARTISTS DOOR",
+    "tokens": [
+        13909,
+        46962,
+        1961,
+        11179,
+        10116,
+        1677,
+        22224,
+        11050,
+        3336,
+        24278,
+        1797,
+        4694,
+        8410,
+        1581
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0003"
+    }
+}

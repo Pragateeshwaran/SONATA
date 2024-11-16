@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0025.flac",
+    "text": "SHE SHALL HAVE YOUR MESSAGE ALL THAT I CAN DO TO PERSUADE HER SHALL BE DONE",
+    "tokens": [
+        9693,
+        36,
+        50163,
+        21515,
+        16592,
+        337,
+        1546,
+        4090,
+        8264,
+        11096,
+        14603,
+        314,
+        15628,
+        8410,
+        5390,
+        350,
+        4877,
+        52,
+        19266,
+        24906,
+        50163,
+        9348,
+        360,
+        11651
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0025"
+    }
+}

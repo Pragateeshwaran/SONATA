@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0010.flac",
+    "text": "MARTHA REMEMBERED THE CLOSED DOOR ON THE FIRST SURVEY THEY HADN'T ATTEMPTED OPENING IT",
+    "tokens": [
+        40569,
+        4221,
+        32,
+        22657,
+        28952,
+        1961,
+        3336,
+        7852,
+        48751,
+        8410,
+        1581,
+        6177,
+        3336,
+        31328,
+        41016,
+        6089,
+        56,
+        33302,
+        367,
+        2885,
+        45,
+        6,
+        51,
+        26195,
+        3620,
+        11571,
+        1961,
+        38303,
+        2751,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "136532",
+        "file_id": "251-136532-0010"
+    }
+}

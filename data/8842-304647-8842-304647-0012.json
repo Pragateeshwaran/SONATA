@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0012.flac",
+    "text": "DUE TO THEE THEIR PRAISE OF MAIDEN PURE OF TEEMING MOTHERHOOD",
+    "tokens": [
+        35,
+        8924,
+        5390,
+        3336,
+        36,
+        47278,
+        350,
+        3861,
+        24352,
+        3963,
+        8779,
+        2389,
+        1677,
+        350,
+        11335,
+        3963,
+        13368,
+        3620,
+        2751,
+        337,
+        31858,
+        39,
+        22808
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "304647",
+        "file_id": "8842-304647-0012"
+    }
+}

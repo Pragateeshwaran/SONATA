@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0013.flac",
+    "text": "SANCHO REPLIED THAT ALL THE TREES WERE FULL OF MEN'S FEET AND LEGS",
+    "tokens": [
+        36753,
+        44899,
+        45285,
+        19767,
+        14603,
+        11096,
+        3336,
+        43236,
+        1546,
+        370,
+        9338,
+        34958,
+        3963,
+        41597,
+        6,
+        50,
+        18630,
+        2767,
+        5357,
+        20978,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0013"
+    }
+}

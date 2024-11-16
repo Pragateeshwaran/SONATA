@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0013.flac",
+    "text": "I INQUIRED OF GEORGE WITH MY EYES STILL ON THIS FURTIVE WATCHER",
+    "tokens": [
+        40,
+        3268,
+        10917,
+        37819,
+        3963,
+        22319,
+        49697,
+        13315,
+        17615,
+        412,
+        43335,
+        3563,
+        8267,
+        6177,
+        12680,
+        376,
+        4261,
+        51,
+        9306,
+        16518,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0013"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0012.flac",
+    "text": "I'M HERE BECAUSE THE MATTER IS OF UTMOST IMPORTANCE AND BRANDD IS THE ONE I MUST SEE NOW STAND ASIDE",
+    "tokens": [
+        40,
+        6,
+        44,
+        15698,
+        347,
+        36600,
+        19108,
+        3336,
+        36775,
+        5781,
+        3180,
+        3963,
+        471,
+        15972,
+        10892,
+        30023,
+        9863,
+        19240,
+        5357,
+        11177,
+        6981,
+        35,
+        3180,
+        3336,
+        16329,
+        314,
+        17191,
+        31107,
+        20229,
+        49053,
+        7054,
+        14114
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0012"
+    }
+}

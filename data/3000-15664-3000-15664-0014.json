@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0014.flac",
+    "text": "IN SETTING OUT FROM STRAWBERRY VALLEY BY BEARING OFF TO THE NORTHWESTWARD A FEW MILES YOU MAY SEE",
+    "tokens": [
+        1268,
+        25823,
+        48996,
+        16289,
+        16034,
+        3563,
+        20530,
+        13246,
+        18276,
+        26173,
+        25173,
+        11050,
+        9348,
+        1503,
+        2751,
+        18562,
+        5390,
+        3336,
+        25273,
+        4221,
+        54,
+        6465,
+        39743,
+        317,
+        376,
+        6217,
+        31515,
+        1546,
+        7013,
+        26720,
+        31107
+    ],
+    "metadata": {
+        "speaker_id": "3000",
+        "chapter_id": "15664",
+        "file_id": "3000-15664-0014"
+    }
+}

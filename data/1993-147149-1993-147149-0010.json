@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0010.flac",
+    "text": "WISHING HIM SAID MARY IN A TONE OF INQUIRY",
+    "tokens": [
+        54,
+        18422,
+        2751,
+        45909,
+        14719,
+        2389,
+        337,
+        13153,
+        3268,
+        317,
+        309,
+        11651,
+        3963,
+        3268,
+        10917,
+        4663,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147149",
+        "file_id": "1993-147149-0010"
+    }
+}

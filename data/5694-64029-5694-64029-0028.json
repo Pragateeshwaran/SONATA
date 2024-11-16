@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0028.flac",
+    "text": "HE WAS WALKING ALONG WHEN ALL AT ONCE HE DROPPED DOWN AND DIED WITHOUT A STRUGGLE OR A GROAN",
+    "tokens": [
+        13909,
+        21725,
+        370,
+        28082,
+        2751,
+        8355,
+        18494,
+        42099,
+        11096,
+        5161,
+        6177,
+        5222,
+        11179,
+        10560,
+        3185,
+        47,
+        1961,
+        30320,
+        5357,
+        14766,
+        1961,
+        42881,
+        317,
+        19269,
+        7340,
+        38,
+        2538,
+        6375,
+        317,
+        10863,
+        46,
+        1565
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0028"
+    }
+}

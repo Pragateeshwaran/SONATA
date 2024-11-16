@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0006.flac",
+    "text": "THEN SHE TURNED TOWARDS THE QUARTER INDICATED AND DISAPPEARED ROUND THE LAUREL BUSHES",
+    "tokens": [
+        4221,
+        1677,
+        48052,
+        309,
+        27064,
+        1961,
+        309,
+        3913,
+        48294,
+        3336,
+        19604,
+        1503,
+        5781,
+        24413,
+        2149,
+        11617,
+        5357,
+        13954,
+        2969,
+        11401,
+        1503,
+        1961,
+        371,
+        15919,
+        3336,
+        9131,
+        11335,
+        43,
+        347,
+        27143,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0006"
+    }
+}

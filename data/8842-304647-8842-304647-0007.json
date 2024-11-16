@@ -1,0 +1,17 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0007.flac",
+    "text": "MOST WONDERFUL",
+    "tokens": [
+        44,
+        10892,
+        370,
+        1340,
+        14418,
+        46476
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "304647",
+        "file_id": "8842-304647-0007"
+    }
+}

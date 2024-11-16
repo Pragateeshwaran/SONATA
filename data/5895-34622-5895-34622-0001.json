@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0001.flac",
+    "text": "IN GWYNPLAINE EVIL THOUGHTS NEVER RIPENED AND HE HAD THEREFORE NO REMORSE",
+    "tokens": [
+        1268,
+        27164,
+        40760,
+        45710,
+        8881,
+        8696,
+        4146,
+        2320,
+        32632,
+        4694,
+        33602,
+        44967,
+        1677,
+        1961,
+        5357,
+        11179,
+        367,
+        2885,
+        34702,
+        30818,
+        8005,
+        22657,
+        1581,
+        5188
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0001"
+    }
+}

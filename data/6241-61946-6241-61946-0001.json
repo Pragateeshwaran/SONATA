@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0001.flac",
+    "text": "HANS OUR EXTRAORDINARY GUIDE WENT FIRST WALKING WITH A STEADY RAPID UNVARYING STEP",
+    "tokens": [
+        39,
+        15037,
+        30229,
+        27489,
+        3861,
+        12532,
+        1268,
+        13153,
+        19348,
+        14114,
+        370,
+        3525,
+        31328,
+        370,
+        28082,
+        2751,
+        13315,
+        317,
+        24483,
+        2885,
+        56,
+        371,
+        2969,
+        2389,
+        4725,
+        53,
+        13153,
+        2751,
+        49154
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0001"
+    }
+}

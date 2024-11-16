@@ -1,0 +1,16 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0023.flac",
+    "text": "HOT ROLLS",
+    "tokens": [
+        39,
+        2394,
+        15107,
+        3069,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "2078",
+        "chapter_id": "142845",
+        "file_id": "2078-142845-0023"
+    }
+}

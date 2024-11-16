@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0012.flac",
+    "text": "DON QUIXOTE DID SO AND ASKED HIM WHAT HAD HAPPENED TO HIM AND WHAT HE WAS AFRAID OF",
+    "tokens": [
+        41173,
+        1195,
+        10080,
+        55,
+        23051,
+        35697,
+        12809,
+        5357,
+        7054,
+        42,
+        1961,
+        45909,
+        25003,
+        367,
+        2885,
+        367,
+        24805,
+        1677,
+        1961,
+        5390,
+        45909,
+        5357,
+        25003,
+        11179,
+        21725,
+        12341,
+        3861,
+        2389,
+        3963
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0012"
+    }
+}

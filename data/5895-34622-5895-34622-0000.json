@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0000.flac",
+    "text": "WHAT TRUE THINGS ARE TOLD IN STORIES",
+    "tokens": [
+        32971,
+        26751,
+        2320,
+        20754,
+        15986,
+        309,
+        15173,
+        3268,
+        46366,
+        11015
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0000"
+    }
+}

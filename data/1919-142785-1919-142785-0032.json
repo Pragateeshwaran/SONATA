@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0032.flac",
+    "text": "ADD THE WINE AND IF NECESSARY A SEASONING OF CAYENNE WHEN IT WILL BE READY TO SERVE",
+    "tokens": [
+        29266,
+        3336,
+        370,
+        8881,
+        5357,
+        16876,
+        41804,
+        7597,
+        13153,
+        317,
+        7946,
+        36033,
+        2751,
+        3963,
+        327,
+        4792,
+        1677,
+        12161,
+        42099,
+        7283,
+        17682,
+        9348,
+        20832,
+        56,
+        5390,
+        18871,
+        6089
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0032"
+    }
+}

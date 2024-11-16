@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0024.flac",
+    "text": "I FEEL FOR YOU HERBERT HE SAID WARMLY",
+    "tokens": [
+        40,
+        18630,
+        3698,
+        7473,
+        7013,
+        24906,
+        13246,
+        51,
+        11179,
+        14719,
+        2389,
+        11837,
+        5805,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0024"
+    }
+}

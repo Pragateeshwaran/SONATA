@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0014.flac",
+    "text": "THEY SAT DOWN AND LISTENED IN SILENCE",
+    "tokens": [
+        10970,
+        56,
+        29020,
+        30320,
+        5357,
+        39498,
+        1677,
+        1961,
+        3268,
+        47551,
+        18310
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0014"
+    }
+}

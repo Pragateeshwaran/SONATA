@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0032.flac",
+    "text": "THEN THE POWERFUL TWIST THAT THRUST IT ASIDE IN AND UNDER THE GUARD",
+    "tokens": [
+        4221,
+        1677,
+        3336,
+        40295,
+        46476,
+        17306,
+        8808,
+        14603,
+        35383,
+        7759,
+        7283,
+        7054,
+        14114,
+        3268,
+        5357,
+        35219,
+        3336,
+        19348,
+        9795
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0032"
+    }
+}

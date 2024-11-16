@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0017.flac",
+    "text": "HOWEVER IF WE LOOK SHARP WE MAY BE ABLE TO DISCOVER ONE OF THESE SECRET WAYS",
+    "tokens": [
+        37181,
+        36,
+        5959,
+        16876,
+        12887,
+        48045,
+        6006,
+        36035,
+        12887,
+        26720,
+        9348,
+        9564,
+        2538,
+        5390,
+        13954,
+        8220,
+        5959,
+        16329,
+        3963,
+        48947,
+        10729,
+        26087,
+        34882,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0017"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0021.flac",
+    "text": "SHE LOOKED AT ME HER EYES FAIRLY BLAZING WITH THINGS SHE COULD NOT SAY",
+    "tokens": [
+        9693,
+        36,
+        48045,
+        1961,
+        5161,
+        11948,
+        24906,
+        412,
+        43335,
+        9677,
+        4663,
+        11319,
+        9878,
+        22778,
+        2751,
+        13315,
+        2320,
+        20754,
+        48052,
+        327,
+        24010,
+        5626,
+        45687
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0021"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0024.flac",
+    "text": "WHO IS THE WRANGLER THIS MORNING ASKED THE FOREMAN GLANCING ABOUT AT HIS MEN",
+    "tokens": [
+        41856,
+        3180,
+        3336,
+        11342,
+        1565,
+        8763,
+        1137,
+        12680,
+        35208,
+        15871,
+        7054,
+        42,
+        1961,
+        3336,
+        7473,
+        3620,
+        1565,
+        10188,
+        20940,
+        2751,
+        33478,
+        5161,
+        33700,
+        41597
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0024"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0025.flac",
+    "text": "I HAVE ONE GREAT PRIVILEGE",
+    "tokens": [
+        40,
+        21515,
+        16329,
+        37853,
+        4810,
+        3824,
+        41119,
+        8264
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0025"
+    }
+}

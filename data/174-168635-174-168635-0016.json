@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0016.flac",
+    "text": "HE PASSED HOURS IN WATCHING HER DRESSING AND UNDRESSING HER DOLL AND IN LISTENING TO HER PRATTLE",
+    "tokens": [
+        13909,
+        41752,
+        1961,
+        29068,
+        6998,
+        3268,
+        16518,
+        2751,
+        24906,
+        10560,
+        7597,
+        2751,
+        5357,
+        4725,
+        7707,
+        7597,
+        2751,
+        24906,
+        8410,
+        3069,
+        5357,
+        3268,
+        39498,
+        1677,
+        2751,
+        5390,
+        24906,
+        4810,
+        35455
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "168635",
+        "file_id": "174-168635-0016"
+    }
+}

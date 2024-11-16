@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0012.flac",
+    "text": "A MAN WAS LOOKING IN FROM THE CORRIDOR BEHIND AT THE FOUR PERSONS WE WERE JUST DISCUSSING",
+    "tokens": [
+        32,
+        17254,
+        21725,
+        48045,
+        2751,
+        3268,
+        16034,
+        3336,
+        23929,
+        49,
+        2389,
+        1581,
+        9348,
+        39,
+        12115,
+        5161,
+        3336,
+        376,
+        11698,
+        350,
+        4877,
+        19213,
+        12887,
+        370,
+        9338,
+        25848,
+        13954,
+        34,
+        32835,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0012"
+    }
+}

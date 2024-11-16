@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0026.flac",
+    "text": "SHE PRESSED HIS HAND GENTLY IN GRATITUDE WEREN'T YOU HAPPY THEN AT ALL",
+    "tokens": [
+        9693,
+        36,
+        44310,
+        1961,
+        33700,
+        367,
+        6981,
+        402,
+        3525,
+        11319,
+        3268,
+        10863,
+        1404,
+        2043,
+        52,
+        7206,
+        370,
+        1137,
+        1677,
+        6,
+        51,
+        7013,
+        367,
+        24805,
+        56,
+        42243,
+        5161,
+        11096
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0026"
+    }
+}

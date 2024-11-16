@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0006.flac",
+    "text": "MEANWHILE TWO CHILDREN CAME TO BLESS THE HAPPY UNION OF NEWSOME AND HIS LOVELY INDIAN WIFE",
+    "tokens": [
+        11682,
+        1565,
+        12418,
+        41119,
+        35288,
+        5870,
+        4146,
+        7707,
+        1677,
+        327,
+        10067,
+        5390,
+        9878,
+        7597,
+        3336,
+        367,
+        24805,
+        56,
+        4725,
+        2849,
+        3963,
+        28840,
+        13649,
+        5357,
+        33700,
+        406,
+        8874,
+        30943,
+        24413,
+        16868,
+        370,
+        29150
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0006"
+    }
+}

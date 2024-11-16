@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0025.flac",
+    "text": "PUT IN THE OVEN AND BROWN TO A GOLDEN COLOR",
+    "tokens": [
+        30076,
+        3268,
+        3336,
+        440,
+        28290,
+        5357,
+        11177,
+        14165,
+        5390,
+        317,
+        44428,
+        1677,
+        20444,
+        1581
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130726",
+        "file_id": "652-130726-0025"
+    }
+}

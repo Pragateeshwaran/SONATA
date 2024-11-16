@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0019.flac",
+    "text": "THE FIRST HOWLS WERE TAKEN UP AND ECHOED AND WITH QUICKENING REPETITIONS",
+    "tokens": [
+        10970,
+        31328,
+        29630,
+        6561,
+        370,
+        9338,
+        309,
+        10206,
+        1677,
+        15958,
+        5357,
+        412,
+        44899,
+        1961,
+        5357,
+        13315,
+        19604,
+        11860,
+        1677,
+        2751,
+        4526,
+        47731,
+        2043,
+        11053
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0019"
+    }
+}

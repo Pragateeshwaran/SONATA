@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0013.flac",
+    "text": "IT IT HASN'T ALWAYS MADE YOU MISERABLE HAS IT",
+    "tokens": [
+        2043,
+        7283,
+        33930,
+        45,
+        6,
+        51,
+        49576,
+        337,
+        19266,
+        7013,
+        50029,
+        1137,
+        17534,
+        33930,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0013"
+    }
+}

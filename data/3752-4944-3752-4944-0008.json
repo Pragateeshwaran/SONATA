@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0008.flac",
+    "text": "SO HE'S A FRIEND OF YOURS EH",
+    "tokens": [
+        15821,
+        11179,
+        6,
+        50,
+        317,
+        48167,
+        10619,
+        3963,
+        7013,
+        6998,
+        412,
+        39
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0008"
+    }
+}

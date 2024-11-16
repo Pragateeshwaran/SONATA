@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0023.flac",
+    "text": "THE ROAD WAS CLEAR AND WHITE AND THE GROOM'S THREE BLACKS WENT LIKE THE WIND",
+    "tokens": [
+        10970,
+        15107,
+        2885,
+        21725,
+        30301,
+        1503,
+        5357,
+        44925,
+        5357,
+        3336,
+        10863,
+        46,
+        2662,
+        6,
+        50,
+        48697,
+        31963,
+        50,
+        370,
+        3525,
+        34178,
+        3336,
+        370,
+        12115
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0023"
+    }
+}

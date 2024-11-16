@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0009.flac",
+    "text": "ONE COULD SEE THAT HE WAS VERY MUCH WRAPPED UP IN HIS OFFSPRING",
+    "tokens": [
+        11651,
+        327,
+        24010,
+        31107,
+        14603,
+        11179,
+        21725,
+        29550,
+        45859,
+        11342,
+        24805,
+        1961,
+        15958,
+        3268,
+        33700,
+        18562,
+        4303,
+        49,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0009"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0006.flac",
+    "text": "I KNOW I AM JUST AWFUL JIM I WAS SO SCARED",
+    "tokens": [
+        40,
+        35876,
+        314,
+        3001,
+        25848,
+        14356,
+        46476,
+        449,
+        3955,
+        314,
+        21725,
+        12809,
+        6374,
+        1503,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0006"
+    }
+}

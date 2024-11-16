@@ -1,0 +1,16 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0024.flac",
+    "text": "AFTER THE VERY FIRST",
+    "tokens": [
+        8579,
+        5781,
+        3336,
+        29550,
+        31328
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0024"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0008.flac",
+    "text": "WHEN HIS PUBLIC SERVICES WERE FINISHED HE STARTED IN COMPANY WITH HIS WIFE SON JESSE AND A FEW FRIENDS",
+    "tokens": [
+        12418,
+        1677,
+        33700,
+        44731,
+        49254,
+        370,
+        9338,
+        33642,
+        18422,
+        1961,
+        11179,
+        33303,
+        1961,
+        3268,
+        24301,
+        31827,
+        13315,
+        33700,
+        370,
+        29150,
+        311,
+        1340,
+        449,
+        1546,
+        5188,
+        5357,
+        317,
+        376,
+        6217,
+        48167,
+        1677,
+        5258
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "111771",
+        "file_id": "7850-111771-0008"
+    }
+}

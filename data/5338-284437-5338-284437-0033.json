@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0033.flac",
+    "text": "I'LL LOOK IN THE GREAT BOOK FIRST",
+    "tokens": [
+        40,
+        6,
+        3069,
+        48045,
+        3268,
+        3336,
+        37853,
+        39633,
+        31328
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0033"
+    }
+}

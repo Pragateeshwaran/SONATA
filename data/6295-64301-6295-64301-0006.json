@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0006.flac",
+    "text": "WHEN HE REACHED THE SUBURBS THE LIGHT OF HOMES WAS SHINING THROUGH CURTAINS OF ALL COLORS",
+    "tokens": [
+        12418,
+        1677,
+        11179,
+        4526,
+        16219,
+        1961,
+        3336,
+        28932,
+        4261,
+        4462,
+        3336,
+        406,
+        9947,
+        3963,
+        367,
+        2662,
+        1546,
+        21725,
+        6006,
+        1268,
+        2751,
+        35383,
+        32632,
+        327,
+        4261,
+        5603,
+        20913,
+        3963,
+        11096,
+        20444,
+        20673
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0006"
+    }
+}

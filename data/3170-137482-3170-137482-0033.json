@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0033.flac",
+    "text": "THE THREE FRIENDS WERE ASTOUNDED",
+    "tokens": [
+        10970,
+        48697,
+        48167,
+        1677,
+        5258,
+        370,
+        9338,
+        29273,
+        15919,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "3170",
+        "chapter_id": "137482",
+        "file_id": "3170-137482-0033"
+    }
+}

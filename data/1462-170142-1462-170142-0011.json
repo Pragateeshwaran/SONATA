@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0011.flac",
+    "text": "HE PULLED UP A WINDOW AS IF THE AIR WERE HEAVY",
+    "tokens": [
+        13909,
+        350,
+        9994,
+        1961,
+        15958,
+        317,
+        370,
+        12115,
+        3913,
+        7054,
+        16876,
+        3336,
+        31600,
+        370,
+        9338,
+        11179,
+        10116,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0011"
+    }
+}

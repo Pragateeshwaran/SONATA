@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0000.flac",
+    "text": "IT WAS ESTABLISHED AT SOUTHWARK",
+    "tokens": [
+        2043,
+        21725,
+        17160,
+        6242,
+        43,
+        18422,
+        1961,
+        5161,
+        30065,
+        4221,
+        54,
+        14175
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0000"
+    }
+}

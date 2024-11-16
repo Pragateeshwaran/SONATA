@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0016.flac",
+    "text": "WHO MAY CONDEMN HIS SUPERSTITION",
+    "tokens": [
+        41856,
+        26720,
+        7102,
+        39429,
+        45,
+        33700,
+        33088,
+        2257,
+        17941
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43358",
+        "file_id": "5536-43358-0016"
+    }
+}

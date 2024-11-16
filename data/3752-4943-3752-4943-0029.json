@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0029.flac",
+    "text": "I WON'T HAVE MY MEN KNOCKED UP WITH FLOGGING THESE RASCALS",
+    "tokens": [
+        40,
+        370,
+        1340,
+        6,
+        51,
+        21515,
+        17615,
+        41597,
+        22466,
+        11290,
+        1961,
+        15958,
+        13315,
+        9977,
+        7730,
+        38,
+        2751,
+        48947,
+        371,
+        42643,
+        23333
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0029"
+    }
+}

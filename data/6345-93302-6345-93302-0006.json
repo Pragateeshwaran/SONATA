@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0006.flac",
+    "text": "THE SETTING OF THE SCENE SEEMED TO HER ALL IMPORTANT",
+    "tokens": [
+        10970,
+        25823,
+        48996,
+        3963,
+        3336,
+        6374,
+        39267,
+        7946,
+        3620,
+        1961,
+        5390,
+        24906,
+        11096,
+        30023,
+        9863,
+        8643
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93302",
+        "file_id": "6345-93302-0006"
+    }
+}

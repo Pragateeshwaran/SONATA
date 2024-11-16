@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0000.flac",
+    "text": "WE REMAINED SEVERAL MONTHS BUT SOON WE WERE ON THE TRAMP AGAIN",
+    "tokens": [
+        8845,
+        22657,
+        29833,
+        1961,
+        7946,
+        5959,
+        1847,
+        25000,
+        4221,
+        50,
+        21728,
+        12809,
+        1340,
+        12887,
+        370,
+        9338,
+        6177,
+        3336,
+        7579,
+        23518,
+        36218,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0000"
+    }
+}

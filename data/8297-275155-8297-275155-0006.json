@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0006.flac",
+    "text": "MISSUS PRESTY WAS AT HOME SHE WAS REPORTED TO BE IN THE GARDEN OF THE HOTEL",
+    "tokens": [
+        44,
+        16744,
+        2937,
+        4810,
+        6465,
+        56,
+        21725,
+        5161,
+        41779,
+        48052,
+        21725,
+        39099,
+        1961,
+        5390,
+        9348,
+        3268,
+        3336,
+        402,
+        9795,
+        1677,
+        3963,
+        3336,
+        44607,
+        3698
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275155",
+        "file_id": "8297-275155-0006"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0035.flac",
+    "text": "HE SLEEPS AT THE BACK AND NORTH HURRIED OFF",
+    "tokens": [
+        13909,
+        311,
+        2538,
+        36,
+        3705,
+        5161,
+        3336,
+        28767,
+        5357,
+        25273,
+        4221,
+        367,
+        4261,
+        7112,
+        1961,
+        18562
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0035"
+    }
+}

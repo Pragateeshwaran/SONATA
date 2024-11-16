@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0011.flac",
+    "text": "IT IS A FEARFUL NIGHT TO SEND AWAY A BEGGAR SAID THE ELDEST SISTER WHILE THEY WERE EATING",
+    "tokens": [
+        2043,
+        3180,
+        317,
+        376,
+        17133,
+        46476,
+        37707,
+        5390,
+        311,
+        10619,
+        14356,
+        4792,
+        317,
+        347,
+        7156,
+        38,
+        1503,
+        14719,
+        2389,
+        3336,
+        412,
+        11163,
+        6465,
+        311,
+        41517,
+        7655,
+        41119,
+        33302,
+        370,
+        9338,
+        412,
+        33881
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0011"
+    }
+}

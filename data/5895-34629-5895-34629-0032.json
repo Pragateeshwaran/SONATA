@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0032.flac",
+    "text": "HE WOULD MAKE A FAMOUS SCOUNDREL",
+    "tokens": [
+        13909,
+        370,
+        24010,
+        39134,
+        317,
+        42129,
+        20958,
+        6374,
+        15919,
+        16448
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0032"
+    }
+}

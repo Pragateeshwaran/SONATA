@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0016.flac",
+    "text": "DO HIM GOOD CURSE HIM",
+    "tokens": [
+        18227,
+        45909,
+        21090,
+        327,
+        4261,
+        5188,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0016"
+    }
+}

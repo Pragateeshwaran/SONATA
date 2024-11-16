@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0008.flac",
+    "text": "OF COURSE HILDA IS IRISH THE BURGOYNES HAVE BEEN STAGE PEOPLE FOR GENERATIONS AND SHE HAS THE IRISH VOICE",
+    "tokens": [
+        19238,
+        37384,
+        5188,
+        367,
+        4146,
+        5631,
+        3180,
+        14826,
+        18422,
+        3336,
+        45604,
+        11230,
+        56,
+        37379,
+        21515,
+        9348,
+        1677,
+        3563,
+        11879,
+        36388,
+        7473,
+        24700,
+        1137,
+        18421,
+        5357,
+        48052,
+        33930,
+        3336,
+        14826,
+        18422,
+        30578,
+        8476
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0008"
+    }
+}

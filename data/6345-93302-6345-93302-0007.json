@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0007.flac",
+    "text": "IT WAS BITTERLY COLD BUT THE EMBANKMENT WAS MORE ROMANTIC THAN A RAILWAY CARRIAGE",
+    "tokens": [
+        2043,
+        21725,
+        36992,
+        5781,
+        11319,
+        327,
+        15173,
+        21728,
+        3336,
+        412,
+        10744,
+        15154,
+        10979,
+        21725,
+        12011,
+        21224,
+        8643,
+        2149,
+        2320,
+        1565,
+        317,
+        17926,
+        4146,
+        27285,
+        17368,
+        49,
+        3539,
+        8264
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93302",
+        "file_id": "6345-93302-0007"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0032.flac",
+    "text": "AND YET IF YOU COULD ONLY SEE THE BENIGN SMILE OF THE ORIGINAL",
+    "tokens": [
+        6981,
+        575,
+        2767,
+        16876,
+        7013,
+        327,
+        24010,
+        22224,
+        31107,
+        3336,
+        44849,
+        16284,
+        311,
+        8895,
+        2538,
+        3963,
+        3336,
+        43901,
+        17961
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0032"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0001.flac",
+    "text": "THEY HAD ONE NIGHT IN WHICH TO PREPARE FOR DEATH",
+    "tokens": [
+        10970,
+        56,
+        367,
+        2885,
+        16329,
+        37707,
+        3268,
+        7655,
+        20739,
+        5390,
+        22814,
+        47,
+        12203,
+        7473,
+        5550,
+        12599
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0001"
+    }
+}

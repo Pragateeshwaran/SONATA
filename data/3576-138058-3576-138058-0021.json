@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0021.flac",
+    "text": "THEY MADE HASTE TO OVERTAKE THEM WHICH AS THE PARTY MOVED SLOWLY THEY WERE ABLE TO DO WITH EASE",
+    "tokens": [
+        10970,
+        56,
+        337,
+        19266,
+        33930,
+        9328,
+        5390,
+        28729,
+        5603,
+        7336,
+        44788,
+        7655,
+        20739,
+        7054,
+        3336,
+        16652,
+        56,
+        28184,
+        1961,
+        12419,
+        3913,
+        11319,
+        33302,
+        370,
+        9338,
+        9564,
+        2538,
+        5390,
+        8410,
+        13315,
+        412,
+        11159
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0021"
+    }
+}

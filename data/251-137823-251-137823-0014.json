@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0014.flac",
+    "text": "THEY PICKED THEIR WAY THROUGH THE WRECKAGE AND EMERGED ON A SCENE OF FRIGHTFUL DESTRUCTION",
+    "tokens": [
+        10970,
+        56,
+        350,
+        11860,
+        1961,
+        47278,
+        34882,
+        35383,
+        32632,
+        3336,
+        370,
+        38827,
+        42,
+        11879,
+        5357,
+        17228,
+        49837,
+        1961,
+        6177,
+        317,
+        6374,
+        39267,
+        3963,
+        8782,
+        9947,
+        46476,
+        22196,
+        5446,
+        18415,
+        2849
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0014"
+    }
+}

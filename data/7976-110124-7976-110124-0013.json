@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0013.flac",
+    "text": "THE TWO ELDEST ATE THEIR APPLES BUT THE YOUNGEST COULD NOT EAT THAT NIGHT SHE THREW THE APPLE AWAY",
+    "tokens": [
+        10970,
+        35288,
+        412,
+        11163,
+        6465,
+        5161,
+        36,
+        47278,
+        3486,
+        6489,
+        1546,
+        21728,
+        3336,
+        7013,
+        10503,
+        6465,
+        327,
+        24010,
+        5626,
+        412,
+        1404,
+        14603,
+        37707,
+        48052,
+        2320,
+        2200,
+        54,
+        3336,
+        3486,
+        16437,
+        14356,
+        4792
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0013"
+    }
+}

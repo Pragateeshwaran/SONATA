@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0011.flac",
+    "text": "I REMAINED AWAKE ALL NIGHT TALKING WITH A COMRADE WHO SHARED MY BLANKET WITH ME POOR JIMMY KING",
+    "tokens": [
+        40,
+        22657,
+        29833,
+        1961,
+        14356,
+        32,
+        7336,
+        11096,
+        37707,
+        309,
+        28082,
+        2751,
+        13315,
+        317,
+        9440,
+        49,
+        19266,
+        19494,
+        39225,
+        1961,
+        17615,
+        9878,
+        15154,
+        2767,
+        13315,
+        11948,
+        19922,
+        1581,
+        449,
+        3955,
+        26708,
+        32957
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0011"
+    }
+}

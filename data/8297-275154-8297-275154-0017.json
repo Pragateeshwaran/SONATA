@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0017.flac",
+    "text": "OH WHY DID I ENGAGE THAT GOVERNESS",
+    "tokens": [
+        12096,
+        44463,
+        35697,
+        314,
+        36924,
+        11879,
+        14603,
+        10351,
+        5959,
+        31097
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0017"
+    }
+}

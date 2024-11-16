@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0002.flac",
+    "text": "THIS ISN'T PART OF YOUR TESTING ROUTINE IS IT",
+    "tokens": [
+        43559,
+        3180,
+        45,
+        6,
+        51,
+        16652,
+        3963,
+        16592,
+        43001,
+        2751,
+        371,
+        12425,
+        8881,
+        3180,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0002"
+    }
+}

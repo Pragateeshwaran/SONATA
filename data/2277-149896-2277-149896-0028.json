@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0028.flac",
+    "text": "HE PUT ON HIS HAT AND LOOKED AROUND FOR HIS UMBRELLA",
+    "tokens": [
+        13909,
+        350,
+        3843,
+        6177,
+        33700,
+        367,
+        1404,
+        5357,
+        48045,
+        1961,
+        5923,
+        15919,
+        7473,
+        33700,
+        471,
+        10744,
+        2200,
+        3069,
+        32
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0028"
+    }
+}

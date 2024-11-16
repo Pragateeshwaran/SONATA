@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0007.flac",
+    "text": "THAT'S RIGHT MY BRAVE FIRST TENNESSEE GIVE EM HAIL COLUMBIA",
+    "tokens": [
+        4221,
+        1404,
+        6,
+        50,
+        33621,
+        17615,
+        39947,
+        6089,
+        31328,
+        309,
+        34571,
+        1546,
+        36078,
+        402,
+        9306,
+        17228,
+        14558,
+        4146,
+        20444,
+        5883,
+        3483,
+        32
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0007"
+    }
+}

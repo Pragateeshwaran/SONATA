@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0011.flac",
+    "text": "HE GREW RESTLESS AS HE RUMINATED AND THEN DECIDED THAT PERHAPS IT WAS NOTHING",
+    "tokens": [
+        13909,
+        19928,
+        54,
+        30617,
+        48481,
+        7054,
+        11179,
+        371,
+        5883,
+        1268,
+        11617,
+        5357,
+        42243,
+        27196,
+        2389,
+        1961,
+        14603,
+        19878,
+        39,
+        44580,
+        7283,
+        21725,
+        5626,
+        39,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0011"
+    }
+}

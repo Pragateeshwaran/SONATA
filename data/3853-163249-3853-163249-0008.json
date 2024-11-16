@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0008.flac",
+    "text": "MOTHER SAYS I'VE GONE BACK TO THE TIME BEFORE WE LOST LETTY AND I SOMETIMES FEEL AS IF I HAD",
+    "tokens": [
+        44,
+        31858,
+        45687,
+        50,
+        314,
+        6,
+        6089,
+        402,
+        11651,
+        28767,
+        5390,
+        3336,
+        20460,
+        38331,
+        12887,
+        406,
+        10892,
+        37994,
+        9936,
+        5357,
+        314,
+        42121,
+        2767,
+        3955,
+        1546,
+        18630,
+        3698,
+        7054,
+        16876,
+        314,
+        367,
+        2885
+    ],
+    "metadata": {
+        "speaker_id": "3853",
+        "chapter_id": "163249",
+        "file_id": "3853-163249-0008"
+    }
+}

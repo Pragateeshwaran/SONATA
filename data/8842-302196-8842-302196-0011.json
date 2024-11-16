@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0011.flac",
+    "text": "A WORD SHOULD BE SAID HERE OF THE TITLE OF DANTE'S AUTOBIOGRAPHY",
+    "tokens": [
+        32,
+        370,
+        12532,
+        40312,
+        9348,
+        14719,
+        2389,
+        15698,
+        3963,
+        3336,
+        37977,
+        2538,
+        3963,
+        360,
+        8643,
+        36,
+        6,
+        50,
+        47044,
+        46,
+        3483,
+        49656,
+        31300,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302196",
+        "file_id": "8842-302196-0011"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0019.flac",
+    "text": "THE OLD MAN MADE A SIGN IN THE AFFIRMATIVE",
+    "tokens": [
+        10970,
+        440,
+        11163,
+        17254,
+        337,
+        19266,
+        317,
+        36771,
+        3268,
+        3336,
+        317,
+        5777,
+        4663,
+        44,
+        37045
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0019"
+    }
+}

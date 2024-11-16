@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0010.flac",
+    "text": "VERY SORRY YOUR REVERENCE BUT YOUR REVERENCE KNOWS THAT I DAREN'T DO SUCH A THING",
+    "tokens": [
+        5959,
+        56,
+        311,
+        1581,
+        18276,
+        16592,
+        4526,
+        5959,
+        18310,
+        21728,
+        16592,
+        4526,
+        5959,
+        18310,
+        22466,
+        22845,
+        14603,
+        314,
+        41649,
+        1677,
+        6,
+        51,
+        8410,
+        13558,
+        3398,
+        317,
+        2320,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0010"
+    }
+}

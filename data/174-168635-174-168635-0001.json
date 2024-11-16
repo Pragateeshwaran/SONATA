@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0001.flac",
+    "text": "THE HEART OF THAT EX CONVICT WAS FULL OF VIRGINITY",
+    "tokens": [
+        10970,
+        11179,
+        7227,
+        3963,
+        14603,
+        7788,
+        7102,
+        53,
+        18379,
+        21725,
+        34958,
+        3963,
+        569,
+        4663,
+        38,
+        1268,
+        9050
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "168635",
+        "file_id": "174-168635-0001"
+    }
+}

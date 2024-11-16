@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0002.flac",
+    "text": "SAINT PAUL IS A SAINT ONLY WITH EXTENUATING CIRCUMSTANCES",
+    "tokens": [
+        4090,
+        12394,
+        8147,
+        6239,
+        3180,
+        317,
+        14719,
+        12394,
+        22224,
+        13315,
+        27489,
+        1677,
+        52,
+        33881,
+        327,
+        49060,
+        5883,
+        2257,
+        20940,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0002"
+    }
+}

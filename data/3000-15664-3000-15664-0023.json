@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0023.flac",
+    "text": "MOUNT BREMER IS THE MOST NOTED STRONGHOLD OF THE SHEEP IN THE WHOLE SHASTA REGION",
+    "tokens": [
+        44,
+        28270,
+        29377,
+        29296,
+        3180,
+        3336,
+        337,
+        10892,
+        5626,
+        1961,
+        19269,
+        1340,
+        17511,
+        15173,
+        3963,
+        3336,
+        6006,
+        35238,
+        3268,
+        3336,
+        19494,
+        2538,
+        6006,
+        1921,
+        5603,
+        23337,
+        2849
+    ],
+    "metadata": {
+        "speaker_id": "3000",
+        "chapter_id": "15664",
+        "file_id": "3000-15664-0023"
+    }
+}

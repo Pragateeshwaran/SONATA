@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0022.flac",
+    "text": "THE TWO DOCTORS THEREFORE ENTERED THE ROOM ALONE",
+    "tokens": [
+        10970,
+        35288,
+        8410,
+        4177,
+        20673,
+        34702,
+        30818,
+        46962,
+        1961,
+        3336,
+        15107,
+        2662,
+        8355,
+        11651
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0022"
+    }
+}

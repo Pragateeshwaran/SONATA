@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0041.flac",
+    "text": "HOW DELIGHTFUL THE GRASS SMELLS",
+    "tokens": [
+        37181,
+        28163,
+        9947,
+        46476,
+        3336,
+        10863,
+        10705,
+        9447,
+        23304,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0041"
+    }
+}

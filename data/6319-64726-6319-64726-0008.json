@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0008.flac",
+    "text": "THE YOUNG PRINCE AT THESE WORDS FELT HIMSELF ON FIRE",
+    "tokens": [
+        10970,
+        7013,
+        10503,
+        4810,
+        1268,
+        5222,
+        5161,
+        48947,
+        21881,
+        5258,
+        376,
+        3698,
+        51,
+        45909,
+        50,
+        37738,
+        6177,
+        39110
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "64726",
+        "file_id": "6319-64726-0008"
+    }
+}

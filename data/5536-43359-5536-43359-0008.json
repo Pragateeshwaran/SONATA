@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0008.flac",
+    "text": "WHEN SHE FELL THE WHOLE RACE FELL WITH HER",
+    "tokens": [
+        12418,
+        1677,
+        48052,
+        18630,
+        3069,
+        3336,
+        19494,
+        2538,
+        371,
+        11598,
+        18630,
+        3069,
+        13315,
+        24906
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43359",
+        "file_id": "5536-43359-0008"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0021.flac",
+    "text": "THESE VAST BUILDINGS WHAT WERE THEY",
+    "tokens": [
+        4221,
+        33635,
+        569,
+        11262,
+        20571,
+        26761,
+        20754,
+        25003,
+        370,
+        9338,
+        33302
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0021"
+    }
+}

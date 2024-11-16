@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0015.flac",
+    "text": "BEFORE THE DAY CLOSED THE GARDENER CAME WHISTLING FROM HIS FARM WORK TO LOOK OVER HIS PRETTY CHARGES",
+    "tokens": [
+        12473,
+        30818,
+        3336,
+        24644,
+        7852,
+        48751,
+        3336,
+        402,
+        9795,
+        1677,
+        1137,
+        327,
+        10067,
+        7655,
+        8808,
+        43,
+        2751,
+        16034,
+        33700,
+        376,
+        33456,
+        30936,
+        5390,
+        48045,
+        28729,
+        33700,
+        22814,
+        51,
+        9936,
+        28521,
+        48075
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "275224",
+        "file_id": "6319-275224-0015"
+    }
+}

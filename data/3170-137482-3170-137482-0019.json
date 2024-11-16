@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0019.flac",
+    "text": "I PICKED IT UP AND COMING UP TO HIM JUST AS HE WAS GOING DOWN THE STEPS I HANDED IT TO HIM",
+    "tokens": [
+        40,
+        350,
+        11860,
+        1961,
+        7283,
+        15958,
+        5357,
+        9440,
+        2751,
+        15958,
+        5390,
+        45909,
+        25848,
+        7054,
+        11179,
+        21725,
+        10351,
+        2751,
+        30320,
+        3336,
+        24483,
+        3705,
+        314,
+        367,
+        6981,
+        1961,
+        7283,
+        5390,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "3170",
+        "chapter_id": "137482",
+        "file_id": "3170-137482-0019"
+    }
+}

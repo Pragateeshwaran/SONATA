@@ -1,0 +1,16 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0014.flac",
+    "text": "ARE YOU A GIANT",
+    "tokens": [
+        12203,
+        7013,
+        317,
+        30616,
+        8643
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0014"
+    }
+}

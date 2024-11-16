@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0010.flac",
+    "text": "THE MENS SANA MUST HAVE A CORPUS SANUM TO INHABIT",
+    "tokens": [
+        10970,
+        337,
+        16938,
+        311,
+        31574,
+        17191,
+        21515,
+        317,
+        23929,
+        47,
+        2937,
+        37376,
+        5883,
+        5390,
+        3268,
+        39,
+        6242,
+        2043
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9006",
+        "file_id": "2902-9006-0010"
+    }
+}

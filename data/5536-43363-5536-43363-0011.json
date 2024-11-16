@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0011.flac",
+    "text": "THIS WAS CARRIED OUT TO THE LETTER",
+    "tokens": [
+        43559,
+        21725,
+        17368,
+        7112,
+        1961,
+        16289,
+        5390,
+        3336,
+        37994,
+        5781
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43363",
+        "file_id": "5536-43363-0011"
+    }
+}

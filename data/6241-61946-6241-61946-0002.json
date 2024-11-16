@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0002.flac",
+    "text": "OUR TWO HORSES WITH THE LUGGAGE FOLLOWED OF THEIR OWN ACCORD WITHOUT REQUIRING WHIP OR SPUR",
+    "tokens": [
+        11698,
+        35288,
+        367,
+        20673,
+        1546,
+        13315,
+        3336,
+        406,
+        7340,
+        38,
+        11879,
+        11895,
+        44765,
+        1961,
+        3963,
+        47278,
+        47672,
+        15859,
+        12532,
+        42881,
+        4526,
+        10917,
+        4663,
+        2751,
+        7655,
+        4061,
+        6375,
+        6226,
+        4261
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0002"
+    }
+}

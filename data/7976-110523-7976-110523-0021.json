@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0021.flac",
+    "text": "THEN THEY BEGAN TO RUN AND RUSHING INTO THE HOUSE THEY FELL UPON THEIR FATHER'S NECK",
+    "tokens": [
+        4221,
+        1677,
+        33302,
+        347,
+        7156,
+        1565,
+        5390,
+        32494,
+        5357,
+        371,
+        27143,
+        2751,
+        39319,
+        3336,
+        46586,
+        33302,
+        18630,
+        3069,
+        15958,
+        1340,
+        47278,
+        376,
+        45226,
+        6,
+        50,
+        399,
+        25171
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110523",
+        "file_id": "7976-110523-0021"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0025.flac",
+    "text": "THE LOYAL FRENZY FELL UPON THE THREE QUIET WOMEN AND THEY COULD NOT DO TOO MUCH FOR THEIR COUNTRY",
+    "tokens": [
+        10970,
+        17579,
+        56,
+        1847,
+        8782,
+        1677,
+        57,
+        56,
+        18630,
+        3069,
+        15958,
+        1340,
+        3336,
+        48697,
+        1195,
+        10080,
+        2767,
+        45386,
+        1677,
+        5357,
+        33302,
+        327,
+        24010,
+        5626,
+        8410,
+        5390,
+        46,
+        45859,
+        7473,
+        47278,
+        31404,
+        40405
+    ],
+    "metadata": {
+        "speaker_id": "3853",
+        "chapter_id": "163249",
+        "file_id": "3853-163249-0025"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0025.flac",
+    "text": "A SOB LIKE A BIRD NEW BORN BURST FROM MARY'S BOSOM",
+    "tokens": [
+        32,
+        311,
+        9864,
+        34178,
+        317,
+        347,
+        46833,
+        12682,
+        347,
+        30649,
+        45604,
+        2257,
+        16034,
+        337,
+        13153,
+        6,
+        50,
+        347,
+        2640,
+        2662
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0025"
+    }
+}

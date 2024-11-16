@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0028.flac",
+    "text": "THERE'S A KNOCKER IF NONE OF EM HAVEN'T TWISTED IT OFF",
+    "tokens": [
+        4221,
+        9338,
+        6,
+        50,
+        317,
+        22466,
+        11290,
+        1137,
+        16876,
+        399,
+        11651,
+        3963,
+        17228,
+        367,
+        10116,
+        1677,
+        6,
+        51,
+        17306,
+        8808,
+        1961,
+        7283,
+        18562
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0028"
+    }
+}

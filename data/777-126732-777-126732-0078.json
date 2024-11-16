@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0078.flac",
+    "text": "I WOULDN'T GIVE A HALFPENNY FOR THE WHOLE LOT",
+    "tokens": [
+        40,
+        370,
+        24010,
+        45,
+        6,
+        51,
+        402,
+        9306,
+        317,
+        42968,
+        5837,
+        1677,
+        12805,
+        7473,
+        3336,
+        19494,
+        2538,
+        30314
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0078"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0056.flac",
+    "text": "THE GOVERNMENT MAY GO TO AND YOU TOO ROARED BURGESS GET OUT",
+    "tokens": [
+        10970,
+        10351,
+        5959,
+        45,
+        10979,
+        26720,
+        10351,
+        5390,
+        5357,
+        7013,
+        5390,
+        46,
+        15107,
+        1503,
+        1961,
+        45604,
+        38,
+        7597,
+        17151,
+        16289
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0056"
+    }
+}

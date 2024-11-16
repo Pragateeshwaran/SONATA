@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0016.flac",
+    "text": "BUT FOR THE SIGHT THAT AWAITED HIM HE WAS NOT PREPARED AT ALL",
+    "tokens": [
+        47526,
+        7473,
+        3336,
+        311,
+        9947,
+        14603,
+        14356,
+        32,
+        22061,
+        45909,
+        11179,
+        21725,
+        5626,
+        22814,
+        27082,
+        1961,
+        5161,
+        11096
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "275224",
+        "file_id": "6319-275224-0016"
+    }
+}

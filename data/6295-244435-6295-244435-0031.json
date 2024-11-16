@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0031.flac",
+    "text": "THE AIR TOO WAS UNLIKE THAT OF SOUTH CAROLINA THERE WAS A SHARPER TANG TO IT",
+    "tokens": [
+        10970,
+        31600,
+        5390,
+        46,
+        21725,
+        4725,
+        31271,
+        7336,
+        14603,
+        3963,
+        30065,
+        4221,
+        17368,
+        3535,
+        28893,
+        34702,
+        21725,
+        317,
+        39225,
+        18973,
+        309,
+        15567,
+        5390,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0031"
+    }
+}

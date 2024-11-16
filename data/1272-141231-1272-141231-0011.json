@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0011.flac",
+    "text": "THE OTHER VOICE SNAPPED WITH A HARSH URGENCY CLEARLY USED TO COMMAND",
+    "tokens": [
+        10970,
+        25401,
+        30578,
+        8476,
+        11346,
+        24805,
+        1961,
+        13315,
+        317,
+        43638,
+        9693,
+        37902,
+        38,
+        45155,
+        30301,
+        1503,
+        11319,
+        1294,
+        1961,
+        5390,
+        22240,
+        6981
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0011"
+    }
+}

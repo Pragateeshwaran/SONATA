@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0020.flac",
+    "text": "THE HELPLESS MANAGER PACED THE FLOOR AND GRIMLY ENDURED THE GLOOM OF DEFEAT",
+    "tokens": [
+        10970,
+        36255,
+        6489,
+        7597,
+        17254,
+        4760,
+        1137,
+        16741,
+        1961,
+        3336,
+        9977,
+        46,
+        1581,
+        5357,
+        10863,
+        3955,
+        11319,
+        23578,
+        4261,
+        1961,
+        3336,
+        10188,
+        46,
+        2662,
+        3963,
+        5550,
+        15112,
+        1404
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0020"
+    }
+}

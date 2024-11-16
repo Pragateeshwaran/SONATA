@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0006.flac",
+    "text": "BOTH LIPS ASKED THE LARVAE",
+    "tokens": [
+        33,
+        26946,
+        24653,
+        3705,
+        7054,
+        42,
+        1961,
+        3336,
+        47211,
+        11731,
+        36
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "286674",
+        "file_id": "7850-286674-0006"
+    }
+}

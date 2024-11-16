@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0020.flac",
+    "text": "THE GREAT GREEN FIELD SURROUNDED ON ALL SIDES BY TALL TREES MADE THE PLACE AN IDEAL ONE FOR THEIR PURPOSE",
+    "tokens": [
+        10970,
+        37853,
+        47606,
+        18930,
+        24639,
+        311,
+        31302,
+        15919,
+        1961,
+        6177,
+        11096,
+        311,
+        42538,
+        11050,
+        309,
+        7036,
+        43236,
+        1546,
+        337,
+        19266,
+        3336,
+        9297,
+        11598,
+        3537,
+        33497,
+        1847,
+        16329,
+        7473,
+        47278,
+        33079,
+        48933
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0020"
+    }
+}

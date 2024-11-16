@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0003.flac",
+    "text": "HIS INSTANT OF PANIC WAS FOLLOWED BY A SMALL SHARP BLOW HIGH ON HIS CHEST",
+    "tokens": [
+        39,
+        1797,
+        40589,
+        8643,
+        3963,
+        40468,
+        2149,
+        21725,
+        11895,
+        44765,
+        1961,
+        11050,
+        317,
+        9447,
+        7036,
+        6006,
+        36035,
+        9878,
+        3913,
+        34677,
+        6177,
+        33700,
+        5870,
+        6465
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0003"
+    }
+}

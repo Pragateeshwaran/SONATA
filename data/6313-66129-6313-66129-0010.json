@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0010.flac",
+    "text": "I RECKON THERE ARE SMILED THE GUIDE WE ARE IN THE BEAR COUNTRY NOW",
+    "tokens": [
+        40,
+        19644,
+        42,
+        1340,
+        34702,
+        15986,
+        9447,
+        4146,
+        1961,
+        3336,
+        19348,
+        14114,
+        12887,
+        15986,
+        3268,
+        3336,
+        9348,
+        1503,
+        31404,
+        40405,
+        20229
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0010"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0021.flac",
+    "text": "IT WAS A DIFFERENT HARRY WHO STARTED HOME LATE IN APRIL",
+    "tokens": [
+        2043,
+        21725,
+        317,
+        360,
+        5064,
+        24302,
+        3525,
+        43638,
+        18276,
+        19494,
+        33303,
+        1961,
+        41779,
+        406,
+        6158,
+        3268,
+        40410,
+        4146
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0021"
+    }
+}

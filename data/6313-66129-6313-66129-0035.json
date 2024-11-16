@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0035.flac",
+    "text": "AS A RESULT INSTEAD OF STOPPING WHEN HE REACHED THE HAT THE BOY KEPT ON GOING",
+    "tokens": [
+        1921,
+        317,
+        15731,
+        16724,
+        3268,
+        30516,
+        2885,
+        3963,
+        44934,
+        47,
+        2751,
+        42099,
+        11179,
+        4526,
+        16219,
+        1961,
+        3336,
+        367,
+        1404,
+        3336,
+        16494,
+        56,
+        509,
+        8905,
+        51,
+        6177,
+        10351,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0035"
+    }
+}

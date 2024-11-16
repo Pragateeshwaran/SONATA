@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0018.flac",
+    "text": "BOTH SERVE GOOD SPANISH DINNERS AT REASONABLE PRICES",
+    "tokens": [
+        33,
+        26946,
+        18871,
+        6089,
+        21090,
+        6226,
+        1565,
+        18422,
+        360,
+        1268,
+        45,
+        4877,
+        5161,
+        4526,
+        36033,
+        17534,
+        4810,
+        34444
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130726",
+        "file_id": "652-130726-0018"
+    }
+}

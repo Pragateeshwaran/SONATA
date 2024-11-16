@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0012.flac",
+    "text": "ONLY UNFORTUNATELY HIS OWN WORK NEVER DOES GET GOOD",
+    "tokens": [
+        1340,
+        11319,
+        4725,
+        37,
+        9863,
+        4944,
+        1404,
+        30943,
+        33700,
+        47672,
+        30936,
+        33602,
+        38359,
+        17151,
+        21090
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "128104",
+        "file_id": "1272-128104-0012"
+    }
+}

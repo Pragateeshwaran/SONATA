@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0043.flac",
+    "text": "HE WAS NOT SATISFIED WITH HIS FRIENDS",
+    "tokens": [
+        13909,
+        21725,
+        5626,
+        29020,
+        1797,
+        11674,
+        1961,
+        13315,
+        33700,
+        48167,
+        1677,
+        5258
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0043"
+    }
+}

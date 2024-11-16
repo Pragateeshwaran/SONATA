@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0007.flac",
+    "text": "MY GRANDMOTHER ALWAYS SPOKE IN A VERY LOUD TONE TO FOREIGNERS AS IF THEY WERE DEAF",
+    "tokens": [
+        26708,
+        10863,
+        6981,
+        44,
+        31858,
+        49576,
+        6226,
+        46,
+        7336,
+        3268,
+        317,
+        29550,
+        406,
+        2606,
+        35,
+        309,
+        11651,
+        5390,
+        376,
+        6965,
+        16284,
+        4877,
+        7054,
+        16876,
+        33302,
+        370,
+        9338,
+        5550,
+        8579
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0007"
+    }
+}

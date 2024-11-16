@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0005.flac",
+    "text": "HE WALKED UP AND SAYS HELLO BOYS WHAT IS IT BOSS",
+    "tokens": [
+        13909,
+        370,
+        28082,
+        1961,
+        15958,
+        5357,
+        45687,
+        50,
+        47899,
+        46,
+        16494,
+        16309,
+        25003,
+        3180,
+        7283,
+        347,
+        18420
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64038",
+        "file_id": "5694-64038-0005"
+    }
+}

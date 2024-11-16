@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0012.flac",
+    "text": "MEANWHILE HOW FARED IT WITH THE FLOWERS",
+    "tokens": [
+        11682,
+        1565,
+        12418,
+        41119,
+        29630,
+        39024,
+        1961,
+        7283,
+        13315,
+        3336,
+        9977,
+        3913,
+        4877
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "275224",
+        "file_id": "6319-275224-0012"
+    }
+}

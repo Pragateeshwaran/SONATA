@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0005.flac",
+    "text": "HAD HER BEAUTY FASCINATED HIM",
+    "tokens": [
+        39,
+        2885,
+        24906,
+        9348,
+        39371,
+        56,
+        376,
+        42643,
+        1268,
+        11617,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0005"
+    }
+}

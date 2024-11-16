@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0009.flac",
+    "text": "HE DRANK THE WINE GREEDILY",
+    "tokens": [
+        13909,
+        10560,
+        15154,
+        3336,
+        370,
+        8881,
+        19928,
+        1961,
+        33340
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0009"
+    }
+}

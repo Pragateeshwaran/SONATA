@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0007.flac",
+    "text": "IT NOW CONTAINED ONLY CHANTICLEER HIS TWO WIVES AND A SOLITARY CHICKEN",
+    "tokens": [
+        2043,
+        20229,
+        7102,
+        30339,
+        1961,
+        22224,
+        5870,
+        8643,
+        31419,
+        1137,
+        33700,
+        35288,
+        370,
+        42472,
+        5357,
+        317,
+        36817,
+        2043,
+        13153,
+        5870,
+        11860,
+        1677
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0007"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0003.flac",
+    "text": "IT IS MOST DELIGHTFUL",
+    "tokens": [
+        2043,
+        3180,
+        337,
+        10892,
+        28163,
+        9947,
+        46476
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0003"
+    }
+}

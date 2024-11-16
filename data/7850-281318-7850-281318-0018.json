@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0018.flac",
+    "text": "CRISS CROSS CRISS CROSS SO INTERRUPTED THE WOOD PIGEON",
+    "tokens": [
+        9419,
+        16744,
+        8740,
+        18420,
+        8740,
+        16744,
+        8740,
+        18420,
+        12809,
+        23255,
+        49,
+        8577,
+        36493,
+        3336,
+        370,
+        22808,
+        350,
+        3528,
+        36,
+        1340
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "281318",
+        "file_id": "7850-281318-0018"
+    }
+}

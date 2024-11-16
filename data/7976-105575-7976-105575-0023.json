@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0023.flac",
+    "text": "THEY LAY IN HEAPS OF DOZENS EVEN CLOSE UP TO THE WORKS",
+    "tokens": [
+        10970,
+        56,
+        406,
+        4792,
+        3268,
+        11179,
+        44580,
+        3963,
+        8410,
+        57,
+        16938,
+        45886,
+        7852,
+        14058,
+        15958,
+        5390,
+        3336,
+        30936,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0023"
+    }
+}

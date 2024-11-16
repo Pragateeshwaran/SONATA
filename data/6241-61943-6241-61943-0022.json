@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0022.flac",
+    "text": "THEY WERE NOW HOWEVER ABSENT ON DUTY",
+    "tokens": [
+        10970,
+        56,
+        370,
+        9338,
+        20229,
+        29630,
+        36,
+        5959,
+        29950,
+        3525,
+        6177,
+        360,
+        3843,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0022"
+    }
+}

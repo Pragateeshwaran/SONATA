@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0009.flac",
+    "text": "CONSIDERATIONS OF DELICACY SEEMED TO FORBID TAKING THIS LIBERTY EVEN WITH AN INTIMATE FRIEND",
+    "tokens": [
+        10943,
+        50,
+        41237,
+        18421,
+        3963,
+        28163,
+        2149,
+        43300,
+        7946,
+        3620,
+        1961,
+        5390,
+        7473,
+        33,
+        2389,
+        309,
+        43602,
+        12680,
+        45651,
+        1137,
+        9936,
+        45886,
+        13315,
+        3537,
+        17828,
+        3955,
+        6158,
+        48167,
+        10619
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275156",
+        "file_id": "8297-275156-0009"
+    }
+}

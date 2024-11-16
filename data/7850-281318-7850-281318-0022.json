@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0022.flac",
+    "text": "BUT THE WOOD PIGEON WAS IN THE WORST CASE OF THEM ALL",
+    "tokens": [
+        47526,
+        3336,
+        370,
+        22808,
+        350,
+        3528,
+        36,
+        1340,
+        21725,
+        3268,
+        3336,
+        21881,
+        2257,
+        42001,
+        3963,
+        44788,
+        11096
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "281318",
+        "file_id": "7850-281318-0022"
+    }
+}

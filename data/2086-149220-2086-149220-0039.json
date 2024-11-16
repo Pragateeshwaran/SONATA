@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0039.flac",
+    "text": "SHE DID NOT ALTOGETHER LIKE HIM",
+    "tokens": [
+        9693,
+        36,
+        35697,
+        5626,
+        8355,
+        51,
+        7730,
+        2767,
+        16879,
+        34178,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0039"
+    }
+}

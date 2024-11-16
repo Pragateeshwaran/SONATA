@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0004.flac",
+    "text": "BUT IT IS FAR BETTER TO GO AFOOT",
+    "tokens": [
+        47526,
+        7283,
+        3180,
+        39024,
+        38651,
+        5781,
+        5390,
+        10351,
+        317,
+        6080,
+        2394
+    ],
+    "metadata": {
+        "speaker_id": "3000",
+        "chapter_id": "15664",
+        "file_id": "3000-15664-0004"
+    }
+}

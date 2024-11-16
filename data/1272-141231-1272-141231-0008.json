@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0008.flac",
+    "text": "HE WAS IN REVERIE SLIDING ALONG THE BORDERS OF CONSCIOUSNESS",
+    "tokens": [
+        13909,
+        21725,
+        3268,
+        4526,
+        5959,
+        10008,
+        12419,
+        2389,
+        2751,
+        8355,
+        18494,
+        3336,
+        347,
+        12532,
+        4877,
+        3963,
+        7102,
+        6173,
+        40,
+        2606,
+        15571,
+        7597
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0008"
+    }
+}

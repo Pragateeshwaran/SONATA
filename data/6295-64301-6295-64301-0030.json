@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0030.flac",
+    "text": "HIS VIOLIN WAS BROKEN BUT HIS BEING WAS MADE WHOLE",
+    "tokens": [
+        39,
+        1797,
+        13889,
+        3535,
+        1268,
+        21725,
+        11177,
+        11380,
+        1677,
+        21728,
+        33700,
+        9348,
+        2751,
+        21725,
+        337,
+        19266,
+        19494,
+        2538
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0030"
+    }
+}

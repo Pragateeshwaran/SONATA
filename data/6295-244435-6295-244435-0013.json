@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0013.flac",
+    "text": "AN EXTRAORDINARY WAVE OF EMOTION SWEPT OVER THE SOUTH CARRYING EVERYBODY WITH IT",
+    "tokens": [
+        1565,
+        27489,
+        3861,
+        12532,
+        1268,
+        13153,
+        16400,
+        6089,
+        3963,
+        17228,
+        2394,
+        2849,
+        311,
+        8845,
+        11571,
+        28729,
+        3336,
+        30065,
+        4221,
+        17368,
+        18276,
+        2751,
+        27222,
+        33,
+        33076,
+        13315,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0013"
+    }
+}

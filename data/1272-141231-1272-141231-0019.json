@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0019.flac",
+    "text": "THERE COULD BE LITTLE ART IN THIS LAST AND FINAL ROUND OF FENCING",
+    "tokens": [
+        4221,
+        9338,
+        327,
+        24010,
+        9348,
+        406,
+        22470,
+        2538,
+        24278,
+        3268,
+        12680,
+        41894,
+        5357,
+        25261,
+        371,
+        15919,
+        3963,
+        376,
+        24181,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0019"
+    }
+}

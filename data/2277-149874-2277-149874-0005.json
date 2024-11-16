@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0005.flac",
+    "text": "SHE HAD SOME SLIGHT GIFT OF OBSERVATION AND THAT SENSE SO RICH IN EVERY WOMAN INTUITION",
+    "tokens": [
+        9693,
+        36,
+        367,
+        2885,
+        41670,
+        12419,
+        9947,
+        24984,
+        51,
+        3963,
+        440,
+        4462,
+        1137,
+        53,
+        6234,
+        5357,
+        14603,
+        311,
+        24290,
+        12809,
+        371,
+        20739,
+        3268,
+        27222,
+        45386,
+        1565,
+        17828,
+        52,
+        17941
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0005"
+    }
+}

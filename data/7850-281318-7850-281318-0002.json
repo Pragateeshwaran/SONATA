@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0002.flac",
+    "text": "AND THERE IS AN OLD STORY ABOUT THIS WHICH I SHALL TELL YOU",
+    "tokens": [
+        6981,
+        34702,
+        3180,
+        3537,
+        440,
+        11163,
+        46427,
+        33478,
+        12680,
+        7655,
+        20739,
+        314,
+        50163,
+        13368,
+        3069,
+        7013
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "281318",
+        "file_id": "7850-281318-0002"
+    }
+}

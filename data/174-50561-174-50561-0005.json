@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0005.flac",
+    "text": "LADY LADY MY ROSE WHITE LADY BUT WILL YOU NOT HEAR A ROUNDEL LADY",
+    "tokens": [
+        43,
+        2885,
+        56,
+        406,
+        2885,
+        56,
+        17615,
+        371,
+        14058,
+        44925,
+        406,
+        2885,
+        56,
+        21728,
+        17682,
+        7013,
+        5626,
+        11179,
+        1503,
+        317,
+        371,
+        15919,
+        3698,
+        406,
+        2885,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "50561",
+        "file_id": "174-50561-0005"
+    }
+}

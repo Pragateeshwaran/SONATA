@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0018.flac",
+    "text": "WITHOUT QUESTION HE HAD BECOME OVERNIGHT THE MOST WIDELY KNOWN ARCHAEOLOGIST IN HISTORY",
+    "tokens": [
+        54,
+        10554,
+        12425,
+        43658,
+        2849,
+        11179,
+        367,
+        2885,
+        347,
+        2943,
+        13649,
+        28729,
+        45,
+        9947,
+        3336,
+        337,
+        10892,
+        370,
+        2389,
+        30943,
+        22466,
+        14165,
+        5923,
+        3398,
+        14242,
+        33462,
+        8808,
+        3268,
+        367,
+        42480
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "136532",
+        "file_id": "251-136532-0018"
+    }
+}

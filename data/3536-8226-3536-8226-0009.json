@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0009.flac",
+    "text": "HE CAN'T SUCKLE EM CAN HE",
+    "tokens": [
+        13909,
+        15628,
+        6,
+        51,
+        311,
+        16696,
+        2538,
+        17228,
+        15628,
+        11179
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0009"
+    }
+}

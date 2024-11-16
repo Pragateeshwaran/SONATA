@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0025.flac",
+    "text": "I WISH WE HAD NOT LEFT SO SOON",
+    "tokens": [
+        40,
+        370,
+        18422,
+        12887,
+        367,
+        2885,
+        5626,
+        12509,
+        9792,
+        12809,
+        12809,
+        1340
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0025"
+    }
+}

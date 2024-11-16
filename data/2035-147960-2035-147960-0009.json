@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0009.flac",
+    "text": "LOOK TONY THAT'S HIS POISON I SAID",
+    "tokens": [
+        43,
+        15308,
+        309,
+        40508,
+        14603,
+        6,
+        50,
+        33700,
+        19922,
+        39960,
+        314,
+        14719,
+        2389
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0009"
+    }
+}

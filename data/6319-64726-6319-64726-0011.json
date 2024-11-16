@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0011.flac",
+    "text": "BUT THE FACES OF THE MEN WERE ROSY AND THE GOBLETS BY THEM HAD A FEW DROPS OF WINE LEFT",
+    "tokens": [
+        47526,
+        3336,
+        44216,
+        1546,
+        3963,
+        3336,
+        41597,
+        370,
+        9338,
+        48263,
+        56,
+        5357,
+        3336,
+        402,
+        9864,
+        2538,
+        4694,
+        11050,
+        44788,
+        367,
+        2885,
+        317,
+        376,
+        6217,
+        10560,
+        30737,
+        3963,
+        370,
+        8881,
+        12509,
+        9792
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "64726",
+        "file_id": "6319-64726-0011"
+    }
+}

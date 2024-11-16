@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0038.flac",
+    "text": "SO WE WILL BE FELLOW LABORERS SOMEWHAT ON THE COMMUNITY SYSTEM",
+    "tokens": [
+        15821,
+        12887,
+        17682,
+        9348,
+        18630,
+        44765,
+        406,
+        6242,
+        1581,
+        4877,
+        42121,
+        6217,
+        39,
+        1404,
+        6177,
+        3336,
+        48811,
+        9050,
+        36230
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0038"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0009.flac",
+    "text": "INDEED NOT A FLOWER ESCAPED HIS MISCHIEVOUS SUGGESTIONS",
+    "tokens": [
+        1268,
+        7206,
+        1961,
+        5626,
+        317,
+        9977,
+        36048,
+        40251,
+        2969,
+        1961,
+        33700,
+        50029,
+        3398,
+        10008,
+        53,
+        20958,
+        311,
+        7340,
+        38,
+        6465,
+        11053
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "275224",
+        "file_id": "6319-275224-0009"
+    }
+}

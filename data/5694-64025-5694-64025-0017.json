@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0017.flac",
+    "text": "ON MONDAY MORNING I TOO CAPTURED ME A MULE",
+    "tokens": [
+        1340,
+        337,
+        18672,
+        4792,
+        35208,
+        15871,
+        314,
+        5390,
+        46,
+        20176,
+        51,
+        4261,
+        1961,
+        11948,
+        317,
+        337,
+        24212
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0017"
+    }
+}

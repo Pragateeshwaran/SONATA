@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0009.flac",
+    "text": "THE BOY HASTENED AWAY AND THE MANAGER FELL TO HIS MUSINGS",
+    "tokens": [
+        10970,
+        16494,
+        56,
+        367,
+        11262,
+        1677,
+        1961,
+        14356,
+        4792,
+        5357,
+        3336,
+        17254,
+        4760,
+        1137,
+        18630,
+        3069,
+        5390,
+        33700,
+        39484,
+        20754
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0009"
+    }
+}

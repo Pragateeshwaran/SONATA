@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0011.flac",
+    "text": "IN THE THIRD I SAY WHAT IT IS I PURPOSE TO SPEAK SO AS NOT TO BE IMPEDED BY FAINTHEARTEDNESS",
+    "tokens": [
+        1268,
+        3336,
+        2320,
+        46833,
+        314,
+        45687,
+        25003,
+        7283,
+        3180,
+        314,
+        33079,
+        48933,
+        5390,
+        6226,
+        36,
+        10206,
+        12809,
+        7054,
+        5626,
+        5390,
+        9348,
+        30023,
+        1961,
+        1961,
+        11050,
+        9677,
+        1268,
+        10970,
+        7227,
+        1961,
+        31097
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302201",
+        "file_id": "8842-302201-0011"
+    }
+}

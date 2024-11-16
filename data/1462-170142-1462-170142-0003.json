@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0003.flac",
+    "text": "THE ROOM WAS EMPTY WHEN HE ENTERED",
+    "tokens": [
+        10970,
+        15107,
+        2662,
+        21725,
+        38144,
+        9936,
+        42099,
+        11179,
+        46962,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0003"
+    }
+}

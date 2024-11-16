@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0045.flac",
+    "text": "IF IT SHOULD BE IN AN UNSOUND STATE IT MUST BE ON NO ACCOUNT MADE USE OF",
+    "tokens": [
+        5064,
+        7283,
+        40312,
+        9348,
+        3268,
+        3537,
+        4725,
+        50,
+        15919,
+        35454,
+        7283,
+        17191,
+        9348,
+        6177,
+        8005,
+        15859,
+        28270,
+        337,
+        19266,
+        23210,
+        3963
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0045"
+    }
+}

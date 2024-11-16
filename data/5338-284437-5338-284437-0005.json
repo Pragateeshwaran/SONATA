@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0005.flac",
+    "text": "THESE INTRUDERS ARE VERY PECULIAR PEOPLE REMARKED A MAN IN THE CROWD",
+    "tokens": [
+        4221,
+        33635,
+        3268,
+        5446,
+        8322,
+        4877,
+        15986,
+        29550,
+        350,
+        2943,
+        6239,
+        40,
+        1503,
+        36388,
+        22657,
+        14175,
+        1961,
+        317,
+        17254,
+        3268,
+        3336,
+        8740,
+        3913,
+        35
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0005"
+    }
+}

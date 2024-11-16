@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0005.flac",
+    "text": "THERE IS A SEAT IN THE GARDEN AT THE SIDE OF THE HOUSE AGAIN SHE HESITATED",
+    "tokens": [
+        4221,
+        9338,
+        3180,
+        317,
+        7946,
+        1404,
+        3268,
+        3336,
+        402,
+        9795,
+        1677,
+        5161,
+        3336,
+        311,
+        14114,
+        3963,
+        3336,
+        46586,
+        36218,
+        1268,
+        48052,
+        367,
+        1546,
+        2043,
+        11617
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0005"
+    }
+}

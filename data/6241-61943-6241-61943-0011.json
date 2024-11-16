@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0011.flac",
+    "text": "NEARLY THE WHOLE POPULATION OF THE TOWN WAS ON FOOT TO SEE US LAND",
+    "tokens": [
+        12161,
+        1503,
+        11319,
+        3336,
+        19494,
+        2538,
+        37586,
+        6239,
+        6234,
+        3963,
+        3336,
+        309,
+        14165,
+        21725,
+        6177,
+        11895,
+        2394,
+        5390,
+        31107,
+        1294,
+        406,
+        6981
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0011"
+    }
+}

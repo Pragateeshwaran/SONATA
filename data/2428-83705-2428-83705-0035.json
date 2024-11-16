@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0035.flac",
+    "text": "AND WHAT INQUIRED MISSUS MACPHERSON HAS MARY ANN GIVEN YOU HER LOVE",
+    "tokens": [
+        6981,
+        25003,
+        3268,
+        10917,
+        37819,
+        49684,
+        2937,
+        20582,
+        11909,
+        29086,
+        33930,
+        337,
+        13153,
+        40126,
+        402,
+        3824,
+        1677,
+        7013,
+        24906,
+        27889
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0035"
+    }
+}

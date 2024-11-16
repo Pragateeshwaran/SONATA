@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0035.flac",
+    "text": "THEY WORKED IN CHICAGO DES MOINES FORT WAYNE BUT THEY WERE ALWAYS UNFORTUNATE",
+    "tokens": [
+        10970,
+        56,
+        30936,
+        1961,
+        3268,
+        5870,
+        2149,
+        4760,
+        46,
+        22196,
+        13070,
+        1268,
+        1546,
+        7473,
+        51,
+        34882,
+        12161,
+        21728,
+        33302,
+        370,
+        9338,
+        49576,
+        4725,
+        37,
+        9863,
+        4944,
+        6158
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0035"
+    }
+}

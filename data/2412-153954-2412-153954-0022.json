@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0022.flac",
+    "text": "THE DESIGN WAS DIFFERENT BUT THE THING WAS CLEARLY THE SAME",
+    "tokens": [
+        10970,
+        22196,
+        16284,
+        21725,
+        360,
+        5064,
+        24302,
+        3525,
+        21728,
+        3336,
+        2320,
+        2751,
+        21725,
+        30301,
+        1503,
+        11319,
+        3336,
+        311,
+        10067
+    ],
+    "metadata": {
+        "speaker_id": "2412",
+        "chapter_id": "153954",
+        "file_id": "2412-153954-0022"
+    }
+}

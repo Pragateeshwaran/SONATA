@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147964\\1993-147964-0003.flac",
+    "text": "SHE CUT SQUARES OF COTTON CLOTH AND WE SEWED THEM TOGETHER INTO A BOOK",
+    "tokens": [
+        9693,
+        36,
+        327,
+        3843,
+        45880,
+        1503,
+        1546,
+        3963,
+        327,
+        2394,
+        11357,
+        7852,
+        26946,
+        5357,
+        12887,
+        311,
+        6217,
+        1961,
+        44788,
+        5390,
+        18851,
+        16879,
+        39319,
+        317,
+        39633
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147964",
+        "file_id": "1993-147964-0003"
+    }
+}

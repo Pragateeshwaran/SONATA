@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0028.flac",
+    "text": "IT WAS ONE WHICH GAVE ME A SMALL TRIUMPH OVER GEORGE",
+    "tokens": [
+        2043,
+        21725,
+        16329,
+        7655,
+        20739,
+        14545,
+        6089,
+        11948,
+        317,
+        9447,
+        7036,
+        37679,
+        5883,
+        11909,
+        28729,
+        22319,
+        49697
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0028"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0006.flac",
+    "text": "HE KNEW THAT SHE WOULD NOT AWAKE FOR A HUNDRED YEARS",
+    "tokens": [
+        13909,
+        509,
+        13965,
+        14603,
+        48052,
+        370,
+        24010,
+        5626,
+        14356,
+        32,
+        7336,
+        7473,
+        317,
+        41041,
+        7707,
+        1961,
+        32914,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "64726",
+        "file_id": "6319-64726-0006"
+    }
+}

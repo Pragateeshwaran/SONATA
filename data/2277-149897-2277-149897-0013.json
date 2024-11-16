@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0013.flac",
+    "text": "FOR RELIEF HE AROSE AND JOINED IN CONVERSATION WITH A FEW FRIENDS WHO WERE DRINKING",
+    "tokens": [
+        13775,
+        29749,
+        10008,
+        37,
+        11179,
+        5923,
+        14058,
+        5357,
+        32357,
+        1268,
+        1961,
+        3268,
+        7102,
+        28884,
+        6234,
+        13315,
+        317,
+        376,
+        6217,
+        48167,
+        1677,
+        5258,
+        19494,
+        370,
+        9338,
+        10560,
+        17248,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0013"
+    }
+}

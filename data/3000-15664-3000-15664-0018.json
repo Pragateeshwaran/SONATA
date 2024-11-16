@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0018.flac",
+    "text": "THE LONG GRAY SLOPES LEADING UP TO THE GLACIER SEEM REMARKABLY SMOOTH AND UNBROKEN",
+    "tokens": [
+        10970,
+        44533,
+        402,
+        30631,
+        12419,
+        3185,
+        1546,
+        12509,
+        2885,
+        2751,
+        15958,
+        5390,
+        3336,
+        10188,
+        2246,
+        38311,
+        7946,
+        3620,
+        22657,
+        14175,
+        6242,
+        11319,
+        9447,
+        46,
+        26946,
+        5357,
+        4725,
+        11473,
+        11380,
+        1677
+    ],
+    "metadata": {
+        "speaker_id": "3000",
+        "chapter_id": "15664",
+        "file_id": "3000-15664-0018"
+    }
+}

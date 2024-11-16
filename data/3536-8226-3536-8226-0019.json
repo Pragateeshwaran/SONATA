@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0019.flac",
+    "text": "BOZZLE HAD ALWAYS WAITED UPON HIM WITH A DECENT COAT AND A WELL BRUSHED HAT AND CLEAN SHOES",
+    "tokens": [
+        8202,
+        30148,
+        2538,
+        367,
+        2885,
+        49576,
+        16400,
+        22061,
+        15958,
+        1340,
+        45909,
+        13315,
+        317,
+        27196,
+        3525,
+        7375,
+        1404,
+        5357,
+        317,
+        12887,
+        3069,
+        11177,
+        27143,
+        1961,
+        367,
+        1404,
+        5357,
+        30301,
+        1565,
+        6006,
+        46,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0019"
+    }
+}

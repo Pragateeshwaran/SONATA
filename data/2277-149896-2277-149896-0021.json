@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0021.flac",
+    "text": "WHAT WOULD SHE DO ABOUT THAT THE CONFOUNDED WRETCH",
+    "tokens": [
+        32971,
+        370,
+        24010,
+        48052,
+        8410,
+        33478,
+        14603,
+        3336,
+        7102,
+        37,
+        15919,
+        1961,
+        370,
+        26087,
+        3398
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0021"
+    }
+}

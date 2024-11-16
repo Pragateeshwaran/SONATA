@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0034.flac",
+    "text": "HE RANG AGAIN THIS TIME HARDER STILL NO ANSWER",
+    "tokens": [
+        13909,
+        371,
+        15567,
+        36218,
+        1268,
+        12680,
+        20460,
+        367,
+        9795,
+        1137,
+        3563,
+        8267,
+        8005,
+        3537,
+        17887,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0034"
+    }
+}

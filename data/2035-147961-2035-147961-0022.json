@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0022.flac",
+    "text": "THE SHRIEKS THAT FOLLOWED MADE EVERYBODY SOBER",
+    "tokens": [
+        10970,
+        6006,
+        7112,
+        36,
+        27015,
+        14603,
+        11895,
+        44765,
+        1961,
+        337,
+        19266,
+        27222,
+        33,
+        33076,
+        311,
+        9864,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0022"
+    }
+}

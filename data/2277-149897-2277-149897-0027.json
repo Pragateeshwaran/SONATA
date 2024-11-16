@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0027.flac",
+    "text": "HE WOULD GO TO HER AND TELL HER ALL HIS FAMILY COMPLICATIONS",
+    "tokens": [
+        13909,
+        370,
+        24010,
+        10351,
+        5390,
+        24906,
+        5357,
+        13368,
+        3069,
+        24906,
+        11096,
+        33700,
+        42129,
+        33340,
+        9440,
+        31484,
+        18421
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0027"
+    }
+}

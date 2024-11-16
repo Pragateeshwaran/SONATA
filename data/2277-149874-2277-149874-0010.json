@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0010.flac",
+    "text": "NOW NOW HE SAID WALKING THERE THERE AND THERE WAS A CERTAIN SWEDISH ACCENT NOTICEABLE IN HIS VOICE",
+    "tokens": [
+        45669,
+        20229,
+        11179,
+        14719,
+        2389,
+        370,
+        28082,
+        2751,
+        34702,
+        34702,
+        5357,
+        34702,
+        21725,
+        317,
+        327,
+        1137,
+        30339,
+        12672,
+        1961,
+        18422,
+        15859,
+        3525,
+        28536,
+        17534,
+        3268,
+        33700,
+        30578,
+        8476
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0010"
+    }
+}

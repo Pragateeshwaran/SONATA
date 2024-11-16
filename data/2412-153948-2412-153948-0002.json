@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0002.flac",
+    "text": "NO ONE WHO IS HIMSELF HONEST WILL DOUBT MY BEING SO",
+    "tokens": [
+        15285,
+        16329,
+        19494,
+        3180,
+        45909,
+        50,
+        37738,
+        367,
+        1340,
+        6465,
+        17682,
+        360,
+        2606,
+        19313,
+        17615,
+        9348,
+        2751,
+        12809
+    ],
+    "metadata": {
+        "speaker_id": "2412",
+        "chapter_id": "153948",
+        "file_id": "2412-153948-0002"
+    }
+}

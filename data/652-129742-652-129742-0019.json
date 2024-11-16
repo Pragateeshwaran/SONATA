@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0019.flac",
+    "text": "WHEN THICKENED STRAIN AND COOL",
+    "tokens": [
+        12418,
+        1677,
+        2320,
+        11860,
+        1677,
+        1961,
+        3563,
+        3861,
+        1268,
+        5357,
+        7375,
+        3535
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "129742",
+        "file_id": "652-129742-0019"
+    }
+}

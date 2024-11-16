@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0016.flac",
+    "text": "ANYTHING WAS GOOD ENOUGH SO LONG AS IT PAID SAY FIVE DOLLARS A WEEK TO BEGIN WITH",
+    "tokens": [
+        31827,
+        39356,
+        21725,
+        21090,
+        12964,
+        32632,
+        12809,
+        44533,
+        7054,
+        7283,
+        8147,
+        2389,
+        45687,
+        376,
+        9306,
+        8410,
+        3069,
+        27415,
+        317,
+        43765,
+        5390,
+        347,
+        43312,
+        13315
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0016"
+    }
+}

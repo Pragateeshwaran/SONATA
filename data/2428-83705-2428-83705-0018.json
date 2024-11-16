@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0018.flac",
+    "text": "IT TURNED OUT THAT SHE HAD A LITTLE MONEY OF HER OWN ABOUT A HUNDRED AND THIRTY POUNDS A YEAR",
+    "tokens": [
+        2043,
+        309,
+        27064,
+        1961,
+        16289,
+        14603,
+        48052,
+        367,
+        2885,
+        317,
+        406,
+        22470,
+        2538,
+        337,
+        48399,
+        3963,
+        24906,
+        47672,
+        33478,
+        317,
+        41041,
+        7707,
+        1961,
+        5357,
+        2320,
+        4663,
+        9936,
+        350,
+        19385,
+        5258,
+        317,
+        32914
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0018"
+    }
+}

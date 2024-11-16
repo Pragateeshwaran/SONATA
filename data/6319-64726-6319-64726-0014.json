@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0014.flac",
+    "text": "I HAVE WAITED LONG FOR YOU",
+    "tokens": [
+        40,
+        21515,
+        16400,
+        22061,
+        44533,
+        7473,
+        7013
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "64726",
+        "file_id": "6319-64726-0014"
+    }
+}

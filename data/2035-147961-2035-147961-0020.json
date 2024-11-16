@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0020.flac",
+    "text": "A BLACK DROVE CAME UP OVER THE HILL BEHIND THE WEDDING PARTY",
+    "tokens": [
+        32,
+        31963,
+        10560,
+        46,
+        6089,
+        327,
+        10067,
+        15958,
+        28729,
+        3336,
+        367,
+        8267,
+        9348,
+        39,
+        12115,
+        3336,
+        370,
+        1961,
+        35,
+        2751,
+        16652,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0020"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0029.flac",
+    "text": "HE THOUGHT IT WAS A LAST BURST OF ENERGY HE KNEW HOW CLOSE THEY BOTH WERE TO EXHAUSTION",
+    "tokens": [
+        13909,
+        2320,
+        2606,
+        38,
+        6535,
+        7283,
+        21725,
+        317,
+        41894,
+        45604,
+        2257,
+        3963,
+        12964,
+        1137,
+        31212,
+        11179,
+        509,
+        13965,
+        29630,
+        7852,
+        14058,
+        33302,
+        347,
+        26946,
+        370,
+        9338,
+        5390,
+        7788,
+        7801,
+        7759,
+        2849
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0029"
+    }
+}

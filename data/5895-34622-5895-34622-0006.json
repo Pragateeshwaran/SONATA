@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0006.flac",
+    "text": "ON THE ROOF FROM A TUBE PAINTED GREEN LIKE THE REST SMOKE AROSE",
+    "tokens": [
+        1340,
+        3336,
+        371,
+        6684,
+        37,
+        16034,
+        317,
+        309,
+        10526,
+        36,
+        8147,
+        12394,
+        1961,
+        47606,
+        34178,
+        3336,
+        30617,
+        9447,
+        46,
+        7336,
+        5923,
+        14058
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0006"
+    }
+}

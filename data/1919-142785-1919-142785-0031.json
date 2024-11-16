@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0031.flac",
+    "text": "THEY OUGHT TO BE TAKEN UP IN THE AUTUMN AND WHEN DRIED IN THE HOUSE WILL KEEP TILL SPRING",
+    "tokens": [
+        10970,
+        56,
+        440,
+        7340,
+        6535,
+        5390,
+        9348,
+        309,
+        10206,
+        1677,
+        15958,
+        3268,
+        3336,
+        47044,
+        5883,
+        45,
+        5357,
+        42099,
+        360,
+        7112,
+        1961,
+        3268,
+        3336,
+        46586,
+        17682,
+        509,
+        35238,
+        309,
+        8267,
+        49068,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0031"
+    }
+}

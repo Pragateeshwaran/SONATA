@@ -1,0 +1,15 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0014.flac",
+    "text": "YES CHARCOAL",
+    "tokens": [
+        43335,
+        28521,
+        8220,
+        1847
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "136532",
+        "file_id": "251-136532-0014"
+    }
+}

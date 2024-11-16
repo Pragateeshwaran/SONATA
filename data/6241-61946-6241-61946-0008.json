@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0008.flac",
+    "text": "WE MAY DO SO WAS MY REPLY BUT WHAT ABOUT OUR WORTHY GUIDE",
+    "tokens": [
+        8845,
+        26720,
+        8410,
+        12809,
+        21725,
+        17615,
+        45285,
+        56,
+        21728,
+        25003,
+        33478,
+        30229,
+        21881,
+        4221,
+        56,
+        19348,
+        14114
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0008"
+    }
+}

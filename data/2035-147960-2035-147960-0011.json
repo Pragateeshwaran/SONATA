@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0011.flac",
+    "text": "WE DECIDED THAT ANTONIA SHOULD RIDE DUDE HOME AND I WOULD WALK",
+    "tokens": [
+        8845,
+        27196,
+        2389,
+        1961,
+        14603,
+        3537,
+        11357,
+        3539,
+        40312,
+        371,
+        14114,
+        35480,
+        7206,
+        41779,
+        5357,
+        314,
+        370,
+        24010,
+        370,
+        28082
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0011"
+    }
+}

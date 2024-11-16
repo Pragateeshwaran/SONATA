@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0040.flac",
+    "text": "THEY WERE ALL TAKEN ABACK AND NOT ONE OF THEM DARED TO UTTER A WORD SUCH DEFERENCE DID THEY PAY HIM",
+    "tokens": [
+        10970,
+        56,
+        370,
+        9338,
+        11096,
+        309,
+        10206,
+        1677,
+        9564,
+        8120,
+        5357,
+        5626,
+        16329,
+        3963,
+        44788,
+        41649,
+        1961,
+        5390,
+        19255,
+        5781,
+        317,
+        370,
+        12532,
+        13558,
+        3398,
+        23449,
+        1137,
+        18310,
+        35697,
+        33302,
+        38444,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0040"
+    }
+}

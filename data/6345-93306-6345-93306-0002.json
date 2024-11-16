@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0002.flac",
+    "text": "THEN THERE WAS SILENCE THEN A SIGH AND THE SOUND OF LIGHT MOVING FEET ON THE GRAVEL",
+    "tokens": [
+        4221,
+        1677,
+        34702,
+        21725,
+        47551,
+        18310,
+        42243,
+        317,
+        311,
+        18060,
+        5357,
+        3336,
+        311,
+        15919,
+        3963,
+        406,
+        9947,
+        28184,
+        2751,
+        18630,
+        2767,
+        6177,
+        3336,
+        402,
+        3861,
+        18697
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0002"
+    }
+}

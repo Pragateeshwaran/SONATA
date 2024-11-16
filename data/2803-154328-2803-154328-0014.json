@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0014.flac",
+    "text": "ANIMAL OR MAN ANSWERED THE MAJOR I WILL SOON FIND OUT",
+    "tokens": [
+        1565,
+        3955,
+        1847,
+        6375,
+        17254,
+        3537,
+        17887,
+        1137,
+        1961,
+        3336,
+        8779,
+        41,
+        1581,
+        314,
+        17682,
+        12809,
+        1340,
+        376,
+        12115,
+        16289
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0014"
+    }
+}

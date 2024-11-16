@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0011.flac",
+    "text": "THEN THE MOTHER LIFTED UP HER VOICE AND WEPT",
+    "tokens": [
+        4221,
+        1677,
+        3336,
+        337,
+        31858,
+        406,
+        32297,
+        1961,
+        15958,
+        24906,
+        30578,
+        8476,
+        5357,
+        370,
+        8905,
+        51
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147149",
+        "file_id": "1993-147149-0011"
+    }
+}

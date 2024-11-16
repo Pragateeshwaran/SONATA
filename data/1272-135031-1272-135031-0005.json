@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0005.flac",
+    "text": "I BEGGED RUGGEDO LONG AGO TO SEND HIM AWAY BUT HE WOULD NOT DO SO",
+    "tokens": [
+        40,
+        347,
+        7156,
+        38,
+        1961,
+        371,
+        7340,
+        38,
+        1961,
+        46,
+        44533,
+        317,
+        11230,
+        5390,
+        311,
+        10619,
+        45909,
+        14356,
+        4792,
+        21728,
+        11179,
+        370,
+        24010,
+        5626,
+        8410,
+        12809
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0005"
+    }
+}

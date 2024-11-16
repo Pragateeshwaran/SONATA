@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0014.flac",
+    "text": "GWYNPLAINE ATE UP THEIR PUBLIC",
+    "tokens": [
+        33191,
+        40760,
+        45710,
+        8881,
+        5161,
+        36,
+        15958,
+        47278,
+        44731
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0014"
+    }
+}

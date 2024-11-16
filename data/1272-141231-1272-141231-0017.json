@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0017.flac",
+    "text": "HE ASKED THE HANDLER WHO WAS KNEADING HIS ACHING MUSCLES",
+    "tokens": [
+        13909,
+        7054,
+        42,
+        1961,
+        3336,
+        367,
+        6981,
+        39878,
+        19494,
+        21725,
+        509,
+        12161,
+        2885,
+        2751,
+        33700,
+        317,
+        3398,
+        2751,
+        39484,
+        5097,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0017"
+    }
+}

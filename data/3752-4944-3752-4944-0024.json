@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0024.flac",
+    "text": "DELIGHTED TO SEE YOU MISTER MEEKIN",
+    "tokens": [
+        35,
+        3698,
+        9947,
+        1961,
+        5390,
+        31107,
+        7013,
+        337,
+        41517,
+        337,
+        33823,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0024"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0000.flac",
+    "text": "LONG AGO THERE LIVED A MERCHANT WHO HAD THREE DAUGHTERS",
+    "tokens": [
+        43,
+        18494,
+        317,
+        11230,
+        34702,
+        406,
+        3824,
+        1961,
+        317,
+        34482,
+        3398,
+        8643,
+        19494,
+        367,
+        2885,
+        48697,
+        17051,
+        7340,
+        6535,
+        4877
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0000"
+    }
+}

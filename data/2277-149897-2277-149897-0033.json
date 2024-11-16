@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0033.flac",
+    "text": "ON WEDNESDAY HE RECEIVED ANOTHER POLITE NOTE FROM MC GREGOR JAMES AND HAY IT READ",
+    "tokens": [
+        1340,
+        370,
+        1961,
+        37379,
+        26442,
+        11179,
+        19644,
+        36,
+        3824,
+        1961,
+        3537,
+        31858,
+        20634,
+        12709,
+        24550,
+        16034,
+        13122,
+        19928,
+        38,
+        1581,
+        449,
+        29559,
+        5357,
+        367,
+        4792,
+        7283,
+        20832
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0033"
+    }
+}

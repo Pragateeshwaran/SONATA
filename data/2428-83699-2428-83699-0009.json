@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0009.flac",
+    "text": "I HAD NO ILLUSIONS",
+    "tokens": [
+        40,
+        367,
+        2885,
+        8005,
+        314,
+        3069,
+        2937,
+        11053
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0009"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0000.flac",
+    "text": "HE HAD NEVER BEEN FATHER LOVER HUSBAND FRIEND",
+    "tokens": [
+        13909,
+        367,
+        2885,
+        33602,
+        9348,
+        1677,
+        376,
+        45226,
+        17579,
+        5959,
+        367,
+        27155,
+        6981,
+        48167,
+        10619
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "168635",
+        "file_id": "174-168635-0000"
+    }
+}

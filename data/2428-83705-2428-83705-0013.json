@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0013.flac",
+    "text": "IT IS FROM HER ACTION IN THAT MATTER THAT MY SUSPICION SPRINGS",
+    "tokens": [
+        2043,
+        3180,
+        16034,
+        24906,
+        40282,
+        3268,
+        14603,
+        36775,
+        5781,
+        14603,
+        17615,
+        311,
+        2937,
+        47,
+        2149,
+        2849,
+        49068,
+        20754
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0013"
+    }
+}

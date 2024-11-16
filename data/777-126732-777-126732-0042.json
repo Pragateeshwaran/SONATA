@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0042.flac",
+    "text": "HE CLOSED THE DOOR BEHIND THEIR BACKS WITH RESTRAINED VIOLENCE TURNED THE KEY SHOT THE BOLT",
+    "tokens": [
+        13909,
+        7852,
+        48751,
+        3336,
+        8410,
+        1581,
+        9348,
+        39,
+        12115,
+        47278,
+        28767,
+        50,
+        13315,
+        30617,
+        3861,
+        1268,
+        1961,
+        13889,
+        3535,
+        18310,
+        309,
+        27064,
+        1961,
+        3336,
+        35374,
+        6006,
+        2394,
+        3336,
+        347,
+        3535,
+        51
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0042"
+    }
+}

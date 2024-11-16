@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0007.flac",
+    "text": "THESE WILDERING PHANTASIES THEN CARRIED ME TO SEE MY LADY DEAD",
+    "tokens": [
+        4221,
+        33635,
+        370,
+        4146,
+        14418,
+        2751,
+        9370,
+        8643,
+        1921,
+        11015,
+        42243,
+        17368,
+        7112,
+        1961,
+        11948,
+        5390,
+        31107,
+        17615,
+        406,
+        2885,
+        56,
+        42533
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302203",
+        "file_id": "8842-302203-0007"
+    }
+}

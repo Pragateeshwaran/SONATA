@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0004.flac",
+    "text": "IF THEY HAVE CEASED TO GUIDE NATIONS THEY HAVE NOT CEASED TO SPEAK TO THEIR OWN ELECT",
+    "tokens": [
+        5064,
+        33302,
+        21515,
+        18671,
+        42827,
+        5390,
+        19348,
+        14114,
+        399,
+        18421,
+        33302,
+        21515,
+        5626,
+        18671,
+        42827,
+        5390,
+        6226,
+        36,
+        10206,
+        5390,
+        47278,
+        47672,
+        46323
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9008",
+        "file_id": "2902-9008-0004"
+    }
+}

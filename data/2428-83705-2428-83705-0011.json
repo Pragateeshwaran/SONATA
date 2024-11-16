@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0011.flac",
+    "text": "I NEVER SAW PEOPLE LIKE THE SNELLINGS FOR POSSESSING RELATIVES IN ALL SORTS OF LINES",
+    "tokens": [
+        40,
+        33602,
+        311,
+        12298,
+        36388,
+        34178,
+        3336,
+        11346,
+        23304,
+        20754,
+        7473,
+        350,
+        18420,
+        7597,
+        2751,
+        29749,
+        1404,
+        42472,
+        3268,
+        11096,
+        311,
+        33002,
+        3963,
+        43277,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0011"
+    }
+}

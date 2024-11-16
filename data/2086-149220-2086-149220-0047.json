@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0047.flac",
+    "text": "I WILL SIT IN THE PARLOR AWHILE AND COLLECT MY THOUGHTS",
+    "tokens": [
+        40,
+        17682,
+        311,
+        2043,
+        3268,
+        3336,
+        29463,
+        43,
+        1581,
+        317,
+        12418,
+        41119,
+        5357,
+        20444,
+        16779,
+        17615,
+        2320,
+        32632,
+        4694
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0047"
+    }
+}

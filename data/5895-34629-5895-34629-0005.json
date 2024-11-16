@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0005.flac",
+    "text": "IT WAS A THEATRE READY MADE",
+    "tokens": [
+        2043,
+        21725,
+        317,
+        3336,
+        1404,
+        2200,
+        20832,
+        56,
+        337,
+        19266
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0005"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0004.flac",
+    "text": "THE PONY DID MOST OF IT ADMITTED THE LAD I JUST GAVE HIM HIS HEAD AND THAT'S ALL THERE WAS TO IT",
+    "tokens": [
+        10970,
+        350,
+        40508,
+        35697,
+        337,
+        10892,
+        3963,
+        7283,
+        5984,
+        44,
+        22470,
+        1961,
+        3336,
+        406,
+        2885,
+        314,
+        25848,
+        14545,
+        6089,
+        45909,
+        33700,
+        39837,
+        5357,
+        14603,
+        6,
+        50,
+        11096,
+        34702,
+        21725,
+        5390,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0004"
+    }
+}

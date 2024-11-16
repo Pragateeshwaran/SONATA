@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0007.flac",
+    "text": "IT WAS LOCKED FROM THE INSIDE AND WE HAD TO BURN IT DOWN WITH A TORCH THAT'S WHERE THEY ARE",
+    "tokens": [
+        2043,
+        21725,
+        406,
+        11290,
+        1961,
+        16034,
+        3336,
+        29194,
+        14114,
+        5357,
+        12887,
+        367,
+        2885,
+        5390,
+        347,
+        27064,
+        7283,
+        30320,
+        13315,
+        317,
+        40691,
+        3398,
+        14603,
+        6,
+        50,
+        33411,
+        33302,
+        15986
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "136532",
+        "file_id": "251-136532-0007"
+    }
+}

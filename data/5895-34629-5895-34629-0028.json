@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0028.flac",
+    "text": "HIS ENTHUSIASM CAUSED URSUS TO REMARK THIS MAN AND GWYNPLAINE TO OBSERVE HIM",
+    "tokens": [
+        39,
+        1797,
+        12964,
+        4221,
+        2937,
+        43429,
+        44,
+        7257,
+        2937,
+        1961,
+        471,
+        6998,
+        2937,
+        5390,
+        22657,
+        14175,
+        12680,
+        17254,
+        5357,
+        27164,
+        40760,
+        45710,
+        8881,
+        5390,
+        440,
+        4462,
+        1137,
+        6089,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0028"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0014.flac",
+    "text": "GRETHEL BEGAN TO CRY BUT IT WAS ALL USELESS FOR THE OLD WITCH MADE HER DO AS SHE WANTED",
+    "tokens": [
+        28934,
+        4221,
+        3698,
+        347,
+        7156,
+        1565,
+        5390,
+        8740,
+        56,
+        21728,
+        7283,
+        21725,
+        11096,
+        1294,
+        3698,
+        7597,
+        7473,
+        3336,
+        440,
+        11163,
+        370,
+        31949,
+        337,
+        19266,
+        24906,
+        8410,
+        7054,
+        48052,
+        41300,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110523",
+        "file_id": "7976-110523-0014"
+    }
+}

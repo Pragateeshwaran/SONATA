@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0001.flac",
+    "text": "THE NEW NUMBER OF A POPULAR WEEKLY JOURNAL HAD THAT DAY BEEN PUBLISHED RANDAL BOUGHT IT",
+    "tokens": [
+        10970,
+        12682,
+        36871,
+        13246,
+        3963,
+        317,
+        37586,
+        37232,
+        43765,
+        11319,
+        449,
+        11698,
+        45,
+        1847,
+        367,
+        2885,
+        14603,
+        24644,
+        9348,
+        1677,
+        24676,
+        9148,
+        18422,
+        1961,
+        46920,
+        1847,
+        347,
+        2606,
+        38,
+        6535,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275155",
+        "file_id": "8297-275155-0001"
+    }
+}

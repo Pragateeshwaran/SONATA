@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0017.flac",
+    "text": "I GET NOTHING BUT MISERY OUT OF EITHER",
+    "tokens": [
+        40,
+        17151,
+        5626,
+        39,
+        2751,
+        21728,
+        50029,
+        19664,
+        16289,
+        3963,
+        412,
+        10554,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0017"
+    }
+}

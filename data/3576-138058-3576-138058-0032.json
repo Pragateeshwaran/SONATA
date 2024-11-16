@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0032.flac",
+    "text": "SAID ONE OF THE BYSTANDERS I HAVE GOT THEM AND THEY ARE NOT WORTH THREE REALS",
+    "tokens": [
+        4090,
+        2389,
+        16329,
+        3963,
+        3336,
+        11050,
+        2257,
+        6981,
+        4877,
+        314,
+        21515,
+        41725,
+        44788,
+        5357,
+        33302,
+        15986,
+        5626,
+        21881,
+        4221,
+        48697,
+        4526,
+        23333
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0032"
+    }
+}

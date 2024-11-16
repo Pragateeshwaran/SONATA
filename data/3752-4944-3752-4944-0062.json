@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0062.flac",
+    "text": "HE MIXED A TEASPOONFUL OF THIS IN A PANNIKIN OF WATER AND DRANK IT",
+    "tokens": [
+        13909,
+        337,
+        10426,
+        1961,
+        317,
+        13368,
+        1921,
+        16402,
+        1340,
+        46476,
+        3963,
+        12680,
+        3268,
+        317,
+        350,
+        22846,
+        18694,
+        1268,
+        3963,
+        370,
+        23261,
+        5357,
+        10560,
+        15154,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0062"
+    }
+}

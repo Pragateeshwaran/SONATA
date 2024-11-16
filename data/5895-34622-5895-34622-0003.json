@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0003.flac",
+    "text": "FROM SIXTEEN EIGHTY TO SEVENTEEN O FOUR A GREAT CHANGE HAD TAKEN PLACE",
+    "tokens": [
+        10913,
+        2662,
+        311,
+        10426,
+        9328,
+        1677,
+        412,
+        9947,
+        56,
+        5390,
+        7946,
+        53,
+        3525,
+        36,
+        1677,
+        440,
+        376,
+        11698,
+        317,
+        37853,
+        5870,
+        27746,
+        367,
+        2885,
+        309,
+        10206,
+        1677,
+        9297,
+        11598
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0003"
+    }
+}

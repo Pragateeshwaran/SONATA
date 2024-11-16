@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0014.flac",
+    "text": "SO SLOW AND PATIENT IS THE PROCESS BY WHICH CHRISTIANITY INFUSES ITSELF INTO THE SOCIAL LIFE OF A CONVERTED PEOPLE",
+    "tokens": [
+        15821,
+        12419,
+        3913,
+        5357,
+        28748,
+        28495,
+        3180,
+        3336,
+        41755,
+        7597,
+        11050,
+        7655,
+        20739,
+        48354,
+        16868,
+        9050,
+        45594,
+        2937,
+        1546,
+        42437,
+        37738,
+        39319,
+        3336,
+        31430,
+        12576,
+        36821,
+        3963,
+        317,
+        7102,
+        15858,
+        1961,
+        36388
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "152373",
+        "file_id": "2035-152373-0014"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0013.flac",
+    "text": "CLARET EIGHTEEN NINETY EIGHT AND NINETEEN O FOUR",
+    "tokens": [
+        5097,
+        1503,
+        2767,
+        412,
+        9947,
+        36,
+        1677,
+        399,
+        1268,
+        2767,
+        56,
+        412,
+        9947,
+        5357,
+        399,
+        1268,
+        2767,
+        36,
+        1677,
+        440,
+        376,
+        11698
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130737",
+        "file_id": "652-130737-0013"
+    }
+}

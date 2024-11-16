@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0003.flac",
+    "text": "IT IS TRUE I CANNOT ENTIRELY UNDO WHAT MY ELDER HAS DONE",
+    "tokens": [
+        2043,
+        3180,
+        26751,
+        314,
+        15628,
+        11929,
+        47353,
+        41736,
+        11319,
+        4725,
+        18227,
+        25003,
+        17615,
+        412,
+        11163,
+        1137,
+        33930,
+        360,
+        11651
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "64726",
+        "file_id": "6319-64726-0003"
+    }
+}

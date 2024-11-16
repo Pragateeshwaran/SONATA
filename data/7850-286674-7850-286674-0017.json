@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0017.flac",
+    "text": "THE NYMPHS HAD ALREADY GOTTEN AWAY",
+    "tokens": [
+        10970,
+        6645,
+        7378,
+        7998,
+        367,
+        2885,
+        8355,
+        15675,
+        56,
+        402,
+        29089,
+        1677,
+        14356,
+        4792
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "286674",
+        "file_id": "7850-286674-0017"
+    }
+}

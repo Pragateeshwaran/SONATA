@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0025.flac",
+    "text": "KIRKLAND JUMPED FOR THE JETTY MISSED HIS FOOTING AND FELL INTO THE ARMS OF THE CHAPLAIN",
+    "tokens": [
+        42,
+        4663,
+        42,
+        28182,
+        449,
+        20476,
+        1961,
+        7473,
+        3336,
+        449,
+        2767,
+        9936,
+        49684,
+        1961,
+        33700,
+        11895,
+        2394,
+        2751,
+        5357,
+        18630,
+        3069,
+        39319,
+        3336,
+        5923,
+        5653,
+        3963,
+        3336,
+        5870,
+        2969,
+        13534,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0025"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0013.flac",
+    "text": "THE WHOLE OF EXISTENCE RESEMBLES A LETTER MODIFIED IN THE POSTSCRIPT",
+    "tokens": [
+        10970,
+        19494,
+        2538,
+        3963,
+        7788,
+        8808,
+        18310,
+        15731,
+        3620,
+        9148,
+        1546,
+        317,
+        37994,
+        5781,
+        19164,
+        28343,
+        3268,
+        3336,
+        24582,
+        6173,
+        46023
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34615",
+        "file_id": "5895-34615-0013"
+    }
+}

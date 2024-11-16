@@ -1,0 +1,17 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0055.flac",
+    "text": "THIS IS MURDEROUS",
+    "tokens": [
+        43559,
+        3180,
+        337,
+        4261,
+        14418,
+        20958
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0055"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0027.flac",
+    "text": "IT REQUIRED MONTHS AND GREAT EVENTS TO MAKE GRANT THE HERO OF THE ARMY WHICH HE AFTERWARD BECAME",
+    "tokens": [
+        2043,
+        4526,
+        10917,
+        37819,
+        25000,
+        4221,
+        50,
+        5357,
+        37853,
+        22399,
+        5390,
+        39134,
+        10863,
+        8643,
+        3336,
+        45947,
+        3963,
+        3336,
+        20359,
+        56,
+        7655,
+        20739,
+        11179,
+        36050,
+        39743,
+        347,
+        2943,
+        10067
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0027"
+    }
+}

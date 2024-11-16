@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0039.flac",
+    "text": "I TOLLED THE BELL AGAIN",
+    "tokens": [
+        40,
+        5390,
+        3069,
+        1961,
+        3336,
+        9348,
+        3069,
+        36218,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0039"
+    }
+}

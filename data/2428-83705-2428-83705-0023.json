@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0023.flac",
+    "text": "I KNOW WHAT MAMMA CAN AFFORD TO GIVE AND I WILL SEE SHE GIVES IT",
+    "tokens": [
+        40,
+        35876,
+        25003,
+        337,
+        2390,
+        5673,
+        15628,
+        317,
+        5777,
+        12532,
+        5390,
+        402,
+        9306,
+        5357,
+        314,
+        17682,
+        31107,
+        48052,
+        402,
+        42472,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0023"
+    }
+}

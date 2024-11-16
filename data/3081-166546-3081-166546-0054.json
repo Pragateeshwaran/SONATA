@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0054.flac",
+    "text": "MARK SOWERBY AND CLAUS HENNERBERG",
+    "tokens": [
+        44,
+        14175,
+        311,
+        36048,
+        17513,
+        5357,
+        47666,
+        2937,
+        367,
+        1677,
+        21479,
+        13246,
+        38
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0054"
+    }
+}

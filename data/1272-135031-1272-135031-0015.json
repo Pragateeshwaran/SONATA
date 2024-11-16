@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0015.flac",
+    "text": "THE METAL FOREST IS IN THE GREAT DOMED CAVERN THE LARGEST IN ALL OUR DOMINIONS REPLIED KALIKO",
+    "tokens": [
+        10970,
+        31243,
+        1847,
+        7473,
+        6465,
+        3180,
+        3268,
+        3336,
+        37853,
+        24121,
+        1961,
+        7257,
+        5959,
+        45,
+        3336,
+        47211,
+        38,
+        6465,
+        3268,
+        11096,
+        30229,
+        24121,
+        1268,
+        11053,
+        45285,
+        19767,
+        509,
+        1847,
+        18694,
+        46
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0015"
+    }
+}

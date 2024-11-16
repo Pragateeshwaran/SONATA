@@ -1,0 +1,17 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0022.flac",
+    "text": "YOU CAN'T DO IT",
+    "tokens": [
+        36981,
+        15628,
+        6,
+        51,
+        8410,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0022"
+    }
+}

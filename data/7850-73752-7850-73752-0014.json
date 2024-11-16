@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0014.flac",
+    "text": "AND NOW ALL HAD ENDED SO HAPPILY",
+    "tokens": [
+        6981,
+        20229,
+        11096,
+        367,
+        2885,
+        23578,
+        1961,
+        12809,
+        367,
+        24805,
+        33340
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "73752",
+        "file_id": "7850-73752-0014"
+    }
+}

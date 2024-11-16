@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0006.flac",
+    "text": "ON THE GENERAL PRINCIPLES OF ART MISTER QUILTER WRITES WITH EQUAL LUCIDITY",
+    "tokens": [
+        1340,
+        3336,
+        41877,
+        4810,
+        30158,
+        4061,
+        28378,
+        3963,
+        24278,
+        337,
+        41517,
+        19604,
+        4146,
+        5781,
+        11342,
+        2043,
+        1546,
+        13315,
+        46886,
+        1847,
+        406,
+        9598,
+        2389,
+        9050
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "128104",
+        "file_id": "1272-128104-0006"
+    }
+}

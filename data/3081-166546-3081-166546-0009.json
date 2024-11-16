@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0009.flac",
+    "text": "HAVE YOU EVER THOUGHT THAT SHE MIGHT HAVE BEEN A SUICIDE",
+    "tokens": [
+        7801,
+        6089,
+        7013,
+        20498,
+        2320,
+        2606,
+        38,
+        6535,
+        14603,
+        48052,
+        337,
+        9947,
+        21515,
+        9348,
+        1677,
+        317,
+        13558,
+        2149,
+        14114
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0009"
+    }
+}

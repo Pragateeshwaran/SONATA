@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0034.flac",
+    "text": "THERE WERE NEVER BEFORE SUCH TIMES IN OLD KENTUCKY",
+    "tokens": [
+        4221,
+        9338,
+        370,
+        9338,
+        33602,
+        38331,
+        13558,
+        3398,
+        31742,
+        1546,
+        3268,
+        440,
+        11163,
+        509,
+        3525,
+        16696,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0034"
+    }
+}

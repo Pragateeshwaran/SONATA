@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0010.flac",
+    "text": "WE WOULD FIGHT TO THE DEATH OF COURSE BUT AFTER THAT",
+    "tokens": [
+        8845,
+        370,
+        24010,
+        39941,
+        5390,
+        3336,
+        5550,
+        12599,
+        3963,
+        37384,
+        5188,
+        21728,
+        36050,
+        14603
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154320",
+        "file_id": "2803-154320-0010"
+    }
+}

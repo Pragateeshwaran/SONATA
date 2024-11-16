@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0004.flac",
+    "text": "NOT BALAKLAVA NOR THE ALMA SAW SUCH FIGHTING IT WAS A DUEL TO THE DEATH",
+    "tokens": [
+        11929,
+        48091,
+        10206,
+        43,
+        10116,
+        32,
+        25273,
+        3336,
+        8355,
+        5673,
+        311,
+        12298,
+        13558,
+        3398,
+        39941,
+        2751,
+        7283,
+        21725,
+        317,
+        35480,
+        3698,
+        5390,
+        3336,
+        5550,
+        12599
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0004"
+    }
+}

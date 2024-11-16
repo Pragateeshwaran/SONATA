@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0015.flac",
+    "text": "BUT EACH WEEK ADDED TO HIS LONELINESS AND HIS LONGINGS FOR MINNETAKI AND HIS FORESTS",
+    "tokens": [
+        47526,
+        412,
+        16219,
+        43765,
+        27841,
+        1961,
+        5390,
+        33700,
+        406,
+        1340,
+        3698,
+        44180,
+        5357,
+        33700,
+        44533,
+        20754,
+        7473,
+        20625,
+        12884,
+        10206,
+        40,
+        5357,
+        33700,
+        7473,
+        1546,
+        4694
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0015"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0020.flac",
+    "text": "SPRING CAME AND PASSED AND THEN SUMMER",
+    "tokens": [
+        4303,
+        49,
+        2751,
+        327,
+        10067,
+        5357,
+        41752,
+        1961,
+        5357,
+        42243,
+        35683,
+        29296
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0020"
+    }
+}

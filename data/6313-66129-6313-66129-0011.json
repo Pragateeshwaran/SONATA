@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0011.flac",
+    "text": "YES THE COUNTRY IS FULL OF CAVES",
+    "tokens": [
+        43335,
+        3336,
+        31404,
+        40405,
+        3180,
+        34958,
+        3963,
+        7257,
+        53,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0011"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0036.flac",
+    "text": "YOU ASK ME TO STAY AWAY FROM YOU BECAUSE YOU WANT ME",
+    "tokens": [
+        36981,
+        7054,
+        42,
+        11948,
+        5390,
+        3563,
+        4792,
+        14356,
+        4792,
+        16034,
+        7013,
+        347,
+        36600,
+        19108,
+        7013,
+        41300,
+        11948
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0036"
+    }
+}

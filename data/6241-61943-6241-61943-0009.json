@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0009.flac",
+    "text": "THE VALKYRIE KEPT OFF THE COAST STEERING TO THE WESTWARD",
+    "tokens": [
+        10970,
+        26173,
+        31159,
+        7112,
+        36,
+        509,
+        8905,
+        51,
+        18562,
+        3336,
+        7375,
+        11262,
+        24483,
+        1137,
+        2751,
+        5390,
+        3336,
+        370,
+        6465,
+        39743
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0009"
+    }
+}

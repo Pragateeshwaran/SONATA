@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0007.flac",
+    "text": "DO THEY STILL INSIST THAT MISS CHALLONER WAS THE ONLY PERSON IN THE ROOM WITH THEM AT THIS TIME",
+    "tokens": [
+        18227,
+        33302,
+        3563,
+        8267,
+        29194,
+        8808,
+        14603,
+        49684,
+        5870,
+        7036,
+        1340,
+        1137,
+        21725,
+        3336,
+        22224,
+        46740,
+        3268,
+        3336,
+        15107,
+        2662,
+        13315,
+        44788,
+        5161,
+        12680,
+        20460
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0007"
+    }
+}

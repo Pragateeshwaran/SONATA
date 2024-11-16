@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0027.flac",
+    "text": "PUT INTO THE OVEN AGAIN AND COOK FOR HALF AN HOUR BASTING FREQUENTLY WITH THE ORIGINAL BRINE",
+    "tokens": [
+        30076,
+        39319,
+        3336,
+        440,
+        28290,
+        36218,
+        1268,
+        5357,
+        327,
+        15308,
+        7473,
+        42968,
+        37,
+        3537,
+        367,
+        11698,
+        347,
+        11262,
+        2751,
+        44253,
+        10917,
+        3525,
+        11319,
+        13315,
+        3336,
+        43901,
+        17961,
+        11177,
+        8881
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130726",
+        "file_id": "652-130726-0027"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0029.flac",
+    "text": "YES HILDA I KNOW THAT HE SAID SIMPLY",
+    "tokens": [
+        43335,
+        367,
+        4146,
+        5631,
+        314,
+        35876,
+        14603,
+        11179,
+        14719,
+        2389,
+        23749,
+        6489,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0029"
+    }
+}

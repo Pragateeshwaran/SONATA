@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0014.flac",
+    "text": "THE MOVEMENT SENT HIS BODY SWAYING GIDDILY FROM SIDE TO SIDE",
+    "tokens": [
+        10970,
+        28184,
+        12529,
+        311,
+        3525,
+        33700,
+        347,
+        33076,
+        12672,
+        4792,
+        2751,
+        402,
+        2389,
+        35,
+        33340,
+        16034,
+        311,
+        14114,
+        5390,
+        311,
+        14114
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0014"
+    }
+}

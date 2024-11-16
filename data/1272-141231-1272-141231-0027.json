@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0027.flac",
+    "text": "WHEN THE BUZZER SOUNDED HE PULLED HIS FOIL FROM HIS SECOND'S STARTLED GRASP AND RAN FORWARD",
+    "tokens": [
+        12418,
+        1677,
+        3336,
+        20571,
+        30148,
+        1137,
+        311,
+        15919,
+        1961,
+        11179,
+        350,
+        9994,
+        1961,
+        33700,
+        11895,
+        4146,
+        16034,
+        33700,
+        10729,
+        18672,
+        6,
+        50,
+        33303,
+        30465,
+        10863,
+        1921,
+        47,
+        5357,
+        371,
+        1565,
+        7473,
+        39743
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0027"
+    }
+}

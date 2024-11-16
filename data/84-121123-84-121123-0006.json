@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0006.flac",
+    "text": "FOR SOME TIME NOTHING WAS HEARD IN THAT CHAMBER BUT SOBS EXCLAMATIONS AND PRAYERS",
+    "tokens": [
+        13775,
+        41670,
+        20460,
+        5626,
+        39,
+        2751,
+        21725,
+        11179,
+        9795,
+        3268,
+        14603,
+        5870,
+        2390,
+        13246,
+        21728,
+        12809,
+        4462,
+        7788,
+        5097,
+        2390,
+        18421,
+        5357,
+        350,
+        30631,
+        4877
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0006"
+    }
+}

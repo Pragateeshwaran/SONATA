@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0002.flac",
+    "text": "I HAPPEN TO HAVE MAC CONNELL'S BOX FOR TONIGHT OR THERE'D BE NO CHANCE OF OUR GETTING PLACES",
+    "tokens": [
+        40,
+        367,
+        24805,
+        1677,
+        5390,
+        21515,
+        20582,
+        7102,
+        12161,
+        3069,
+        6,
+        50,
+        45216,
+        7473,
+        309,
+        1340,
+        9947,
+        6375,
+        34702,
+        6,
+        35,
+        9348,
+        8005,
+        5870,
+        19240,
+        3963,
+        30229,
+        17151,
+        48996,
+        9297,
+        2246,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0002"
+    }
+}

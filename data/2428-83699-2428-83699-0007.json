@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0007.flac",
+    "text": "I HAVE NEVER KNOWN A MADGE AND YET FROM MY BOYHOOD UPWARD I HAVE DESIRED TO MEET ONE",
+    "tokens": [
+        40,
+        21515,
+        33602,
+        22466,
+        14165,
+        317,
+        45878,
+        8264,
+        5357,
+        575,
+        2767,
+        16034,
+        17615,
+        16494,
+        56,
+        39,
+        22808,
+        15958,
+        39743,
+        314,
+        21515,
+        22196,
+        37819,
+        5390,
+        11948,
+        2767,
+        16329
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0007"
+    }
+}

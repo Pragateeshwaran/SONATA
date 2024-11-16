@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0007.flac",
+    "text": "WHAT DO YOU MEAN SIR",
+    "tokens": [
+        32971,
+        8410,
+        7013,
+        11948,
+        1565,
+        311,
+        4663
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0007"
+    }
+}

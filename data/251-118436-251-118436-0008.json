@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0008.flac",
+    "text": "WITH A LONG STAINED FINGERNAIL HE MAPPED THE CONSTELLATIONS ON THE MARBLE TILED FLOOR",
+    "tokens": [
+        54,
+        10554,
+        317,
+        44533,
+        3563,
+        29833,
+        1961,
+        376,
+        2751,
+        1137,
+        4535,
+        4146,
+        11179,
+        337,
+        24805,
+        1961,
+        3336,
+        7102,
+        2257,
+        23304,
+        18421,
+        6177,
+        3336,
+        18805,
+        19146,
+        309,
+        4146,
+        1961,
+        9977,
+        46,
+        1581
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0008"
+    }
+}

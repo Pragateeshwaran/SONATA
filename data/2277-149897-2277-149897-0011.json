@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0011.flac",
+    "text": "SHE WOULD TAKE THE ENVELOPE AND KNOW THAT SHE HAD TRIUMPHED",
+    "tokens": [
+        9693,
+        36,
+        370,
+        24010,
+        21664,
+        7336,
+        3336,
+        12964,
+        18697,
+        32135,
+        5357,
+        35876,
+        14603,
+        48052,
+        367,
+        2885,
+        37679,
+        5883,
+        11909,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0011"
+    }
+}

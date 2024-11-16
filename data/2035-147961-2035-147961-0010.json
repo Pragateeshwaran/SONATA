@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0010.flac",
+    "text": "HE SEEMED TO BE CURSING PEOPLE WHO HAD WRONGED HIM",
+    "tokens": [
+        13909,
+        7946,
+        3620,
+        1961,
+        5390,
+        9348,
+        327,
+        4261,
+        50,
+        2751,
+        36388,
+        19494,
+        367,
+        2885,
+        11342,
+        18494,
+        1961,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0010"
+    }
+}

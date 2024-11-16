@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0022.flac",
+    "text": "I DID NOT KNOW WHAT HE MEANT",
+    "tokens": [
+        40,
+        35697,
+        5626,
+        35876,
+        25003,
+        11179,
+        11948,
+        8643
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0022"
+    }
+}

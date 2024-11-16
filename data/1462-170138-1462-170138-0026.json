@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0026.flac",
+    "text": "I'M GLAD SHE'S HELD HER OWN SINCE",
+    "tokens": [
+        40,
+        6,
+        44,
+        10188,
+        2885,
+        48052,
+        6,
+        50,
+        367,
+        24639,
+        24906,
+        47672,
+        311,
+        1268,
+        5222
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0026"
+    }
+}

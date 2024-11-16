@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0020.flac",
+    "text": "VERY LIKELY I MAY FIND THERE SOME MANUSCRIPTS FROM THE HAND OF SAKNUSSEMM",
+    "tokens": [
+        5959,
+        56,
+        406,
+        18694,
+        30943,
+        314,
+        26720,
+        376,
+        12115,
+        34702,
+        41670,
+        17254,
+        2937,
+        36584,
+        4694,
+        16034,
+        3336,
+        367,
+        6981,
+        3963,
+        311,
+        10206,
+        45,
+        32835,
+        3620,
+        44
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0020"
+    }
+}

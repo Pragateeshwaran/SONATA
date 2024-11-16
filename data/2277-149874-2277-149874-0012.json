@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0012.flac",
+    "text": "MINNIE BEGAN TO EXPLAIN BUT HER HUSBAND TOOK THIS PART OF THE CONVERSATION TO HIMSELF",
+    "tokens": [
+        23678,
+        45,
+        10008,
+        347,
+        7156,
+        1565,
+        5390,
+        7788,
+        6489,
+        29833,
+        21728,
+        24906,
+        367,
+        27155,
+        6981,
+        5390,
+        11380,
+        12680,
+        16652,
+        3963,
+        3336,
+        7102,
+        28884,
+        6234,
+        5390,
+        45909,
+        50,
+        37738
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0012"
+    }
+}

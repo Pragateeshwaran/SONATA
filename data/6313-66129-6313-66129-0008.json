@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0008.flac",
+    "text": "HE BURIED HIS BISCUIT UNDER A LAYER OF JAM OVER WHICH HE SPREAD A THICK COATING OF HONEY",
+    "tokens": [
+        13909,
+        45604,
+        19767,
+        33700,
+        347,
+        37719,
+        52,
+        2043,
+        35219,
+        317,
+        406,
+        4792,
+        1137,
+        3963,
+        449,
+        2390,
+        28729,
+        7655,
+        20739,
+        11179,
+        6226,
+        15675,
+        317,
+        2320,
+        11860,
+        7375,
+        33881,
+        3963,
+        367,
+        48399
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0008"
+    }
+}

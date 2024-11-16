@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0027.flac",
+    "text": "I'LL HAVE TO CHECK SOME MORE SAYS TOM",
+    "tokens": [
+        40,
+        6,
+        3069,
+        21515,
+        5390,
+        5870,
+        25171,
+        41670,
+        12011,
+        45687,
+        50,
+        41526
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0027"
+    }
+}

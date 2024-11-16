@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0008.flac",
+    "text": "IF WE DECIDE TO SHOW MERCY TO THIS POOR BEGGAR IT IS NOT FOR YOU TO OPPOSE IT",
+    "tokens": [
+        5064,
+        12887,
+        27196,
+        14114,
+        5390,
+        37041,
+        34482,
+        34,
+        56,
+        5390,
+        12680,
+        19922,
+        1581,
+        347,
+        7156,
+        38,
+        1503,
+        7283,
+        3180,
+        5626,
+        7473,
+        7013,
+        5390,
+        440,
+        10246,
+        14058,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0008"
+    }
+}

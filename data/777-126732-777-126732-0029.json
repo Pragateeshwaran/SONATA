@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0029.flac",
+    "text": "HE GAVE THE DISCUSSION UP WITH A SLIGHT SHRUG OF THE SHOULDERS",
+    "tokens": [
+        13909,
+        14545,
+        6089,
+        3336,
+        13954,
+        34,
+        32835,
+        2849,
+        15958,
+        13315,
+        317,
+        12419,
+        9947,
+        6006,
+        49,
+        7340,
+        3963,
+        3336,
+        40312,
+        4877
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0029"
+    }
+}

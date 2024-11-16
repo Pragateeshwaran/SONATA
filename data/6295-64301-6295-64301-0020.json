@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0020.flac",
+    "text": "NOR WAS THIS EXACTLY THE SHAPE THE THING TOOK TO THE CONSCIOUSNESS OF THE MUSICIAN",
+    "tokens": [
+        35510,
+        21725,
+        12680,
+        7788,
+        10659,
+        11319,
+        3336,
+        6006,
+        45721,
+        3336,
+        2320,
+        2751,
+        5390,
+        11380,
+        5390,
+        3336,
+        7102,
+        6173,
+        40,
+        2606,
+        15571,
+        7597,
+        3963,
+        3336,
+        39484,
+        2149,
+        16868
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0020"
+    }
+}

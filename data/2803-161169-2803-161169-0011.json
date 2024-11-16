@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0011.flac",
+    "text": "WHAT SHOULD WE HAVE DONE IF EVERYBODY HAD KEPT ON BURNING WOOD TO THIS DAY",
+    "tokens": [
+        32971,
+        40312,
+        12887,
+        21515,
+        360,
+        11651,
+        16876,
+        27222,
+        33,
+        33076,
+        367,
+        2885,
+        509,
+        8905,
+        51,
+        6177,
+        45604,
+        15871,
+        370,
+        22808,
+        5390,
+        12680,
+        24644
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "161169",
+        "file_id": "2803-161169-0011"
+    }
+}

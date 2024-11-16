@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0011.flac",
+    "text": "SAID MORREL SADLY YES REPLIED NOIRTIER",
+    "tokens": [
+        4090,
+        2389,
+        35208,
+        16448,
+        311,
+        2885,
+        11319,
+        21560,
+        45285,
+        19767,
+        8005,
+        4663,
+        25621,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0011"
+    }
+}

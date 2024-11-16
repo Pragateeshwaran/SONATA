@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0007.flac",
+    "text": "THE FLOORS WERE COVERED WITH MATTING AND THE HALL LAID WITH A THIN RAG CARPET",
+    "tokens": [
+        10970,
+        9977,
+        46,
+        20673,
+        370,
+        9338,
+        47902,
+        1961,
+        13315,
+        337,
+        17139,
+        2751,
+        5357,
+        3336,
+        367,
+        7036,
+        9131,
+        2389,
+        13315,
+        317,
+        2320,
+        1268,
+        371,
+        4760,
+        17368,
+        47731
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0007"
+    }
+}

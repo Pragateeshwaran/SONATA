@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0019.flac",
+    "text": "YOU SAY YOU KNOW ALL ABOUT IT THEN GO ON AND FINISH YOUR NESTS BY YOURSELVES",
+    "tokens": [
+        36981,
+        45687,
+        7013,
+        35876,
+        11096,
+        33478,
+        7283,
+        42243,
+        10351,
+        6177,
+        5357,
+        33642,
+        18422,
+        16592,
+        31925,
+        4694,
+        11050,
+        7013,
+        6998,
+        3698,
+        53,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "281318",
+        "file_id": "7850-281318-0019"
+    }
+}

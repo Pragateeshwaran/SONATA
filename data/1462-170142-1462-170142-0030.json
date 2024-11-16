@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0030.flac",
+    "text": "I UNDERSTAND BARTLEY I WAS WRONG",
+    "tokens": [
+        40,
+        35219,
+        2257,
+        6981,
+        42346,
+        25173,
+        314,
+        21725,
+        11342,
+        18494
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0030"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0020.flac",
+    "text": "WITH THAT CAME A PANG OF INTENSE PAIN",
+    "tokens": [
+        54,
+        10554,
+        14603,
+        327,
+        10067,
+        317,
+        350,
+        15567,
+        3963,
+        17828,
+        24290,
+        8147,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "64257",
+        "file_id": "6345-64257-0020"
+    }
+}

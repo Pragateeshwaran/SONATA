@@ -1,0 +1,17 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0001.flac",
+    "text": "IT IS DISGRACEFUL",
+    "tokens": [
+        2043,
+        3180,
+        13954,
+        10761,
+        11598,
+        46476
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "286674",
+        "file_id": "7850-286674-0001"
+    }
+}

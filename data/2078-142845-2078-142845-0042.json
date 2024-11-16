@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0042.flac",
+    "text": "VICTORIA BUNS SEVENTEEN THIRTY TWO",
+    "tokens": [
+        53,
+        18379,
+        1581,
+        3539,
+        347,
+        4944,
+        50,
+        7946,
+        53,
+        3525,
+        36,
+        1677,
+        2320,
+        4663,
+        9936,
+        35288
+    ],
+    "metadata": {
+        "speaker_id": "2078",
+        "chapter_id": "142845",
+        "file_id": "2078-142845-0042"
+    }
+}

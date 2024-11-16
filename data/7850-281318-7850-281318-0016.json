@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0016.flac",
+    "text": "CERTAINLY OF COURSE SCREAMED THE JACKDAW",
+    "tokens": [
+        34,
+        1137,
+        30339,
+        11319,
+        3963,
+        37384,
+        5188,
+        6374,
+        32235,
+        1961,
+        3336,
+        45586,
+        5631,
+        54
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "281318",
+        "file_id": "7850-281318-0016"
+    }
+}

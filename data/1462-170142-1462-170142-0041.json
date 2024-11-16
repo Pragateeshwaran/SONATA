@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0041.flac",
+    "text": "SHE SLID TO THE FLOOR BESIDE HIM AS IF SHE WERE TOO TIRED TO SIT UP ANY LONGER",
+    "tokens": [
+        9693,
+        36,
+        12419,
+        2389,
+        5390,
+        3336,
+        9977,
+        46,
+        1581,
+        347,
+        1546,
+        14114,
+        45909,
+        7054,
+        16876,
+        48052,
+        370,
+        9338,
+        5390,
+        46,
+        309,
+        37819,
+        5390,
+        311,
+        2043,
+        15958,
+        15529,
+        44533,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0041"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0012.flac",
+    "text": "WHEN HE BECOMES AN OLD MAN HE LOVES TO MAKE A NOTABLE EFFORT TO PROVE HIS GRATITUDE",
+    "tokens": [
+        12418,
+        1677,
+        11179,
+        347,
+        2943,
+        2662,
+        1546,
+        3537,
+        440,
+        11163,
+        17254,
+        11179,
+        406,
+        8874,
+        1546,
+        5390,
+        39134,
+        317,
+        5626,
+        17534,
+        33659,
+        9863,
+        5390,
+        21965,
+        6089,
+        33700,
+        10863,
+        1404,
+        2043,
+        52,
+        7206
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43359",
+        "file_id": "5536-43359-0012"
+    }
+}

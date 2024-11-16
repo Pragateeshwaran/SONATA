@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0001.flac",
+    "text": "QUINCI IMPARA A STUPIRTI",
+    "tokens": [
+        10917,
+        1268,
+        25690,
+        30023,
+        24401,
+        317,
+        3563,
+        8577,
+        4663,
+        25621
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "304647",
+        "file_id": "8842-304647-0001"
+    }
+}

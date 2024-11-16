@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0010.flac",
+    "text": "SAUTERNE IS A WHITE BORDEAUX A STRONG LUSCIOUS WINE THE BEST KNOWN VARIETIES BEING",
+    "tokens": [
+        4090,
+        3843,
+        1137,
+        12161,
+        3180,
+        317,
+        44925,
+        347,
+        1581,
+        7206,
+        26830,
+        55,
+        317,
+        19269,
+        18494,
+        406,
+        2937,
+        25690,
+        20958,
+        370,
+        8881,
+        3336,
+        38502,
+        22466,
+        14165,
+        569,
+        33604,
+        2767,
+        11015,
+        9348,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130737",
+        "file_id": "652-130737-0010"
+    }
+}

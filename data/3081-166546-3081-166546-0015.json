@@ -1,0 +1,18 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0015.flac",
+    "text": "I AM LOOKING AT HIM NOW",
+    "tokens": [
+        40,
+        3001,
+        48045,
+        2751,
+        5161,
+        45909,
+        20229
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0015"
+    }
+}

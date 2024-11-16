@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0027.flac",
+    "text": "OH NO THIS KIND OF A WRANGLER ISN'T LAUGHED THE FOREMAN",
+    "tokens": [
+        12096,
+        8005,
+        12680,
+        509,
+        12115,
+        3963,
+        317,
+        11342,
+        1565,
+        8763,
+        1137,
+        3180,
+        45,
+        6,
+        51,
+        9131,
+        44004,
+        1961,
+        3336,
+        7473,
+        3620,
+        1565
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0027"
+    }
+}

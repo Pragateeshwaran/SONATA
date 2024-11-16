@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0021.flac",
+    "text": "PERHAPS YOU COULD PUT ON YOUR COAT AND WALK OUT WITH ME FOR A FEW MINUTES SAID TREVELYAN",
+    "tokens": [
+        18973,
+        39,
+        44580,
+        7013,
+        327,
+        24010,
+        350,
+        3843,
+        6177,
+        16592,
+        7375,
+        1404,
+        5357,
+        370,
+        28082,
+        16289,
+        13315,
+        11948,
+        7473,
+        317,
+        376,
+        6217,
+        20625,
+        3843,
+        1546,
+        14719,
+        2389,
+        43236,
+        18697,
+        56,
+        1565
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0021"
+    }
+}

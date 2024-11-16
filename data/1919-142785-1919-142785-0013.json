@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0013.flac",
+    "text": "BEAT THE EGGS STIR TO THEM THE MILK AND POUNDED SUGAR AND PUT THE MIXTURE INTO A JUG",
+    "tokens": [
+        12473,
+        1404,
+        3336,
+        412,
+        11190,
+        50,
+        3563,
+        4663,
+        5390,
+        44788,
+        3336,
+        31515,
+        42,
+        5357,
+        350,
+        15919,
+        1961,
+        311,
+        7340,
+        1503,
+        5357,
+        350,
+        3843,
+        3336,
+        337,
+        10426,
+        51,
+        11335,
+        39319,
+        317,
+        449,
+        7340
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0013"
+    }
+}

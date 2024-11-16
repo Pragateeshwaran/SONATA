@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0037.flac",
+    "text": "THERE WAS A RUSH OF RETREATING FEET AN EXPOSTULATING VOICE THEN DARKNESS AGAIN AND SILENCE",
+    "tokens": [
+        4221,
+        9338,
+        21725,
+        317,
+        371,
+        27143,
+        3963,
+        30826,
+        2200,
+        33881,
+        18630,
+        2767,
+        3537,
+        25703,
+        10892,
+        6239,
+        33881,
+        30578,
+        8476,
+        42243,
+        46455,
+        31097,
+        36218,
+        1268,
+        5357,
+        47551,
+        18310
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0037"
+    }
+}

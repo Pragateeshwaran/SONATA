@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0016.flac",
+    "text": "IT WAS THE YOUNGEST ONE WHO DECEIVED ME CRIED THE ROBBER CHIEFTAIN",
+    "tokens": [
+        2043,
+        21725,
+        3336,
+        7013,
+        10503,
+        6465,
+        16329,
+        19494,
+        27196,
+        36,
+        3824,
+        1961,
+        11948,
+        327,
+        7112,
+        1961,
+        3336,
+        36449,
+        13246,
+        5870,
+        10008,
+        37,
+        30339
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0016"
+    }
+}

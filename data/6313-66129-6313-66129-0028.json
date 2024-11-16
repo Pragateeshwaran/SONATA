@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0028.flac",
+    "text": "TAD IS AN EXPERIENCED RIDER",
+    "tokens": [
+        51,
+        2885,
+        3180,
+        3537,
+        7788,
+        18973,
+        40,
+        24181,
+        1961,
+        371,
+        41237
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0028"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0009.flac",
+    "text": "YES MY LORD WE SHOULD TRY IN VAIN",
+    "tokens": [
+        43335,
+        17615,
+        35750,
+        12887,
+        40312,
+        7579,
+        56,
+        3268,
+        13753,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154320",
+        "file_id": "2803-154320-0009"
+    }
+}

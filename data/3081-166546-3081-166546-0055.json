@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0055.flac",
+    "text": "HONEST GERMANS MEN WHO HAVE PLAYED HERE FOR YEARS",
+    "tokens": [
+        39,
+        1340,
+        6465,
+        44186,
+        10725,
+        50,
+        41597,
+        19494,
+        21515,
+        28180,
+        1961,
+        15698,
+        7473,
+        32914,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0055"
+    }
+}

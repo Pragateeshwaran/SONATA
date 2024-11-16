@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0027.flac",
+    "text": "AND ALL WORK HAD CEASED WITH HIM",
+    "tokens": [
+        6981,
+        11096,
+        30936,
+        367,
+        2885,
+        18671,
+        42827,
+        13315,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0027"
+    }
+}

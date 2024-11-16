@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0014.flac",
+    "text": "ALL THE TIME HIS THOUGHTS WOULD RUN OUT TO HIS HOME AND SEE THE SCENE BEING THEREIN ENACTED",
+    "tokens": [
+        7036,
+        3336,
+        20460,
+        33700,
+        2320,
+        32632,
+        4694,
+        370,
+        24010,
+        32494,
+        16289,
+        5390,
+        33700,
+        41779,
+        5357,
+        31107,
+        3336,
+        6374,
+        39267,
+        9348,
+        2751,
+        34702,
+        1268,
+        12964,
+        38542
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0014"
+    }
+}

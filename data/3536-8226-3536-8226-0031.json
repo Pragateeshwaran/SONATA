@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0031.flac",
+    "text": "AND BOZZLE AS HE SAID THIS SMILED ALMOST ALOUD",
+    "tokens": [
+        6981,
+        16494,
+        30148,
+        2538,
+        7054,
+        11179,
+        14719,
+        2389,
+        12680,
+        9447,
+        4146,
+        1961,
+        8355,
+        44,
+        10892,
+        8355,
+        2606,
+        35
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0031"
+    }
+}

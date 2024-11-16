@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0023.flac",
+    "text": "SEND MY SOUL CLEAN TO ASURA",
+    "tokens": [
+        50,
+        10619,
+        17615,
+        30065,
+        43,
+        30301,
+        1565,
+        5390,
+        7054,
+        45570
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0023"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0016.flac",
+    "text": "WITHOUT A WORD PETER GOT UP AND LIT HIS LANTERN",
+    "tokens": [
+        54,
+        10554,
+        12425,
+        317,
+        370,
+        12532,
+        32043,
+        1137,
+        41725,
+        15958,
+        5357,
+        406,
+        2043,
+        33700,
+        24192,
+        31800
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0016"
+    }
+}

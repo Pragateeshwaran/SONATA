@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0008.flac",
+    "text": "HUMPH GRUNTED CURLEY ADAMS",
+    "tokens": [
+        39,
+        5883,
+        11909,
+        10863,
+        4944,
+        36493,
+        327,
+        4261,
+        25173,
+        5984,
+        40834
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0008"
+    }
+}

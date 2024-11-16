@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0014.flac",
+    "text": "IF YOU THINK SO MADAM I SEE NOTHING THAT SHOULD PREVENT ME NOW",
+    "tokens": [
+        5064,
+        7013,
+        2320,
+        17248,
+        12809,
+        45878,
+        2390,
+        314,
+        31107,
+        5626,
+        39,
+        2751,
+        14603,
+        40312,
+        22814,
+        53,
+        3525,
+        11948,
+        20229
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "23268",
+        "file_id": "3536-23268-0014"
+    }
+}

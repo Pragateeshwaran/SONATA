@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0007.flac",
+    "text": "THUS ONE SAUNTERS ON AND ON IN THE GLORIOUS RADIANCE IN UTTER PEACE AND FORGETFULNESS OF TIME",
+    "tokens": [
+        4221,
+        2937,
+        16329,
+        14719,
+        4944,
+        51,
+        4877,
+        6177,
+        5357,
+        6177,
+        3268,
+        3336,
+        10188,
+        1581,
+        40,
+        20958,
+        33540,
+        16868,
+        5222,
+        3268,
+        19255,
+        5781,
+        18468,
+        11598,
+        5357,
+        7473,
+        18851,
+        46476,
+        31097,
+        3963,
+        20460
+    ],
+    "metadata": {
+        "speaker_id": "3000",
+        "chapter_id": "15664",
+        "file_id": "3000-15664-0007"
+    }
+}

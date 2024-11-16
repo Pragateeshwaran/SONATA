@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0004.flac",
+    "text": "THE KING HAS FLED IN DISGRACE AND YOUR FRIENDS ARE ASKING FOR YOU",
+    "tokens": [
+        10970,
+        32957,
+        33930,
+        9977,
+        1961,
+        3268,
+        13954,
+        10761,
+        11598,
+        5357,
+        16592,
+        48167,
+        1677,
+        5258,
+        15986,
+        7054,
+        37286,
+        7473,
+        7013
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0004"
+    }
+}

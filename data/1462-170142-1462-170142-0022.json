@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0022.flac",
+    "text": "HE DROPPED BACK HEAVILY INTO HIS CHAIR BY THE FIRE",
+    "tokens": [
+        13909,
+        10560,
+        3185,
+        47,
+        1961,
+        28767,
+        11179,
+        10116,
+        33340,
+        39319,
+        33700,
+        5870,
+        42149,
+        11050,
+        3336,
+        39110
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0022"
+    }
+}

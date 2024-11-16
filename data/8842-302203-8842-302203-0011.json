@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0011.flac",
+    "text": "THE SECOND PART BEGINS HERE SAYING BE NOW THE THIRD HERE THEN WHILE IT WAS HIS PLEASURE",
+    "tokens": [
+        10970,
+        10729,
+        18672,
+        16652,
+        347,
+        7156,
+        20913,
+        15698,
+        45687,
+        2751,
+        9348,
+        20229,
+        3336,
+        2320,
+        46833,
+        15698,
+        42243,
+        7655,
+        41119,
+        7283,
+        21725,
+        33700,
+        350,
+        2538,
+        1921,
+        11335
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302203",
+        "file_id": "8842-302203-0011"
+    }
+}

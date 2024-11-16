@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0023.flac",
+    "text": "YOU'VE SOMETHING TO TELL ME I SEE IT IN YOUR FACE DEAR I MUST GO",
+    "tokens": [
+        36981,
+        6,
+        6089,
+        42121,
+        20702,
+        2751,
+        5390,
+        13368,
+        3069,
+        11948,
+        314,
+        31107,
+        7283,
+        3268,
+        16592,
+        46587,
+        5550,
+        1503,
+        314,
+        17191,
+        10351
+    ],
+    "metadata": {
+        "speaker_id": "3853",
+        "chapter_id": "163249",
+        "file_id": "3853-163249-0023"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0014.flac",
+    "text": "YOU CAN GUESS WHAT THAT UNHAPPY BOY HAS SUFFERED",
+    "tokens": [
+        36981,
+        15628,
+        19348,
+        7597,
+        25003,
+        14603,
+        4725,
+        39,
+        24805,
+        56,
+        16494,
+        56,
+        33930,
+        13558,
+        45746,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0014"
+    }
+}

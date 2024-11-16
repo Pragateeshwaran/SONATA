@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0007.flac",
+    "text": "AFTER MONTHS OF SEPARATION HE RECEIVED A VISIT FROM HERBERT",
+    "tokens": [
+        8579,
+        5781,
+        25000,
+        4221,
+        50,
+        3963,
+        7946,
+        27082,
+        6234,
+        11179,
+        19644,
+        36,
+        3824,
+        1961,
+        317,
+        50035,
+        2043,
+        16034,
+        24906,
+        13246,
+        51
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0007"
+    }
+}

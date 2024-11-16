@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0058.flac",
+    "text": "YES MISS CLARKE THE MIDDLE AGED LADY WITH THE PARRISHES",
+    "tokens": [
+        43335,
+        49684,
+        7852,
+        1503,
+        7336,
+        3336,
+        25269,
+        35,
+        2538,
+        13077,
+        1961,
+        406,
+        2885,
+        56,
+        13315,
+        3336,
+        350,
+        26465,
+        18422,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0058"
+    }
+}

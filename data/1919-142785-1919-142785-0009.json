@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0009.flac",
+    "text": "SEASONABLE THIS RECIPE SHOULD BE USED IN JUNE JULY OR AUGUST",
+    "tokens": [
+        5188,
+        36033,
+        17534,
+        12680,
+        19644,
+        4061,
+        36,
+        40312,
+        9348,
+        1294,
+        1961,
+        3268,
+        449,
+        41884,
+        49349,
+        56,
+        6375,
+        317,
+        7340,
+        7759
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0009"
+    }
+}

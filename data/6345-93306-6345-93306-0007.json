@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0007.flac",
+    "text": "LOOK HERE HE SAID THIS IS ALL NONSENSE YOU KNOW YOU ARE TIRED OUT AND THERE'S SOMETHING WRONG WHAT IS IT",
+    "tokens": [
+        43,
+        15308,
+        15698,
+        11179,
+        14719,
+        2389,
+        12680,
+        3180,
+        11096,
+        399,
+        19213,
+        24290,
+        7013,
+        35876,
+        7013,
+        15986,
+        309,
+        37819,
+        16289,
+        5357,
+        34702,
+        6,
+        50,
+        42121,
+        20702,
+        2751,
+        11342,
+        18494,
+        25003,
+        3180,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0007"
+    }
+}

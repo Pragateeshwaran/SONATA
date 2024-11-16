@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0011.flac",
+    "text": "WHAT IS IT CORALIE SHE ASKED THE WOMAN",
+    "tokens": [
+        32971,
+        3180,
+        7283,
+        23929,
+        1847,
+        10008,
+        48052,
+        7054,
+        42,
+        1961,
+        3336,
+        45386,
+        1565
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0011"
+    }
+}

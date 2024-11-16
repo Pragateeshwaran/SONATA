@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0009.flac",
+    "text": "SHE LOOKED AT HIS HEAVY SHOULDERS AND BIG DETERMINED HEAD THRUST FORWARD LIKE A CATAPULT IN LEASH",
+    "tokens": [
+        9693,
+        36,
+        48045,
+        1961,
+        5161,
+        33700,
+        11179,
+        10116,
+        56,
+        40312,
+        4877,
+        5357,
+        26746,
+        38267,
+        1137,
+        23678,
+        1961,
+        39837,
+        35383,
+        7759,
+        7473,
+        39743,
+        34178,
+        317,
+        38348,
+        2969,
+        16724,
+        3268,
+        12509,
+        11211
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0009"
+    }
+}

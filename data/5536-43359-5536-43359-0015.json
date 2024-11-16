@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0015.flac",
+    "text": "OUR HONOR IS THE GUARANTEE FOR HIS SAFETY SO LONG AS HE IS WITHIN THE CAMP",
+    "tokens": [
+        11698,
+        367,
+        1340,
+        1581,
+        3180,
+        3336,
+        19348,
+        1503,
+        8643,
+        6500,
+        7473,
+        33700,
+        37630,
+        2767,
+        56,
+        12809,
+        44533,
+        7054,
+        11179,
+        3180,
+        13315,
+        1268,
+        3336,
+        327,
+        23518
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43359",
+        "file_id": "5536-43359-0015"
+    }
+}

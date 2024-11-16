@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0024.flac",
+    "text": "IT SEEMED AS IF HIS FAMILY TROUBLES WERE JUST BEGINNING",
+    "tokens": [
+        2043,
+        7946,
+        3620,
+        1961,
+        7054,
+        16876,
+        33700,
+        42129,
+        33340,
+        7579,
+        2606,
+        9148,
+        1546,
+        370,
+        9338,
+        25848,
+        347,
+        43312,
+        15871
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0024"
+    }
+}

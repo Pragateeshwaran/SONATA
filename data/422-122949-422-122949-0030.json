@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\422\\122949\\422-122949-0030.flac",
+    "text": "BUT YOU MISUNDERSTAND HIM WHEN YOU COMPLAIN ABOUT IT",
+    "tokens": [
+        47526,
+        7013,
+        50029,
+        4944,
+        14418,
+        2257,
+        6981,
+        45909,
+        42099,
+        7013,
+        9440,
+        6489,
+        29833,
+        33478,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "422",
+        "chapter_id": "122949",
+        "file_id": "422-122949-0030"
+    }
+}

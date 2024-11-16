@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0016.flac",
+    "text": "THE OLD TIME WAS BUT A THICKER DREAM AND THIS IS TRUER BECAUSE MORE SHADOWY",
+    "tokens": [
+        10970,
+        440,
+        11163,
+        20460,
+        21725,
+        21728,
+        317,
+        2320,
+        11860,
+        1137,
+        360,
+        32235,
+        5357,
+        12680,
+        3180,
+        7579,
+        52,
+        1137,
+        347,
+        36600,
+        19108,
+        12011,
+        6006,
+        2885,
+        3913,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "64257",
+        "file_id": "6345-64257-0016"
+    }
+}

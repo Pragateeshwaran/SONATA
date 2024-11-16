@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0021.flac",
+    "text": "PASS THE CHARM OUT TO ME THEN SAID THE ROBBER",
+    "tokens": [
+        47924,
+        3336,
+        28521,
+        44,
+        16289,
+        5390,
+        11948,
+        42243,
+        14719,
+        2389,
+        3336,
+        36449,
+        13246
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0021"
+    }
+}

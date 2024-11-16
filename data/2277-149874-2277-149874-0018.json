@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0018.flac",
+    "text": "IT WAS UNDER SUCH AUSPICIOUS CIRCUMSTANCES THAT SHE STARTED OUT THIS MORNING TO LOOK FOR WORK",
+    "tokens": [
+        2043,
+        21725,
+        35219,
+        13558,
+        3398,
+        317,
+        2937,
+        47,
+        2149,
+        40,
+        20958,
+        327,
+        49060,
+        5883,
+        2257,
+        20940,
+        1546,
+        14603,
+        48052,
+        33303,
+        1961,
+        16289,
+        12680,
+        35208,
+        15871,
+        5390,
+        48045,
+        7473,
+        30936
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0018"
+    }
+}

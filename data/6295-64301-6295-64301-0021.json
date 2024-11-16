@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0021.flac",
+    "text": "I LOVE THEE I LOVE THEE CRIED THE VIOLIN AND THE WORSHIP WAS ENTREATY THAT KNEW NOT ITSELF",
+    "tokens": [
+        40,
+        27889,
+        3336,
+        36,
+        314,
+        27889,
+        3336,
+        36,
+        327,
+        7112,
+        1961,
+        3336,
+        13889,
+        3535,
+        1268,
+        5357,
+        3336,
+        21881,
+        49423,
+        21725,
+        47353,
+        2200,
+        1404,
+        56,
+        14603,
+        509,
+        13965,
+        5626,
+        42437,
+        37738
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0021"
+    }
+}

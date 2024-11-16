@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0013.flac",
+    "text": "BUT IN HIS HANDS SOLITUDE AND A VIOLIN WERE SURE TO MARRY IN MUSIC",
+    "tokens": [
+        47526,
+        3268,
+        33700,
+        367,
+        1565,
+        5258,
+        36817,
+        2043,
+        52,
+        7206,
+        5357,
+        317,
+        13889,
+        3535,
+        1268,
+        370,
+        9338,
+        311,
+        11335,
+        5390,
+        18805,
+        18276,
+        3268,
+        39484,
+        2149
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0013"
+    }
+}

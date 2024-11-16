@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0026.flac",
+    "text": "HE HAD BEEN A PRISONER HIMSELF",
+    "tokens": [
+        13909,
+        367,
+        2885,
+        9348,
+        1677,
+        317,
+        4810,
+        39960,
+        1137,
+        45909,
+        50,
+        37738
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0026"
+    }
+}

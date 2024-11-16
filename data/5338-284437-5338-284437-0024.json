@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0024.flac",
+    "text": "THE QUEEN HAS NOTHING BUT THE POWER TO EXECUTE THE LAWS TO ADJUST GRIEVANCES AND TO COMPEL ORDER",
+    "tokens": [
+        10970,
+        1195,
+        8924,
+        1677,
+        33930,
+        5626,
+        39,
+        2751,
+        21728,
+        3336,
+        40295,
+        5390,
+        7788,
+        2943,
+        37780,
+        3336,
+        9131,
+        19416,
+        5390,
+        5984,
+        25008,
+        402,
+        7112,
+        20114,
+        20940,
+        1546,
+        5357,
+        5390,
+        24301,
+        3698,
+        38678
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0024"
+    }
+}

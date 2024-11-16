@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0004.flac",
+    "text": "BUT NO GHOST OR ANYTHING ELSE APPEARED UPON THE ANCIENT WALLS",
+    "tokens": [
+        47526,
+        8005,
+        24739,
+        10892,
+        6375,
+        15529,
+        39356,
+        17852,
+        5188,
+        3486,
+        11401,
+        1503,
+        1961,
+        15958,
+        1340,
+        3336,
+        3537,
+        25690,
+        3525,
+        370,
+        1847,
+        6561
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0004"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0008.flac",
+    "text": "THE PATERNAL PARENT HAS A RIGHT TO HIS INFANTS NO DOUBT THAT WAS BOZZLE'S LAW",
+    "tokens": [
+        10970,
+        350,
+        23261,
+        45,
+        1847,
+        29463,
+        3525,
+        33930,
+        317,
+        33621,
+        5390,
+        33700,
+        45594,
+        1565,
+        4694,
+        8005,
+        360,
+        2606,
+        19313,
+        14603,
+        21725,
+        16494,
+        30148,
+        2538,
+        6,
+        50,
+        38675
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0008"
+    }
+}

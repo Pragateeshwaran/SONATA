@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0020.flac",
+    "text": "I DON'T BELIEVE ANN KNEW ANY MAGIC OR SHE'D HAVE WORKED IT BEFORE",
+    "tokens": [
+        40,
+        23917,
+        6,
+        51,
+        29991,
+        10008,
+        6089,
+        40126,
+        509,
+        13965,
+        15529,
+        28263,
+        2149,
+        6375,
+        48052,
+        6,
+        35,
+        21515,
+        30936,
+        1961,
+        7283,
+        38331
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0020"
+    }
+}

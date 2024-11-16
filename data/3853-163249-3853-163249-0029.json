@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0029.flac",
+    "text": "WE CAN'T AFFORD NO NICE VITTLES NOW WHEN OUR MEN ARE SUFFERIN SO",
+    "tokens": [
+        8845,
+        15628,
+        6,
+        51,
+        317,
+        5777,
+        12532,
+        8005,
+        399,
+        8476,
+        569,
+        2043,
+        14990,
+        1546,
+        20229,
+        42099,
+        30229,
+        41597,
+        15986,
+        13558,
+        45746,
+        1268,
+        12809
+    ],
+    "metadata": {
+        "speaker_id": "3853",
+        "chapter_id": "163249",
+        "file_id": "3853-163249-0029"
+    }
+}

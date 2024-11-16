@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0022.flac",
+    "text": "WHEN SHE RETURNED HIS HAND WAS STICKING THROUGH THE HOLE IN THE DOOR",
+    "tokens": [
+        12418,
+        1677,
+        48052,
+        30826,
+        27064,
+        1961,
+        33700,
+        367,
+        6981,
+        21725,
+        3563,
+        11860,
+        2751,
+        35383,
+        32632,
+        3336,
+        40115,
+        2538,
+        3268,
+        3336,
+        8410,
+        1581
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0022"
+    }
+}

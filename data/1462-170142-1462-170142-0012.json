@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0012.flac",
+    "text": "HILDA WATCHED HIM FROM HER CORNER TREMBLING AND SCARCELY BREATHING DARK SHADOWS GROWING ABOUT HER EYES",
+    "tokens": [
+        39,
+        4146,
+        5631,
+        30134,
+        45909,
+        16034,
+        24906,
+        23929,
+        21479,
+        309,
+        40726,
+        9148,
+        2751,
+        5357,
+        6374,
+        25793,
+        30943,
+        29377,
+        12599,
+        2751,
+        46455,
+        6006,
+        2885,
+        22845,
+        10863,
+        3913,
+        2751,
+        33478,
+        24906,
+        412,
+        43335
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0012"
+    }
+}

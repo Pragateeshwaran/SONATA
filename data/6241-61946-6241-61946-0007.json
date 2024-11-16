@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0007.flac",
+    "text": "SNOW TEMPEST IMPRACTICABLE ROADS ROCKS ICEBERGS NOTHING STOPS HIM",
+    "tokens": [
+        15571,
+        3913,
+        309,
+        39494,
+        6465,
+        8959,
+        4805,
+        10659,
+        2149,
+        17534,
+        15107,
+        47149,
+        41320,
+        50,
+        23358,
+        13246,
+        14313,
+        5626,
+        39,
+        2751,
+        3563,
+        30737,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0007"
+    }
+}

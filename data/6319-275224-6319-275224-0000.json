@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0000.flac",
+    "text": "WHAT A FUSS IS MADE ABOUT YOU MY DEAR LITTLE FRIENDS",
+    "tokens": [
+        32971,
+        317,
+        376,
+        32835,
+        3180,
+        337,
+        19266,
+        33478,
+        7013,
+        17615,
+        5550,
+        1503,
+        406,
+        22470,
+        2538,
+        48167,
+        1677,
+        5258
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "275224",
+        "file_id": "6319-275224-0000"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0010.flac",
+    "text": "HE ENTERED A LARGE FORECOURT AND STOOD STILL WITH AMAZEMENT AND AWE",
+    "tokens": [
+        13909,
+        46962,
+        1961,
+        317,
+        47211,
+        8264,
+        7473,
+        2943,
+        11698,
+        51,
+        5357,
+        3563,
+        22808,
+        3563,
+        8267,
+        13315,
+        3001,
+        22778,
+        12529,
+        5357,
+        317,
+        8845
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "64726",
+        "file_id": "6319-64726-0010"
+    }
+}

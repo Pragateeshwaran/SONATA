@@ -1,0 +1,14 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0000.flac",
+    "text": "SHILOH",
+    "tokens": [
+        9693,
+        4146,
+        12096
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0000"
+    }
+}

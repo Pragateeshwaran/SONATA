@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0007.flac",
+    "text": "HE REALLY GRIEVED TO SEE IT",
+    "tokens": [
+        13909,
+        36413,
+        402,
+        7112,
+        20114,
+        1961,
+        5390,
+        31107,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "275224",
+        "file_id": "6319-275224-0007"
+    }
+}

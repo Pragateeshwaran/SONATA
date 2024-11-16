@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0006.flac",
+    "text": "THE BUZZER'S WHIRR TRIGGERED HIS MUSCLES INTO COMPLETE RELAXATION",
+    "tokens": [
+        10970,
+        20571,
+        30148,
+        1137,
+        6,
+        50,
+        7655,
+        4663,
+        49,
+        7579,
+        3528,
+        30373,
+        1961,
+        33700,
+        39484,
+        5097,
+        1546,
+        39319,
+        49269,
+        9328,
+        29749,
+        25922,
+        6234
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0006"
+    }
+}

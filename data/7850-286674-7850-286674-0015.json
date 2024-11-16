@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0015.flac",
+    "text": "THEY THOUGHT HE MIGHT BE GOING TO TAKE A NAP AFTER HIS DINNER",
+    "tokens": [
+        10970,
+        56,
+        2320,
+        2606,
+        38,
+        6535,
+        11179,
+        337,
+        9947,
+        9348,
+        10351,
+        2751,
+        5390,
+        21664,
+        7336,
+        317,
+        399,
+        2969,
+        36050,
+        33700,
+        360,
+        1268,
+        21479
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "286674",
+        "file_id": "7850-286674-0015"
+    }
+}

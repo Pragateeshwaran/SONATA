@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0029.flac",
+    "text": "THEY HAD A GREAT FRIEND IN THIS UNKNOWN VISITOR",
+    "tokens": [
+        10970,
+        56,
+        367,
+        2885,
+        317,
+        37853,
+        48167,
+        10619,
+        3268,
+        12680,
+        4725,
+        44706,
+        50035,
+        2043,
+        1581
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0029"
+    }
+}

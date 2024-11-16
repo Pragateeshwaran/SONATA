@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0006.flac",
+    "text": "WANTS TO COME OUT MISTER NORTH",
+    "tokens": [
+        54,
+        1565,
+        4694,
+        5390,
+        9440,
+        36,
+        16289,
+        337,
+        41517,
+        25273,
+        4221
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0006"
+    }
+}

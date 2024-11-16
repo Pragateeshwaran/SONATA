@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0009.flac",
+    "text": "IT WAS A MONOTONOUS LIFE BUT IT WAS VERY HEALTHY AND ONE DOES NOT MUCH MIND ANYTHING WHEN ONE IS WELL",
+    "tokens": [
+        2043,
+        21725,
+        317,
+        25000,
+        2394,
+        1340,
+        20958,
+        36821,
+        21728,
+        7283,
+        21725,
+        29550,
+        11179,
+        40818,
+        56,
+        5357,
+        16329,
+        38359,
+        5626,
+        45859,
+        337,
+        12115,
+        15529,
+        39356,
+        42099,
+        16329,
+        3180,
+        12887,
+        3069
+    ],
+    "metadata": {
+        "speaker_id": "2412",
+        "chapter_id": "153948",
+        "file_id": "2412-153948-0009"
+    }
+}

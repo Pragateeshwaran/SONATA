@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0008.flac",
+    "text": "AS LEADING TO THE MENTION OF OTHER INTERESTING EVENTS WE MUST SET THIS INROAD CLEARLY BEFORE THE READER",
+    "tokens": [
+        1921,
+        12509,
+        2885,
+        2751,
+        5390,
+        3336,
+        337,
+        45589,
+        3963,
+        25401,
+        23255,
+        6465,
+        2751,
+        22399,
+        12887,
+        17191,
+        25823,
+        12680,
+        3268,
+        13252,
+        2885,
+        30301,
+        1503,
+        11319,
+        38331,
+        3336,
+        20832,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "152373",
+        "file_id": "2035-152373-0008"
+    }
+}

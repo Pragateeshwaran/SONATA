@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0007.flac",
+    "text": "HOCHHEIMER A LIGHT PLEASING AND WHOLESOME WINE",
+    "tokens": [
+        32298,
+        3398,
+        13909,
+        3955,
+        1137,
+        317,
+        406,
+        9947,
+        350,
+        2538,
+        1921,
+        2751,
+        5357,
+        7655,
+        3535,
+        1546,
+        13649,
+        370,
+        8881
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130737",
+        "file_id": "652-130737-0007"
+    }
+}

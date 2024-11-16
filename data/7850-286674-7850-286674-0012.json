@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0012.flac",
+    "text": "SCARED DAH WHO'S AFRAID ANSWERED HE",
+    "tokens": [
+        6173,
+        1503,
+        1961,
+        17051,
+        39,
+        19494,
+        6,
+        50,
+        12341,
+        3861,
+        2389,
+        3537,
+        17887,
+        1137,
+        1961,
+        11179
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "286674",
+        "file_id": "7850-286674-0012"
+    }
+}

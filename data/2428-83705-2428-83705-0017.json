@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0017.flac",
+    "text": "I FOUND THAT AS A WOMAN OF BUSINESS SHE WAS BEYOND ALL MY EXPECTATIONS",
+    "tokens": [
+        40,
+        376,
+        15919,
+        14603,
+        7054,
+        317,
+        45386,
+        1565,
+        3963,
+        43949,
+        44180,
+        48052,
+        21725,
+        9348,
+        56,
+        18672,
+        11096,
+        17615,
+        25703,
+        9782,
+        18421
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0017"
+    }
+}

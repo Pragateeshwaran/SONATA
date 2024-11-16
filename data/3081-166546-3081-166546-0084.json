@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0084.flac",
+    "text": "SWEETWATER HELP ME OUT OF THIS",
+    "tokens": [
+        50,
+        8845,
+        2767,
+        54,
+        23261,
+        49944,
+        11948,
+        16289,
+        3963,
+        12680
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0084"
+    }
+}

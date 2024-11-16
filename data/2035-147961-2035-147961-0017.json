@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0017.flac",
+    "text": "MISTER SHIMERDA WENT WITH HIM",
+    "tokens": [
+        44,
+        41517,
+        6006,
+        3955,
+        1137,
+        5631,
+        370,
+        3525,
+        13315,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0017"
+    }
+}

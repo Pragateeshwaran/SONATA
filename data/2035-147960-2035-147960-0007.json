@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0007.flac",
+    "text": "I NEVER KNOW YOU WAS SO BRAVE JIM SHE WENT ON COMFORTINGLY",
+    "tokens": [
+        40,
+        33602,
+        35876,
+        7013,
+        21725,
+        12809,
+        39947,
+        6089,
+        449,
+        3955,
+        48052,
+        370,
+        3525,
+        6177,
+        9440,
+        37,
+        9863,
+        2751,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0007"
+    }
+}

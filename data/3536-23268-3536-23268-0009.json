@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0009.flac",
+    "text": "MISS MILNER YOU SHALL NOT LEAVE THE HOUSE THIS EVENING SIR",
+    "tokens": [
+        44,
+        16744,
+        31515,
+        21479,
+        7013,
+        50163,
+        5626,
+        12509,
+        32,
+        6089,
+        3336,
+        46586,
+        12680,
+        45886,
+        2751,
+        311,
+        4663
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "23268",
+        "file_id": "3536-23268-0009"
+    }
+}

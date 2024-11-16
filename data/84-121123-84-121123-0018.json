@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0018.flac",
+    "text": "MORREL SUFFERED AN EXCLAMATION OF HORROR AND SURPRISE TO ESCAPE HIM",
+    "tokens": [
+        44,
+        1581,
+        16448,
+        13558,
+        45746,
+        1961,
+        3537,
+        7788,
+        5097,
+        2390,
+        6234,
+        3963,
+        48345,
+        16411,
+        5357,
+        41016,
+        4805,
+        24352,
+        5390,
+        40251,
+        45721,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0018"
+    }
+}

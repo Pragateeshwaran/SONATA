@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0046.flac",
+    "text": "I'VE GIVEN MY ORDERS SIR",
+    "tokens": [
+        40,
+        6,
+        6089,
+        402,
+        3824,
+        1677,
+        17615,
+        6375,
+        35,
+        4877,
+        311,
+        4663
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0046"
+    }
+}

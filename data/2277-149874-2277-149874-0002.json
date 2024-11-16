@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0002.flac",
+    "text": "TO HIM THE PRESENCE OR ABSENCE OF HIS WIFE'S SISTER WAS A MATTER OF INDIFFERENCE",
+    "tokens": [
+        10468,
+        45909,
+        3336,
+        32552,
+        18310,
+        6375,
+        29950,
+        18310,
+        3963,
+        33700,
+        370,
+        29150,
+        6,
+        50,
+        311,
+        41517,
+        21725,
+        317,
+        36775,
+        5781,
+        3963,
+        24413,
+        5064,
+        24302,
+        18310
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0002"
+    }
+}

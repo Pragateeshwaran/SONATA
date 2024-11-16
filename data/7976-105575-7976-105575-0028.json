@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0028.flac",
+    "text": "FOR SOME REASON THE DEAD AT HATCHIE BRIDGE WERE NOT BURIED",
+    "tokens": [
+        13775,
+        41670,
+        4526,
+        36033,
+        3336,
+        42533,
+        5161,
+        367,
+        11417,
+        10008,
+        11177,
+        2389,
+        8264,
+        370,
+        9338,
+        5626,
+        45604,
+        19767
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0028"
+    }
+}

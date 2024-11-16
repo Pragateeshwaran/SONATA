@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0008.flac",
+    "text": "AT THE END OF IT SHE WAS IN A PLACE OF TOMBS",
+    "tokens": [
+        1404,
+        3336,
+        23578,
+        3963,
+        7283,
+        48052,
+        21725,
+        3268,
+        317,
+        9297,
+        11598,
+        3963,
+        41526,
+        4462
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "64257",
+        "file_id": "6345-64257-0008"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0019.flac",
+    "text": "IT WAS KARL YUNDT WHO WAS HEARD IMPLACABLE TO HIS LAST BREATH",
+    "tokens": [
+        2043,
+        21725,
+        509,
+        1503,
+        43,
+        575,
+        4944,
+        24544,
+        19494,
+        21725,
+        11179,
+        9795,
+        8959,
+        6489,
+        2246,
+        17534,
+        5390,
+        33700,
+        41894,
+        29377,
+        12599
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0019"
+    }
+}

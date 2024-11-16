@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0016.flac",
+    "text": "THESE SACRED EDIFICES ARE HOWEVER VERY MUCH LIKE THESE PEOPLE WHO DO WITHOUT WATCHES AND NEVER MISS THEM",
+    "tokens": [
+        4221,
+        33635,
+        311,
+        2246,
+        22083,
+        8392,
+        30643,
+        1546,
+        15986,
+        29630,
+        36,
+        5959,
+        29550,
+        45859,
+        34178,
+        48947,
+        36388,
+        19494,
+        8410,
+        42881,
+        16518,
+        1546,
+        5357,
+        33602,
+        49684,
+        44788
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0016"
+    }
+}

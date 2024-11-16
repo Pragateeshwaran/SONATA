@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0004.flac",
+    "text": "AND EVER SINCE HE HAD NEVER MANAGED TO GET HIS WEIGHT DOWN AS MUCH AS AN OUNCE",
+    "tokens": [
+        6981,
+        20498,
+        311,
+        1268,
+        5222,
+        11179,
+        367,
+        2885,
+        33602,
+        17254,
+        4760,
+        1961,
+        5390,
+        17151,
+        33700,
+        12887,
+        9947,
+        30320,
+        7054,
+        45859,
+        7054,
+        3537,
+        440,
+        4944,
+        5222
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0004"
+    }
+}

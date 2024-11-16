@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0035.flac",
+    "text": "OH BARTLEY WHAT AM I TO DO",
+    "tokens": [
+        12096,
+        42346,
+        25173,
+        25003,
+        3001,
+        314,
+        5390,
+        8410
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0035"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0012.flac",
+    "text": "OFFICERS COULD NOT CURB THE MEN TO KEEP IN LINE",
+    "tokens": [
+        27977,
+        2149,
+        4877,
+        327,
+        24010,
+        5626,
+        327,
+        4261,
+        33,
+        3336,
+        41597,
+        5390,
+        509,
+        35238,
+        3268,
+        48920
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0012"
+    }
+}

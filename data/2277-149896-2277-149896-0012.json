@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0012.flac",
+    "text": "SHE HAD NOT BEEN ABLE TO GET AWAY THIS MORNING",
+    "tokens": [
+        9693,
+        36,
+        367,
+        2885,
+        5626,
+        9348,
+        1677,
+        9564,
+        2538,
+        5390,
+        17151,
+        14356,
+        4792,
+        12680,
+        35208,
+        15871
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0012"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0031.flac",
+    "text": "A WAVE OF DESPAIR ROLLED OUT FROM IROLG BRION SENSED IT AND KNEW THE FIFTH POINT WAS HIS",
+    "tokens": [
+        32,
+        16400,
+        6089,
+        3963,
+        22196,
+        4537,
+        4663,
+        15107,
+        3069,
+        1961,
+        16289,
+        16034,
+        14826,
+        3535,
+        38,
+        11177,
+        2849,
+        311,
+        16938,
+        1961,
+        7283,
+        5357,
+        509,
+        13965,
+        3336,
+        376,
+        5064,
+        4221,
+        19922,
+        12394,
+        21725,
+        33700
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0031"
+    }
+}

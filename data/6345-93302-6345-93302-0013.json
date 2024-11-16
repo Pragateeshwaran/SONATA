@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0013.flac",
+    "text": "SHE SAID HOW FRIGHTFULLY COLD IT IS",
+    "tokens": [
+        9693,
+        36,
+        14719,
+        2389,
+        29630,
+        8782,
+        9947,
+        37,
+        9994,
+        56,
+        327,
+        15173,
+        7283,
+        3180
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93302",
+        "file_id": "6345-93302-0013"
+    }
+}

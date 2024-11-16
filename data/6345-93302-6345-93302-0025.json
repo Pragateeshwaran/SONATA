@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0025.flac",
+    "text": "ARE YOU REALLY GOING TO THROW ME OVER FOR A THING LIKE THIS",
+    "tokens": [
+        12203,
+        7013,
+        36413,
+        10351,
+        2751,
+        5390,
+        35383,
+        3913,
+        11948,
+        28729,
+        7473,
+        317,
+        2320,
+        2751,
+        34178,
+        12680
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93302",
+        "file_id": "6345-93302-0025"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0008.flac",
+    "text": "A MAN IN THE WELL",
+    "tokens": [
+        32,
+        17254,
+        3268,
+        3336,
+        12887,
+        3069
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64038",
+        "file_id": "5694-64038-0008"
+    }
+}

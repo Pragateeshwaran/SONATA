@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0022.flac",
+    "text": "HOLD ON TO ME MISS NANCY SAID THE GIANT I'M BIG ENOUGH TO CARRY DOUBLE",
+    "tokens": [
+        39,
+        15173,
+        6177,
+        5390,
+        11948,
+        49684,
+        399,
+        20940,
+        56,
+        14719,
+        2389,
+        3336,
+        30616,
+        8643,
+        314,
+        6,
+        44,
+        26746,
+        12964,
+        32632,
+        5390,
+        17368,
+        18276,
+        360,
+        2606,
+        19146
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0022"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0006.flac",
+    "text": "THEY SEEM VERY IGNORANT POOR THINGS SAID ANOTHER IN REPLY",
+    "tokens": [
+        10970,
+        56,
+        7946,
+        3620,
+        29550,
+        28730,
+        1581,
+        8643,
+        19922,
+        1581,
+        2320,
+        20754,
+        14719,
+        2389,
+        3537,
+        31858,
+        3268,
+        45285,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0006"
+    }
+}

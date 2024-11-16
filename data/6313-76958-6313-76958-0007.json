@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0007.flac",
+    "text": "WE'VE GOT A HARD DRIVE BEFORE US AND EVERY MAN MUST BE FIT AS A FIDDLE",
+    "tokens": [
+        8845,
+        6,
+        6089,
+        41725,
+        317,
+        367,
+        9795,
+        10560,
+        9306,
+        38331,
+        1294,
+        5357,
+        27222,
+        17254,
+        17191,
+        9348,
+        376,
+        2043,
+        7054,
+        317,
+        376,
+        2389,
+        35,
+        2538
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0007"
+    }
+}

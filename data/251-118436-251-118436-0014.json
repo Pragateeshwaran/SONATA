@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0014.flac",
+    "text": "ON THE DAIS UNDER THE GOLDEN DOME THE KING CRIED OUT AGAIN RACKED BY AWFUL PAROXYSMS",
+    "tokens": [
+        1340,
+        3336,
+        17051,
+        1797,
+        35219,
+        3336,
+        44428,
+        1677,
+        360,
+        13649,
+        3336,
+        32957,
+        327,
+        7112,
+        1961,
+        16289,
+        36218,
+        1268,
+        371,
+        8120,
+        1961,
+        11050,
+        14356,
+        46476,
+        29463,
+        48632,
+        16309,
+        5653
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0014"
+    }
+}

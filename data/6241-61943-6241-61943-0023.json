@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0023.flac",
+    "text": "THOUGH NOT VERY LARGE IT APPEARED NOT LIKELY TO BE FILLED FOR CENTURIES",
+    "tokens": [
+        4221,
+        32632,
+        5626,
+        29550,
+        47211,
+        8264,
+        7283,
+        3486,
+        11401,
+        1503,
+        1961,
+        5626,
+        406,
+        18694,
+        30943,
+        5390,
+        9348,
+        376,
+        8267,
+        1961,
+        7473,
+        33269,
+        4261,
+        11015
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0023"
+    }
+}

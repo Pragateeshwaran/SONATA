@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0005.flac",
+    "text": "I EXPLAIN THAT I'M TAKING MUSIC AND ALSO BIOLOGY ALGEBRA ENGLISH AND FRENCH MUSIC HE SNORTS",
+    "tokens": [
+        40,
+        7788,
+        6489,
+        29833,
+        14603,
+        314,
+        6,
+        44,
+        309,
+        43602,
+        39484,
+        2149,
+        5357,
+        35912,
+        20068,
+        43781,
+        8355,
+        8264,
+        33,
+        3861,
+        12964,
+        8763,
+        18422,
+        5357,
+        8782,
+        1677,
+        3398,
+        39484,
+        2149,
+        11179,
+        11346,
+        33002
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0005"
+    }
+}

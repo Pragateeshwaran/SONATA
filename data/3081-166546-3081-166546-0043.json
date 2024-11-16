@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0043.flac",
+    "text": "A YOUNG FELLOW WHO HAD BEEN HOVERING IN THE BACKGROUND AT ONCE STEPPED FORWARD",
+    "tokens": [
+        32,
+        7013,
+        10503,
+        18630,
+        44765,
+        19494,
+        367,
+        2885,
+        9348,
+        1677,
+        40115,
+        5959,
+        2751,
+        3268,
+        3336,
+        28767,
+        46025,
+        5161,
+        6177,
+        5222,
+        49154,
+        47,
+        1961,
+        7473,
+        39743
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0043"
+    }
+}

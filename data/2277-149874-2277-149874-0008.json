@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0008.flac",
+    "text": "THEN SHE WALKED AND SANG TO IT UNTIL HANSON DISTURBED IN HIS READING CAME AND TOOK IT",
+    "tokens": [
+        4221,
+        1677,
+        48052,
+        370,
+        28082,
+        1961,
+        5357,
+        311,
+        15567,
+        5390,
+        7283,
+        4725,
+        51,
+        4146,
+        367,
+        1565,
+        11782,
+        360,
+        8808,
+        4261,
+        33,
+        1961,
+        3268,
+        33700,
+        20832,
+        2751,
+        327,
+        10067,
+        5357,
+        5390,
+        11380,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0008"
+    }
+}

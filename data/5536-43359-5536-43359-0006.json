@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0006.flac",
+    "text": "THE FAMILY WAS NOT ONLY THE SOCIAL UNIT BUT ALSO THE UNIT OF GOVERNMENT",
+    "tokens": [
+        10970,
+        42129,
+        33340,
+        21725,
+        5626,
+        22224,
+        3336,
+        31430,
+        12576,
+        4725,
+        2043,
+        21728,
+        35912,
+        3336,
+        4725,
+        2043,
+        3963,
+        10351,
+        5959,
+        45,
+        10979
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43359",
+        "file_id": "5536-43359-0006"
+    }
+}

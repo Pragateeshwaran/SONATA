@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0009.flac",
+    "text": "WE ARE IN LONDON SAID URSUS WE MUST BE PREPARED FOR THE GENTRY",
+    "tokens": [
+        8845,
+        15986,
+        3268,
+        406,
+        47383,
+        14719,
+        2389,
+        471,
+        6998,
+        2937,
+        12887,
+        17191,
+        9348,
+        22814,
+        27082,
+        1961,
+        7473,
+        3336,
+        402,
+        3525,
+        18276
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0009"
+    }
+}

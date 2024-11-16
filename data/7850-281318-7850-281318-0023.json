@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0023.flac",
+    "text": "FOR SHE HAD ONLY THE FOUNDATION LAID CRISS CROSS AS THE MAGPIE HAD SHOWN HER",
+    "tokens": [
+        13775,
+        48052,
+        367,
+        2885,
+        22224,
+        3336,
+        376,
+        15919,
+        6234,
+        9131,
+        2389,
+        8740,
+        16744,
+        8740,
+        18420,
+        7054,
+        3336,
+        28263,
+        47,
+        10008,
+        367,
+        2885,
+        6006,
+        14165,
+        24906
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "281318",
+        "file_id": "7850-281318-0023"
+    }
+}

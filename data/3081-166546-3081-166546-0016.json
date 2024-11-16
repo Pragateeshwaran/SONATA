@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0016.flac",
+    "text": "JUST AN EVERYDAY DETECTIVE BUT AMBITIOUS I SUPPOSE AND QUITE ALIVE TO THE IMPORTANCE OF BEING THOROUGH",
+    "tokens": [
+        25008,
+        3537,
+        27222,
+        26442,
+        38267,
+        9782,
+        9306,
+        21728,
+        3001,
+        26094,
+        40,
+        20958,
+        314,
+        19549,
+        48933,
+        5357,
+        19604,
+        12709,
+        8355,
+        9306,
+        5390,
+        3336,
+        30023,
+        9863,
+        19240,
+        3963,
+        9348,
+        2751,
+        2320,
+        1581,
+        32632
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0016"
+    }
+}

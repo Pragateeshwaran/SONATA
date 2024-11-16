@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0002.flac",
+    "text": "COLD WATER IS THE MOST NOURISHING THING WE'VE TOUCHED SINCE LAST NIGHT",
+    "tokens": [
+        34,
+        15173,
+        370,
+        23261,
+        3180,
+        3336,
+        337,
+        10892,
+        399,
+        11698,
+        18422,
+        2751,
+        2320,
+        2751,
+        12887,
+        6,
+        6089,
+        309,
+        2606,
+        3398,
+        1961,
+        311,
+        1268,
+        5222,
+        41894,
+        37707
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0002"
+    }
+}

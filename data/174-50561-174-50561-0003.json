@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0003.flac",
+    "text": "THE WANDERING SINGER APPROACHES THEM WITH HIS LUTE",
+    "tokens": [
+        10970,
+        370,
+        6981,
+        1137,
+        2751,
+        311,
+        2751,
+        1137,
+        3486,
+        31190,
+        16219,
+        1546,
+        44788,
+        13315,
+        33700,
+        406,
+        37780
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "50561",
+        "file_id": "174-50561-0003"
+    }
+}

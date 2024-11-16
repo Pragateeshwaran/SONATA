@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0000.flac",
+    "text": "HE WAS YOUNG NO SPEAR HAD TOUCHED HIM NO POISON LURKED IN HIS WINE",
+    "tokens": [
+        13909,
+        21725,
+        7013,
+        10503,
+        8005,
+        6226,
+        17133,
+        367,
+        2885,
+        309,
+        2606,
+        3398,
+        1961,
+        45909,
+        8005,
+        19922,
+        39960,
+        406,
+        4261,
+        42,
+        1961,
+        3268,
+        33700,
+        370,
+        8881
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0000"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0015.flac",
+    "text": "SHE WANTED TO MAKE SOME REFERENCE TO THEIR RELATIONS UPON THE TRAIN BUT WAS TOO TIMID",
+    "tokens": [
+        9693,
+        36,
+        41300,
+        1961,
+        5390,
+        39134,
+        41670,
+        4526,
+        24302,
+        18310,
+        5390,
+        47278,
+        29749,
+        18421,
+        15958,
+        1340,
+        3336,
+        29125,
+        1268,
+        21728,
+        21725,
+        5390,
+        46,
+        31742,
+        2389
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0015"
+    }
+}

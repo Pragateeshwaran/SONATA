@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0010.flac",
+    "text": "I'LL DO ANYTHING YOU WISH ME TO BARTLEY SHE SAID TREMULOUSLY",
+    "tokens": [
+        40,
+        6,
+        3069,
+        8410,
+        15529,
+        39356,
+        7013,
+        370,
+        18422,
+        11948,
+        5390,
+        42346,
+        25173,
+        48052,
+        14719,
+        2389,
+        309,
+        40726,
+        6239,
+        2606,
+        8634,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0010"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0014.flac",
+    "text": "I DON'T THINK HIS GUN WAS LOADED THOUGH BECAUSE WE DID NOT HEAR THE BALL WHISTLE",
+    "tokens": [
+        40,
+        23917,
+        6,
+        51,
+        2320,
+        17248,
+        33700,
+        43794,
+        21725,
+        17579,
+        2885,
+        1961,
+        2320,
+        32632,
+        347,
+        36600,
+        19108,
+        12887,
+        35697,
+        5626,
+        11179,
+        1503,
+        3336,
+        46433,
+        7655,
+        8808,
+        2538
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64038",
+        "file_id": "5694-64038-0014"
+    }
+}

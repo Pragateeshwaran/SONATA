@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0012.flac",
+    "text": "STRANGE THAT MEN SHOULD BE CONTENT TO GROVEL AND BE MEN WHEN THEY MIGHT RISE TO THE RANK OF GODS",
+    "tokens": [
+        18601,
+        27746,
+        14603,
+        41597,
+        40312,
+        9348,
+        22904,
+        3525,
+        5390,
+        10863,
+        8874,
+        3698,
+        5357,
+        9348,
+        41597,
+        42099,
+        33302,
+        337,
+        9947,
+        371,
+        24352,
+        5390,
+        3336,
+        371,
+        15154,
+        3963,
+        29562,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9008",
+        "file_id": "2902-9008-0012"
+    }
+}

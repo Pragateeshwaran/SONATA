@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0025.flac",
+    "text": "MALE OR FEMALE HUMAN OR ANIMAL",
+    "tokens": [
+        44,
+        21358,
+        6375,
+        376,
+        3620,
+        21358,
+        45850,
+        1565,
+        6375,
+        3537,
+        3955,
+        1847
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0025"
+    }
+}

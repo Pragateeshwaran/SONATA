@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0008.flac",
+    "text": "I GASPED POSITIVELY GASPED",
+    "tokens": [
+        40,
+        402,
+        1921,
+        47,
+        1961,
+        28069,
+        2043,
+        3824,
+        30943,
+        402,
+        1921,
+        47,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0008"
+    }
+}

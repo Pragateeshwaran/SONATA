@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0016.flac",
+    "text": "DON'T YOU SEE HOW MANY USES WE HAVE FOUND FOR THIS REFUSE COAL TAR",
+    "tokens": [
+        41173,
+        6,
+        51,
+        7013,
+        31107,
+        29630,
+        17254,
+        56,
+        1294,
+        1546,
+        12887,
+        21515,
+        376,
+        15919,
+        7473,
+        12680,
+        4526,
+        37,
+        19108,
+        7375,
+        1847,
+        309,
+        1503
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "161169",
+        "file_id": "2803-161169-0016"
+    }
+}

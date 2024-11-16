@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0023.flac",
+    "text": "HE HAD SEEN GREAT THINGS AND HE HAD DONE HIS SHARE OF THEM",
+    "tokens": [
+        13909,
+        367,
+        2885,
+        7946,
+        1677,
+        37853,
+        2320,
+        20754,
+        5357,
+        11179,
+        367,
+        2885,
+        360,
+        11651,
+        33700,
+        6006,
+        12203,
+        3963,
+        44788
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0023"
+    }
+}

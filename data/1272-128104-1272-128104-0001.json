@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0001.flac",
+    "text": "NOR IS MISTER QUILTER'S MANNER LESS INTERESTING THAN HIS MATTER",
+    "tokens": [
+        35510,
+        3180,
+        337,
+        41517,
+        19604,
+        4146,
+        5781,
+        6,
+        50,
+        17254,
+        21479,
+        406,
+        7597,
+        23255,
+        6465,
+        2751,
+        2320,
+        1565,
+        33700,
+        36775,
+        5781
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "128104",
+        "file_id": "1272-128104-0001"
+    }
+}

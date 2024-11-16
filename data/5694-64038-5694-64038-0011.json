@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0011.flac",
+    "text": "BUT HOW TO GET HIM OUT WAS THE UNSOLVED PROBLEM",
+    "tokens": [
+        47526,
+        29630,
+        5390,
+        17151,
+        45909,
+        16289,
+        21725,
+        3336,
+        4725,
+        50,
+        3535,
+        53,
+        1961,
+        4810,
+        9864,
+        2538,
+        44
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64038",
+        "file_id": "5694-64038-0011"
+    }
+}

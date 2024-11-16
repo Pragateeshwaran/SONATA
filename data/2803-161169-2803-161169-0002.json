@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0002.flac",
+    "text": "WHY DID HE GIVE THAT SO ODD A SHAPE OR SO STRANGE A COVERING",
+    "tokens": [
+        12418,
+        56,
+        35697,
+        11179,
+        402,
+        9306,
+        14603,
+        12809,
+        440,
+        16458,
+        317,
+        6006,
+        45721,
+        6375,
+        12809,
+        19269,
+        27746,
+        317,
+        47902,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "161169",
+        "file_id": "2803-161169-0002"
+    }
+}

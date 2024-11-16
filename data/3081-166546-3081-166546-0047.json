@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0047.flac",
+    "text": "VERY WELL THEN YOU'RE IN A POSITION TO PIONEER ME",
+    "tokens": [
+        5959,
+        56,
+        12887,
+        3069,
+        42243,
+        7013,
+        6,
+        2200,
+        3268,
+        317,
+        28069,
+        17941,
+        5390,
+        350,
+        2849,
+        36,
+        1137,
+        11948
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0047"
+    }
+}

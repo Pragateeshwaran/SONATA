@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0053.flac",
+    "text": "HE STOOD STILL IN THE MIDDLE OF THE PARLOUR AND LOOKED INTO THE KITCHEN IN SILENCE",
+    "tokens": [
+        13909,
+        3563,
+        22808,
+        3563,
+        8267,
+        3268,
+        3336,
+        25269,
+        35,
+        2538,
+        3963,
+        3336,
+        29463,
+        43,
+        11698,
+        5357,
+        48045,
+        1961,
+        39319,
+        3336,
+        509,
+        31949,
+        1677,
+        3268,
+        47551,
+        18310
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0053"
+    }
+}

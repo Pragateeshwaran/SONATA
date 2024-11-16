@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0065.flac",
+    "text": "THIS DREAD LED HIM TO MAKE THE REMARK THAT STEVIE HAD DISREGARDED HIS SUGGESTION TO GO TO BED",
+    "tokens": [
+        43559,
+        360,
+        15675,
+        12365,
+        45909,
+        5390,
+        39134,
+        3336,
+        22657,
+        14175,
+        14603,
+        3563,
+        20114,
+        10008,
+        367,
+        2885,
+        13954,
+        31553,
+        9795,
+        1961,
+        33700,
+        311,
+        7340,
+        38,
+        6465,
+        2849,
+        5390,
+        10351,
+        5390,
+        347,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0065"
+    }
+}

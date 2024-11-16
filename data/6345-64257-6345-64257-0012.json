@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0012.flac",
+    "text": "BUT LIVING SOUL THERE COULD BE NONE TO MEET",
+    "tokens": [
+        47526,
+        406,
+        3824,
+        2751,
+        30065,
+        43,
+        34702,
+        327,
+        24010,
+        9348,
+        399,
+        11651,
+        5390,
+        11948,
+        2767
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "64257",
+        "file_id": "6345-64257-0012"
+    }
+}

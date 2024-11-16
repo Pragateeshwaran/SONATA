@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0005.flac",
+    "text": "PRAY HELP YOURSELF TO WINE",
+    "tokens": [
+        47,
+        30631,
+        49944,
+        7013,
+        6998,
+        37738,
+        5390,
+        370,
+        8881
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0005"
+    }
+}

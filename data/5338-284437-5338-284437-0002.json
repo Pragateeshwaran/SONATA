@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0002.flac",
+    "text": "WHAT THAT LITTLE CABIN",
+    "tokens": [
+        32971,
+        14603,
+        406,
+        22470,
+        2538,
+        327,
+        6242,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0002"
+    }
+}

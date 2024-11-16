@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0015.flac",
+    "text": "STACY GRUMBLED TURNED OVER AND WENT TO SLEEP AGAIN",
+    "tokens": [
+        2257,
+        43300,
+        10863,
+        5883,
+        9148,
+        1961,
+        309,
+        27064,
+        1961,
+        28729,
+        5357,
+        370,
+        3525,
+        5390,
+        311,
+        2538,
+        8905,
+        36218,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0015"
+    }
+}

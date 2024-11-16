@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0000.flac",
+    "text": "MISTER QUILTER IS THE APOSTLE OF THE MIDDLE CLASSES AND WE ARE GLAD TO WELCOME HIS GOSPEL",
+    "tokens": [
+        44,
+        41517,
+        19604,
+        4146,
+        5781,
+        3180,
+        3336,
+        3486,
+        10892,
+        2538,
+        3963,
+        3336,
+        25269,
+        35,
+        2538,
+        42715,
+        1546,
+        5357,
+        12887,
+        15986,
+        10188,
+        2885,
+        5390,
+        370,
+        3698,
+        9858,
+        36,
+        33700,
+        402,
+        47053,
+        3698
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "128104",
+        "file_id": "1272-128104-0000"
+    }
+}

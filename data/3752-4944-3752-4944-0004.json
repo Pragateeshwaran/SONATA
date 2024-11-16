@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0004.flac",
+    "text": "IF YOU PLEASE SAID MEEKIN GRAVELY",
+    "tokens": [
+        5064,
+        7013,
+        37795,
+        14719,
+        2389,
+        337,
+        33823,
+        1268,
+        402,
+        3861,
+        18697,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0004"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0005.flac",
+    "text": "HE WAS NOW COMMANDER OF ALL THE FEDERAL FORCES",
+    "tokens": [
+        13909,
+        21725,
+        20229,
+        22240,
+        6981,
+        1137,
+        3963,
+        11096,
+        3336,
+        376,
+        1961,
+        27130,
+        7473,
+        34,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "111771",
+        "file_id": "7850-111771-0005"
+    }
+}

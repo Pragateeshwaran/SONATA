@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0021.flac",
+    "text": "WATCH THE SAVAGES OUTSIDE SAID ROBERT",
+    "tokens": [
+        35192,
+        3336,
+        311,
+        10116,
+        25552,
+        16289,
+        50,
+        14114,
+        14719,
+        2389,
+        36449,
+        17395
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0021"
+    }
+}

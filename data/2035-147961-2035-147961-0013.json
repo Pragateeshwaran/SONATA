@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0013.flac",
+    "text": "ANTONIA'S FATHER UNCOVERED ONE OF HIS LONG BONY LEGS AND RUBBED IT RHYTHMICALLY",
+    "tokens": [
+        8643,
+        1340,
+        3539,
+        6,
+        50,
+        376,
+        45226,
+        4725,
+        8220,
+        5959,
+        1961,
+        16329,
+        3963,
+        33700,
+        44533,
+        347,
+        40508,
+        20978,
+        50,
+        5357,
+        371,
+        10526,
+        33,
+        1961,
+        7283,
+        35662,
+        56,
+        4221,
+        49884,
+        19807
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0013"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0006.flac",
+    "text": "GERMAN WINES ARE OF LIGHTER CHARACTER AND ARE GENERALLY TERMED RHEIN WINES",
+    "tokens": [
+        30373,
+        10725,
+        25779,
+        1546,
+        15986,
+        3963,
+        406,
+        18060,
+        5781,
+        28521,
+        2246,
+        5781,
+        5357,
+        15986,
+        24700,
+        1137,
+        19807,
+        28994,
+        30733,
+        371,
+        13909,
+        1268,
+        25779,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130737",
+        "file_id": "652-130737-0006"
+    }
+}

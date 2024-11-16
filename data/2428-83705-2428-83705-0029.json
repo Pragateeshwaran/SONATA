@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0029.flac",
+    "text": "I NOTICE THAT THEY ARE GENERALLY PERSONS WHO HAVE ALREADY TENDERED THEIR OFFERINGS",
+    "tokens": [
+        40,
+        28536,
+        14603,
+        33302,
+        15986,
+        24700,
+        1137,
+        19807,
+        350,
+        4877,
+        19213,
+        19494,
+        21515,
+        8355,
+        15675,
+        56,
+        309,
+        10619,
+        1137,
+        1961,
+        47278,
+        18562,
+        1137,
+        20754
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0029"
+    }
+}

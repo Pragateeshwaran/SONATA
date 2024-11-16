@@ -1,0 +1,16 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0075.flac",
+    "text": "YES MANY TIMES",
+    "tokens": [
+        43335,
+        17254,
+        56,
+        31742,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0075"
+    }
+}

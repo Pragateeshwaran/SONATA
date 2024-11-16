@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0037.flac",
+    "text": "THEY ALL ASKED ME HOW LONG I WOULD REQUIRE TO TEACH THEM THE RULES OF MY SUBLIME CALCULUS",
+    "tokens": [
+        10970,
+        56,
+        11096,
+        7054,
+        42,
+        1961,
+        11948,
+        29630,
+        44533,
+        314,
+        370,
+        24010,
+        4526,
+        49128,
+        5390,
+        13368,
+        16219,
+        44788,
+        3336,
+        371,
+        6239,
+        1546,
+        3963,
+        17615,
+        13558,
+        9148,
+        12789,
+        33290,
+        34,
+        6239,
+        2937
+    ],
+    "metadata": {
+        "speaker_id": "3170",
+        "chapter_id": "137482",
+        "file_id": "3170-137482-0037"
+    }
+}

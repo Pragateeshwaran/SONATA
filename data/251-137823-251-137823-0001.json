@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0001.flac",
+    "text": "INSIDE A SECRET ROCKET TELEMETERING DEVICE WAS MOUNTED ON ITS TEST STAND",
+    "tokens": [
+        20913,
+        14114,
+        317,
+        10729,
+        26087,
+        41320,
+        2767,
+        13368,
+        2538,
+        47123,
+        1137,
+        2751,
+        5550,
+        27389,
+        21725,
+        337,
+        28270,
+        1961,
+        6177,
+        42437,
+        43001,
+        49053
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0001"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0010.flac",
+    "text": "HE LAID DOWN HIS VIOLIN AND SEATED HIMSELF WHERE MARY TOLD HIM IN HER FATHER'S ARM CHAIR BY THE FIRE",
+    "tokens": [
+        13909,
+        9131,
+        2389,
+        30320,
+        33700,
+        13889,
+        3535,
+        1268,
+        5357,
+        7946,
+        11617,
+        45909,
+        50,
+        37738,
+        33411,
+        337,
+        13153,
+        309,
+        15173,
+        45909,
+        3268,
+        24906,
+        376,
+        45226,
+        6,
+        50,
+        20359,
+        5870,
+        42149,
+        11050,
+        3336,
+        39110
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0010"
+    }
+}

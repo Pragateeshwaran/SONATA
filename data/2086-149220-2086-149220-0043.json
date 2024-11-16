@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0043.flac",
+    "text": "WHAT AN INSTRUMENT IS THE HUMAN VOICE",
+    "tokens": [
+        32971,
+        3537,
+        3268,
+        18601,
+        5883,
+        3525,
+        3180,
+        3336,
+        45850,
+        1565,
+        30578,
+        8476
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0043"
+    }
+}

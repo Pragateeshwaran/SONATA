@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0029.flac",
+    "text": "HE ENTREATED ME TO TELL HIM THE TRUTH",
+    "tokens": [
+        13909,
+        47353,
+        2200,
+        11617,
+        11948,
+        5390,
+        13368,
+        3069,
+        45909,
+        3336,
+        7579,
+        24318
+    ],
+    "metadata": {
+        "speaker_id": "3170",
+        "chapter_id": "137482",
+        "file_id": "3170-137482-0029"
+    }
+}

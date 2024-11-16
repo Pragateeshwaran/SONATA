@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0009.flac",
+    "text": "I SHOULD HAVE A VIOLENT ATTACK OF THE CRAMP IF I WERE NOT TO HAVE SOME SORT OF EXERCISE",
+    "tokens": [
+        40,
+        40312,
+        21515,
+        317,
+        13889,
+        3535,
+        3525,
+        26195,
+        8120,
+        3963,
+        3336,
+        8740,
+        23518,
+        16876,
+        314,
+        370,
+        9338,
+        5626,
+        5390,
+        21515,
+        41670,
+        311,
+        9863,
+        3963,
+        7788,
+        47691,
+        24352
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0009"
+    }
+}

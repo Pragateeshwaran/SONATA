@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0004.flac",
+    "text": "I FEEL LIKE A BOY OUT OF SCHOOL OR RATHER A MAN OUT OF PRISON AND MUST ENJOY MY LIBERTY IN SOME WAY",
+    "tokens": [
+        40,
+        18630,
+        3698,
+        34178,
+        317,
+        16494,
+        56,
+        16289,
+        3963,
+        35883,
+        6375,
+        371,
+        45226,
+        317,
+        17254,
+        16289,
+        3963,
+        4810,
+        39960,
+        5357,
+        17191,
+        12964,
+        41,
+        21414,
+        17615,
+        45651,
+        1137,
+        9936,
+        3268,
+        41670,
+        34882
+    ],
+    "metadata": {
+        "speaker_id": "3853",
+        "chapter_id": "163249",
+        "file_id": "3853-163249-0004"
+    }
+}

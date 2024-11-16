@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0080.flac",
+    "text": "HE CAN'T STAND THE NOTION OF ANY CRUELTY",
+    "tokens": [
+        13909,
+        15628,
+        6,
+        51,
+        49053,
+        3336,
+        5626,
+        2849,
+        3963,
+        15529,
+        8740,
+        52,
+        3698,
+        9936
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0080"
+    }
+}

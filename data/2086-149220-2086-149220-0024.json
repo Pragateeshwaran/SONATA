@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0024.flac",
+    "text": "THERE IS A WONDERFUL INSIGHT IN HEAVEN'S BROAD AND SIMPLE SUNSHINE",
+    "tokens": [
+        4221,
+        9338,
+        3180,
+        317,
+        370,
+        1340,
+        14418,
+        46476,
+        29194,
+        9947,
+        3268,
+        11179,
+        10116,
+        1677,
+        6,
+        50,
+        11177,
+        41048,
+        5357,
+        23749,
+        16437,
+        35329,
+        9693,
+        8881
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0024"
+    }
+}

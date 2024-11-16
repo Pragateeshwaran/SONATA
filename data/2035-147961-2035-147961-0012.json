@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0012.flac",
+    "text": "HE LAY PATIENTLY FIGHTING FOR BREATH LIKE A CHILD WITH CROUP",
+    "tokens": [
+        13909,
+        406,
+        4792,
+        28748,
+        28495,
+        11319,
+        39941,
+        2751,
+        7473,
+        29377,
+        12599,
+        34178,
+        317,
+        5870,
+        26761,
+        13315,
+        8740,
+        27755
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0012"
+    }
+}

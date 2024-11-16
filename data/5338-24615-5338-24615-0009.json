@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24615\\5338-24615-0009.flac",
+    "text": "NEITHER DID THE FRONT INDICATE ABSOLUTE SECURITY FROM DANGER",
+    "tokens": [
+        12161,
+        10554,
+        1137,
+        35697,
+        3336,
+        8782,
+        35830,
+        24413,
+        2149,
+        6158,
+        29950,
+        3535,
+        37780,
+        10729,
+        4261,
+        9050,
+        16034,
+        360,
+        15567,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "24615",
+        "file_id": "5338-24615-0009"
+    }
+}

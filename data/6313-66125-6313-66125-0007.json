@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0007.flac",
+    "text": "I AM THE ONE TO GO AFTER WALT IF ANYONE HAS TO I'LL GO DOWN MISTER THOMAS",
+    "tokens": [
+        40,
+        3001,
+        3336,
+        16329,
+        5390,
+        10351,
+        36050,
+        370,
+        31429,
+        16876,
+        15529,
+        11651,
+        33930,
+        5390,
+        314,
+        6,
+        3069,
+        10351,
+        30320,
+        337,
+        41517,
+        2320,
+        2662,
+        1921
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0007"
+    }
+}

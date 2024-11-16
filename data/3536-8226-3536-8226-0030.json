@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0030.flac",
+    "text": "BUT IF YOU ASK ME MY OPINION WHY IN COURSE THEY'VE BEEN TOGETHER SOMEWHERE",
+    "tokens": [
+        47526,
+        16876,
+        7013,
+        7054,
+        42,
+        11948,
+        17615,
+        13349,
+        1268,
+        2849,
+        44463,
+        3268,
+        37384,
+        5188,
+        33302,
+        6,
+        6089,
+        9348,
+        1677,
+        5390,
+        18851,
+        16879,
+        42121,
+        6217,
+        39,
+        9338
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0030"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0015.flac",
+    "text": "I WOULD TRY THE NEARER RANGE AND SEE HOW FAR I COULD GO",
+    "tokens": [
+        40,
+        370,
+        24010,
+        7579,
+        56,
+        3336,
+        10635,
+        1503,
+        1137,
+        371,
+        27746,
+        5357,
+        31107,
+        29630,
+        39024,
+        314,
+        327,
+        24010,
+        10351
+    ],
+    "metadata": {
+        "speaker_id": "2412",
+        "chapter_id": "153948",
+        "file_id": "2412-153948-0015"
+    }
+}

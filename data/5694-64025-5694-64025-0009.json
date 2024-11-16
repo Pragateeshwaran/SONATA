@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0009.flac",
+    "text": "WE HAD TO PASS OVER THE GROUND WHERE TROOPS HAD BEEN FIGHTING ALL DAY",
+    "tokens": [
+        8845,
+        367,
+        2885,
+        5390,
+        41752,
+        28729,
+        3336,
+        10863,
+        15919,
+        33411,
+        7579,
+        46,
+        30737,
+        367,
+        2885,
+        9348,
+        1677,
+        39941,
+        2751,
+        11096,
+        24644
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0009"
+    }
+}

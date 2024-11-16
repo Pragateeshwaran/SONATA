@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0022.flac",
+    "text": "HE SMILED GUILTILY AS HE ADDED BUT I MUST ADMIT I WAS MORE THAN A LITTLE CONCERNED MYSELF",
+    "tokens": [
+        13909,
+        9447,
+        4146,
+        1961,
+        19348,
+        4146,
+        51,
+        33340,
+        7054,
+        11179,
+        27841,
+        1961,
+        21728,
+        314,
+        17191,
+        5984,
+        36393,
+        314,
+        21725,
+        12011,
+        2320,
+        1565,
+        317,
+        406,
+        22470,
+        2538,
+        39962,
+        28778,
+        1961,
+        337,
+        16309,
+        37738
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0022"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0038.flac",
+    "text": "HILDA SAT ON THE ARM OF IT AND PUT HER HANDS LIGHTLY ON HIS SHOULDERS",
+    "tokens": [
+        39,
+        4146,
+        5631,
+        29020,
+        6177,
+        3336,
+        20359,
+        3963,
+        7283,
+        5357,
+        350,
+        3843,
+        24906,
+        367,
+        1565,
+        5258,
+        406,
+        9947,
+        11319,
+        6177,
+        33700,
+        40312,
+        4877
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0038"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0005.flac",
+    "text": "CLARETS ARE VALUED FOR THEIR FLAVOR AND FOR THEIR TONIC PROPERTIES",
+    "tokens": [
+        5097,
+        1503,
+        32716,
+        15986,
+        26173,
+        52,
+        1961,
+        7473,
+        47278,
+        9977,
+        10116,
+        1581,
+        5357,
+        7473,
+        47278,
+        309,
+        1340,
+        2149,
+        4810,
+        3185,
+        17395,
+        11015
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130737",
+        "file_id": "652-130737-0005"
+    }
+}

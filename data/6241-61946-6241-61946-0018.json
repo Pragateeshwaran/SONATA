@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0018.flac",
+    "text": "IN ANY CASE I SHALL TRUST RATHER TO MY OWN INTELLIGENCE THAN THEIRS",
+    "tokens": [
+        1268,
+        15529,
+        42001,
+        314,
+        50163,
+        7579,
+        7759,
+        371,
+        45226,
+        5390,
+        17615,
+        47672,
+        3268,
+        9328,
+        3069,
+        3528,
+        18310,
+        2320,
+        1565,
+        47278,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0018"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0038.flac",
+    "text": "AS IT IS UNLESS I AM MISTAKEN SOME OF THE RENDING WILL BE ON OUR SIDE AND THEY KNOW IT",
+    "tokens": [
+        1921,
+        7283,
+        3180,
+        4725,
+        48481,
+        314,
+        3001,
+        50029,
+        5603,
+        43959,
+        41670,
+        3963,
+        3336,
+        371,
+        10619,
+        2751,
+        17682,
+        9348,
+        6177,
+        30229,
+        311,
+        14114,
+        5357,
+        33302,
+        35876,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0038"
+    }
+}

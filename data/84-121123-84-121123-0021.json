@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0021.flac",
+    "text": "BUT HE STOPPED ON THE LANDING HE HAD NOT THE COURAGE TO AGAIN VISIT THE DEATH CHAMBER",
+    "tokens": [
+        47526,
+        11179,
+        44934,
+        47,
+        1961,
+        6177,
+        3336,
+        406,
+        6981,
+        2751,
+        11179,
+        367,
+        2885,
+        5626,
+        3336,
+        327,
+        2606,
+        3861,
+        8264,
+        5390,
+        36218,
+        1268,
+        50035,
+        2043,
+        3336,
+        5550,
+        12599,
+        5870,
+        2390,
+        13246
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0021"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0029.flac",
+    "text": "TO MAKE HOT BUTTERED TOAST SEVENTEEN TWENTY SIX",
+    "tokens": [
+        10468,
+        39134,
+        44607,
+        21728,
+        5781,
+        1961,
+        5390,
+        11262,
+        7946,
+        53,
+        3525,
+        36,
+        1677,
+        17306,
+        3525,
+        56,
+        311,
+        10426
+    ],
+    "metadata": {
+        "speaker_id": "2078",
+        "chapter_id": "142845",
+        "file_id": "2078-142845-0029"
+    }
+}

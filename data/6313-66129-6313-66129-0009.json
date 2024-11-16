@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0009.flac",
+    "text": "PRESIDENT BROWN I WITHDRAW MY CRITICISM I OFFER YOU MY HUMBLE APOLOGIES",
+    "tokens": [
+        48296,
+        25256,
+        11177,
+        14165,
+        314,
+        370,
+        2043,
+        10227,
+        20530,
+        17615,
+        8740,
+        2043,
+        2149,
+        31125,
+        314,
+        18562,
+        1137,
+        7013,
+        17615,
+        45850,
+        19146,
+        3486,
+        33462,
+        11015
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0009"
+    }
+}

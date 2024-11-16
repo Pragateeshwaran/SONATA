@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\422\\122949\\422-122949-0016.flac",
+    "text": "WHAT WILL THE MORAL PHILOSOPHERS WHO APPEAR AT THIS TIME HAVE TO PREACH",
+    "tokens": [
+        32971,
+        17682,
+        3336,
+        35208,
+        1847,
+        9370,
+        4146,
+        2640,
+        3185,
+        39,
+        4877,
+        19494,
+        3486,
+        11401,
+        1503,
+        5161,
+        12680,
+        20460,
+        21515,
+        5390,
+        22814,
+        16219
+    ],
+    "metadata": {
+        "speaker_id": "422",
+        "chapter_id": "122949",
+        "file_id": "422-122949-0016"
+    }
+}

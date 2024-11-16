@@ -1,0 +1,17 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0002.flac",
+    "text": "WHAT WAS THIS NOTHING",
+    "tokens": [
+        32971,
+        21725,
+        12680,
+        5626,
+        39,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0002"
+    }
+}

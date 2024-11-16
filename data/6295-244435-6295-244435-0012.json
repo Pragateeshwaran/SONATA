@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0012.flac",
+    "text": "EUROPE WHICH MUST HAVE ITS COTTON WOULD FAVOR THE SUCCESS OF THE SOUTH",
+    "tokens": [
+        36,
+        4261,
+        32135,
+        7655,
+        20739,
+        17191,
+        21515,
+        42437,
+        327,
+        2394,
+        11357,
+        370,
+        24010,
+        9677,
+        53,
+        1581,
+        3336,
+        13558,
+        4093,
+        7597,
+        3963,
+        3336,
+        30065,
+        4221
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0012"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0020.flac",
+    "text": "THESE WERE REMARKABLE TALENTS",
+    "tokens": [
+        4221,
+        33635,
+        370,
+        9338,
+        22657,
+        14175,
+        17534,
+        309,
+        1847,
+        15365
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0020"
+    }
+}

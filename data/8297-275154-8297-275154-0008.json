@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0008.flac",
+    "text": "YOU DISTRESS ME HERBERT MORE THAN WORDS CAN SAY",
+    "tokens": [
+        36981,
+        34957,
+        7597,
+        11948,
+        24906,
+        13246,
+        51,
+        12011,
+        2320,
+        1565,
+        21881,
+        5258,
+        15628,
+        45687
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275154",
+        "file_id": "8297-275154-0008"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0005.flac",
+    "text": "IT WAS INDEED HER HANDWRITING",
+    "tokens": [
+        2043,
+        21725,
+        3268,
+        7206,
+        1961,
+        24906,
+        367,
+        6981,
+        18564,
+        2043,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "73752",
+        "file_id": "7850-73752-0005"
+    }
+}

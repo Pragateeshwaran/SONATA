@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0008.flac",
+    "text": "WHEN DID YOU COME BARTLEY AND HOW DID IT HAPPEN YOU HAVEN'T SPOKEN A WORD",
+    "tokens": [
+        12418,
+        1677,
+        35697,
+        7013,
+        9440,
+        36,
+        42346,
+        25173,
+        5357,
+        29630,
+        35697,
+        7283,
+        367,
+        24805,
+        1677,
+        7013,
+        367,
+        10116,
+        1677,
+        6,
+        51,
+        6226,
+        11380,
+        1677,
+        317,
+        370,
+        12532
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0008"
+    }
+}

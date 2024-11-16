@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0015.flac",
+    "text": "BUT CAN HE UNDERSTAND YOU YES",
+    "tokens": [
+        47526,
+        15628,
+        11179,
+        35219,
+        2257,
+        6981,
+        7013,
+        21560
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0015"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0019.flac",
+    "text": "AND SHE GOT UP AND PUT HER HEAD INTO THE OVEN",
+    "tokens": [
+        6981,
+        48052,
+        41725,
+        15958,
+        5357,
+        350,
+        3843,
+        24906,
+        39837,
+        39319,
+        3336,
+        440,
+        28290
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110523",
+        "file_id": "7976-110523-0019"
+    }
+}

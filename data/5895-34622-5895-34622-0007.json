@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0007.flac",
+    "text": "THE ASTONISHMENT WITH WHICH THE VILLAGERS REGARDED THIS MACHINE WAS OVERWHELMING",
+    "tokens": [
+        10970,
+        29273,
+        1340,
+        18422,
+        10979,
+        13315,
+        7655,
+        20739,
+        3336,
+        569,
+        8267,
+        4760,
+        4877,
+        23337,
+        9795,
+        1961,
+        12680,
+        337,
+        16219,
+        8881,
+        21725,
+        28729,
+        12418,
+        3698,
+        44,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0007"
+    }
+}

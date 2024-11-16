@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0063.flac",
+    "text": "IT RELIEVED HIM FOR A WHILE",
+    "tokens": [
+        2043,
+        29749,
+        10008,
+        53,
+        1961,
+        45909,
+        7473,
+        317,
+        7655,
+        41119
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0063"
+    }
+}

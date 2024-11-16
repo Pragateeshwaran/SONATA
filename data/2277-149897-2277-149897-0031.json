@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0031.flac",
+    "text": "HE TROUBLED OVER MANY LITTLE DETAILS AND TALKED PERFUNCTORILY TO EVERYBODY",
+    "tokens": [
+        13909,
+        7579,
+        2606,
+        9148,
+        1961,
+        28729,
+        17254,
+        56,
+        406,
+        22470,
+        2538,
+        360,
+        20892,
+        45484,
+        5357,
+        309,
+        28082,
+        1961,
+        19878,
+        42296,
+        4177,
+        1581,
+        33340,
+        5390,
+        27222,
+        33,
+        33076
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0031"
+    }
+}

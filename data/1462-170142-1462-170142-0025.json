@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0025.flac",
+    "text": "HILDA'S FACE QUIVERED BUT SHE WHISPERED YES I THINK IT MUST HAVE BEEN",
+    "tokens": [
+        39,
+        4146,
+        5631,
+        6,
+        50,
+        46587,
+        19604,
+        38757,
+        1961,
+        21728,
+        48052,
+        7655,
+        1797,
+        18973,
+        1961,
+        21560,
+        314,
+        2320,
+        17248,
+        7283,
+        17191,
+        21515,
+        9348,
+        1677
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0025"
+    }
+}

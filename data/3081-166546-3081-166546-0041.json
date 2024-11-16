@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0041.flac",
+    "text": "WHAT DO YOU MAKE OF IT GRYCE",
+    "tokens": [
+        32971,
+        8410,
+        7013,
+        39134,
+        3963,
+        7283,
+        10863,
+        56,
+        5222
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0041"
+    }
+}

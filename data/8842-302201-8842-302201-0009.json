@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0009.flac",
+    "text": "THE SECOND BEGINS HERE AN ANGEL THE THIRD HERE DEAR SONG I KNOW",
+    "tokens": [
+        10970,
+        10729,
+        18672,
+        347,
+        7156,
+        20913,
+        15698,
+        3537,
+        44892,
+        3336,
+        2320,
+        46833,
+        15698,
+        5550,
+        1503,
+        311,
+        18494,
+        314,
+        35876
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302201",
+        "file_id": "8842-302201-0009"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0008.flac",
+    "text": "DO DRINK THIS AND THEN TELL ME PERHAPS I CAN HELP YOU",
+    "tokens": [
+        18227,
+        10560,
+        17248,
+        12680,
+        5357,
+        42243,
+        13368,
+        3069,
+        11948,
+        19878,
+        39,
+        44580,
+        314,
+        15628,
+        49944,
+        7013
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0008"
+    }
+}

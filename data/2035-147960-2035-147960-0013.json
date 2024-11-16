@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0013.flac",
+    "text": "OTTO FUCHS WAS THE FIRST ONE WE MET",
+    "tokens": [
+        2394,
+        10468,
+        376,
+        52,
+        3398,
+        50,
+        21725,
+        3336,
+        31328,
+        16329,
+        12887,
+        31243
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0013"
+    }
+}

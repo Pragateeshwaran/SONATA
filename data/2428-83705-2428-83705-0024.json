@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0024.flac",
+    "text": "AND I WILL SEE THAT THERE IS NO SHIRKING ABOUT THE BOYS OR ABOUT THE GIRLS EITHER",
+    "tokens": [
+        6981,
+        314,
+        17682,
+        31107,
+        14603,
+        34702,
+        3180,
+        8005,
+        6006,
+        4663,
+        37286,
+        33478,
+        3336,
+        16494,
+        16309,
+        6375,
+        33478,
+        3336,
+        402,
+        4663,
+        6561,
+        412,
+        10554,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0024"
+    }
+}

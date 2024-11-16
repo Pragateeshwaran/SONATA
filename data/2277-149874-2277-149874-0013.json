@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0013.flac",
+    "text": "YOU COULD GET HOME EASY TOO IT ISN'T VERY FAR",
+    "tokens": [
+        36981,
+        327,
+        24010,
+        17151,
+        41779,
+        412,
+        26483,
+        5390,
+        46,
+        7283,
+        3180,
+        45,
+        6,
+        51,
+        29550,
+        39024
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0013"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0003.flac",
+    "text": "ACCORDING TO ALL APPEARANCE INDUSTRIOUS MANIPULATORS OF CHILDREN HAD WORKED UPON HIS FACE",
+    "tokens": [
+        26861,
+        12532,
+        2751,
+        5390,
+        11096,
+        3486,
+        11401,
+        1503,
+        19240,
+        24413,
+        7759,
+        7112,
+        20958,
+        17254,
+        4061,
+        6239,
+        1404,
+        20673,
+        3963,
+        5870,
+        4146,
+        7707,
+        1677,
+        367,
+        2885,
+        30936,
+        1961,
+        15958,
+        1340,
+        33700,
+        46587
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34615",
+        "file_id": "5895-34615-0003"
+    }
+}

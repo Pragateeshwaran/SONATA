@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0017.flac",
+    "text": "MAIZE NEXT TO WHEAT AND RICE MAIZE IS THE GRAIN MOST USED IN THE NOURISHMENT OF MAN",
+    "tokens": [
+        5673,
+        35400,
+        39726,
+        5390,
+        7655,
+        36,
+        1404,
+        5357,
+        371,
+        8476,
+        8779,
+        35400,
+        3180,
+        3336,
+        402,
+        3861,
+        1268,
+        337,
+        10892,
+        1294,
+        1961,
+        3268,
+        3336,
+        399,
+        11698,
+        18422,
+        10979,
+        3963,
+        17254
+    ],
+    "metadata": {
+        "speaker_id": "2078",
+        "chapter_id": "142845",
+        "file_id": "2078-142845-0017"
+    }
+}

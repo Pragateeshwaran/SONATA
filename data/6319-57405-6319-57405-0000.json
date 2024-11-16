@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0000.flac",
+    "text": "IN THOSE VERY EARLY TIMES THERE WAS A MAN NAMED DEUCALION AND HE WAS THE SON OF PROMETHEUS",
+    "tokens": [
+        1268,
+        2320,
+        14058,
+        29550,
+        31834,
+        11319,
+        31742,
+        1546,
+        34702,
+        21725,
+        317,
+        17254,
+        399,
+        2390,
+        1961,
+        5550,
+        9598,
+        1847,
+        2849,
+        5357,
+        11179,
+        21725,
+        3336,
+        311,
+        1340,
+        3963,
+        4810,
+        2662,
+        2767,
+        13909,
+        2937
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "57405",
+        "file_id": "6319-57405-0000"
+    }
+}

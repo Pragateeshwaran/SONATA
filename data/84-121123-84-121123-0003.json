@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0003.flac",
+    "text": "AND THE CRY ISSUED FROM HIS PORES IF WE MAY THUS SPEAK A CRY FRIGHTFUL IN ITS SILENCE",
+    "tokens": [
+        6981,
+        3336,
+        8740,
+        56,
+        3180,
+        12564,
+        1961,
+        16034,
+        33700,
+        350,
+        1581,
+        1546,
+        16876,
+        12887,
+        26720,
+        2320,
+        2937,
+        6226,
+        36,
+        10206,
+        317,
+        8740,
+        56,
+        8782,
+        9947,
+        46476,
+        3268,
+        42437,
+        47551,
+        18310
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0003"
+    }
+}

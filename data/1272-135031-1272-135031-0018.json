@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0018.flac",
+    "text": "OH NO I'M QUITE SURE HE DIDN'T",
+    "tokens": [
+        12096,
+        8005,
+        314,
+        6,
+        44,
+        19604,
+        12709,
+        311,
+        11335,
+        11179,
+        35697,
+        45,
+        6,
+        51
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0018"
+    }
+}

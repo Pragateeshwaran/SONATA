@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0006.flac",
+    "text": "O IF YOU PLAY US A ROUNDEL SINGER HOW CAN THAT HARM THE EMPEROR'S DAUGHTER",
+    "tokens": [
+        46,
+        16876,
+        7013,
+        28180,
+        1294,
+        317,
+        371,
+        15919,
+        3698,
+        311,
+        2751,
+        1137,
+        29630,
+        15628,
+        14603,
+        367,
+        33456,
+        3336,
+        38144,
+        1137,
+        1581,
+        6,
+        50,
+        17051,
+        44004,
+        5781
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "50561",
+        "file_id": "174-50561-0006"
+    }
+}

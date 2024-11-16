@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0013.flac",
+    "text": "IN THIS SAME DISTRICT IS THE MINT IN COMMERCIAL STREET BETWEEN MONTGOMERY AND KEARNY STREETS",
+    "tokens": [
+        1268,
+        12680,
+        311,
+        10067,
+        45057,
+        3180,
+        3336,
+        337,
+        12394,
+        3268,
+        22240,
+        47691,
+        12576,
+        3563,
+        2200,
+        2767,
+        38651,
+        8845,
+        1677,
+        25000,
+        35990,
+        2662,
+        19664,
+        5357,
+        509,
+        17133,
+        12805,
+        3563,
+        2200,
+        32716
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130726",
+        "file_id": "652-130726-0013"
+    }
+}

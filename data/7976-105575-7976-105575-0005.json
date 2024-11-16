@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0005.flac",
+    "text": "NO BATTERY IN THE WHOLE FOUR YEARS WAR LOST SO MANY MEN IN SO SHORT A TIME",
+    "tokens": [
+        15285,
+        37421,
+        5781,
+        56,
+        3268,
+        3336,
+        19494,
+        2538,
+        376,
+        11698,
+        32914,
+        50,
+        11837,
+        406,
+        10892,
+        12809,
+        17254,
+        56,
+        41597,
+        3268,
+        12809,
+        6006,
+        9863,
+        317,
+        20460
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0005"
+    }
+}

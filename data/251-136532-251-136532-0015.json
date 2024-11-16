@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0015.flac",
+    "text": "SO THEY JUST CAME IN HERE AND LIT THE CHARCOAL AND SAT DRINKING TOGETHER TILL THEY ALL FELL ASLEEP",
+    "tokens": [
+        15821,
+        33302,
+        25848,
+        327,
+        10067,
+        3268,
+        15698,
+        5357,
+        406,
+        2043,
+        3336,
+        28521,
+        8220,
+        1847,
+        5357,
+        29020,
+        10560,
+        17248,
+        2751,
+        5390,
+        18851,
+        16879,
+        309,
+        8267,
+        33302,
+        11096,
+        18630,
+        3069,
+        7054,
+        2538,
+        8905
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "136532",
+        "file_id": "251-136532-0015"
+    }
+}

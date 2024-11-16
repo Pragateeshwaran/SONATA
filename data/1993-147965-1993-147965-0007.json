@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147965\\1993-147965-0007.flac",
+    "text": "HIS FACE HAD A LOOK OF WEARINESS AND PLEASURE LIKE THAT OF SICK PEOPLE WHEN THEY FEEL RELIEF FROM PAIN",
+    "tokens": [
+        39,
+        1797,
+        46587,
+        367,
+        2885,
+        317,
+        48045,
+        3963,
+        12887,
+        1503,
+        44180,
+        5357,
+        350,
+        2538,
+        1921,
+        11335,
+        34178,
+        14603,
+        3963,
+        311,
+        11860,
+        36388,
+        42099,
+        33302,
+        18630,
+        3698,
+        29749,
+        10008,
+        37,
+        16034,
+        8147,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147965",
+        "file_id": "1993-147965-0007"
+    }
+}

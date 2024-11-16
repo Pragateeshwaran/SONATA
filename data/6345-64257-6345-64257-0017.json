@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0017.flac",
+    "text": "HER ONLY LIFE WAS THAT SHE WAS LOST",
+    "tokens": [
+        16879,
+        22224,
+        36821,
+        21725,
+        14603,
+        48052,
+        21725,
+        406,
+        10892
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "64257",
+        "file_id": "6345-64257-0017"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0014.flac",
+    "text": "THE LADIES",
+    "tokens": [
+        10970,
+        406,
+        2885,
+        11015
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "50561",
+        "file_id": "174-50561-0014"
+    }
+}

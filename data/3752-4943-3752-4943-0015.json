@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0015.flac",
+    "text": "IMPERTINENT YOUNG BEGGAR SAID BURGESS",
+    "tokens": [
+        3955,
+        47,
+        17395,
+        1268,
+        3525,
+        7013,
+        10503,
+        347,
+        7156,
+        38,
+        1503,
+        14719,
+        2389,
+        45604,
+        38,
+        7597
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0015"
+    }
+}

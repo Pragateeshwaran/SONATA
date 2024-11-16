@@ -1,0 +1,15 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0063.flac",
+    "text": "NO DOUBT",
+    "tokens": [
+        15285,
+        360,
+        2606,
+        19313
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0063"
+    }
+}

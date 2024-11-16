@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24615\\5338-24615-0012.flac",
+    "text": "THIS WORK OF ART WAS THE WONDER OF THE COUNTRY TEN MILES ROUND",
+    "tokens": [
+        43559,
+        30936,
+        3963,
+        24278,
+        21725,
+        3336,
+        370,
+        1340,
+        14418,
+        3963,
+        3336,
+        31404,
+        40405,
+        309,
+        1677,
+        31515,
+        1546,
+        371,
+        15919
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "24615",
+        "file_id": "5338-24615-0012"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0035.flac",
+    "text": "IN ADDITION TO ABALONE'S THE HOF BRAU MAKES A SPECIALTY OF LITTLE OREGON CRAWFISH",
+    "tokens": [
+        1268,
+        27841,
+        17941,
+        5390,
+        9564,
+        1847,
+        11651,
+        6,
+        50,
+        3336,
+        367,
+        19238,
+        39947,
+        52,
+        8779,
+        42,
+        1546,
+        317,
+        38846,
+        9936,
+        3963,
+        406,
+        22470,
+        2538,
+        440,
+        31553,
+        1340,
+        327,
+        20530,
+        37,
+        18422
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130726",
+        "file_id": "652-130726-0035"
+    }
+}

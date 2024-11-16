@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0009.flac",
+    "text": "DO YOU KNOW THE ASSASSIN ASKED MORREL",
+    "tokens": [
+        18227,
+        7013,
+        35876,
+        3336,
+        24994,
+        10705,
+        1268,
+        7054,
+        42,
+        1961,
+        35208,
+        16448
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0009"
+    }
+}

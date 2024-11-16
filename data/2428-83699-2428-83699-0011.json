@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0011.flac",
+    "text": "ALL NIGHT IT HAD BEEN BLOWING AND RAINING",
+    "tokens": [
+        7036,
+        37707,
+        7283,
+        367,
+        2885,
+        9348,
+        1677,
+        9878,
+        3913,
+        2751,
+        5357,
+        17926,
+        1268,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0011"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0001.flac",
+    "text": "BUT IN THE CAUSE OF SCIENCE MEN ARE EXPECTED TO SUFFER",
+    "tokens": [
+        47526,
+        3268,
+        3336,
+        7257,
+        19108,
+        3963,
+        6374,
+        42589,
+        41597,
+        15986,
+        25703,
+        9782,
+        1961,
+        5390,
+        13558,
+        45746
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0001"
+    }
+}

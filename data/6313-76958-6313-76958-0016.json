@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0016.flac",
+    "text": "YOU WON'T BE SO FAST TO WAKE UP HARD WORKING COWBOYS AFTER THAT I RECKON",
+    "tokens": [
+        36981,
+        370,
+        1340,
+        6,
+        51,
+        9348,
+        12809,
+        376,
+        11262,
+        5390,
+        16400,
+        7336,
+        15958,
+        367,
+        9795,
+        30936,
+        2751,
+        327,
+        3913,
+        8202,
+        16309,
+        36050,
+        14603,
+        314,
+        19644,
+        42,
+        1340
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0016"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0007.flac",
+    "text": "DOST THOU REVOLT AGAINST THY MASTER AND NATURAL LORD",
+    "tokens": [
+        35,
+        10892,
+        2320,
+        2606,
+        4526,
+        44558,
+        51,
+        36218,
+        38604,
+        2320,
+        56,
+        32337,
+        5781,
+        5357,
+        10149,
+        4261,
+        1847,
+        35750
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0007"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0018.flac",
+    "text": "GWYNPLAINE HAD YELLOW HAIR",
+    "tokens": [
+        33191,
+        40760,
+        45710,
+        8881,
+        367,
+        2885,
+        575,
+        23304,
+        3913,
+        14558,
+        4663
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34615",
+        "file_id": "5895-34615-0018"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0015.flac",
+    "text": "THEY TALKED FOR FOUR HOURS AND HAD NOT THEN SAID HALF THAT WAS IN THEIR HEADS TO SAY",
+    "tokens": [
+        10970,
+        56,
+        309,
+        28082,
+        1961,
+        7473,
+        376,
+        11698,
+        29068,
+        6998,
+        5357,
+        367,
+        2885,
+        5626,
+        42243,
+        14719,
+        2389,
+        42968,
+        37,
+        14603,
+        21725,
+        3268,
+        47278,
+        39837,
+        50,
+        5390,
+        45687
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "64726",
+        "file_id": "6319-64726-0015"
+    }
+}

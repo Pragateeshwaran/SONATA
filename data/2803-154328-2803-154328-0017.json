@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0017.flac",
+    "text": "DID THEY KNOW OF THE EXISTENCE OF THE PRISONERS OR WAS IT SOME PRIVATE ENTERPRISE THAT LED TO THE UNDERTAKING",
+    "tokens": [
+        35,
+        2389,
+        33302,
+        35876,
+        3963,
+        3336,
+        7788,
+        8808,
+        18310,
+        3963,
+        3336,
+        4810,
+        39960,
+        4877,
+        6375,
+        21725,
+        7283,
+        41670,
+        4810,
+        3824,
+        6158,
+        46962,
+        4805,
+        24352,
+        14603,
+        12365,
+        5390,
+        3336,
+        35219,
+        5603,
+        37286
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0017"
+    }
+}

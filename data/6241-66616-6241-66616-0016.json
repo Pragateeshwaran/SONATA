@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0016.flac",
+    "text": "NECESSITY HAD BECOME HIS GRIM MASTER AND THE FOLLOWING WEEK HE WAS GOING TO WORK",
+    "tokens": [
+        45,
+        2943,
+        7597,
+        9050,
+        367,
+        2885,
+        347,
+        2943,
+        13649,
+        33700,
+        10863,
+        3955,
+        32337,
+        5781,
+        5357,
+        3336,
+        11895,
+        44765,
+        2751,
+        43765,
+        11179,
+        21725,
+        10351,
+        2751,
+        5390,
+        30936
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0016"
+    }
+}

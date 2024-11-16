@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0003.flac",
+    "text": "WE DID NOT IT MUST HAVE COME TO LIFE SOME TIME DURING THE NIGHT AND DUG ITS WAY OUT LAUGHED TAD",
+    "tokens": [
+        8845,
+        35697,
+        5626,
+        7283,
+        17191,
+        21515,
+        9440,
+        36,
+        5390,
+        36821,
+        41670,
+        20460,
+        360,
+        4261,
+        2751,
+        3336,
+        37707,
+        5357,
+        360,
+        7340,
+        42437,
+        34882,
+        16289,
+        9131,
+        44004,
+        1961,
+        309,
+        2885
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0003"
+    }
+}

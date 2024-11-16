@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0005.flac",
+    "text": "A MINUTE IS NOT A VERY LARGE MEASURE OF TIME AND HIS BODY NEEDED EVERY FRACTION OF IT",
+    "tokens": [
+        32,
+        20625,
+        37780,
+        3180,
+        5626,
+        317,
+        29550,
+        47211,
+        8264,
+        11948,
+        1921,
+        11335,
+        3963,
+        20460,
+        5357,
+        33700,
+        347,
+        33076,
+        36465,
+        1961,
+        27222,
+        8782,
+        44710,
+        3963,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0005"
+    }
+}

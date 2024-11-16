@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0008.flac",
+    "text": "YOU WERE WRONG IN ALL THAT I SAID SHE KEPT HER FAITH WITH YOU",
+    "tokens": [
+        36981,
+        370,
+        9338,
+        11342,
+        18494,
+        3268,
+        11096,
+        14603,
+        314,
+        14719,
+        2389,
+        48052,
+        509,
+        8905,
+        51,
+        24906,
+        9677,
+        10554,
+        13315,
+        7013
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "84280",
+        "file_id": "174-84280-0008"
+    }
+}

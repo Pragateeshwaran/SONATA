@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0013.flac",
+    "text": "IT WAS INDEED DANCING ON A VOLCANO",
+    "tokens": [
+        2043,
+        21725,
+        3268,
+        7206,
+        1961,
+        360,
+        20940,
+        2751,
+        6177,
+        317,
+        38570,
+        44565,
+        46
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "73752",
+        "file_id": "7850-73752-0013"
+    }
+}

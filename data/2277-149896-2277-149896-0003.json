@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0003.flac",
+    "text": "HE ALSO THOUGHT OF HIS MANAGERIAL POSITION",
+    "tokens": [
+        13909,
+        35912,
+        2320,
+        2606,
+        38,
+        6535,
+        3963,
+        33700,
+        17254,
+        4760,
+        1137,
+        12576,
+        28069,
+        17941
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0003"
+    }
+}

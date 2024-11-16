@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0011.flac",
+    "text": "MOREOVER JEAN VALJEAN HAD CHOSEN HIS REFUGE WELL",
+    "tokens": [
+        44,
+        1581,
+        4720,
+        5959,
+        449,
+        36,
+        1565,
+        26173,
+        41,
+        36,
+        1565,
+        367,
+        2885,
+        5870,
+        2640,
+        1677,
+        33700,
+        4526,
+        37,
+        41251,
+        12887,
+        3069
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "168635",
+        "file_id": "174-168635-0011"
+    }
+}

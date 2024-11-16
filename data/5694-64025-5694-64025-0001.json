@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0001.flac",
+    "text": "THIS WAS THE FIRST BIG BATTLE IN WHICH OUR REGIMENT HAD EVER BEEN ENGAGED",
+    "tokens": [
+        43559,
+        21725,
+        3336,
+        31328,
+        26746,
+        347,
+        35455,
+        3268,
+        7655,
+        20739,
+        30229,
+        23337,
+        3955,
+        3525,
+        367,
+        2885,
+        20498,
+        9348,
+        1677,
+        36924,
+        4760,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0001"
+    }
+}

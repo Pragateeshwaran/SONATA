@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0000.flac",
+    "text": "WHEN HURSTWOOD GOT BACK TO HIS OFFICE AGAIN HE WAS IN A GREATER QUANDARY THAN EVER",
+    "tokens": [
+        12418,
+        1677,
+        367,
+        4261,
+        2257,
+        49466,
+        41725,
+        28767,
+        5390,
+        33700,
+        18562,
+        8476,
+        36218,
+        1268,
+        11179,
+        21725,
+        3268,
+        317,
+        19928,
+        23261,
+        19604,
+        6981,
+        13153,
+        2320,
+        1565,
+        20498
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0000"
+    }
+}

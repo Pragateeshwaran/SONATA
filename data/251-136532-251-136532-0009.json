@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0009.flac",
+    "text": "WELL OF COURSE THEY'RE DEAD WHAT A QUESTION",
+    "tokens": [
+        8845,
+        3069,
+        3963,
+        37384,
+        5188,
+        33302,
+        6,
+        2200,
+        42533,
+        25003,
+        317,
+        43658,
+        2849
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "136532",
+        "file_id": "251-136532-0009"
+    }
+}

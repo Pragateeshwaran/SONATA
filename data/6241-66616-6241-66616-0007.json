@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0007.flac",
+    "text": "THE OTHER WAS A GIRL THREE YEARS YOUNGER AND NEWSOME INSISTED THAT SHE BE CALLED MINNETAKI",
+    "tokens": [
+        10970,
+        25401,
+        21725,
+        317,
+        402,
+        4663,
+        43,
+        48697,
+        32914,
+        50,
+        7013,
+        10503,
+        1137,
+        5357,
+        28840,
+        13649,
+        29194,
+        8808,
+        1961,
+        14603,
+        48052,
+        9348,
+        42815,
+        1961,
+        20625,
+        12884,
+        10206,
+        40
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0007"
+    }
+}

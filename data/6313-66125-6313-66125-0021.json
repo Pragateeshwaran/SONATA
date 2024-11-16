@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0021.flac",
+    "text": "LODGED IN THE BRANCHES OF A PINYON TREE I THINK IT IS BUT HE DOESN'T ANSWER ME",
+    "tokens": [
+        38543,
+        38,
+        1961,
+        3268,
+        3336,
+        11177,
+        1565,
+        3398,
+        1546,
+        3963,
+        317,
+        34279,
+        56,
+        1340,
+        309,
+        11587,
+        314,
+        2320,
+        17248,
+        7283,
+        3180,
+        21728,
+        11179,
+        38359,
+        45,
+        6,
+        51,
+        3537,
+        17887,
+        1137,
+        11948
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0021"
+    }
+}

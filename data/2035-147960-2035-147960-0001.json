@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0001.flac",
+    "text": "THIS CHANGE CAME ABOUT FROM AN ADVENTURE WE HAD TOGETHER",
+    "tokens": [
+        43559,
+        5870,
+        27746,
+        327,
+        10067,
+        33478,
+        16034,
+        3537,
+        43685,
+        3525,
+        11335,
+        12887,
+        367,
+        2885,
+        5390,
+        18851,
+        16879
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0001"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0017.flac",
+    "text": "IN THE PRESENT UNSETTLED THOUGH HOPEFUL STATE OF AFFAIRS FERDINAND WOULD NOT GO HOME",
+    "tokens": [
+        1268,
+        3336,
+        32552,
+        3525,
+        4725,
+        28480,
+        14990,
+        1961,
+        2320,
+        32632,
+        367,
+        3185,
+        25425,
+        6239,
+        35454,
+        3963,
+        317,
+        5777,
+        42149,
+        50,
+        376,
+        1137,
+        35,
+        1268,
+        6981,
+        370,
+        24010,
+        5626,
+        10351,
+        41779
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "73752",
+        "file_id": "7850-73752-0017"
+    }
+}

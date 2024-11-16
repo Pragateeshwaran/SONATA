@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0009.flac",
+    "text": "WE NEVER PLANNED TO MEET AND WHEN WE MET",
+    "tokens": [
+        8845,
+        33602,
+        9297,
+        22846,
+        1961,
+        5390,
+        11948,
+        2767,
+        5357,
+        42099,
+        12887,
+        31243
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "84280",
+        "file_id": "174-84280-0009"
+    }
+}

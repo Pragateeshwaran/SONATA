@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0008.flac",
+    "text": "MY NOTES WHICH YOU HAVE TAKEN THE TROUBLE OF REVISING ARE OF COURSE QUITE PALTRY AND USELESS",
+    "tokens": [
+        26708,
+        5626,
+        1546,
+        7655,
+        20739,
+        7013,
+        21515,
+        309,
+        10206,
+        1677,
+        3336,
+        7579,
+        2606,
+        19146,
+        3963,
+        4526,
+        29817,
+        2751,
+        15986,
+        3963,
+        37384,
+        5188,
+        19604,
+        12709,
+        40795,
+        40405,
+        5357,
+        1294,
+        3698,
+        7597
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302196",
+        "file_id": "8842-302196-0008"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0003.flac",
+    "text": "THEIR MINDS WERE SO DISTRACTED AT THIS CHANGE OF ROUTE AS TO BE QUITE UNHINGED",
+    "tokens": [
+        10970,
+        4663,
+        20625,
+        5258,
+        370,
+        9338,
+        12809,
+        34957,
+        38542,
+        5161,
+        12680,
+        5870,
+        27746,
+        3963,
+        371,
+        2606,
+        9328,
+        7054,
+        5390,
+        9348,
+        19604,
+        12709,
+        4725,
+        39,
+        2751,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154320",
+        "file_id": "2803-154320-0003"
+    }
+}

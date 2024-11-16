@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0022.flac",
+    "text": "LATER HOWEVER HIS OLD DISCRETION ASSERTED ITSELF",
+    "tokens": [
+        43,
+        23261,
+        29630,
+        36,
+        5959,
+        33700,
+        440,
+        11163,
+        13954,
+        43387,
+        24131,
+        24994,
+        17395,
+        1961,
+        42437,
+        37738
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0022"
+    }
+}

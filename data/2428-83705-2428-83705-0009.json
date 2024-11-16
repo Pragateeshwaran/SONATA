@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0009.flac",
+    "text": "THAT'S IT ON YOUR ACCOUNT",
+    "tokens": [
+        4221,
+        1404,
+        6,
+        50,
+        7283,
+        6177,
+        16592,
+        15859,
+        28270
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0009"
+    }
+}

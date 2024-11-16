@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0006.flac",
+    "text": "HE SHOWED HIMSELF ON THE PLATFORM",
+    "tokens": [
+        13909,
+        37041,
+        1961,
+        45909,
+        50,
+        37738,
+        6177,
+        3336,
+        9297,
+        1404,
+        21389
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34615",
+        "file_id": "5895-34615-0006"
+    }
+}

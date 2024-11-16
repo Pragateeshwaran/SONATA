@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0035.flac",
+    "text": "A VOICE INQUIRED WHO'S THERE",
+    "tokens": [
+        32,
+        30578,
+        8476,
+        3268,
+        10917,
+        37819,
+        19494,
+        6,
+        50,
+        34702
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0035"
+    }
+}

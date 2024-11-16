@@ -1,0 +1,15 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0027.flac",
+    "text": "YES HOW MANY",
+    "tokens": [
+        43335,
+        29630,
+        17254,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0027"
+    }
+}

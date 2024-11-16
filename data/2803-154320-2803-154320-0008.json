@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0008.flac",
+    "text": "WE COULD NOT EVEN FLY FLY JOHN",
+    "tokens": [
+        8845,
+        327,
+        24010,
+        5626,
+        45886,
+        9977,
+        56,
+        9977,
+        56,
+        39263
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154320",
+        "file_id": "2803-154320-0008"
+    }
+}

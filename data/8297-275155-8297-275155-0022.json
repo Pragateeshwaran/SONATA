@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0022.flac",
+    "text": "AFTER THAT I HAD HER MOTHER'S AUTHORITY FOR TELLING KITTY THAT SHE WOULD NEVER SEE HER FATHER AGAIN",
+    "tokens": [
+        8579,
+        5781,
+        14603,
+        314,
+        367,
+        2885,
+        24906,
+        337,
+        31858,
+        6,
+        50,
+        44746,
+        9050,
+        7473,
+        13368,
+        3069,
+        2751,
+        509,
+        2043,
+        9936,
+        14603,
+        48052,
+        370,
+        24010,
+        33602,
+        31107,
+        24906,
+        376,
+        45226,
+        36218,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275155",
+        "file_id": "8297-275155-0022"
+    }
+}

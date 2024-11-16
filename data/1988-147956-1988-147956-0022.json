@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0022.flac",
+    "text": "SHE POINTED INTO THE GOLD COTTONWOOD TREE BEHIND WHOSE TOP WE STOOD AND SAID AGAIN WHAT NAME",
+    "tokens": [
+        9693,
+        36,
+        19922,
+        12394,
+        1961,
+        39319,
+        3336,
+        44428,
+        327,
+        2394,
+        11357,
+        49466,
+        309,
+        11587,
+        9348,
+        39,
+        12115,
+        7655,
+        14058,
+        28662,
+        12887,
+        3563,
+        22808,
+        5357,
+        14719,
+        2389,
+        36218,
+        1268,
+        25003,
+        36751
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0022"
+    }
+}

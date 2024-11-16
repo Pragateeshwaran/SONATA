@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0019.flac",
+    "text": "IN THIS POSITION SHE REMAINED UNTIL A GENTLE HAND WAS LAID UPON HER SHOULDER",
+    "tokens": [
+        1268,
+        12680,
+        28069,
+        17941,
+        48052,
+        22657,
+        29833,
+        1961,
+        4725,
+        51,
+        4146,
+        317,
+        402,
+        3525,
+        2538,
+        367,
+        6981,
+        21725,
+        9131,
+        2389,
+        15958,
+        1340,
+        24906,
+        40312,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "275224",
+        "file_id": "6319-275224-0019"
+    }
+}

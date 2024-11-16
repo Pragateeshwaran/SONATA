@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0042.flac",
+    "text": "I SHOULD LIKE TO SEE THE DESK YOU SPEAK OF AND THE SPOT WHERE SHE FELL",
+    "tokens": [
+        40,
+        40312,
+        34178,
+        5390,
+        31107,
+        3336,
+        22196,
+        42,
+        7013,
+        6226,
+        36,
+        10206,
+        3963,
+        5357,
+        3336,
+        6226,
+        2394,
+        33411,
+        48052,
+        18630,
+        3069
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0042"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0019.flac",
+    "text": "WORSE STORIES HAVE BEEN PRINTED I DO ASSURE YOU WORSE STORIES HAVE BEEN PRINTED",
+    "tokens": [
+        45359,
+        5188,
+        46366,
+        11015,
+        21515,
+        9348,
+        1677,
+        4810,
+        12394,
+        1961,
+        314,
+        8410,
+        24994,
+        11335,
+        7013,
+        21881,
+        5188,
+        46366,
+        11015,
+        21515,
+        9348,
+        1677,
+        4810,
+        12394,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275155",
+        "file_id": "8297-275155-0019"
+    }
+}

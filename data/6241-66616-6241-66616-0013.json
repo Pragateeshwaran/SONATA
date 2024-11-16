@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0013.flac",
+    "text": "IT WAS AT ABOUT THIS TIME IN THEIR LIVES THAT THE WOONGAS BECAME ESPECIALLY DARING IN THEIR DEPREDATIONS",
+    "tokens": [
+        2043,
+        21725,
+        5161,
+        33478,
+        12680,
+        20460,
+        3268,
+        47278,
+        406,
+        42472,
+        14603,
+        3336,
+        370,
+        46,
+        18494,
+        1921,
+        347,
+        2943,
+        10067,
+        9428,
+        2943,
+        40,
+        19807,
+        41649,
+        2751,
+        3268,
+        47278,
+        5550,
+        4805,
+        1961,
+        18421
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0013"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0003.flac",
+    "text": "AND AGAIN HE LISTENED WITH A QUIET PLEASURE",
+    "tokens": [
+        6981,
+        36218,
+        1268,
+        11179,
+        39498,
+        1677,
+        1961,
+        13315,
+        317,
+        1195,
+        10080,
+        2767,
+        350,
+        2538,
+        1921,
+        11335
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0003"
+    }
+}

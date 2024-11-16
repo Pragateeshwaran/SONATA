@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0005.flac",
+    "text": "AN INSTANT LATER IT CRASHED OVER PINNING MARK FABER BENEATH IT",
+    "tokens": [
+        1565,
+        40589,
+        8643,
+        406,
+        23261,
+        7283,
+        8740,
+        11211,
+        1961,
+        28729,
+        34279,
+        15871,
+        39641,
+        376,
+        6242,
+        1137,
+        347,
+        39267,
+        12599,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0005"
+    }
+}

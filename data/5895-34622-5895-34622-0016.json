@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0016.flac",
+    "text": "URSUS AND HOMO TOOK CHARGE OF EACH OTHER",
+    "tokens": [
+        4261,
+        50,
+        2937,
+        5357,
+        367,
+        2662,
+        46,
+        5390,
+        11380,
+        28521,
+        8264,
+        3963,
+        412,
+        16219,
+        25401
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0016"
+    }
+}

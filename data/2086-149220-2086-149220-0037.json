@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0037.flac",
+    "text": "SINCE YOU ARE A FRIEND OF MY COUSIN HEPZIBAH'S YOU SHOULD ASK HER TO SHOW YOU THE PICTURE",
+    "tokens": [
+        50,
+        1268,
+        5222,
+        7013,
+        15986,
+        317,
+        48167,
+        10619,
+        3963,
+        17615,
+        327,
+        20958,
+        1268,
+        367,
+        8905,
+        48926,
+        4339,
+        39,
+        6,
+        50,
+        7013,
+        40312,
+        7054,
+        42,
+        24906,
+        5390,
+        37041,
+        7013,
+        3336,
+        350,
+        18379,
+        11335
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0037"
+    }
+}

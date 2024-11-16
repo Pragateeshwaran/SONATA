@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0004.flac",
+    "text": "AND CURIOUSLY ENOUGH SHE WAS HARDLY CURIOUS AT ALL ABOUT WHAT HE MIGHT HAVE TO SAY",
+    "tokens": [
+        6981,
+        327,
+        47269,
+        2606,
+        8634,
+        56,
+        12964,
+        32632,
+        48052,
+        21725,
+        367,
+        9795,
+        11319,
+        327,
+        47269,
+        20958,
+        5161,
+        11096,
+        33478,
+        25003,
+        11179,
+        337,
+        9947,
+        21515,
+        5390,
+        45687
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93302",
+        "file_id": "6345-93302-0004"
+    }
+}

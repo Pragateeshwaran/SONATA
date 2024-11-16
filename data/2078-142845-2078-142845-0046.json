@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0046.flac",
+    "text": "IT IS NOT CULTIVATED IN ENGLAND BEING PRINCIPALLY CONFINED TO THE EAST",
+    "tokens": [
+        2043,
+        3180,
+        5626,
+        327,
+        16724,
+        3824,
+        11617,
+        3268,
+        12964,
+        8763,
+        6981,
+        9348,
+        2751,
+        4810,
+        30158,
+        4061,
+        19807,
+        7102,
+        20032,
+        1961,
+        5390,
+        3336,
+        412,
+        11262
+    ],
+    "metadata": {
+        "speaker_id": "2078",
+        "chapter_id": "142845",
+        "file_id": "2078-142845-0046"
+    }
+}

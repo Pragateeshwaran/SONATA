@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0012.flac",
+    "text": "THE OLD MAN'S EYES REMAINED FIXED ON THE DOOR",
+    "tokens": [
+        10970,
+        440,
+        11163,
+        17254,
+        6,
+        50,
+        412,
+        43335,
+        22657,
+        29833,
+        1961,
+        44855,
+        1961,
+        6177,
+        3336,
+        8410,
+        1581
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121123",
+        "file_id": "84-121123-0012"
+    }
+}

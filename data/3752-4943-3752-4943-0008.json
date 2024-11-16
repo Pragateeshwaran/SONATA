@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0008.flac",
+    "text": "AND BEAT ON THE BARS WITH WHITE AND SWEATING HANDS",
+    "tokens": [
+        6981,
+        9348,
+        1404,
+        6177,
+        3336,
+        347,
+        27415,
+        13315,
+        44925,
+        5357,
+        311,
+        8845,
+        33881,
+        367,
+        1565,
+        5258
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0008"
+    }
+}

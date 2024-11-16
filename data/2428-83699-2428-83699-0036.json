@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0036.flac",
+    "text": "THE INFORMATION WAS GREETED WITH WHAT SOUNDED UNCOMMONLY LIKE A CHORUS OF LAUGHTER",
+    "tokens": [
+        10970,
+        38044,
+        21725,
+        19928,
+        2767,
+        1961,
+        13315,
+        25003,
+        311,
+        15919,
+        1961,
+        4725,
+        9858,
+        27857,
+        11319,
+        34178,
+        317,
+        5870,
+        1581,
+        2937,
+        3963,
+        9131,
+        44004,
+        5781
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0036"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0012.flac",
+    "text": "HER CRIES BROUGHT HER HUSBAND DOWN TO TRY WITH HIS ACHING HEART TO COMFORT HERS",
+    "tokens": [
+        16879,
+        327,
+        7112,
+        1546,
+        11177,
+        2606,
+        38,
+        6535,
+        24906,
+        367,
+        27155,
+        6981,
+        30320,
+        5390,
+        7579,
+        56,
+        13315,
+        33700,
+        317,
+        3398,
+        2751,
+        11179,
+        7227,
+        5390,
+        9440,
+        37,
+        9863,
+        367,
+        4877
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147149",
+        "file_id": "1993-147149-0012"
+    }
+}

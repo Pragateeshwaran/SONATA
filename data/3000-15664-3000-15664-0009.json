@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0009.flac",
+    "text": "AT SUCH TIME ITS HEIGHT SEEMS MUCH LESS AS IF CROUCHING AND WEARY IT WERE TAKING REST",
+    "tokens": [
+        1404,
+        13558,
+        3398,
+        20460,
+        42437,
+        11179,
+        9947,
+        7946,
+        39201,
+        45859,
+        406,
+        7597,
+        7054,
+        16876,
+        8740,
+        2606,
+        3398,
+        2751,
+        5357,
+        12887,
+        13153,
+        7283,
+        370,
+        9338,
+        309,
+        43602,
+        30617
+    ],
+    "metadata": {
+        "speaker_id": "3000",
+        "chapter_id": "15664",
+        "file_id": "3000-15664-0009"
+    }
+}

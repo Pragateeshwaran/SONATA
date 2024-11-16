@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0038.flac",
+    "text": "FROM FIFTEEN TO TWENTY MINUTES WILL BE REQUIRED TO BAKE THEM NICELY",
+    "tokens": [
+        10913,
+        2662,
+        376,
+        5064,
+        9328,
+        1677,
+        5390,
+        17306,
+        3525,
+        56,
+        20625,
+        3843,
+        1546,
+        17682,
+        9348,
+        4526,
+        10917,
+        37819,
+        5390,
+        23715,
+        7336,
+        44788,
+        45593,
+        30943
+    ],
+    "metadata": {
+        "speaker_id": "2078",
+        "chapter_id": "142845",
+        "file_id": "2078-142845-0038"
+    }
+}

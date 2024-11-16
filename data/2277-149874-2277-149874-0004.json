@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0004.flac",
+    "text": "HIS AMBITION WAS SOME DAY TO BUILD A HOUSE ON THEM",
+    "tokens": [
+        39,
+        1797,
+        3001,
+        33,
+        17941,
+        21725,
+        41670,
+        24644,
+        5390,
+        20571,
+        26761,
+        317,
+        46586,
+        6177,
+        44788
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0004"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0020.flac",
+    "text": "HE WANTS ME TO STAND READY TO OBEY ANY SUMMONS THE POLICE MAY SEND ME",
+    "tokens": [
+        13909,
+        370,
+        1565,
+        4694,
+        11948,
+        5390,
+        49053,
+        20832,
+        56,
+        5390,
+        440,
+        12473,
+        56,
+        15529,
+        35683,
+        44,
+        19213,
+        3336,
+        20634,
+        8476,
+        26720,
+        311,
+        10619,
+        11948
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0020"
+    }
+}

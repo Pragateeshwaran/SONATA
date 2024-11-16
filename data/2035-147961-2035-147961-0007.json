@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0007.flac",
+    "text": "THE SHARP SMELL OF SPIRITS WENT THROUGH THE ROOM",
+    "tokens": [
+        10970,
+        6006,
+        36035,
+        9447,
+        23304,
+        3963,
+        6226,
+        4663,
+        29722,
+        370,
+        3525,
+        35383,
+        32632,
+        3336,
+        15107,
+        2662
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0007"
+    }
+}

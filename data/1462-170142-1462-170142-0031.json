@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0031.flac",
+    "text": "SHE LISTENED INTENTLY BUT SHE HEARD NOTHING BUT THE CREAKING OF HIS CHAIR",
+    "tokens": [
+        9693,
+        36,
+        39498,
+        1677,
+        1961,
+        17828,
+        3525,
+        11319,
+        21728,
+        48052,
+        11179,
+        9795,
+        5626,
+        39,
+        2751,
+        21728,
+        3336,
+        29244,
+        43602,
+        3963,
+        33700,
+        5870,
+        42149
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0031"
+    }
+}

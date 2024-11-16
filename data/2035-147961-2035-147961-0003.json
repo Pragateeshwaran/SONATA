@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0003.flac",
+    "text": "WE LAY STILL AND DID NOT TALK",
+    "tokens": [
+        8845,
+        406,
+        4792,
+        3563,
+        8267,
+        5357,
+        35697,
+        5626,
+        309,
+        28082
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0003"
+    }
+}

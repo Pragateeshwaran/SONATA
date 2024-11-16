@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0014.flac",
+    "text": "SHE DID NOT STIR AND HE KNEW THAT THE SLEEPING POWDER HAD THOROUGHLY DONE ITS WORK",
+    "tokens": [
+        9693,
+        36,
+        35697,
+        5626,
+        3563,
+        4663,
+        5357,
+        11179,
+        509,
+        13965,
+        14603,
+        3336,
+        311,
+        2538,
+        8905,
+        2751,
+        24148,
+        14418,
+        367,
+        2885,
+        2320,
+        1581,
+        2606,
+        38,
+        6581,
+        56,
+        360,
+        11651,
+        42437,
+        30936
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0014"
+    }
+}

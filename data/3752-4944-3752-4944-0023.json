@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0023.flac",
+    "text": "DEAD SAID DOCTOR MACKLEWAIN",
+    "tokens": [
+        7206,
+        2885,
+        14719,
+        2389,
+        8410,
+        4177,
+        1581,
+        337,
+        8120,
+        2538,
+        15543,
+        1268
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0023"
+    }
+}

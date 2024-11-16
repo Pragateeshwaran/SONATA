@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0022.flac",
+    "text": "URSUS WAS SATISFIED WITH THE APPLAUSE OF SOUTHWARK BUT BY NO MEANS ASTONISHED",
+    "tokens": [
+        4261,
+        50,
+        2937,
+        21725,
+        29020,
+        1797,
+        11674,
+        1961,
+        13315,
+        3336,
+        3486,
+        45710,
+        19108,
+        3963,
+        30065,
+        4221,
+        54,
+        14175,
+        21728,
+        11050,
+        8005,
+        11948,
+        15037,
+        29273,
+        1340,
+        18422,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0022"
+    }
+}

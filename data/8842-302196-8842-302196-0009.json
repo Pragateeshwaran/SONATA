@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0009.flac",
+    "text": "IT IS THEREFORE AND ON ALL ACCOUNTS UNNECESSARY TO SAY MUCH MORE OF THE WORK HERE THAN IT SAYS FOR ITSELF",
+    "tokens": [
+        2043,
+        3180,
+        34702,
+        30818,
+        5357,
+        6177,
+        11096,
+        15859,
+        19385,
+        4694,
+        4725,
+        45,
+        2943,
+        7597,
+        13153,
+        5390,
+        45687,
+        45859,
+        12011,
+        3963,
+        3336,
+        30936,
+        15698,
+        2320,
+        1565,
+        7283,
+        45687,
+        50,
+        7473,
+        42437,
+        37738
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302196",
+        "file_id": "8842-302196-0009"
+    }
+}

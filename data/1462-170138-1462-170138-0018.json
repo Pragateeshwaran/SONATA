@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0018.flac",
+    "text": "I SAY SIR HARRY THE LITTLE GIRL'S GOING FAMOUSLY TO NIGHT ISN'T SHE",
+    "tokens": [
+        40,
+        45687,
+        311,
+        4663,
+        43638,
+        18276,
+        3336,
+        406,
+        22470,
+        2538,
+        402,
+        4663,
+        43,
+        6,
+        50,
+        10351,
+        2751,
+        42129,
+        2606,
+        8634,
+        56,
+        5390,
+        37707,
+        3180,
+        45,
+        6,
+        51,
+        48052
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0018"
+    }
+}

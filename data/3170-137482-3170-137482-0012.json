@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0012.flac",
+    "text": "WE TOOK OUR THREE PRISONERS TO A LARGE BOAT",
+    "tokens": [
+        8845,
+        5390,
+        11380,
+        30229,
+        48697,
+        4810,
+        39960,
+        4877,
+        5390,
+        317,
+        47211,
+        8264,
+        16494,
+        1404
+    ],
+    "metadata": {
+        "speaker_id": "3170",
+        "chapter_id": "137482",
+        "file_id": "3170-137482-0012"
+    }
+}

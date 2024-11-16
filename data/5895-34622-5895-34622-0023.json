@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0023.flac",
+    "text": "URSUS WAS IN EVERYTHING IN THE PIECE IN THE COMPANY IN THE KITCHEN IN THE ORCHESTRA",
+    "tokens": [
+        4261,
+        50,
+        2937,
+        21725,
+        3268,
+        27222,
+        39356,
+        3268,
+        3336,
+        30434,
+        2943,
+        36,
+        3268,
+        3336,
+        24301,
+        31827,
+        3268,
+        3336,
+        509,
+        31949,
+        1677,
+        3268,
+        3336,
+        6375,
+        3398,
+        6465,
+        3861
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0023"
+    }
+}

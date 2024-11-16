@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0010.flac",
+    "text": "WHAT DID HE MEAN ASKED PYRRHA",
+    "tokens": [
+        32971,
+        35697,
+        11179,
+        11948,
+        1565,
+        7054,
+        42,
+        1961,
+        350,
+        56,
+        21095,
+        7801
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "57405",
+        "file_id": "6319-57405-0010"
+    }
+}

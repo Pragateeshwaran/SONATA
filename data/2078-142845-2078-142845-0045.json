@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0045.flac",
+    "text": "THEY SHOULD BE KEPT IN A CLOSED TIN CANISTER IN A DRY PLACE TO PRESERVE THEIR CRISPNESS",
+    "tokens": [
+        10970,
+        56,
+        40312,
+        9348,
+        509,
+        8905,
+        51,
+        3268,
+        317,
+        7852,
+        48751,
+        309,
+        1268,
+        15628,
+        41517,
+        3268,
+        317,
+        10560,
+        56,
+        9297,
+        11598,
+        5390,
+        32552,
+        1137,
+        6089,
+        47278,
+        8740,
+        1797,
+        13137,
+        7597
+    ],
+    "metadata": {
+        "speaker_id": "2078",
+        "chapter_id": "142845",
+        "file_id": "2078-142845-0045"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0017.flac",
+    "text": "IT'S HARD FOR SUCH YOUNG UNS",
+    "tokens": [
+        2043,
+        6,
+        50,
+        367,
+        9795,
+        7473,
+        13558,
+        3398,
+        7013,
+        10503,
+        4725,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0017"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0012.flac",
+    "text": "HE ADDED SYDNEY'S ADDRESS IN A POSTSCRIPT AND DISPATCHED HIS LETTER THAT EVENING",
+    "tokens": [
+        13909,
+        27841,
+        1961,
+        19704,
+        35,
+        36231,
+        6,
+        50,
+        5984,
+        7707,
+        7597,
+        3268,
+        317,
+        24582,
+        6173,
+        46023,
+        5357,
+        13954,
+        47,
+        11417,
+        1961,
+        33700,
+        37994,
+        5781,
+        14603,
+        45886,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275156",
+        "file_id": "8297-275156-0012"
+    }
+}

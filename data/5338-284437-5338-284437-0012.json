@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0012.flac",
+    "text": "THE QUEEN GAZED UPON OUR FRIENDS WITH EVIDENT INTEREST",
+    "tokens": [
+        10970,
+        1195,
+        8924,
+        1677,
+        14545,
+        57,
+        1961,
+        15958,
+        1340,
+        30229,
+        48167,
+        1677,
+        5258,
+        13315,
+        8696,
+        25256,
+        23255,
+        6465
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0012"
+    }
+}

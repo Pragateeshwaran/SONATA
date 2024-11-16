@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0012.flac",
+    "text": "RHEIN AND MOSELLE EIGHTEEN NINETY THREE",
+    "tokens": [
+        49,
+        13909,
+        1268,
+        5357,
+        337,
+        2640,
+        3698,
+        2538,
+        412,
+        9947,
+        36,
+        1677,
+        399,
+        1268,
+        2767,
+        56,
+        48697
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130737",
+        "file_id": "652-130737-0012"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0007.flac",
+    "text": "I AM FREE TO ADMIT THAT I AM HUNGRY TOO",
+    "tokens": [
+        40,
+        3001,
+        17189,
+        5390,
+        5984,
+        36393,
+        14603,
+        314,
+        3001,
+        41041,
+        10761,
+        56,
+        5390,
+        46
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66129",
+        "file_id": "6313-66129-0007"
+    }
+}

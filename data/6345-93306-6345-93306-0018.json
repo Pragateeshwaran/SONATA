@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0018.flac",
+    "text": "I WILL CATCH THE NIGHT TRAIN AND BRING MY MOTHER UP TO MORROW THEN WE WILL SEE WHAT CAN BE DONE",
+    "tokens": [
+        40,
+        17682,
+        327,
+        11417,
+        3336,
+        37707,
+        29125,
+        1268,
+        5357,
+        11177,
+        2751,
+        17615,
+        337,
+        31858,
+        15958,
+        5390,
+        35208,
+        49,
+        3913,
+        42243,
+        12887,
+        17682,
+        31107,
+        25003,
+        15628,
+        9348,
+        360,
+        11651
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0018"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0023.flac",
+    "text": "THREE WEEKS LATER CAME WABIGOON'S REPLY",
+    "tokens": [
+        4221,
+        11587,
+        370,
+        6500,
+        27015,
+        406,
+        23261,
+        327,
+        10067,
+        16400,
+        3483,
+        11230,
+        1340,
+        6,
+        50,
+        45285,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0023"
+    }
+}

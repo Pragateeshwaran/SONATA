@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0006.flac",
+    "text": "NO I AM THE LIGHTER OF THE TWO URGED TAD",
+    "tokens": [
+        15285,
+        314,
+        3001,
+        3336,
+        406,
+        18060,
+        5781,
+        3963,
+        3336,
+        35288,
+        37902,
+        38,
+        1961,
+        309,
+        2885
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0006"
+    }
+}

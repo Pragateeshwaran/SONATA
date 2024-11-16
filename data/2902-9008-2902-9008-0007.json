@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0007.flac",
+    "text": "I TO BELIEVE AGAINST THE AUTHORITY OF PORPHYRY HIMSELF TOO IN EVIL EYES AND MAGIC",
+    "tokens": [
+        40,
+        5390,
+        29991,
+        10008,
+        6089,
+        36218,
+        38604,
+        3336,
+        44746,
+        9050,
+        3963,
+        350,
+        1581,
+        11909,
+        56,
+        18276,
+        45909,
+        50,
+        37738,
+        5390,
+        46,
+        3268,
+        8696,
+        4146,
+        412,
+        43335,
+        5357,
+        28263,
+        2149
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9008",
+        "file_id": "2902-9008-0007"
+    }
+}

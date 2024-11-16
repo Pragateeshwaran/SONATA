@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0004.flac",
+    "text": "SUPPOSING THE REPORT HAD BEEN TRUE",
+    "tokens": [
+        40331,
+        37997,
+        2751,
+        3336,
+        39099,
+        367,
+        2885,
+        9348,
+        1677,
+        26751
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275156",
+        "file_id": "8297-275156-0004"
+    }
+}

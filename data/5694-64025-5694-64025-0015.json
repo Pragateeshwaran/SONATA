@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0015.flac",
+    "text": "SHOULD YOU DESIRE TO FIND OUT MORE ABOUT THE BATTLE I REFER YOU TO HISTORY",
+    "tokens": [
+        9693,
+        24010,
+        7013,
+        22196,
+        41736,
+        5390,
+        376,
+        12115,
+        16289,
+        12011,
+        33478,
+        3336,
+        347,
+        35455,
+        314,
+        4526,
+        24302,
+        7013,
+        5390,
+        367,
+        42480
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0015"
+    }
+}

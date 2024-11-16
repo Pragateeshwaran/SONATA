@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0019.flac",
+    "text": "BUT HE COMPROMISED BY TELLING THE BOY THAT THERE WOULD BE NO REPLY",
+    "tokens": [
+        47526,
+        11179,
+        9440,
+        4805,
+        2662,
+        1797,
+        1961,
+        11050,
+        13368,
+        3069,
+        2751,
+        3336,
+        16494,
+        56,
+        14603,
+        34702,
+        370,
+        24010,
+        9348,
+        8005,
+        45285,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0019"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0015.flac",
+    "text": "YOU WOULD HAVE SEEN HER PINING FOR THE COMPANY OF OTHER CHILDREN AND WOULD HAVE HAD NO MERCY ON HER",
+    "tokens": [
+        36981,
+        370,
+        24010,
+        21515,
+        7946,
+        1677,
+        24906,
+        34279,
+        2751,
+        7473,
+        3336,
+        24301,
+        31827,
+        3963,
+        25401,
+        5870,
+        4146,
+        7707,
+        1677,
+        5357,
+        370,
+        24010,
+        21515,
+        367,
+        2885,
+        8005,
+        34482,
+        34,
+        56,
+        6177,
+        24906
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275155",
+        "file_id": "8297-275155-0015"
+    }
+}

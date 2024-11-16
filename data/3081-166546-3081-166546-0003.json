@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0003.flac",
+    "text": "THE LADY IS NOT THE MOTHER OF THE BOYS BUT THEIR AUNT",
+    "tokens": [
+        10970,
+        406,
+        2885,
+        56,
+        3180,
+        5626,
+        3336,
+        337,
+        31858,
+        3963,
+        3336,
+        16494,
+        16309,
+        21728,
+        47278,
+        317,
+        4944,
+        51
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0003"
+    }
+}

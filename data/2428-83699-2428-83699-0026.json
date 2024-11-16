@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0026.flac",
+    "text": "HERE WE BE THAT MIGHT BE SO",
+    "tokens": [
+        39,
+        9338,
+        12887,
+        9348,
+        14603,
+        337,
+        9947,
+        9348,
+        12809
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0026"
+    }
+}

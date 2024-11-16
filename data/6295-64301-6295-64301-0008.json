@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0008.flac",
+    "text": "THE NETTLE AND THE DOCK SAID JOSEPH",
+    "tokens": [
+        10970,
+        30502,
+        51,
+        2538,
+        5357,
+        3336,
+        360,
+        11290,
+        14719,
+        2389,
+        449,
+        2640,
+        8905,
+        39
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0008"
+    }
+}

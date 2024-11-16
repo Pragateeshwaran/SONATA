@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0016.flac",
+    "text": "BUT HE STAYED LONG THERE AND AT LAST HIS STURDY FRAME SHOOK WITH HIS STRONG AGONY",
+    "tokens": [
+        47526,
+        11179,
+        3563,
+        4792,
+        1961,
+        44533,
+        34702,
+        5357,
+        5161,
+        41894,
+        33700,
+        3563,
+        4261,
+        35,
+        56,
+        8782,
+        10067,
+        6006,
+        15308,
+        13315,
+        33700,
+        19269,
+        18494,
+        13077,
+        40508
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147149",
+        "file_id": "1993-147149-0016"
+    }
+}

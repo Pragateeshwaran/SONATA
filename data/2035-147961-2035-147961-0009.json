@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0009.flac",
+    "text": "THE SICK MAN RAGED AND SHOOK HIS FIST",
+    "tokens": [
+        10970,
+        311,
+        11860,
+        17254,
+        371,
+        4760,
+        1961,
+        5357,
+        6006,
+        15308,
+        33700,
+        376,
+        8808
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0009"
+    }
+}

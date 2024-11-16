@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0039.flac",
+    "text": "NO WORD NO CRY JUST A COLLAPSE AND SUDDEN FALL",
+    "tokens": [
+        15285,
+        370,
+        12532,
+        8005,
+        8740,
+        56,
+        25848,
+        317,
+        7375,
+        3069,
+        2969,
+        5188,
+        5357,
+        311,
+        8322,
+        41819,
+        376,
+        7036
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0039"
+    }
+}

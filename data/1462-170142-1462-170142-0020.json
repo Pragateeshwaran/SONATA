@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0020.flac",
+    "text": "SHE BIT HER LIP AND LOOKED DOWN AT HER HANDS WHICH WERE CLASPED TIGHTLY IN FRONT OF HER",
+    "tokens": [
+        9693,
+        36,
+        36992,
+        24906,
+        406,
+        4061,
+        5357,
+        48045,
+        1961,
+        30320,
+        5161,
+        24906,
+        367,
+        1565,
+        5258,
+        7655,
+        20739,
+        370,
+        9338,
+        7852,
+        1921,
+        47,
+        1961,
+        309,
+        9947,
+        11319,
+        3268,
+        8782,
+        35830,
+        3963,
+        24906
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0020"
+    }
+}

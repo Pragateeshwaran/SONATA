@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0011.flac",
+    "text": "BE SURE TO FASTEN HIM SECURELY TO THE LOOP BEFORE YOU GIVE THE SIGNAL TO HAUL UP WARNED THE GUIDE",
+    "tokens": [
+        12473,
+        311,
+        11335,
+        5390,
+        376,
+        11262,
+        1677,
+        45909,
+        10729,
+        11335,
+        11319,
+        5390,
+        3336,
+        17579,
+        3185,
+        38331,
+        7013,
+        402,
+        9306,
+        3336,
+        36771,
+        1847,
+        5390,
+        14558,
+        6239,
+        15958,
+        42660,
+        1961,
+        3336,
+        19348,
+        14114
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0011"
+    }
+}

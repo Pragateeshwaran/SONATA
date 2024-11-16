@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0022.flac",
+    "text": "ROUND HIS BODY WAS ROLLED A LONG COIL OF FLAX ROPE",
+    "tokens": [
+        49,
+        15919,
+        33700,
+        347,
+        33076,
+        21725,
+        15107,
+        3069,
+        1961,
+        317,
+        44533,
+        7375,
+        4146,
+        3963,
+        9977,
+        25922,
+        371,
+        32135
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0022"
+    }
+}

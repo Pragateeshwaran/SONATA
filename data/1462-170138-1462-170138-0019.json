@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0019.flac",
+    "text": "THE FACT IS SHE'S FEELING RATHER SEEDY POOR CHILD",
+    "tokens": [
+        10970,
+        376,
+        10659,
+        3180,
+        48052,
+        6,
+        50,
+        18630,
+        3698,
+        2751,
+        371,
+        45226,
+        7946,
+        1961,
+        56,
+        19922,
+        1581,
+        5870,
+        26761
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0019"
+    }
+}

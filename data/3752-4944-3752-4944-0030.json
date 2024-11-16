@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0030.flac",
+    "text": "YOU DON'T MEAN TO SAY HE'S GOING TO FLOG KIRKLAND",
+    "tokens": [
+        36981,
+        23917,
+        6,
+        51,
+        11948,
+        1565,
+        5390,
+        45687,
+        11179,
+        6,
+        50,
+        10351,
+        2751,
+        5390,
+        9977,
+        7730,
+        509,
+        4663,
+        42,
+        28182
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0030"
+    }
+}

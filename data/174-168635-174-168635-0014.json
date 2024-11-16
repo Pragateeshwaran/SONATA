@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0014.flac",
+    "text": "COSETTE WAS NO LONGER IN RAGS SHE WAS IN MOURNING",
+    "tokens": [
+        34,
+        2640,
+        2767,
+        9328,
+        21725,
+        8005,
+        44533,
+        1137,
+        3268,
+        371,
+        4760,
+        50,
+        48052,
+        21725,
+        3268,
+        337,
+        11698,
+        15871
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "168635",
+        "file_id": "174-168635-0014"
+    }
+}

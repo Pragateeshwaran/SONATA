@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0031.flac",
+    "text": "IN ALL OUR HISTORY YOU ARE THE FIRST PEOPLE FROM OUTSIDE OUR BORDERS WHO HAVE EVER STEPPED A FOOT IN OUR LAND",
+    "tokens": [
+        1268,
+        11096,
+        30229,
+        367,
+        42480,
+        7013,
+        15986,
+        3336,
+        31328,
+        36388,
+        16034,
+        16289,
+        50,
+        14114,
+        30229,
+        347,
+        12532,
+        4877,
+        19494,
+        21515,
+        20498,
+        49154,
+        47,
+        1961,
+        317,
+        11895,
+        2394,
+        3268,
+        30229,
+        406,
+        6981
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0031"
+    }
+}

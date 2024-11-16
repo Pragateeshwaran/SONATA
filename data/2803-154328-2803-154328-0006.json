@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0006.flac",
+    "text": "GLENARVAN'S VOICE FIRM TILL NOW FALTERED",
+    "tokens": [
+        8763,
+        1677,
+        1503,
+        53,
+        1565,
+        6,
+        50,
+        30578,
+        8476,
+        23703,
+        44,
+        309,
+        8267,
+        20229,
+        376,
+        1847,
+        5781,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0006"
+    }
+}

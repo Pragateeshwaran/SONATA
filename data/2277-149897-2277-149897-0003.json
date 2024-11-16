@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0003.flac",
+    "text": "HE SAW THAT IN THE EXCITEMENT OF RECENT EVENTS HE HAD NOT FORMULATED A PLAN UPON THAT SCORE",
+    "tokens": [
+        13909,
+        311,
+        12298,
+        14603,
+        3268,
+        3336,
+        7788,
+        34,
+        2043,
+        12529,
+        3963,
+        19644,
+        3525,
+        22399,
+        11179,
+        367,
+        2885,
+        5626,
+        49144,
+        6239,
+        11617,
+        317,
+        45650,
+        15958,
+        1340,
+        14603,
+        6374,
+        6965
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0003"
+    }
+}

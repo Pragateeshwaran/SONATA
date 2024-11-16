@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0006.flac",
+    "text": "HE HAD PROMISED TO DO HIS BEST TOWARD PERSUADING CATHERINE TO GRANT SYDNEY AN INTERVIEW",
+    "tokens": [
+        13909,
+        367,
+        2885,
+        4810,
+        2662,
+        1797,
+        1961,
+        5390,
+        8410,
+        33700,
+        38502,
+        309,
+        3913,
+        9795,
+        350,
+        4877,
+        52,
+        2885,
+        2751,
+        327,
+        45226,
+        8881,
+        5390,
+        10863,
+        8643,
+        19704,
+        35,
+        36231,
+        3537,
+        23255,
+        28206
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275156",
+        "file_id": "8297-275156-0006"
+    }
+}

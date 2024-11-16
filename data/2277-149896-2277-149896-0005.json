@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0005.flac",
+    "text": "MANY LITTLE WRINKLES GATHERED BETWEEN HIS EYES AS HE CONTEMPLATED THIS AND HIS BROW MOISTENED",
+    "tokens": [
+        10725,
+        56,
+        406,
+        22470,
+        2538,
+        11342,
+        17248,
+        28378,
+        402,
+        45226,
+        1961,
+        38651,
+        8845,
+        1677,
+        33700,
+        412,
+        43335,
+        7054,
+        11179,
+        22904,
+        3620,
+        6489,
+        11617,
+        12680,
+        5357,
+        33700,
+        11177,
+        3913,
+        13070,
+        8808,
+        1677,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0005"
+    }
+}

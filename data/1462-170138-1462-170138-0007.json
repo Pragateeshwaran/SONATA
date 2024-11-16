@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0007.flac",
+    "text": "AS THEY SAT DOWN A BURST OF APPLAUSE DREW ALEXANDER'S ATTENTION TO THE STAGE",
+    "tokens": [
+        1921,
+        33302,
+        29020,
+        30320,
+        317,
+        45604,
+        2257,
+        3963,
+        3486,
+        45710,
+        19108,
+        360,
+        2200,
+        54,
+        32318,
+        55,
+        6981,
+        1137,
+        6,
+        50,
+        26195,
+        45589,
+        5390,
+        3336,
+        3563,
+        11879
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0007"
+    }
+}

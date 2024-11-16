@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0013.flac",
+    "text": "LINE OF BATTLE WAS FORMED ON THE NORTH BANK OF STONE'S RIVER ON THE YANKEE SIDE",
+    "tokens": [
+        24027,
+        3963,
+        347,
+        35455,
+        21725,
+        7473,
+        30733,
+        6177,
+        3336,
+        25273,
+        4221,
+        347,
+        15154,
+        3963,
+        3563,
+        11651,
+        6,
+        50,
+        371,
+        38757,
+        6177,
+        3336,
+        575,
+        15154,
+        6500,
+        311,
+        14114
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0013"
+    }
+}

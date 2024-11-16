@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147965\\1993-147965-0000.flac",
+    "text": "GRANDFATHER CAME DOWN WEARING A WHITE SHIRT AND HIS SUNDAY COAT",
+    "tokens": [
+        10761,
+        6981,
+        37,
+        45226,
+        327,
+        10067,
+        30320,
+        12887,
+        1503,
+        2751,
+        317,
+        44925,
+        6006,
+        48771,
+        5357,
+        33700,
+        35329,
+        26442,
+        7375,
+        1404
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147965",
+        "file_id": "1993-147965-0000"
+    }
+}

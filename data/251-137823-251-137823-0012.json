@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0012.flac",
+    "text": "HIS FRIEND'S EYELIDS FLICKERED",
+    "tokens": [
+        39,
+        1797,
+        48167,
+        10619,
+        6,
+        50,
+        412,
+        56,
+        3698,
+        14255,
+        9977,
+        11860,
+        1137,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0012"
+    }
+}

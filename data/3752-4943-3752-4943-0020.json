@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0020.flac",
+    "text": "IF YOU FALL WE MUST FALL OVER YOU AND THEN YOU'RE DONE FOR",
+    "tokens": [
+        5064,
+        7013,
+        376,
+        7036,
+        12887,
+        17191,
+        376,
+        7036,
+        28729,
+        7013,
+        5357,
+        42243,
+        7013,
+        6,
+        2200,
+        360,
+        11651,
+        7473
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0020"
+    }
+}

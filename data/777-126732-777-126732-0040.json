@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0040.flac",
+    "text": "THEY ARE NOURISHING THEIR GREED ON THE QUIVERING FLESH AND THE WARM BLOOD OF THE PEOPLE NOTHING ELSE",
+    "tokens": [
+        10970,
+        56,
+        15986,
+        399,
+        11698,
+        18422,
+        2751,
+        47278,
+        19928,
+        1961,
+        6177,
+        3336,
+        19604,
+        38757,
+        2751,
+        9977,
+        44011,
+        5357,
+        3336,
+        11837,
+        44,
+        9878,
+        22808,
+        3963,
+        3336,
+        36388,
+        5626,
+        39,
+        2751,
+        17852,
+        5188
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0040"
+    }
+}

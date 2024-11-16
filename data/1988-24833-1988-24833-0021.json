@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0021.flac",
+    "text": "IT'S THE FIRST TIME HILDA HAS BEEN TO OUR HOUSE AND TOM INTRODUCES HER AROUND",
+    "tokens": [
+        2043,
+        6,
+        50,
+        3336,
+        31328,
+        20460,
+        367,
+        4146,
+        5631,
+        33930,
+        9348,
+        1677,
+        5390,
+        30229,
+        46586,
+        5357,
+        41526,
+        3268,
+        5446,
+        3727,
+        9598,
+        1546,
+        24906,
+        5923,
+        15919
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0021"
+    }
+}

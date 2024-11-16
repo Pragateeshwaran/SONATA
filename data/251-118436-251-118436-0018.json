@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0018.flac",
+    "text": "I KNOW NOW WHAT BRINGS ME TO THE PYRE",
+    "tokens": [
+        40,
+        35876,
+        20229,
+        25003,
+        11177,
+        20754,
+        11948,
+        5390,
+        3336,
+        350,
+        56,
+        2200
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0018"
+    }
+}

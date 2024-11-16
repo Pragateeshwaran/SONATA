@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0024.flac",
+    "text": "TOM NODDED UNHAPPILY",
+    "tokens": [
+        51,
+        2662,
+        399,
+        3727,
+        35,
+        1961,
+        4725,
+        39,
+        24805,
+        33340
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0024"
+    }
+}

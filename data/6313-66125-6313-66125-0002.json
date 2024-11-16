@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0002.flac",
+    "text": "YES AGREED TAD THAT DOES LOOK LIKE BUSHES",
+    "tokens": [
+        43335,
+        13077,
+        2200,
+        1961,
+        309,
+        2885,
+        14603,
+        38359,
+        48045,
+        34178,
+        347,
+        27143,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0002"
+    }
+}

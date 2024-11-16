@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0026.flac",
+    "text": "I'VE DECIDED TO ENLIST IN THE ARMY",
+    "tokens": [
+        40,
+        6,
+        6089,
+        27196,
+        2389,
+        1961,
+        5390,
+        12964,
+        45849,
+        3268,
+        3336,
+        20359,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0026"
+    }
+}

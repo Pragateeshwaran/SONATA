@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0015.flac",
+    "text": "IN ABOUT AN HOUR AND THREE QUARTERS THE BOY RETURNED",
+    "tokens": [
+        1268,
+        33478,
+        3537,
+        367,
+        11698,
+        5357,
+        48697,
+        19604,
+        7227,
+        4877,
+        3336,
+        16494,
+        56,
+        30826,
+        27064,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0015"
+    }
+}

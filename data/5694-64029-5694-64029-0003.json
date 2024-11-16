@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0003.flac",
+    "text": "FROM TIME TO TIME DIFFERENT REGIMENTS WERE SENT FORWARD TO DO PICKET DUTY",
+    "tokens": [
+        10913,
+        2662,
+        20460,
+        5390,
+        20460,
+        360,
+        5064,
+        24302,
+        3525,
+        23337,
+        3955,
+        15365,
+        370,
+        9338,
+        311,
+        3525,
+        7473,
+        39743,
+        5390,
+        8410,
+        350,
+        11860,
+        2767,
+        360,
+        3843,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0003"
+    }
+}

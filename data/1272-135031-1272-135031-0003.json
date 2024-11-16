@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0003.flac",
+    "text": "THE LITTLE GIRL HAD BEEN ASLEEP BUT SHE HEARD THE RAPS AND OPENED THE DOOR",
+    "tokens": [
+        10970,
+        406,
+        22470,
+        2538,
+        402,
+        4663,
+        43,
+        367,
+        2885,
+        9348,
+        1677,
+        7054,
+        2538,
+        8905,
+        21728,
+        48052,
+        11179,
+        9795,
+        3336,
+        371,
+        44580,
+        5357,
+        38303,
+        1961,
+        3336,
+        8410,
+        1581
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0003"
+    }
+}

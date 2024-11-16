@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0040.flac",
+    "text": "THIS CABIN WAS HIS HERMITAGE UNTIL THE WINTER SNOWS PENNED HIM IN HIS CAVE",
+    "tokens": [
+        43559,
+        327,
+        6242,
+        1268,
+        21725,
+        33700,
+        24906,
+        36393,
+        11879,
+        4725,
+        51,
+        4146,
+        3336,
+        25779,
+        5781,
+        11346,
+        22845,
+        350,
+        34571,
+        1961,
+        45909,
+        3268,
+        33700,
+        7257,
+        6089
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0040"
+    }
+}

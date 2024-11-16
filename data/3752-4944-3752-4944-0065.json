@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0065.flac",
+    "text": "I MUST HAVE A TEASPOONFUL HE SAID TO ALLAY THE CRAVING",
+    "tokens": [
+        40,
+        17191,
+        21515,
+        317,
+        13368,
+        1921,
+        16402,
+        1340,
+        46476,
+        11179,
+        14719,
+        2389,
+        5390,
+        11096,
+        4792,
+        3336,
+        33416,
+        53,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0065"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0012.flac",
+    "text": "MAC CONNELL LET ME INTRODUCE MISTER BARTLEY ALEXANDER",
+    "tokens": [
+        44721,
+        7102,
+        12161,
+        3069,
+        37994,
+        11948,
+        3268,
+        5446,
+        3727,
+        52,
+        5222,
+        337,
+        41517,
+        42346,
+        25173,
+        32318,
+        55,
+        6981,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0012"
+    }
+}

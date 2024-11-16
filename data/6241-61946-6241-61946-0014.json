@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0014.flac",
+    "text": "IT CONSISTS SIMPLY OF A FEW HOUSES NOT WHAT IN ENGLAND OR GERMANY WE SHOULD CALL A HAMLET",
+    "tokens": [
+        2043,
+        39537,
+        1797,
+        4694,
+        23749,
+        6489,
+        56,
+        3963,
+        317,
+        376,
+        6217,
+        367,
+        20958,
+        1546,
+        5626,
+        25003,
+        3268,
+        12964,
+        8763,
+        6981,
+        6375,
+        44186,
+        10725,
+        56,
+        12887,
+        40312,
+        42815,
+        317,
+        48079,
+        28882
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0014"
+    }
+}

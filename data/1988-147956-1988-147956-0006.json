@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0006.flac",
+    "text": "YOU'LL GET FIXED UP COMFORTABLE AFTER WHILE MISSUS SHIMERDA MAKE GOOD HOUSE",
+    "tokens": [
+        36981,
+        6,
+        3069,
+        17151,
+        44855,
+        1961,
+        15958,
+        9440,
+        13775,
+        38148,
+        36050,
+        7655,
+        41119,
+        49684,
+        2937,
+        6006,
+        3955,
+        1137,
+        5631,
+        39134,
+        21090,
+        46586
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0006"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0005.flac",
+    "text": "COSETTE ON HER SIDE HAD ALSO UNKNOWN TO HERSELF BECOME ANOTHER BEING POOR LITTLE THING",
+    "tokens": [
+        34,
+        2640,
+        2767,
+        9328,
+        6177,
+        24906,
+        311,
+        14114,
+        367,
+        2885,
+        35912,
+        4725,
+        44706,
+        5390,
+        367,
+        4877,
+        37738,
+        347,
+        2943,
+        13649,
+        3537,
+        31858,
+        9348,
+        2751,
+        19922,
+        1581,
+        406,
+        22470,
+        2538,
+        2320,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "168635",
+        "file_id": "174-168635-0005"
+    }
+}

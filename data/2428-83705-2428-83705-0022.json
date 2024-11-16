@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0022.flac",
+    "text": "A BIRD IN THE HAND IS WORTH TWO IN A BUSH' AND IT WILL BE SOMETHING TO HAVE BY US",
+    "tokens": [
+        32,
+        347,
+        46833,
+        3268,
+        3336,
+        367,
+        6981,
+        3180,
+        21881,
+        4221,
+        35288,
+        3268,
+        317,
+        347,
+        27143,
+        6,
+        5357,
+        7283,
+        17682,
+        9348,
+        42121,
+        20702,
+        2751,
+        5390,
+        21515,
+        11050,
+        1294
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0022"
+    }
+}

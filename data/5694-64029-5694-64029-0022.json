@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0022.flac",
+    "text": "THE LEADEN HAIL STORM SWEPT THEM OFF THE FIELD THEY FELL BACK AND RE FORMED",
+    "tokens": [
+        10970,
+        12509,
+        2885,
+        1677,
+        14558,
+        4146,
+        46366,
+        44,
+        311,
+        8845,
+        11571,
+        44788,
+        18562,
+        3336,
+        18930,
+        24639,
+        33302,
+        18630,
+        3069,
+        28767,
+        5357,
+        4526,
+        7473,
+        30733
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0022"
+    }
+}

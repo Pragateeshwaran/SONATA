@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0008.flac",
+    "text": "THIS IS THE AMUSING ADVENTURE WHICH CLOSED OUR EXPLOITS",
+    "tokens": [
+        43559,
+        3180,
+        3336,
+        3001,
+        2937,
+        2751,
+        43685,
+        3525,
+        11335,
+        7655,
+        20739,
+        7852,
+        48751,
+        30229,
+        7788,
+        6489,
+        46,
+        29722
+    ],
+    "metadata": {
+        "speaker_id": "3170",
+        "chapter_id": "137482",
+        "file_id": "3170-137482-0008"
+    }
+}

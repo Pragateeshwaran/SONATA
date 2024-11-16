@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0048.flac",
+    "text": "SEVENTEEN THIRTY FOUR",
+    "tokens": [
+        5188,
+        53,
+        3525,
+        36,
+        1677,
+        2320,
+        4663,
+        9936,
+        376,
+        11698
+    ],
+    "metadata": {
+        "speaker_id": "2078",
+        "chapter_id": "142845",
+        "file_id": "2078-142845-0048"
+    }
+}

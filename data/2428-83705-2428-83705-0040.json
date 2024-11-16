@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0040.flac",
+    "text": "WE ARE GOING FOR OUR HONEYMOON TO ITALY AND THE SOUTH OF FRANCE",
+    "tokens": [
+        8845,
+        15986,
+        10351,
+        2751,
+        7473,
+        30229,
+        367,
+        48399,
+        11770,
+        1340,
+        5390,
+        7283,
+        1847,
+        56,
+        5357,
+        3336,
+        30065,
+        4221,
+        3963,
+        8782,
+        19240
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0040"
+    }
+}

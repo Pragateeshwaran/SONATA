@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0008.flac",
+    "text": "DOST THOU RISE AGAINST HIM WHO GIVES THEE HIS BREAD",
+    "tokens": [
+        35,
+        10892,
+        2320,
+        2606,
+        371,
+        24352,
+        36218,
+        38604,
+        45909,
+        19494,
+        402,
+        42472,
+        3336,
+        36,
+        33700,
+        347,
+        15675
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0008"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0006.flac",
+    "text": "TONY'S FOUND THE MARTIANS",
+    "tokens": [
+        11357,
+        56,
+        6,
+        50,
+        376,
+        15919,
+        3336,
+        337,
+        7227,
+        40,
+        15037
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "136532",
+        "file_id": "251-136532-0006"
+    }
+}

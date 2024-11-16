@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0028.flac",
+    "text": "IT IS MUCH MORE DESIRABLE TO BE A PRIVATE CITIZEN HAPPY AND CARE FREE",
+    "tokens": [
+        2043,
+        3180,
+        45859,
+        12011,
+        22196,
+        40,
+        3861,
+        19146,
+        5390,
+        9348,
+        317,
+        4810,
+        3824,
+        6158,
+        327,
+        2043,
+        14887,
+        1677,
+        367,
+        24805,
+        56,
+        5357,
+        47342,
+        17189
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0028"
+    }
+}

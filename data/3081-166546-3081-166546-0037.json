@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0037.flac",
+    "text": "THE OLD MAN'S EYES SHOT FIRE AND UNCONSCIOUSLY ONE FOOT SLIPPED TO THE FLOOR",
+    "tokens": [
+        10970,
+        440,
+        11163,
+        17254,
+        6,
+        50,
+        412,
+        43335,
+        6006,
+        2394,
+        39110,
+        5357,
+        4725,
+        10943,
+        6173,
+        40,
+        2606,
+        8634,
+        56,
+        16329,
+        11895,
+        2394,
+        12419,
+        31444,
+        1961,
+        5390,
+        3336,
+        9977,
+        46,
+        1581
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0037"
+    }
+}

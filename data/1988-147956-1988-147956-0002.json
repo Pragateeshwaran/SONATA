@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0002.flac",
+    "text": "IT'S NO BETTER THAN A BADGER HOLE NO PROPER DUGOUT AT ALL",
+    "tokens": [
+        2043,
+        6,
+        50,
+        8005,
+        38651,
+        5781,
+        2320,
+        1565,
+        317,
+        33934,
+        30373,
+        40115,
+        2538,
+        8005,
+        4810,
+        31054,
+        360,
+        7340,
+        12425,
+        5161,
+        11096
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0002"
+    }
+}

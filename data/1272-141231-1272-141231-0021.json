@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0021.flac",
+    "text": "EVERY MAN WHO ENTERED THE TWENTIES HAD HIS OWN TRAINING TRICKS",
+    "tokens": [
+        36,
+        5959,
+        56,
+        17254,
+        19494,
+        46962,
+        1961,
+        3336,
+        17306,
+        3525,
+        11015,
+        367,
+        2885,
+        33700,
+        47672,
+        29125,
+        1268,
+        2751,
+        7579,
+        11860,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0021"
+    }
+}

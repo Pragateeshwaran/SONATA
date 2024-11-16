@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0019.flac",
+    "text": "BUT SURELY THAT IS ALL WRONG SAID TOURMALINE GRAVELY",
+    "tokens": [
+        47526,
+        311,
+        11335,
+        11319,
+        14603,
+        3180,
+        11096,
+        11342,
+        18494,
+        14719,
+        2389,
+        49698,
+        42126,
+        8881,
+        402,
+        3861,
+        18697,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0019"
+    }
+}

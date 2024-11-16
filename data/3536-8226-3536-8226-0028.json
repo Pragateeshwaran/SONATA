@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0028.flac",
+    "text": "HE'S UP IN TOWN SIR A MINDING OF HIS PARLIAMENTARY DUTIES",
+    "tokens": [
+        13909,
+        6,
+        50,
+        15958,
+        3268,
+        309,
+        14165,
+        311,
+        4663,
+        317,
+        337,
+        12115,
+        2751,
+        3963,
+        33700,
+        29463,
+        31271,
+        2390,
+        3525,
+        13153,
+        360,
+        3843,
+        11015
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0028"
+    }
+}

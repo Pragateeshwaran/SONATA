@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0016.flac",
+    "text": "IT'S YOUR FAULT MOP IT UP YOURSELF",
+    "tokens": [
+        2043,
+        6,
+        50,
+        16592,
+        9677,
+        16724,
+        337,
+        3185,
+        7283,
+        15958,
+        7013,
+        6998,
+        37738
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0016"
+    }
+}

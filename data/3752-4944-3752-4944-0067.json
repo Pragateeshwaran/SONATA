@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0067.flac",
+    "text": "HE SMELT THE NUTTY AROMA OF THE SPIRIT",
+    "tokens": [
+        13909,
+        9447,
+        3698,
+        51,
+        3336,
+        399,
+        3843,
+        9936,
+        5923,
+        2662,
+        32,
+        3963,
+        3336,
+        6226,
+        4663,
+        2043
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0067"
+    }
+}

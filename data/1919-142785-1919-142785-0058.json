@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0058.flac",
+    "text": "FRIED BREAD FOR BORDERS",
+    "tokens": [
+        37,
+        7112,
+        1961,
+        347,
+        15675,
+        7473,
+        347,
+        12532,
+        4877
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0058"
+    }
+}

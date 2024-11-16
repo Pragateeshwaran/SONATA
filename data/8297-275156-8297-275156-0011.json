@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0011.flac",
+    "text": "SHALL I SAY THAT SHE MAY EXPECT AN EARLY VISIT FROM YOU WHEN I SEE HER TO MORROW",
+    "tokens": [
+        9693,
+        7036,
+        314,
+        45687,
+        14603,
+        48052,
+        26720,
+        25703,
+        9782,
+        3537,
+        31834,
+        11319,
+        50035,
+        2043,
+        16034,
+        7013,
+        42099,
+        314,
+        31107,
+        24906,
+        5390,
+        35208,
+        49,
+        3913
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275156",
+        "file_id": "8297-275156-0011"
+    }
+}

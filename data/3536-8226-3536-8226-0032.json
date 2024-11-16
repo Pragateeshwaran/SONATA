@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0032.flac",
+    "text": "AND HE DID GO AWAY LEAVING BOZZLE STANDING IN THE MIDDLE OF STONY WALK",
+    "tokens": [
+        6981,
+        11179,
+        35697,
+        10351,
+        14356,
+        4792,
+        12509,
+        10116,
+        2751,
+        16494,
+        30148,
+        2538,
+        49053,
+        2751,
+        3268,
+        3336,
+        25269,
+        35,
+        2538,
+        3963,
+        3563,
+        40508,
+        370,
+        28082
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0032"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0007.flac",
+    "text": "TO HER I WEND ALONG IN WHOSE MUCH STRENGTH MY WEAKNESS IS MADE STRONG",
+    "tokens": [
+        10468,
+        24906,
+        314,
+        370,
+        10619,
+        8355,
+        18494,
+        3268,
+        7655,
+        14058,
+        45859,
+        19269,
+        49494,
+        17615,
+        12887,
+        10206,
+        31097,
+        3180,
+        337,
+        19266,
+        19269,
+        18494
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302201",
+        "file_id": "8842-302201-0007"
+    }
+}

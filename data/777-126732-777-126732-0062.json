@@ -1,0 +1,17 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0062.flac",
+    "text": "YES NOT AT ALL WELL",
+    "tokens": [
+        43335,
+        5626,
+        5161,
+        11096,
+        12887,
+        3069
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0062"
+    }
+}

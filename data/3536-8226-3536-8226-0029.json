@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0029.flac",
+    "text": "I'VE WATCHED AS SHARP AS WATCHING CAN GO PRETTY NEAR",
+    "tokens": [
+        40,
+        6,
+        6089,
+        30134,
+        7054,
+        6006,
+        36035,
+        7054,
+        16518,
+        2751,
+        15628,
+        10351,
+        22814,
+        51,
+        9936,
+        10635,
+        1503
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0029"
+    }
+}

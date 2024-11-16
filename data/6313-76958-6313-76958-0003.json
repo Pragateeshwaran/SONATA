@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0003.flac",
+    "text": "A LOUD LAUGH FOLLOWED AT CHUNKY'S EXPENSE",
+    "tokens": [
+        32,
+        406,
+        2606,
+        35,
+        9131,
+        44004,
+        11895,
+        44765,
+        1961,
+        5161,
+        5870,
+        4944,
+        31159,
+        6,
+        50,
+        25703,
+        24290
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0003"
+    }
+}

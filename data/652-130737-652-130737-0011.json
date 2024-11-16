@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0011.flac",
+    "text": "VINTAGE YEARS HAVE MUCH TO DO WITH THE QUALITY OF WINES",
+    "tokens": [
+        53,
+        12394,
+        11879,
+        32914,
+        50,
+        21515,
+        45859,
+        5390,
+        8410,
+        13315,
+        3336,
+        19604,
+        1847,
+        9050,
+        3963,
+        25779,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130737",
+        "file_id": "652-130737-0011"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0005.flac",
+    "text": "IF THEY HAVE CAST OFF THE VULGAR HERD THEY HAVE NOT CAST OFF HYPATIA",
+    "tokens": [
+        5064,
+        33302,
+        21515,
+        327,
+        11262,
+        18562,
+        3336,
+        569,
+        6239,
+        38,
+        1503,
+        24906,
+        35,
+        33302,
+        21515,
+        5626,
+        327,
+        11262,
+        18562,
+        43624,
+        47,
+        1404,
+        3539
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9008",
+        "file_id": "2902-9008-0005"
+    }
+}

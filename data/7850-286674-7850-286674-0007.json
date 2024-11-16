@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0007.flac",
+    "text": "WELL OUR LOWER LIPS ANYWAY ANSWERED THE NYMPH",
+    "tokens": [
+        8845,
+        3069,
+        30229,
+        406,
+        36048,
+        24653,
+        3705,
+        15529,
+        27285,
+        3537,
+        17887,
+        1137,
+        1961,
+        3336,
+        6645,
+        7378,
+        39
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "286674",
+        "file_id": "7850-286674-0007"
+    }
+}

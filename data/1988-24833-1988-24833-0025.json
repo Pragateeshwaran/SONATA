@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0025.flac",
+    "text": "YOU KNOW I'D GET DRAFTED IN A YEAR OR TWO ANYWAY",
+    "tokens": [
+        36981,
+        35876,
+        314,
+        6,
+        35,
+        17151,
+        360,
+        44700,
+        1961,
+        3268,
+        317,
+        32914,
+        6375,
+        35288,
+        15529,
+        27285
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0025"
+    }
+}

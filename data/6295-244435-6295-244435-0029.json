@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0029.flac",
+    "text": "HE FELT THE DIFFERENCE AS SOON AS HE REACHED THE HILLS OF HIS NATIVE STATE",
+    "tokens": [
+        13909,
+        376,
+        3698,
+        51,
+        3336,
+        360,
+        5064,
+        24302,
+        18310,
+        7054,
+        12809,
+        1340,
+        7054,
+        11179,
+        4526,
+        16219,
+        1961,
+        3336,
+        367,
+        8267,
+        50,
+        3963,
+        33700,
+        10149,
+        9306,
+        35454
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0029"
+    }
+}

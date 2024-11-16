@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0002.flac",
+    "text": "OUR BRIGADE WAS FEARFULLY OUTNUMBERED",
+    "tokens": [
+        11698,
+        11177,
+        3528,
+        19266,
+        21725,
+        376,
+        17133,
+        37,
+        9994,
+        56,
+        16289,
+        41359,
+        13246,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0002"
+    }
+}

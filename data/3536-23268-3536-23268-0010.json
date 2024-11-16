@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0010.flac",
+    "text": "AND HE WALKED IMMEDIATELY OUT OF THE APARTMENT BY ANOTHER DOOR",
+    "tokens": [
+        6981,
+        11179,
+        370,
+        28082,
+        1961,
+        8959,
+        30733,
+        40,
+        1404,
+        30943,
+        16289,
+        3963,
+        3336,
+        3486,
+        7227,
+        10979,
+        11050,
+        3537,
+        31858,
+        8410,
+        1581
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "23268",
+        "file_id": "3536-23268-0010"
+    }
+}

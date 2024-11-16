@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0021.flac",
+    "text": "IT IS LIKE A BANDAGE OVER ONE'S EYES TO COME INTO IT",
+    "tokens": [
+        2043,
+        3180,
+        34178,
+        317,
+        347,
+        6981,
+        11879,
+        28729,
+        16329,
+        6,
+        50,
+        412,
+        43335,
+        5390,
+        9440,
+        36,
+        39319,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0021"
+    }
+}

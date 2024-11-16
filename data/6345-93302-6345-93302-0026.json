@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0026.flac",
+    "text": "AND HE STRODE DOWN BETWEEN THE MARBLE TABLES AND OUT BY THE SWING DOOR IT WAS A VERY GOOD EXIT",
+    "tokens": [
+        6981,
+        11179,
+        19269,
+        16820,
+        30320,
+        38651,
+        8845,
+        1677,
+        3336,
+        18805,
+        19146,
+        309,
+        6242,
+        28378,
+        5357,
+        16289,
+        11050,
+        3336,
+        12672,
+        2751,
+        8410,
+        1581,
+        7283,
+        21725,
+        317,
+        29550,
+        21090,
+        7788,
+        2043
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93302",
+        "file_id": "6345-93302-0026"
+    }
+}

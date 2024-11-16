@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0016.flac",
+    "text": "THIS HOWEVER MAY NOT BE FOR THE COPYRIGHT WILL PROBABLY EXPIRE IN A LITTLE OVER TWELVE YEARS",
+    "tokens": [
+        43559,
+        29630,
+        36,
+        5959,
+        26720,
+        5626,
+        9348,
+        7473,
+        3336,
+        27975,
+        38162,
+        9947,
+        17682,
+        21965,
+        4339,
+        9148,
+        56,
+        7788,
+        11901,
+        2200,
+        3268,
+        317,
+        406,
+        22470,
+        2538,
+        28729,
+        17306,
+        3698,
+        6089,
+        32914,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "2412",
+        "chapter_id": "153947",
+        "file_id": "2412-153947-0016"
+    }
+}

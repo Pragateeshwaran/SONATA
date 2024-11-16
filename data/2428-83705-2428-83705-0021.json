@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0021.flac",
+    "text": "I SHALL MAKE PAPA GIVE ME FIVE HUNDRED POUNDS AT LEAST",
+    "tokens": [
+        40,
+        50163,
+        39134,
+        350,
+        2969,
+        32,
+        402,
+        9306,
+        11948,
+        376,
+        9306,
+        41041,
+        7707,
+        1961,
+        350,
+        19385,
+        5258,
+        5161,
+        12509,
+        11262
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0021"
+    }
+}

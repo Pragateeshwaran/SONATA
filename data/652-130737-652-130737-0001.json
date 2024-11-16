@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0001.flac",
+    "text": "WITH SOUP AND FISH SERVE WHITE WINES SUCH AS RHEIN WINE SAUTERNE OR WHITE BURGUNDY",
+    "tokens": [
+        54,
+        10554,
+        311,
+        27755,
+        5357,
+        376,
+        18422,
+        18871,
+        6089,
+        44925,
+        25779,
+        1546,
+        13558,
+        3398,
+        7054,
+        371,
+        13909,
+        1268,
+        370,
+        8881,
+        14719,
+        3843,
+        1137,
+        12161,
+        6375,
+        44925,
+        45604,
+        38,
+        4944,
+        35,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130737",
+        "file_id": "652-130737-0001"
+    }
+}

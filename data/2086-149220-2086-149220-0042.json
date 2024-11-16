@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0042.flac",
+    "text": "BUT PUT IT ON THE TABLE IN THE CORNER OF THE PASSAGE",
+    "tokens": [
+        47526,
+        350,
+        3843,
+        7283,
+        6177,
+        3336,
+        43679,
+        3268,
+        3336,
+        23929,
+        21479,
+        3963,
+        3336,
+        350,
+        1921,
+        4090,
+        8264
+    ],
+    "metadata": {
+        "speaker_id": "2086",
+        "chapter_id": "149220",
+        "file_id": "2086-149220-0042"
+    }
+}

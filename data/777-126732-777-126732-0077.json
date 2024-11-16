@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0077.flac",
+    "text": "HE GETS A RED FACE PORING OVER THEM",
+    "tokens": [
+        13909,
+        17151,
+        50,
+        317,
+        23848,
+        46587,
+        350,
+        1581,
+        2751,
+        28729,
+        44788
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0077"
+    }
+}

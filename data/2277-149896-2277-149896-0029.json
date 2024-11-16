@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0029.flac",
+    "text": "HE WOULD HAVE SOME ARRANGEMENT OF THIS THING",
+    "tokens": [
+        13909,
+        370,
+        24010,
+        21515,
+        41670,
+        5923,
+        49,
+        15567,
+        12529,
+        3963,
+        12680,
+        2320,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0029"
+    }
+}

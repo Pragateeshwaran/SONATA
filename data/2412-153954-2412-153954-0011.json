@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0011.flac",
+    "text": "I EXPRESSED BY SIGNS MY ADMIRATION AND PLEASURE TO MY GUIDES AND THEY WERE GREATLY PLEASED",
+    "tokens": [
+        40,
+        7788,
+        32761,
+        1961,
+        11050,
+        33993,
+        8035,
+        17615,
+        5984,
+        44,
+        4663,
+        6234,
+        5357,
+        350,
+        2538,
+        1921,
+        11335,
+        5390,
+        17615,
+        19348,
+        42538,
+        5357,
+        33302,
+        370,
+        9338,
+        37853,
+        11319,
+        350,
+        2538,
+        42827
+    ],
+    "metadata": {
+        "speaker_id": "2412",
+        "chapter_id": "153954",
+        "file_id": "2412-153954-0011"
+    }
+}

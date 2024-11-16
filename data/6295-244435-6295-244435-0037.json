@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0037.flac",
+    "text": "IF YOU'VE GOT PISTOLS JUST YOU THINK ONCE BEFORE YOU SHOOT SAID COLLINS",
+    "tokens": [
+        5064,
+        7013,
+        6,
+        6089,
+        41725,
+        350,
+        8808,
+        3535,
+        50,
+        25848,
+        7013,
+        2320,
+        17248,
+        6177,
+        5222,
+        38331,
+        7013,
+        6006,
+        46,
+        2394,
+        14719,
+        2389,
+        7375,
+        3069,
+        20913
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0037"
+    }
+}

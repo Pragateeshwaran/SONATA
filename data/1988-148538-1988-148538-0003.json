@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\148538\\1988-148538-0003.flac",
+    "text": "THIS IS MORE ESPECIALLY THE CASE AMONGST THOSE FREE NATIONS WHICH FORM DEMOCRATIC COMMUNITIES",
+    "tokens": [
+        43559,
+        3180,
+        12011,
+        9428,
+        2943,
+        40,
+        19807,
+        3336,
+        42001,
+        3001,
+        18494,
+        2257,
+        2320,
+        14058,
+        17189,
+        399,
+        18421,
+        7655,
+        20739,
+        49144,
+        40101,
+        4503,
+        49,
+        1404,
+        2149,
+        48811,
+        30383
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "148538",
+        "file_id": "1988-148538-0003"
+    }
+}

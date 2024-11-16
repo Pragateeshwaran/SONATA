@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0027.flac",
+    "text": "HE STARTED TO CONSCIOUS CONFUSION ONLY NEITHER KNOWING WHERE HE WAS NOR WHAT HE DID",
+    "tokens": [
+        13909,
+        33303,
+        1961,
+        5390,
+        7102,
+        6173,
+        40,
+        20958,
+        7102,
+        37,
+        2937,
+        2849,
+        22224,
+        10635,
+        10554,
+        1137,
+        35876,
+        2751,
+        33411,
+        11179,
+        21725,
+        25273,
+        25003,
+        11179,
+        35697
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0027"
+    }
+}

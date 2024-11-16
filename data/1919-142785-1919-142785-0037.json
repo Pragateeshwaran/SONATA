@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0037.flac",
+    "text": "FORCEMEAT FOR COLD SAVOURY PIES",
+    "tokens": [
+        13775,
+        34,
+        3620,
+        36,
+        1404,
+        7473,
+        327,
+        15173,
+        311,
+        10116,
+        11698,
+        56,
+        350,
+        11015
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0037"
+    }
+}

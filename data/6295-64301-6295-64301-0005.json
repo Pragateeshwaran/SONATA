@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0005.flac",
+    "text": "BLESSED AM I HERE NOW MY GOD AND BLESSED SHALL I BE THERE THEN",
+    "tokens": [
+        9148,
+        7597,
+        1961,
+        3001,
+        314,
+        15698,
+        20229,
+        17615,
+        29562,
+        5357,
+        9878,
+        7597,
+        1961,
+        50163,
+        314,
+        9348,
+        34702,
+        42243
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0005"
+    }
+}

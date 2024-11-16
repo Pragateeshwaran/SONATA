@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0013.flac",
+    "text": "OH THAT SHE WERE ONCE MORE CLIMBING UP THE FRIENDLY FIR POLE",
+    "tokens": [
+        12096,
+        14603,
+        48052,
+        370,
+        9338,
+        6177,
+        5222,
+        12011,
+        7852,
+        3955,
+        33,
+        2751,
+        15958,
+        3336,
+        48167,
+        10619,
+        11319,
+        23703,
+        19922,
+        2538
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "275224",
+        "file_id": "6319-275224-0013"
+    }
+}

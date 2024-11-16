@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0001.flac",
+    "text": "AT THIS TIME GRANT WAS NOT TAKEN WITH WAR AND PROBABLY EVINCED LITTLE INTEREST IN ARMY TACTICS",
+    "tokens": [
+        1404,
+        12680,
+        20460,
+        10863,
+        8643,
+        21725,
+        5626,
+        309,
+        10206,
+        1677,
+        13315,
+        11837,
+        5357,
+        21965,
+        4339,
+        9148,
+        56,
+        8696,
+        30158,
+        1961,
+        406,
+        22470,
+        2538,
+        23255,
+        6465,
+        3268,
+        20359,
+        56,
+        309,
+        10659,
+        19505
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "111771",
+        "file_id": "7850-111771-0001"
+    }
+}

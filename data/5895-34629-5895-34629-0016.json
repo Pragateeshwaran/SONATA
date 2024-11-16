@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0016.flac",
+    "text": "EVEN THIS COMEDIAN OF JAWS AND CLAWS WAS ECLIPSED IN SUCCESS",
+    "tokens": [
+        20114,
+        1677,
+        12680,
+        9440,
+        1961,
+        16868,
+        3963,
+        449,
+        12298,
+        50,
+        5357,
+        7852,
+        12298,
+        50,
+        21725,
+        412,
+        5097,
+        47643,
+        1961,
+        3268,
+        13558,
+        4093,
+        7597
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0016"
+    }
+}

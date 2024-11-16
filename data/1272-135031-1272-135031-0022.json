@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0022.flac",
+    "text": "TRUE AGREED KALIKO",
+    "tokens": [
+        5446,
+        8924,
+        13077,
+        2200,
+        1961,
+        509,
+        1847,
+        18694,
+        46
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0022"
+    }
+}

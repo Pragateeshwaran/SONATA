@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0011.flac",
+    "text": "AND THE NEW BLOOD AT THE ERA OF THIS STORY WAS AT HAND",
+    "tokens": [
+        6981,
+        3336,
+        12682,
+        9878,
+        22808,
+        5161,
+        3336,
+        18802,
+        3963,
+        12680,
+        46427,
+        21725,
+        5161,
+        367,
+        6981
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9006",
+        "file_id": "2902-9006-0011"
+    }
+}

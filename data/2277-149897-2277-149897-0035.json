@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0035.flac",
+    "text": "VERY TRULY YOURS ET CETERA COMPROMISE",
+    "tokens": [
+        5959,
+        56,
+        7579,
+        6239,
+        56,
+        7013,
+        6998,
+        12152,
+        46632,
+        46461,
+        9440,
+        4805,
+        2662,
+        24352
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0035"
+    }
+}

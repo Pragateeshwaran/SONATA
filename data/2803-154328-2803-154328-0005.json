@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0005.flac",
+    "text": "GOD WHO READS OUR HEARTS KNOWS THAT WE HAD A NOBLE END IN VIEW",
+    "tokens": [
+        38,
+        3727,
+        19494,
+        20832,
+        50,
+        30229,
+        11179,
+        1503,
+        4694,
+        22466,
+        22845,
+        14603,
+        12887,
+        367,
+        2885,
+        317,
+        8005,
+        19146,
+        23578,
+        3268,
+        49880
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0005"
+    }
+}

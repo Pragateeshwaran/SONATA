@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0044.flac",
+    "text": "WITH THE INSIGHT OF A KINDRED TEMPERAMENT HE PRONOUNCED HIS VERDICT",
+    "tokens": [
+        54,
+        10554,
+        3336,
+        29194,
+        9947,
+        3963,
+        317,
+        509,
+        1268,
+        7707,
+        1961,
+        309,
+        3620,
+        18973,
+        2390,
+        3525,
+        11179,
+        4810,
+        1340,
+        2606,
+        7792,
+        1961,
+        33700,
+        33310,
+        35,
+        18379
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0044"
+    }
+}

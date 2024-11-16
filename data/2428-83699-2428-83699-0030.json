@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0030.flac",
+    "text": "NO ANSWER THOUGH I ALLOWED A MORE THAN DECENT INTERVAL",
+    "tokens": [
+        15285,
+        3537,
+        17887,
+        1137,
+        2320,
+        32632,
+        314,
+        11096,
+        3913,
+        1961,
+        317,
+        12011,
+        2320,
+        1565,
+        27196,
+        3525,
+        23255,
+        23428
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0030"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0024.flac",
+    "text": "THE TRAIL HERE MUST BE A VERY BLIND ONE FOR THEM TO CALL HIM IN",
+    "tokens": [
+        10970,
+        29125,
+        4146,
+        15698,
+        17191,
+        9348,
+        317,
+        29550,
+        9878,
+        12115,
+        16329,
+        7473,
+        44788,
+        5390,
+        42815,
+        45909,
+        3268
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0024"
+    }
+}

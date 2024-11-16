@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0000.flac",
+    "text": "FORGOTTEN TOO THE NAME OF GILLIAN THE LOVELY CAPTIVE",
+    "tokens": [
+        13775,
+        38,
+        29089,
+        1677,
+        5390,
+        46,
+        3336,
+        36751,
+        3963,
+        402,
+        8267,
+        16868,
+        3336,
+        406,
+        8874,
+        30943,
+        20176,
+        51,
+        9306
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "50561",
+        "file_id": "174-50561-0000"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0006.flac",
+    "text": "SHE FELT THAT WHICH SHE HAD NEVER FELT BEFORE A SENSATION OF EXPANSION",
+    "tokens": [
+        9693,
+        36,
+        376,
+        3698,
+        51,
+        14603,
+        7655,
+        20739,
+        48052,
+        367,
+        2885,
+        33602,
+        376,
+        3698,
+        51,
+        38331,
+        317,
+        311,
+        16938,
+        6234,
+        3963,
+        25703,
+        15037,
+        2849
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "168635",
+        "file_id": "174-168635-0006"
+    }
+}

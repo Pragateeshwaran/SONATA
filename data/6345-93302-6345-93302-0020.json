@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0020.flac",
+    "text": "COULDN'T HELP IT THEN HOW CAN I EVER TRUST YOU",
+    "tokens": [
+        34,
+        24010,
+        45,
+        6,
+        51,
+        49944,
+        7283,
+        42243,
+        29630,
+        15628,
+        314,
+        20498,
+        7579,
+        7759,
+        7013
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93302",
+        "file_id": "6345-93302-0020"
+    }
+}

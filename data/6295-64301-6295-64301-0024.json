@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0024.flac",
+    "text": "HE THAT LOVETH NOT HIS BROTHER WHOM HE HATH SEEN HOW SHALL HE LOVE GOD WHOM HE HATH NOT SEEN",
+    "tokens": [
+        13909,
+        14603,
+        406,
+        8874,
+        20702,
+        5626,
+        33700,
+        11177,
+        31858,
+        7655,
+        2662,
+        11179,
+        367,
+        12599,
+        7946,
+        1677,
+        29630,
+        50163,
+        11179,
+        27889,
+        29562,
+        7655,
+        2662,
+        11179,
+        367,
+        12599,
+        5626,
+        7946,
+        1677
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0024"
+    }
+}

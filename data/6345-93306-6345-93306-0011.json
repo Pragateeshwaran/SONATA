@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0011.flac",
+    "text": "IS IT ONLY THAT YOU'RE POOR WHY THAT'S NOTHING I'M POOR TOO SHE LAUGHED",
+    "tokens": [
+        1797,
+        7283,
+        22224,
+        14603,
+        7013,
+        6,
+        2200,
+        19922,
+        1581,
+        44463,
+        14603,
+        6,
+        50,
+        5626,
+        39,
+        2751,
+        314,
+        6,
+        44,
+        19922,
+        1581,
+        5390,
+        46,
+        48052,
+        9131,
+        44004,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0011"
+    }
+}

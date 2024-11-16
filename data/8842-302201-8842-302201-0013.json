@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0013.flac",
+    "text": "IN THE SECOND I TELL WHAT IS UNDERSTOOD OF HER ON EARTH HERE MY LADY IS DESIRED",
+    "tokens": [
+        1268,
+        3336,
+        10729,
+        18672,
+        314,
+        13368,
+        3069,
+        25003,
+        3180,
+        35219,
+        2257,
+        22808,
+        3963,
+        24906,
+        6177,
+        31834,
+        4221,
+        15698,
+        17615,
+        406,
+        2885,
+        56,
+        3180,
+        22196,
+        37819
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302201",
+        "file_id": "8842-302201-0013"
+    }
+}

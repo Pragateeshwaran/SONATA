@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0030.flac",
+    "text": "PEOPLE WERE COOLER HERE AND THEY WERE MORE PRONE TO LOOK AT THE TWO SIDES OF A QUESTION",
+    "tokens": [
+        11401,
+        34354,
+        370,
+        9338,
+        7375,
+        3535,
+        1137,
+        15698,
+        5357,
+        33302,
+        370,
+        9338,
+        12011,
+        4810,
+        11651,
+        5390,
+        48045,
+        5161,
+        3336,
+        35288,
+        311,
+        42538,
+        3963,
+        317,
+        43658,
+        2849
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0030"
+    }
+}

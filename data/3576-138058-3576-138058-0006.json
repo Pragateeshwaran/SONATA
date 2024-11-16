@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0006.flac",
+    "text": "HOW NOW TRAITOR EXCLAIMED DON QUIXOTE",
+    "tokens": [
+        37181,
+        20229,
+        29125,
+        2043,
+        1581,
+        7788,
+        48778,
+        1961,
+        23917,
+        1195,
+        10080,
+        55,
+        23051
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0006"
+    }
+}

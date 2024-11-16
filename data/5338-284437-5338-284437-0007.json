@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0007.flac",
+    "text": "THE PEOPLE MUST WAIT OUTSIDE FOR THERE IS NO ROOM FOR THEM IN THE PALACE",
+    "tokens": [
+        10970,
+        36388,
+        17191,
+        16400,
+        2043,
+        16289,
+        50,
+        14114,
+        7473,
+        34702,
+        3180,
+        8005,
+        15107,
+        2662,
+        7473,
+        44788,
+        3268,
+        3336,
+        40795,
+        11598
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0007"
+    }
+}

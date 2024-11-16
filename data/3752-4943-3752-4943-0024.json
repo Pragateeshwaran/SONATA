@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0024.flac",
+    "text": "JUST AS HE REACHED IT HOWEVER THE FIGURE OF MISTER NORTH ROSE FROM BEHIND A PILE OF STONES",
+    "tokens": [
+        25008,
+        7054,
+        11179,
+        4526,
+        16219,
+        1961,
+        7283,
+        29630,
+        36,
+        5959,
+        3336,
+        19697,
+        11335,
+        3963,
+        337,
+        41517,
+        25273,
+        4221,
+        371,
+        14058,
+        16034,
+        9348,
+        39,
+        12115,
+        317,
+        30434,
+        2538,
+        3963,
+        3563,
+        39677
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0024"
+    }
+}

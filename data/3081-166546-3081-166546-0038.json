@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0038.flac",
+    "text": "SHE HAD NO COMPANION NEAR HER",
+    "tokens": [
+        9693,
+        36,
+        367,
+        2885,
+        8005,
+        24301,
+        1565,
+        2849,
+        10635,
+        1503,
+        24906
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0038"
+    }
+}

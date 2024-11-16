@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0007.flac",
+    "text": "GOD KEEP US FROM SUCH A MEETING WHY JOHN",
+    "tokens": [
+        38,
+        3727,
+        509,
+        35238,
+        1294,
+        16034,
+        13558,
+        3398,
+        317,
+        11948,
+        2767,
+        2751,
+        44463,
+        39263
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154320",
+        "file_id": "2803-154320-0007"
+    }
+}

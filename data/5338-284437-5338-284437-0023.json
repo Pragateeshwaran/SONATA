@@ -1,0 +1,16 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0023.flac",
+    "text": "NO OUR WAY IS BEST",
+    "tokens": [
+        15285,
+        30229,
+        34882,
+        3180,
+        38502
+    ],
+    "metadata": {
+        "speaker_id": "5338",
+        "chapter_id": "284437",
+        "file_id": "5338-284437-0023"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0008.flac",
+    "text": "BE THE RESULTS HOWEVER WHAT THEY MIGHT RANDAL COULD SEE BUT ONE PLAIN COURSE BEFORE HIM NOW",
+    "tokens": [
+        12473,
+        3336,
+        15731,
+        35342,
+        29630,
+        36,
+        5959,
+        25003,
+        33302,
+        337,
+        9947,
+        46920,
+        1847,
+        327,
+        24010,
+        31107,
+        21728,
+        16329,
+        9297,
+        29833,
+        37384,
+        5188,
+        38331,
+        45909,
+        20229
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275156",
+        "file_id": "8297-275156-0008"
+    }
+}

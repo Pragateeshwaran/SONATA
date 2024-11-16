@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0014.flac",
+    "text": "THERE SHE OWNS A COTTAGE OR IT MAY BE A PIGSTYE FOR ALL I KNOW",
+    "tokens": [
+        4221,
+        9338,
+        48052,
+        47210,
+        8035,
+        317,
+        327,
+        29089,
+        11879,
+        6375,
+        7283,
+        26720,
+        9348,
+        317,
+        350,
+        3528,
+        2257,
+        48743,
+        7473,
+        11096,
+        314,
+        35876
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0014"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0017.flac",
+    "text": "LETTY TOO WAS OVERCOME MORE THAN EVER SHE HAD BEEN BY MUSIC",
+    "tokens": [
+        28882,
+        9936,
+        5390,
+        46,
+        21725,
+        28729,
+        9858,
+        36,
+        12011,
+        2320,
+        1565,
+        20498,
+        48052,
+        367,
+        2885,
+        9348,
+        1677,
+        11050,
+        39484,
+        2149
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0017"
+    }
+}

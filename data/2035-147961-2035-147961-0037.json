@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0037.flac",
+    "text": "EVERY ONE SAID PETER KISSED THE COW BEFORE SHE WAS LED AWAY BY HER NEW OWNER",
+    "tokens": [
+        36,
+        5959,
+        56,
+        16329,
+        14719,
+        2389,
+        32043,
+        1137,
+        509,
+        16744,
+        1961,
+        3336,
+        327,
+        3913,
+        38331,
+        48052,
+        21725,
+        12365,
+        14356,
+        4792,
+        11050,
+        24906,
+        12682,
+        47210,
+        21479
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0037"
+    }
+}

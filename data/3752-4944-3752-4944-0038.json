@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0038.flac",
+    "text": "HE HAS THE STRANGEST FITS AT TIMES",
+    "tokens": [
+        13909,
+        33930,
+        3336,
+        19269,
+        15567,
+        6465,
+        376,
+        29722,
+        5161,
+        31742,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0038"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0024.flac",
+    "text": "MEBBY YOU THINK HE'S HAVING SOME SORT OF A PICNIC DOWN THERE EH GLARED LIGE",
+    "tokens": [
+        11682,
+        15199,
+        56,
+        7013,
+        2320,
+        17248,
+        11179,
+        6,
+        50,
+        367,
+        10116,
+        2751,
+        41670,
+        311,
+        9863,
+        3963,
+        317,
+        350,
+        2149,
+        45,
+        2149,
+        30320,
+        34702,
+        412,
+        39,
+        10188,
+        1503,
+        1961,
+        406,
+        3528,
+        36
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0024"
+    }
+}

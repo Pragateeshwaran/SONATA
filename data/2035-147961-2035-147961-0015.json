@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0015.flac",
+    "text": "GRADUALLY RELIEF CAME TO ALL OF US",
+    "tokens": [
+        10761,
+        2885,
+        52,
+        19807,
+        29749,
+        10008,
+        37,
+        327,
+        10067,
+        5390,
+        11096,
+        3963,
+        1294
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0015"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0016.flac",
+    "text": "LET ME THINK HE SAID OH HOW GLAD I AM THAT YOU HAPPENED TO COME THIS WAY",
+    "tokens": [
+        28882,
+        11948,
+        2320,
+        17248,
+        11179,
+        14719,
+        2389,
+        18723,
+        29630,
+        10188,
+        2885,
+        314,
+        3001,
+        14603,
+        7013,
+        367,
+        24805,
+        1677,
+        1961,
+        5390,
+        9440,
+        36,
+        12680,
+        34882
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0016"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0014.flac",
+    "text": "POP GOES RIGHT ON TUNING HIS CHANNEL",
+    "tokens": [
+        47,
+        3185,
+        10351,
+        1546,
+        33621,
+        6177,
+        309,
+        4944,
+        2751,
+        33700,
+        5870,
+        22846,
+        3698
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0014"
+    }
+}

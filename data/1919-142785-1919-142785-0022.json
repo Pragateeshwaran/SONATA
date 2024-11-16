@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0022.flac",
+    "text": "SEASONABLE THIS SHOULD BE MADE ABOUT EASTER AS AT THIS TIME EGGS ARE PLENTIFUL AND CHEAP",
+    "tokens": [
+        5188,
+        36033,
+        17534,
+        12680,
+        40312,
+        9348,
+        337,
+        19266,
+        33478,
+        412,
+        1921,
+        5781,
+        7054,
+        5161,
+        12680,
+        20460,
+        412,
+        11190,
+        50,
+        15986,
+        9297,
+        3525,
+        5064,
+        6239,
+        5357,
+        5870,
+        36,
+        2969
+    ],
+    "metadata": {
+        "speaker_id": "1919",
+        "chapter_id": "142785",
+        "file_id": "1919-142785-0022"
+    }
+}

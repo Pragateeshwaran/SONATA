@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0020.flac",
+    "text": "THE TWO GIRLS WERE AS MUCH UPSET AS TOM'S MOTHER TOM LAUGHED",
+    "tokens": [
+        10970,
+        35288,
+        402,
+        4663,
+        6561,
+        370,
+        9338,
+        7054,
+        45859,
+        33513,
+        2767,
+        7054,
+        41526,
+        6,
+        50,
+        337,
+        31858,
+        41526,
+        9131,
+        44004,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0020"
+    }
+}

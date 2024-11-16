@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0001.flac",
+    "text": "MY OWN REGIMENT WAS IN THE ADVANCE",
+    "tokens": [
+        26708,
+        47672,
+        23337,
+        3955,
+        3525,
+        21725,
+        3268,
+        3336,
+        43685,
+        19240
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0001"
+    }
+}

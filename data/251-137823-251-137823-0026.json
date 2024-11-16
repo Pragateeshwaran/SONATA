@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0026.flac",
+    "text": "MISTER SWIFT'S EYES TWINKLED",
+    "tokens": [
+        44,
+        41517,
+        12672,
+        32297,
+        6,
+        50,
+        412,
+        43335,
+        17306,
+        17248,
+        30465
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0026"
+    }
+}

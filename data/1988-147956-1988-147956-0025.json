@@ -1,0 +1,21 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0025.flac",
+    "text": "SHE WAS QUICK AND VERY EAGER",
+    "tokens": [
+        9693,
+        36,
+        21725,
+        19604,
+        11860,
+        5357,
+        29550,
+        412,
+        4760,
+        1137
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0025"
+    }
+}

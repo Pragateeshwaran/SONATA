@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0019.flac",
+    "text": "I SEE HIM CALLED TAD HIS VOICE SOUNDING HOLLOW AND UNNATURAL TO THOSE ABOVE",
+    "tokens": [
+        40,
+        31107,
+        45909,
+        42815,
+        1961,
+        309,
+        2885,
+        33700,
+        30578,
+        8476,
+        311,
+        15919,
+        2751,
+        40115,
+        44765,
+        5357,
+        4725,
+        34259,
+        4261,
+        1847,
+        5390,
+        2320,
+        14058,
+        317,
+        8202,
+        6089
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0019"
+    }
+}

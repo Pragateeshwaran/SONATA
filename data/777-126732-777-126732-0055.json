@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0055.flac",
+    "text": "STEVIE PROWLED ROUND THE TABLE LIKE AN EXCITED ANIMAL IN A CAGE",
+    "tokens": [
+        2257,
+        20114,
+        10008,
+        4810,
+        3913,
+        30465,
+        371,
+        15919,
+        3336,
+        43679,
+        34178,
+        3537,
+        7788,
+        34,
+        22061,
+        3537,
+        3955,
+        1847,
+        3268,
+        317,
+        327,
+        11879
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0055"
+    }
+}

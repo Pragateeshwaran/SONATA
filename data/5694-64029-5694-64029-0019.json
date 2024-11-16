@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0019.flac",
+    "text": "WE WERE RIGHT UPON THE YANKEE LINE ON THE WILKERSON TURNPIKE",
+    "tokens": [
+        8845,
+        370,
+        9338,
+        33621,
+        15958,
+        1340,
+        3336,
+        575,
+        15154,
+        6500,
+        48920,
+        6177,
+        3336,
+        370,
+        4146,
+        42,
+        29086,
+        309,
+        27064,
+        11901,
+        7336
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0019"
+    }
+}

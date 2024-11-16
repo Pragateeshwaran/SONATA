@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0003.flac",
+    "text": "WE RANGE WIDER LAST LONGER AND ESCAPE MORE AND MORE FROM INTENSITY TOWARDS UNDERSTANDING",
+    "tokens": [
+        8845,
+        371,
+        27746,
+        370,
+        41237,
+        41894,
+        44533,
+        1137,
+        5357,
+        40251,
+        45721,
+        12011,
+        5357,
+        12011,
+        16034,
+        17828,
+        16938,
+        9050,
+        309,
+        3913,
+        48294,
+        35219,
+        2257,
+        6981,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "174",
+        "chapter_id": "84280",
+        "file_id": "174-84280-0003"
+    }
+}

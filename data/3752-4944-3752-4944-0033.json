@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0033.flac",
+    "text": "WE CAN'T DO ANYTHING WITHOUT EVIDENCE COMPLAIN",
+    "tokens": [
+        8845,
+        15628,
+        6,
+        51,
+        8410,
+        15529,
+        39356,
+        42881,
+        8696,
+        2389,
+        18310,
+        9440,
+        6489,
+        29833
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0033"
+    }
+}

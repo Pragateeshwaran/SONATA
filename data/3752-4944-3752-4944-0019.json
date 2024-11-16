@@ -1,0 +1,20 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0019.flac",
+    "text": "I HAVE THESE ATTACKS AT TIMES",
+    "tokens": [
+        40,
+        21515,
+        48947,
+        26195,
+        8120,
+        50,
+        5161,
+        31742,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0019"
+    }
+}

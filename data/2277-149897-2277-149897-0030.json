@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0030.flac",
+    "text": "HE DID NOT GO WITHIN A BLOCK OF THE HOUSE",
+    "tokens": [
+        13909,
+        35697,
+        5626,
+        10351,
+        13315,
+        1268,
+        317,
+        9878,
+        11290,
+        3963,
+        3336,
+        46586
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0030"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0006.flac",
+    "text": "WE WERE SUPPORTING AN ALABAMA BRIGADE",
+    "tokens": [
+        8845,
+        370,
+        9338,
+        43333,
+        2751,
+        3537,
+        8355,
+        6242,
+        25087,
+        11177,
+        3528,
+        19266
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0006"
+    }
+}

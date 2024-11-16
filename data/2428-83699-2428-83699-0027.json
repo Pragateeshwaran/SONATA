@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0027.flac",
+    "text": "THERE BE THE DOOR IN FRONT OF YOU YOU GO UP THREE STEPS IF YOU CAN FIND EM",
+    "tokens": [
+        4221,
+        9338,
+        9348,
+        3336,
+        8410,
+        1581,
+        3268,
+        8782,
+        35830,
+        3963,
+        7013,
+        7013,
+        10351,
+        15958,
+        48697,
+        24483,
+        3705,
+        16876,
+        7013,
+        15628,
+        376,
+        12115,
+        17228
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0027"
+    }
+}

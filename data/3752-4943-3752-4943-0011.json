@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0011.flac",
+    "text": "OH YOU MINISTERS OF CHRIST WOLVES IN SHEEP'S CLOTHING YOU SHALL BE JUDGED FOR THIS",
+    "tokens": [
+        12096,
+        7013,
+        20625,
+        8808,
+        4877,
+        3963,
+        48354,
+        370,
+        3535,
+        53,
+        1546,
+        3268,
+        6006,
+        35238,
+        6,
+        50,
+        7852,
+        26946,
+        2751,
+        7013,
+        50163,
+        9348,
+        449,
+        8322,
+        38,
+        1961,
+        7473,
+        12680
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0011"
+    }
+}

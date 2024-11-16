@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\148538\\1988-148538-0002.flac",
+    "text": "I BELIEVE THE SERIOUSNESS OF THE AMERICANS ARISES PARTLY FROM THEIR PRIDE",
+    "tokens": [
+        40,
+        29991,
+        10008,
+        6089,
+        3336,
+        18871,
+        40,
+        2606,
+        15571,
+        7597,
+        3963,
+        3336,
+        32617,
+        2149,
+        15037,
+        5923,
+        1797,
+        1546,
+        16652,
+        11319,
+        16034,
+        47278,
+        4810,
+        14114
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "148538",
+        "file_id": "1988-148538-0002"
+    }
+}

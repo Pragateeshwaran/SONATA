@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0033.flac",
+    "text": "BARTLEY LEANED HIS HEAD IN HIS HANDS AND SPOKE THROUGH HIS TEETH",
+    "tokens": [
+        33,
+        7227,
+        25173,
+        12509,
+        1565,
+        1961,
+        33700,
+        39837,
+        3268,
+        33700,
+        367,
+        1565,
+        5258,
+        5357,
+        6226,
+        46,
+        7336,
+        35383,
+        32632,
+        33700,
+        13368,
+        20702
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0033"
+    }
+}

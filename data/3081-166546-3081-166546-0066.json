@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0066.flac",
+    "text": "WHEREVER SHE PLEASES ONLY I CAN'T WALK FAR",
+    "tokens": [
+        47357,
+        5959,
+        48052,
+        350,
+        2538,
+        1921,
+        1546,
+        22224,
+        314,
+        15628,
+        6,
+        51,
+        370,
+        28082,
+        39024
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0066"
+    }
+}

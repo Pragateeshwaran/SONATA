@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0010.flac",
+    "text": "I REMEMBERED WHAT THE CONDUCTOR HAD SAID ABOUT HER EYES",
+    "tokens": [
+        40,
+        22657,
+        28952,
+        1961,
+        25003,
+        3336,
+        7102,
+        35,
+        18415,
+        1581,
+        367,
+        2885,
+        14719,
+        2389,
+        33478,
+        24906,
+        412,
+        43335
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0010"
+    }
+}

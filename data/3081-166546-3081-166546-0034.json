@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0034.flac",
+    "text": "THAT IS WE HAVE NOT BEEN ABLE TO FIND ANY PERHAPS YOU CAN",
+    "tokens": [
+        4221,
+        1404,
+        3180,
+        12887,
+        21515,
+        5626,
+        9348,
+        1677,
+        9564,
+        2538,
+        5390,
+        376,
+        12115,
+        15529,
+        19878,
+        39,
+        44580,
+        7013,
+        15628
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0034"
+    }
+}

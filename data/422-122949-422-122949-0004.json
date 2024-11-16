@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\422\\122949\\422-122949-0004.flac",
+    "text": "HE HONOURS WHATEVER HE RECOGNIZES IN HIMSELF SUCH MORALITY EQUALS SELF GLORIFICATION",
+    "tokens": [
+        13909,
+        367,
+        1340,
+        2606,
+        6998,
+        7655,
+        6158,
+        5959,
+        11179,
+        19644,
+        7730,
+        45,
+        14887,
+        1546,
+        3268,
+        45909,
+        50,
+        37738,
+        13558,
+        3398,
+        35208,
+        1847,
+        9050,
+        46886,
+        23333,
+        311,
+        37738,
+        10188,
+        1581,
+        30643,
+        6234
+    ],
+    "metadata": {
+        "speaker_id": "422",
+        "chapter_id": "122949",
+        "file_id": "422-122949-0004"
+    }
+}

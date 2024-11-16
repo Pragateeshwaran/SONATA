@@ -1,0 +1,14 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0014.flac",
+    "text": "WHERE IS THAT",
+    "tokens": [
+        47357,
+        3180,
+        14603
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0014"
+    }
+}

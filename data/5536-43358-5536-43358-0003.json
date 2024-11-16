@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0003.flac",
+    "text": "NONE MIGHT EXHORT OR CONFESS OR IN ANY WAY MEDDLE WITH THE RELIGIOUS EXPERIENCE OF ANOTHER",
+    "tokens": [
+        45,
+        11651,
+        337,
+        9947,
+        7788,
+        39,
+        9863,
+        6375,
+        7102,
+        37,
+        7597,
+        6375,
+        3268,
+        15529,
+        34882,
+        26112,
+        35,
+        2538,
+        13315,
+        3336,
+        29749,
+        3528,
+        40,
+        20958,
+        7788,
+        18973,
+        42589,
+        3963,
+        3537,
+        31858
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43358",
+        "file_id": "5536-43358-0003"
+    }
+}

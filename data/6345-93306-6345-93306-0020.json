@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0020.flac",
+    "text": "IT WASN'T I WHO SAID THAT SAID THE GIRL SMILING BUT THAT'S SO ANYHOW AND THEN SHE SIGHED",
+    "tokens": [
+        2043,
+        21725,
+        45,
+        6,
+        51,
+        314,
+        19494,
+        14719,
+        2389,
+        14603,
+        14719,
+        2389,
+        3336,
+        402,
+        4663,
+        43,
+        9447,
+        4146,
+        2751,
+        21728,
+        14603,
+        6,
+        50,
+        12809,
+        15529,
+        37181,
+        5357,
+        42243,
+        48052,
+        311,
+        18060,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0020"
+    }
+}

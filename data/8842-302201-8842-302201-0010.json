@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0010.flac",
+    "text": "THE FIRST PART IS DIVIDED INTO FOUR",
+    "tokens": [
+        10970,
+        31328,
+        16652,
+        3180,
+        360,
+        3824,
+        2389,
+        1961,
+        39319,
+        376,
+        11698
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302201",
+        "file_id": "8842-302201-0010"
+    }
+}

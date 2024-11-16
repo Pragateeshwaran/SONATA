@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0005.flac",
+    "text": "THE DAILY NEWSCASTS FROM TERRA SHOWED A CORRESPONDING SHIFT IN INTEREST AT HOME",
+    "tokens": [
+        10970,
+        17051,
+        33340,
+        12682,
+        6173,
+        1921,
+        4694,
+        16034,
+        28994,
+        3861,
+        37041,
+        1961,
+        317,
+        23929,
+        19535,
+        47,
+        18672,
+        2751,
+        6006,
+        32297,
+        3268,
+        23255,
+        6465,
+        5161,
+        41779
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "136532",
+        "file_id": "251-136532-0005"
+    }
+}

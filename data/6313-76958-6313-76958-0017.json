@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0017.flac",
+    "text": "LUMPY BATES CAME RUNNING TOWARD HIM NOT DARING TO CALL OUT FOR FEAR OF WAKING THE CAMP",
+    "tokens": [
+        43,
+        20476,
+        56,
+        347,
+        29462,
+        327,
+        10067,
+        32494,
+        15871,
+        309,
+        3913,
+        9795,
+        45909,
+        5626,
+        41649,
+        2751,
+        5390,
+        42815,
+        16289,
+        7473,
+        376,
+        17133,
+        3963,
+        370,
+        43602,
+        3336,
+        327,
+        23518
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0017"
+    }
+}

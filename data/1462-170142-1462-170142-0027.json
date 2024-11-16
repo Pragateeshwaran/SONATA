@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0027.flac",
+    "text": "SOMETHING OF THEIR TROUBLING SWEETNESS CAME BACK TO ALEXANDER TOO",
+    "tokens": [
+        50,
+        2662,
+        20702,
+        2751,
+        3963,
+        47278,
+        7579,
+        2606,
+        9148,
+        2751,
+        311,
+        8845,
+        2767,
+        31097,
+        327,
+        10067,
+        28767,
+        5390,
+        32318,
+        55,
+        6981,
+        1137,
+        5390,
+        46
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0027"
+    }
+}

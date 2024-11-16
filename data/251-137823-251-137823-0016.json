@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0016.flac",
+    "text": "AND THE ONLY TRUCK WE HAD AVAILABLE WAS IN THAT BURNING SHED THE SUPERINTENDENT ADDED BITTERLY",
+    "tokens": [
+        6981,
+        3336,
+        22224,
+        7579,
+        16696,
+        12887,
+        367,
+        2885,
+        317,
+        11731,
+        4146,
+        17534,
+        21725,
+        3268,
+        14603,
+        45604,
+        15871,
+        6006,
+        1961,
+        3336,
+        33088,
+        12394,
+        10619,
+        3525,
+        27841,
+        1961,
+        36992,
+        5781,
+        11319
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0016"
+    }
+}

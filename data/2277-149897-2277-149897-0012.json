@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0012.flac",
+    "text": "IF HE ONLY HAD THAT LETTER BACK HE WOULDN'T SEND IT",
+    "tokens": [
+        5064,
+        11179,
+        22224,
+        367,
+        2885,
+        14603,
+        37994,
+        5781,
+        28767,
+        11179,
+        370,
+        24010,
+        45,
+        6,
+        51,
+        311,
+        10619,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0012"
+    }
+}

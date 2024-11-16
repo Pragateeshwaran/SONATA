@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0017.flac",
+    "text": "OH JEM DON'T GIVE WAY SO I CANNOT BEAR TO SEE YOU",
+    "tokens": [
+        12096,
+        449,
+        3620,
+        23917,
+        6,
+        51,
+        402,
+        9306,
+        34882,
+        12809,
+        314,
+        15628,
+        11929,
+        9348,
+        1503,
+        5390,
+        31107,
+        7013
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147149",
+        "file_id": "1993-147149-0017"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0012.flac",
+    "text": "AS LONG AS THERE'S A BONE ON THE FLOOR THE TWO OF YOU WORRY IT",
+    "tokens": [
+        1921,
+        44533,
+        7054,
+        34702,
+        6,
+        50,
+        317,
+        347,
+        11651,
+        6177,
+        3336,
+        9977,
+        46,
+        1581,
+        3336,
+        35288,
+        3963,
+        7013,
+        21881,
+        18276,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0012"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0012.flac",
+    "text": "WHERE IS MY BROTHER NOW",
+    "tokens": [
+        47357,
+        3180,
+        17615,
+        11177,
+        31858,
+        20229
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0012"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0007.flac",
+    "text": "FOR MINUTES NO ONE STIRRED AMONG THE WRECKAGE",
+    "tokens": [
+        13775,
+        20625,
+        3843,
+        1546,
+        8005,
+        16329,
+        3563,
+        4663,
+        22083,
+        3001,
+        18494,
+        3336,
+        370,
+        38827,
+        42,
+        11879
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0007"
+    }
+}

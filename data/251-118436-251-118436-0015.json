@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0015.flac",
+    "text": "THEY SEEK TO SNAP THE SILVER CORD THAT BINDS ME TO MY DYING BODY",
+    "tokens": [
+        10970,
+        56,
+        31107,
+        42,
+        5390,
+        48592,
+        3336,
+        47551,
+        5959,
+        327,
+        12532,
+        14603,
+        347,
+        1268,
+        5258,
+        11948,
+        5390,
+        17615,
+        360,
+        45761,
+        347,
+        33076
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0015"
+    }
+}

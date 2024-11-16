@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0019.flac",
+    "text": "THE HISTORIANS OF THE WHITE RACE ADMIT THAT THE INDIAN WAS NEVER THE FIRST TO REPUDIATE HIS OATH",
+    "tokens": [
+        10970,
+        367,
+        8808,
+        1581,
+        40,
+        15037,
+        3963,
+        3336,
+        44925,
+        371,
+        11598,
+        5984,
+        36393,
+        14603,
+        3336,
+        24413,
+        16868,
+        21725,
+        33602,
+        3336,
+        31328,
+        5390,
+        4526,
+        5105,
+        17931,
+        6158,
+        33700,
+        440,
+        12599
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43358",
+        "file_id": "5536-43358-0019"
+    }
+}

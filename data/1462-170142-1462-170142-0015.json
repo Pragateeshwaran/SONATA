@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0015.flac",
+    "text": "IT'S UNBEARABLE IT TORTURES ME EVERY MINUTE",
+    "tokens": [
+        2043,
+        6,
+        50,
+        4725,
+        12473,
+        1503,
+        17534,
+        7283,
+        309,
+        9863,
+        29514,
+        11948,
+        27222,
+        20625,
+        37780
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0015"
+    }
+}

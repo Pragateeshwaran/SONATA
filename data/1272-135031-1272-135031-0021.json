@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0021.flac",
+    "text": "I DO NOT KNOW CONFESSED SHAGGY",
+    "tokens": [
+        40,
+        8410,
+        5626,
+        35876,
+        7102,
+        37,
+        7597,
+        1961,
+        6006,
+        4760,
+        31212
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0021"
+    }
+}

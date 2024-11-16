@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0006.flac",
+    "text": "THE WALLS OF THE ROOMS WERE DISCORDANTLY PAPERED",
+    "tokens": [
+        10970,
+        370,
+        1847,
+        6561,
+        3963,
+        3336,
+        15107,
+        2662,
+        50,
+        370,
+        9338,
+        13954,
+        34,
+        12532,
+        8643,
+        11319,
+        350,
+        2969,
+        1137,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149874",
+        "file_id": "2277-149874-0006"
+    }
+}

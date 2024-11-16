@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0002.flac",
+    "text": "THEY THOUGHT THE TROUBLE CAME FROM BAD BRINGING UP OR NO BRINGING UP AT ALL",
+    "tokens": [
+        10970,
+        56,
+        2320,
+        2606,
+        38,
+        6535,
+        3336,
+        7579,
+        2606,
+        19146,
+        327,
+        10067,
+        16034,
+        33934,
+        11177,
+        2751,
+        2751,
+        15958,
+        6375,
+        8005,
+        11177,
+        2751,
+        2751,
+        15958,
+        5161,
+        11096
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "286674",
+        "file_id": "7850-286674-0002"
+    }
+}

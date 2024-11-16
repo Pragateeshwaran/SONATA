@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0000.flac",
+    "text": "YOU'LL ALL BE OVER IF YOU DON'T HAVE A CARE",
+    "tokens": [
+        36981,
+        6,
+        3069,
+        11096,
+        9348,
+        28729,
+        16876,
+        7013,
+        23917,
+        6,
+        51,
+        21515,
+        317,
+        47342
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0000"
+    }
+}

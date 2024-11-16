@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0017.flac",
+    "text": "YES HE'S MERCURIAL IN ALL HIS MOVEMENTS",
+    "tokens": [
+        43335,
+        11179,
+        6,
+        50,
+        34482,
+        34,
+        4261,
+        12576,
+        3268,
+        11096,
+        33700,
+        28184,
+        12529,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0017"
+    }
+}

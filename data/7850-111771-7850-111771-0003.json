@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0003.flac",
+    "text": "GENERAL HALLECK IN SPEAKING OF THIS BATTLE SAID",
+    "tokens": [
+        35353,
+        27130,
+        42968,
+        2538,
+        34,
+        42,
+        3268,
+        6226,
+        36,
+        43602,
+        3963,
+        12680,
+        347,
+        35455,
+        14719,
+        2389
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "111771",
+        "file_id": "7850-111771-0003"
+    }
+}

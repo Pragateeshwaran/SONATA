@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0012.flac",
+    "text": "ALL SOUTHWARK RAN IN CROWDS TO ADMIRE THE LAUGHING MAN",
+    "tokens": [
+        7036,
+        30065,
+        4221,
+        54,
+        14175,
+        371,
+        1565,
+        3268,
+        8740,
+        3913,
+        5258,
+        5390,
+        5984,
+        8895,
+        2200,
+        3336,
+        9131,
+        44004,
+        2751,
+        17254
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0012"
+    }
+}

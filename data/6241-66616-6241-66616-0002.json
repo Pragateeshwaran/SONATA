@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0002.flac",
+    "text": "WHILE THE ATTACK WAS SUCCESSFUL IN A WAY ITS MAIN PURPOSE FAILED",
+    "tokens": [
+        12418,
+        41119,
+        3336,
+        26195,
+        8120,
+        21725,
+        13558,
+        4093,
+        7597,
+        46476,
+        3268,
+        317,
+        34882,
+        42437,
+        8779,
+        1268,
+        33079,
+        48933,
+        9677,
+        4146,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0002"
+    }
+}

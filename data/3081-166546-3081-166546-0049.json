@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0049.flac",
+    "text": "BUT I'M IN NO POSITION TO MAKE PROMISES",
+    "tokens": [
+        47526,
+        314,
+        6,
+        44,
+        3268,
+        8005,
+        28069,
+        17941,
+        5390,
+        39134,
+        4810,
+        2662,
+        1797,
+        1546
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0049"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0005.flac",
+    "text": "GWYNPLAINE WAS A MOUNTEBANK",
+    "tokens": [
+        33191,
+        40760,
+        45710,
+        8881,
+        21725,
+        317,
+        337,
+        19385,
+        9328,
+        33,
+        15154
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34615",
+        "file_id": "5895-34615-0005"
+    }
+}

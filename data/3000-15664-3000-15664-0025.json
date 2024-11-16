@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0025.flac",
+    "text": "WHILE TRAVELING WITH A COMPANY OF HUNTERS I SAW ABOUT FIFTY IN ONE FLOCK",
+    "tokens": [
+        12418,
+        41119,
+        29125,
+        18697,
+        2751,
+        13315,
+        317,
+        24301,
+        31827,
+        3963,
+        41041,
+        51,
+        4877,
+        314,
+        311,
+        12298,
+        33478,
+        376,
+        5064,
+        9936,
+        3268,
+        16329,
+        9977,
+        11290
+    ],
+    "metadata": {
+        "speaker_id": "3000",
+        "chapter_id": "15664",
+        "file_id": "3000-15664-0025"
+    }
+}

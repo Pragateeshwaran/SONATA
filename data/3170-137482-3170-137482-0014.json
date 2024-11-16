@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0014.flac",
+    "text": "NEVER FEAR YOU SHALL SEE HIM AGAIN TO MORROW",
+    "tokens": [
+        12161,
+        5959,
+        376,
+        17133,
+        7013,
+        50163,
+        31107,
+        45909,
+        36218,
+        1268,
+        5390,
+        35208,
+        49,
+        3913
+    ],
+    "metadata": {
+        "speaker_id": "3170",
+        "chapter_id": "137482",
+        "file_id": "3170-137482-0014"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0014.flac",
+    "text": "BEAUREGARD AT ONCE WROTE AN ORDER",
+    "tokens": [
+        12473,
+        32,
+        11335,
+        38,
+        9795,
+        5161,
+        6177,
+        5222,
+        11342,
+        23051,
+        3537,
+        38678
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0014"
+    }
+}

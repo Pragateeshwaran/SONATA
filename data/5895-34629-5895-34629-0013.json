@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0013.flac",
+    "text": "THE MERRY ANDREWS AND MOUNTEBANKS OF TARRINZEAU FIELD WERE AGHAST AT GWYNPLAINE",
+    "tokens": [
+        10970,
+        34482,
+        18276,
+        5357,
+        2200,
+        19416,
+        5357,
+        337,
+        19385,
+        9328,
+        33,
+        15154,
+        50,
+        3963,
+        309,
+        26465,
+        1268,
+        57,
+        16412,
+        52,
+        18930,
+        24639,
+        370,
+        9338,
+        13077,
+        39,
+        11262,
+        5161,
+        27164,
+        40760,
+        45710,
+        8881
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0013"
+    }
+}

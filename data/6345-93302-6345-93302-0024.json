@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0024.flac",
+    "text": "HE STOOD UP SUDDENLY DO YOU MEAN IT",
+    "tokens": [
+        13909,
+        3563,
+        22808,
+        15958,
+        311,
+        8322,
+        41819,
+        11319,
+        8410,
+        7013,
+        11948,
+        1565,
+        7283
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93302",
+        "file_id": "6345-93302-0024"
+    }
+}

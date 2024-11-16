@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0001.flac",
+    "text": "LOOKS LIKE A CLUMP OF BUSHES DOWN THERE BUT I AIN'T SURE CAN YOU MAKE IT OUT",
+    "tokens": [
+        43,
+        15308,
+        50,
+        34178,
+        317,
+        7852,
+        20476,
+        3963,
+        347,
+        27143,
+        1546,
+        30320,
+        34702,
+        21728,
+        314,
+        317,
+        1268,
+        6,
+        51,
+        311,
+        11335,
+        15628,
+        7013,
+        39134,
+        7283,
+        16289
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0001"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0024.flac",
+    "text": "ON THE TENTH OF OCTOBER HE WOULD MEET ROD AT SPRUCEWOOD ON THE BLACK STURGEON RIVER",
+    "tokens": [
+        1340,
+        3336,
+        309,
+        3525,
+        39,
+        3963,
+        42256,
+        9864,
+        1137,
+        11179,
+        370,
+        24010,
+        11948,
+        2767,
+        371,
+        3727,
+        5161,
+        49068,
+        52,
+        5222,
+        49466,
+        6177,
+        3336,
+        31963,
+        3563,
+        4261,
+        8264,
+        1340,
+        371,
+        38757
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "66616",
+        "file_id": "6241-66616-0024"
+    }
+}

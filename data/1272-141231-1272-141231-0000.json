@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0000.flac",
+    "text": "A MAN SAID TO THE UNIVERSE SIR I EXIST",
+    "tokens": [
+        32,
+        17254,
+        14719,
+        2389,
+        5390,
+        3336,
+        49677,
+        36,
+        311,
+        4663,
+        314,
+        7788,
+        8808
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0000"
+    }
+}

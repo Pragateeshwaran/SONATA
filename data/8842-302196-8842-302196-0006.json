@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0006.flac",
+    "text": "AND IF YOU HAVE TIME IT WOULD BE A GREAT SERVICE TO TRANSLATE THE ANALYSES OF THE POEMS WHICH I OMITTED",
+    "tokens": [
+        6981,
+        16876,
+        7013,
+        21515,
+        20460,
+        7283,
+        370,
+        24010,
+        9348,
+        317,
+        37853,
+        47453,
+        5390,
+        48213,
+        8634,
+        6158,
+        3336,
+        3537,
+        1847,
+        16309,
+        1546,
+        3963,
+        3336,
+        19922,
+        39201,
+        7655,
+        20739,
+        314,
+        32468,
+        22470,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "8842",
+        "chapter_id": "302196",
+        "file_id": "8842-302196-0006"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0012.flac",
+    "text": "STRUGGLE WARFARE WAS THE CONDITION OF PRIVATE OWNERSHIP IT WAS FATAL",
+    "tokens": [
+        18601,
+        7340,
+        38,
+        2538,
+        11837,
+        37,
+        12203,
+        21725,
+        3336,
+        7102,
+        35,
+        17941,
+        3963,
+        4810,
+        3824,
+        6158,
+        47672,
+        4877,
+        39,
+        4061,
+        7283,
+        21725,
+        47200,
+        1847
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0012"
+    }
+}

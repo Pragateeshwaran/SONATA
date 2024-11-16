@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0016.flac",
+    "text": "DOES ONE MISTER SAMUEL BOZZLE LIVE HERE ASKED TREVELYAN",
+    "tokens": [
+        18227,
+        1546,
+        16329,
+        337,
+        41517,
+        28844,
+        52,
+        3698,
+        16494,
+        30148,
+        2538,
+        28323,
+        15698,
+        7054,
+        42,
+        1961,
+        43236,
+        18697,
+        56,
+        1565
+    ],
+    "metadata": {
+        "speaker_id": "3536",
+        "chapter_id": "8226",
+        "file_id": "3536-8226-0016"
+    }
+}

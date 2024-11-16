@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0017.flac",
+    "text": "SIR HARRY TOWNE BOWED AND SAID THAT HE HAD MET MISTER ALEXANDER AND HIS WIFE IN TOKYO",
+    "tokens": [
+        50,
+        4663,
+        43638,
+        18276,
+        309,
+        3913,
+        12161,
+        347,
+        3913,
+        1961,
+        5357,
+        14719,
+        2389,
+        14603,
+        11179,
+        367,
+        2885,
+        31243,
+        337,
+        41517,
+        32318,
+        55,
+        6981,
+        1137,
+        5357,
+        33700,
+        370,
+        29150,
+        3268,
+        5390,
+        31159,
+        46
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0017"
+    }
+}

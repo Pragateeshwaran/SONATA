@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0002.flac",
+    "text": "BUT THE EMOTIONS OF HARRY AND HIS COMRADES WERE FOR THE MOMENT THOSE OF VICTORY ONLY",
+    "tokens": [
+        47526,
+        3336,
+        17228,
+        2394,
+        11053,
+        3963,
+        43638,
+        18276,
+        5357,
+        33700,
+        9440,
+        49,
+        2885,
+        1546,
+        370,
+        9338,
+        7473,
+        3336,
+        337,
+        2662,
+        3525,
+        2320,
+        14058,
+        3963,
+        569,
+        18379,
+        15513,
+        22224
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0002"
+    }
+}

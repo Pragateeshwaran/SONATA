@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0002.flac",
+    "text": "THAT TOOK THE CENTER OF INTEREST AWAY FROM ARCHAEOLOGY AND STARTED A NEW BURST OF ACTIVITY",
+    "tokens": [
+        4221,
+        1404,
+        5390,
+        11380,
+        3336,
+        33269,
+        1137,
+        3963,
+        23255,
+        6465,
+        14356,
+        4792,
+        16034,
+        5923,
+        3398,
+        14242,
+        43781,
+        5357,
+        33303,
+        1961,
+        317,
+        12682,
+        45604,
+        2257,
+        3963,
+        11741,
+        3824,
+        9050
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "136532",
+        "file_id": "251-136532-0002"
+    }
+}

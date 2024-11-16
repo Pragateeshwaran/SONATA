@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0015.flac",
+    "text": "I TOOK OCCASION TO CONSULT THE MAP TO SEE WHERE GARDAR WAS TO BE FOUND",
+    "tokens": [
+        40,
+        5390,
+        11380,
+        440,
+        4093,
+        1921,
+        2849,
+        5390,
+        39537,
+        16724,
+        3336,
+        34645,
+        5390,
+        31107,
+        33411,
+        402,
+        9795,
+        1503,
+        21725,
+        5390,
+        9348,
+        376,
+        15919
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0015"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0004.flac",
+    "text": "THE BOYS BELONG TO THE GENTLEMAN WHO IS A WIDOWER",
+    "tokens": [
+        10970,
+        16494,
+        16309,
+        29991,
+        18494,
+        5390,
+        3336,
+        402,
+        3525,
+        2538,
+        10725,
+        19494,
+        3180,
+        317,
+        370,
+        2389,
+        36048
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0004"
+    }
+}

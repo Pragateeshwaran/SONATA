@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0043.flac",
+    "text": "BESIDES WHICH WE CAN ALWAYS SELL THE COUPONS AND RAILWAY PASSES WHICH WE DON'T USE",
+    "tokens": [
+        33,
+        1546,
+        42538,
+        7655,
+        20739,
+        12887,
+        15628,
+        49576,
+        7946,
+        3069,
+        3336,
+        327,
+        27755,
+        19213,
+        5357,
+        17926,
+        4146,
+        27285,
+        41752,
+        1546,
+        7655,
+        20739,
+        12887,
+        23917,
+        6,
+        51,
+        23210
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0043"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0004.flac",
+    "text": "IT WAS ON ONE OF THESE GRAVEL BEDS THAT I MET MY ADVENTURE",
+    "tokens": [
+        2043,
+        21725,
+        6177,
+        16329,
+        3963,
+        48947,
+        402,
+        3861,
+        18697,
+        347,
+        1961,
+        50,
+        14603,
+        314,
+        31243,
+        17615,
+        43685,
+        3525,
+        11335
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0004"
+    }
+}

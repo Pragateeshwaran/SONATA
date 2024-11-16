@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0002.flac",
+    "text": "SHE BLUSHED AND SMILED AND FUMBLED HIS CARD IN HER CONFUSION BEFORE SHE RAN UPSTAIRS",
+    "tokens": [
+        9693,
+        36,
+        9878,
+        27143,
+        1961,
+        5357,
+        9447,
+        4146,
+        1961,
+        5357,
+        376,
+        5883,
+        9148,
+        1961,
+        33700,
+        48731,
+        3268,
+        24906,
+        7102,
+        37,
+        2937,
+        2849,
+        38331,
+        48052,
+        371,
+        1565,
+        15958,
+        2257,
+        42149,
+        50
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0002"
+    }
+}

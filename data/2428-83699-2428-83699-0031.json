@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0031.flac",
+    "text": "BETTER RING AGAIN SUGGESTED THE DRIVER HARD",
+    "tokens": [
+        33,
+        2767,
+        5781,
+        371,
+        2751,
+        36218,
+        1268,
+        311,
+        7340,
+        38,
+        6465,
+        1961,
+        3336,
+        10560,
+        38757,
+        367,
+        9795
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83699",
+        "file_id": "2428-83699-0031"
+    }
+}

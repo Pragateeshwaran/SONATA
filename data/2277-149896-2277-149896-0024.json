@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0024.flac",
+    "text": "HE KNEW HER WELL ENOUGH TO KNOW THAT WHEN SHE HAD DECIDED UPON A PLAN SHE WOULD FOLLOW IT UP",
+    "tokens": [
+        13909,
+        509,
+        13965,
+        24906,
+        12887,
+        3069,
+        12964,
+        32632,
+        5390,
+        35876,
+        14603,
+        42099,
+        48052,
+        367,
+        2885,
+        27196,
+        2389,
+        1961,
+        15958,
+        1340,
+        317,
+        45650,
+        48052,
+        370,
+        24010,
+        11895,
+        44765,
+        7283,
+        15958
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149896",
+        "file_id": "2277-149896-0024"
+    }
+}

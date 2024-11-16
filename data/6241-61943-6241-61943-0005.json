@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0005.flac",
+    "text": "THE FACT IS THE CASTLE IS MUCH LATER THAN THE TIME OF THE HEROIC PRINCE OF DENMARK",
+    "tokens": [
+        10970,
+        376,
+        10659,
+        3180,
+        3336,
+        327,
+        11262,
+        2538,
+        3180,
+        45859,
+        406,
+        23261,
+        2320,
+        1565,
+        3336,
+        20460,
+        3963,
+        3336,
+        45947,
+        2149,
+        4810,
+        1268,
+        5222,
+        3963,
+        37692,
+        44,
+        14175
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61943",
+        "file_id": "6241-61943-0005"
+    }
+}

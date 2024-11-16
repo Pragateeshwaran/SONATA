@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0022.flac",
+    "text": "A PERFECT BLAZE OF CLOSE RANGE MUSKETRY TOO MOWED THEM DOWN LIKE GRASS",
+    "tokens": [
+        32,
+        19878,
+        37,
+        9782,
+        9878,
+        32,
+        21211,
+        3963,
+        7852,
+        14058,
+        371,
+        27746,
+        39484,
+        42,
+        2767,
+        18276,
+        5390,
+        46,
+        337,
+        3913,
+        1961,
+        44788,
+        30320,
+        34178,
+        10863,
+        10705
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0022"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0027.flac",
+    "text": "LOOK AT ME WELL IN SOOTH I'M BEATRICE",
+    "tokens": [
+        43,
+        15308,
+        5161,
+        11948,
+        12887,
+        3069,
+        3268,
+        12809,
+        26946,
+        314,
+        6,
+        44,
+        9348,
+        1404,
+        49,
+        8476
+    ],
+    "metadata": {
+        "speaker_id": "84",
+        "chapter_id": "121550",
+        "file_id": "84-121550-0027"
+    }
+}

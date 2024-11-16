@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0003.flac",
+    "text": "OH WHAT SHALL WE DO FOR A HOME",
+    "tokens": [
+        12096,
+        25003,
+        50163,
+        12887,
+        8410,
+        7473,
+        317,
+        41779
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "281318",
+        "file_id": "7850-281318-0003"
+    }
+}

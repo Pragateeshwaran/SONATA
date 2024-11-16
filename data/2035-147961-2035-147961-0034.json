@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0034.flac",
+    "text": "WHEREVER THEY WENT THE STORY FOLLOWED THEM",
+    "tokens": [
+        47357,
+        5959,
+        33302,
+        370,
+        3525,
+        3336,
+        46427,
+        11895,
+        44765,
+        1961,
+        44788
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0034"
+    }
+}

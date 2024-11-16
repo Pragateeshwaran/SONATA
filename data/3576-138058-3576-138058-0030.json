@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0030.flac",
+    "text": "SANCHO SAID THEY HAD BUT THAT THREE KERCHIEFS THAT WERE WORTH THREE CITIES WERE MISSING",
+    "tokens": [
+        36753,
+        44899,
+        14719,
+        2389,
+        33302,
+        367,
+        2885,
+        21728,
+        14603,
+        48697,
+        509,
+        1137,
+        3398,
+        10008,
+        10652,
+        14603,
+        370,
+        9338,
+        21881,
+        4221,
+        48697,
+        327,
+        30383,
+        370,
+        9338,
+        49684,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "3576",
+        "chapter_id": "138058",
+        "file_id": "3576-138058-0030"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0019.flac",
+    "text": "IS PAPA ALONE ENQUIRED MISS TEMPLE",
+    "tokens": [
+        1797,
+        350,
+        2969,
+        32,
+        8355,
+        11651,
+        12964,
+        10917,
+        37819,
+        49684,
+        309,
+        3620,
+        16437
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "73752",
+        "file_id": "7850-73752-0019"
+    }
+}

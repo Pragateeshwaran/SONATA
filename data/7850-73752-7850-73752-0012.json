@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0012.flac",
+    "text": "AS FOR HIS FRIENDS THE FUTURE MUST PROVE HIS GRATITUDE TO THEM",
+    "tokens": [
+        1921,
+        7473,
+        33700,
+        48167,
+        1677,
+        5258,
+        3336,
+        376,
+        3843,
+        11335,
+        17191,
+        21965,
+        6089,
+        33700,
+        10863,
+        1404,
+        2043,
+        52,
+        7206,
+        5390,
+        44788
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "73752",
+        "file_id": "7850-73752-0012"
+    }
+}

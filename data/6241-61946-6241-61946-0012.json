@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0012.flac",
+    "text": "A FEW STRAY COWS AND SHEEP WERE ONLY SEEN OCCASIONALLY",
+    "tokens": [
+        32,
+        376,
+        6217,
+        3563,
+        30631,
+        327,
+        22845,
+        5357,
+        6006,
+        35238,
+        370,
+        9338,
+        22224,
+        7946,
+        1677,
+        440,
+        4093,
+        1921,
+        2849,
+        19807
+    ],
+    "metadata": {
+        "speaker_id": "6241",
+        "chapter_id": "61946",
+        "file_id": "6241-61946-0012"
+    }
+}

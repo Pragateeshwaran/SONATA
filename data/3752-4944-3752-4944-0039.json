@@ -1,0 +1,42 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0039.flac",
+    "text": "UNLESS IT'S A CANCER IN THE STOMACH I DON'T KNOW WHAT IT CAN BE CANCER IN THE STOMACH",
+    "tokens": [
+        4944,
+        48481,
+        7283,
+        6,
+        50,
+        317,
+        15628,
+        34,
+        1137,
+        3268,
+        3336,
+        3563,
+        2662,
+        16219,
+        314,
+        23917,
+        6,
+        51,
+        35876,
+        25003,
+        7283,
+        15628,
+        9348,
+        15628,
+        34,
+        1137,
+        3268,
+        3336,
+        3563,
+        2662,
+        16219
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0039"
+    }
+}

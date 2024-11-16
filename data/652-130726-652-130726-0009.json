@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0009.flac",
+    "text": "THE CUISINE IS OF THE BEST AND THE CHEFS RANK AT THE TOP OF THEIR ART",
+    "tokens": [
+        10970,
+        29369,
+        1797,
+        8881,
+        3180,
+        3963,
+        3336,
+        38502,
+        5357,
+        3336,
+        5870,
+        36,
+        10652,
+        371,
+        15154,
+        5161,
+        3336,
+        28662,
+        3963,
+        47278,
+        24278
+    ],
+    "metadata": {
+        "speaker_id": "652",
+        "chapter_id": "130726",
+        "file_id": "652-130726-0009"
+    }
+}

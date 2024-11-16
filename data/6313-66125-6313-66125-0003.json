@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0003.flac",
+    "text": "DON'T MOVE AROUND LIE PERFECTLY STILL WARNED THE GUIDE ARE YOU HURT",
+    "tokens": [
+        41173,
+        6,
+        51,
+        13070,
+        6089,
+        5923,
+        15919,
+        406,
+        10008,
+        19878,
+        37,
+        9782,
+        11319,
+        3563,
+        8267,
+        42660,
+        1961,
+        3336,
+        19348,
+        14114,
+        15986,
+        7013,
+        367,
+        4261,
+        51
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "66125",
+        "file_id": "6313-66125-0003"
+    }
+}

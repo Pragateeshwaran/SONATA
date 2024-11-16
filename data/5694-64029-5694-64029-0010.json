@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0010.flac",
+    "text": "HE DIVINED MY MOTIVE AND FIRED THE BALL MISSED ITS AIM",
+    "tokens": [
+        13909,
+        360,
+        3824,
+        1268,
+        1961,
+        17615,
+        42982,
+        9306,
+        5357,
+        23703,
+        1961,
+        3336,
+        46433,
+        49684,
+        1961,
+        42437,
+        317,
+        3955
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0010"
+    }
+}

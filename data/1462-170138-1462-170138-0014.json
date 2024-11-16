@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0014.flac",
+    "text": "HE NODDED CURTLY AND MADE FOR THE DOOR DODGING ACQUAINTANCES AS HE WENT",
+    "tokens": [
+        13909,
+        399,
+        3727,
+        35,
+        1961,
+        327,
+        4261,
+        51,
+        11319,
+        5357,
+        337,
+        19266,
+        7473,
+        3336,
+        8410,
+        1581,
+        42756,
+        38,
+        2751,
+        7125,
+        10917,
+        32,
+        12394,
+        20940,
+        1546,
+        7054,
+        11179,
+        370,
+        3525
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0014"
+    }
+}

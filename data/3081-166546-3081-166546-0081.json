@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0081.flac",
+    "text": "THERE WAS NO PONIARD IN THE WOUND",
+    "tokens": [
+        4221,
+        9338,
+        21725,
+        8005,
+        350,
+        1340,
+        40,
+        9795,
+        3268,
+        3336,
+        370,
+        15919
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0081"
+    }
+}

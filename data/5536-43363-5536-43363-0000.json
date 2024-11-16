@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0000.flac",
+    "text": "REINCARNATION AND THE CONVERSE OF SPIRITS",
+    "tokens": [
+        2200,
+        1268,
+        20034,
+        45,
+        6234,
+        5357,
+        3336,
+        7102,
+        28884,
+        36,
+        3963,
+        6226,
+        4663,
+        29722
+    ],
+    "metadata": {
+        "speaker_id": "5536",
+        "chapter_id": "43363",
+        "file_id": "5536-43363-0000"
+    }
+}

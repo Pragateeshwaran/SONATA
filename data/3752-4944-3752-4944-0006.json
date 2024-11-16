@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0006.flac",
+    "text": "HAVE YOU MANY VISITORS CAPTAIN BURGESS VERY FEW",
+    "tokens": [
+        7801,
+        6089,
+        7013,
+        17254,
+        56,
+        50035,
+        2043,
+        20673,
+        20176,
+        30339,
+        45604,
+        38,
+        7597,
+        29550,
+        376,
+        6217
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0006"
+    }
+}

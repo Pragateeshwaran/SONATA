@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0016.flac",
+    "text": "WE HAD BEEF FOR SUPPER THAT NIGHT",
+    "tokens": [
+        8845,
+        367,
+        2885,
+        347,
+        6500,
+        37,
+        7473,
+        19549,
+        18973,
+        14603,
+        37707
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64038",
+        "file_id": "5694-64038-0016"
+    }
+}

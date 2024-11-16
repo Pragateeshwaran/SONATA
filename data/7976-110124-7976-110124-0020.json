@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0020.flac",
+    "text": "YOU SHALL NOT COME INTO MY FATHER'S HOUSE",
+    "tokens": [
+        36981,
+        50163,
+        5626,
+        9440,
+        36,
+        39319,
+        17615,
+        376,
+        45226,
+        6,
+        50,
+        46586
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0020"
+    }
+}

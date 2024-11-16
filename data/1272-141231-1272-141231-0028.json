@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0028.flac",
+    "text": "IROLG LOOKED AMAZED AT THE SUDDEN FURY OF THE ATTACK THEN SMILED",
+    "tokens": [
+        4663,
+        3535,
+        38,
+        48045,
+        1961,
+        3001,
+        22778,
+        1961,
+        5161,
+        3336,
+        311,
+        8322,
+        41819,
+        376,
+        4261,
+        56,
+        3963,
+        3336,
+        26195,
+        8120,
+        42243,
+        9447,
+        4146,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0028"
+    }
+}

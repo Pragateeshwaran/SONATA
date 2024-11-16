@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0032.flac",
+    "text": "I OBEYED IMPLICITLY AND MET YOUR EXCELLENCY",
+    "tokens": [
+        40,
+        440,
+        12473,
+        56,
+        1961,
+        8959,
+        31484,
+        2043,
+        11319,
+        5357,
+        31243,
+        16592,
+        7788,
+        5222,
+        3069,
+        45155
+    ],
+    "metadata": {
+        "speaker_id": "3170",
+        "chapter_id": "137482",
+        "file_id": "3170-137482-0032"
+    }
+}

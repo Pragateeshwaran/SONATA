@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0012.flac",
+    "text": "EVEN FROM A DISTANCE ONE COULD SEE THAT THERE WAS SOMETHING STRANGE ABOUT THIS BOY",
+    "tokens": [
+        20114,
+        1677,
+        16034,
+        317,
+        360,
+        8808,
+        19240,
+        16329,
+        327,
+        24010,
+        31107,
+        14603,
+        34702,
+        21725,
+        42121,
+        20702,
+        2751,
+        19269,
+        27746,
+        33478,
+        12680,
+        16494,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0012"
+    }
+}

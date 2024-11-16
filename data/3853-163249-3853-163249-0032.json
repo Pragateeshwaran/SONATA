@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0032.flac",
+    "text": "CAN YOU REMEMBER WHAT HEPSEY TOLD US AND CALL THEM POOR LONG SUFFERIN CREETERS NAMES",
+    "tokens": [
+        44565,
+        7013,
+        22657,
+        28952,
+        25003,
+        11179,
+        3705,
+        22348,
+        309,
+        15173,
+        1294,
+        5357,
+        42815,
+        44788,
+        19922,
+        1581,
+        44533,
+        13558,
+        45746,
+        1268,
+        29244,
+        2767,
+        4877,
+        399,
+        29559
+    ],
+    "metadata": {
+        "speaker_id": "3853",
+        "chapter_id": "163249",
+        "file_id": "3853-163249-0032"
+    }
+}

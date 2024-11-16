@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0011.flac",
+    "text": "SURELY I DO NOT KNOW SAID DEUCALION",
+    "tokens": [
+        50,
+        11335,
+        11319,
+        314,
+        8410,
+        5626,
+        35876,
+        14719,
+        2389,
+        5550,
+        9598,
+        1847,
+        2849
+    ],
+    "metadata": {
+        "speaker_id": "6319",
+        "chapter_id": "57405",
+        "file_id": "6319-57405-0011"
+    }
+}

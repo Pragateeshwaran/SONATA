@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0002.flac",
+    "text": "WAS THERE EVER A HAPPIER MAN THAN JOSEPH THAT NIGHT AS HE STRODE ALONG THE FOOTPATH",
+    "tokens": [
+        54,
+        1921,
+        34702,
+        20498,
+        317,
+        367,
+        2969,
+        11901,
+        1137,
+        17254,
+        2320,
+        1565,
+        449,
+        2640,
+        8905,
+        39,
+        14603,
+        37707,
+        7054,
+        11179,
+        19269,
+        16820,
+        8355,
+        18494,
+        3336,
+        11895,
+        2394,
+        34219
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0002"
+    }
+}

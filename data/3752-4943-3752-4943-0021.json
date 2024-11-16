@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0021.flac",
+    "text": "HE HAD HARDLY UTTERED THE WORDS WHEN THE BOY FLUNG HIMSELF BENEATH THE LOG",
+    "tokens": [
+        13909,
+        367,
+        2885,
+        367,
+        9795,
+        11319,
+        19255,
+        5781,
+        1961,
+        3336,
+        21881,
+        5258,
+        42099,
+        3336,
+        16494,
+        56,
+        9977,
+        4944,
+        38,
+        45909,
+        50,
+        37738,
+        347,
+        39267,
+        12599,
+        3336,
+        41605
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4943",
+        "file_id": "3752-4943-0021"
+    }
+}

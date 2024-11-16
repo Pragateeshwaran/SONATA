@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0001.flac",
+    "text": "THE DOME OF SAINT PAUL'S WAS A DELIGHT TO URSUS",
+    "tokens": [
+        10970,
+        360,
+        13649,
+        3963,
+        14719,
+        12394,
+        8147,
+        6239,
+        6,
+        50,
+        21725,
+        317,
+        28163,
+        9947,
+        5390,
+        471,
+        6998,
+        2937
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34629",
+        "file_id": "5895-34629-0001"
+    }
+}

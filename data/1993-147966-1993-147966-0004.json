@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147966\\1993-147966-0004.flac",
+    "text": "BUT YOU SEE A BODY NEVER KNOWS WHAT TRAITS POVERTY MIGHT BRING OUT IN EM",
+    "tokens": [
+        47526,
+        7013,
+        31107,
+        317,
+        347,
+        33076,
+        33602,
+        22466,
+        22845,
+        25003,
+        29125,
+        29722,
+        19922,
+        5959,
+        9936,
+        337,
+        9947,
+        11177,
+        2751,
+        16289,
+        3268,
+        17228
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147966",
+        "file_id": "1993-147966-0004"
+    }
+}

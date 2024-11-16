@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0006.flac",
+    "text": "BUD THREW UP HIS ARMS TO PROTECT HIMSELF BUT TOO LATE",
+    "tokens": [
+        33,
+        8322,
+        2320,
+        2200,
+        54,
+        15958,
+        33700,
+        5923,
+        5653,
+        5390,
+        48006,
+        9782,
+        45909,
+        50,
+        37738,
+        21728,
+        5390,
+        46,
+        406,
+        6158
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0006"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0006.flac",
+    "text": "BUT IF THE EMPERORS HAD BECOME CHRISTIAN THE EMPIRE HAD NOT",
+    "tokens": [
+        47526,
+        16876,
+        3336,
+        38144,
+        1137,
+        20673,
+        367,
+        2885,
+        347,
+        2943,
+        13649,
+        48354,
+        16868,
+        3336,
+        38144,
+        41736,
+        367,
+        2885,
+        5626
+    ],
+    "metadata": {
+        "speaker_id": "2902",
+        "chapter_id": "9006",
+        "file_id": "2902-9006-0006"
+    }
+}

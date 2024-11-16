@@ -1,0 +1,43 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0009.flac",
+    "text": "TOM'S EYES FOCUSED IN HORROR ON THE WRECKAGE ENVELOPED BY STILL BILLOWING DUST",
+    "tokens": [
+        51,
+        2662,
+        6,
+        50,
+        412,
+        43335,
+        376,
+        4503,
+        2937,
+        1961,
+        3268,
+        48345,
+        16411,
+        6177,
+        3336,
+        370,
+        38827,
+        42,
+        11879,
+        12964,
+        18697,
+        3185,
+        1961,
+        11050,
+        3563,
+        8267,
+        347,
+        8267,
+        3913,
+        2751,
+        360,
+        7759
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "137823",
+        "file_id": "251-137823-0009"
+    }
+}

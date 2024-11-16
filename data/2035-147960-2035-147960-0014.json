@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0014.flac",
+    "text": "HE COULD STAND RIGHT UP AND TALK TO YOU HE COULD DID HE FIGHT HARD",
+    "tokens": [
+        13909,
+        327,
+        24010,
+        49053,
+        33621,
+        15958,
+        5357,
+        309,
+        28082,
+        5390,
+        7013,
+        11179,
+        327,
+        24010,
+        35697,
+        11179,
+        39941,
+        367,
+        9795
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147960",
+        "file_id": "2035-147960-0014"
+    }
+}

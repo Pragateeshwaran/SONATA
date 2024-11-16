@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0013.flac",
+    "text": "HERE COMES THE SNAPPING TURTLE",
+    "tokens": [
+        39,
+        9338,
+        9440,
+        1546,
+        3336,
+        11346,
+        24805,
+        2751,
+        309,
+        4261,
+        51,
+        2538
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "286674",
+        "file_id": "7850-286674-0013"
+    }
+}

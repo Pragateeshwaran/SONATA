@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0003.flac",
+    "text": "BOATS PUT OUT BOTH FROM THE FORT AND THE SHORE",
+    "tokens": [
+        8202,
+        33586,
+        350,
+        3843,
+        16289,
+        347,
+        26946,
+        16034,
+        3336,
+        7473,
+        51,
+        5357,
+        3336,
+        6006,
+        6965
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0003"
+    }
+}

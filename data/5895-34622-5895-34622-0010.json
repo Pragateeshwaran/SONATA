@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0010.flac",
+    "text": "THE EFFECT OF HIS APPEARANCE HAD BEEN SURPRISING",
+    "tokens": [
+        10970,
+        33659,
+        9782,
+        3963,
+        33700,
+        3486,
+        11401,
+        1503,
+        19240,
+        367,
+        2885,
+        9348,
+        1677,
+        41016,
+        4805,
+        1797,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "5895",
+        "chapter_id": "34622",
+        "file_id": "5895-34622-0010"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0014.flac",
+    "text": "BUT AS TO GETTING ALONGSIDE THE DUNCAN GOD FORBID",
+    "tokens": [
+        47526,
+        7054,
+        5390,
+        17151,
+        48996,
+        8355,
+        1340,
+        14313,
+        14114,
+        3336,
+        360,
+        4944,
+        44565,
+        29562,
+        7473,
+        33,
+        2389
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154320",
+        "file_id": "2803-154320-0014"
+    }
+}

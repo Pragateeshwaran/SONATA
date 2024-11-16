@@ -1,0 +1,23 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0008.flac",
+    "text": "THE FACT WAS KEPT FROM THE TROOPS",
+    "tokens": [
+        10970,
+        376,
+        10659,
+        21725,
+        509,
+        8905,
+        51,
+        16034,
+        3336,
+        7579,
+        46,
+        30737
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64025",
+        "file_id": "5694-64025-0008"
+    }
+}

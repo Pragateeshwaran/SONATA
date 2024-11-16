@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0002.flac",
+    "text": "YES AND A VERY RESPECTABLE ONE",
+    "tokens": [
+        43335,
+        5357,
+        317,
+        29550,
+        47203,
+        2943,
+        38148,
+        16329
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0002"
+    }
+}

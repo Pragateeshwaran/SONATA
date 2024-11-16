@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0001.flac",
+    "text": "THE FEDERAL ARMY WAS CONCENTRATING AT NASHVILLE THERE WAS NO REST FOR THE WEARY",
+    "tokens": [
+        10970,
+        376,
+        1961,
+        27130,
+        20359,
+        56,
+        21725,
+        39962,
+        3525,
+        49,
+        33881,
+        5161,
+        7210,
+        39,
+        38526,
+        34702,
+        21725,
+        8005,
+        30617,
+        7473,
+        3336,
+        12887,
+        13153
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0001"
+    }
+}

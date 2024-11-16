@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0007.flac",
+    "text": "NOT UNTIL THE HEAVENS WERE IN THE PROPER ORDER COULD THEY PERFORM THIS NECROMANCY",
+    "tokens": [
+        11929,
+        4725,
+        51,
+        4146,
+        3336,
+        11179,
+        10116,
+        16938,
+        370,
+        9338,
+        3268,
+        3336,
+        4810,
+        31054,
+        38678,
+        327,
+        24010,
+        33302,
+        19878,
+        21389,
+        12680,
+        41804,
+        33676,
+        20940,
+        56
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "118436",
+        "file_id": "251-118436-0007"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0016.flac",
+    "text": "ILLUSTRATION MAIZE PLANT",
+    "tokens": [
+        8267,
+        7759,
+        49,
+        6234,
+        8779,
+        35400,
+        9297,
+        8643
+    ],
+    "metadata": {
+        "speaker_id": "2078",
+        "chapter_id": "142845",
+        "file_id": "2078-142845-0016"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0016.flac",
+    "text": "I AM NOT A MAN WHO CAN LIVE TWO LIVES HE WENT ON FEVERISHLY EACH LIFE SPOILS THE OTHER",
+    "tokens": [
+        40,
+        3001,
+        5626,
+        317,
+        17254,
+        19494,
+        15628,
+        28323,
+        35288,
+        406,
+        42472,
+        11179,
+        370,
+        3525,
+        6177,
+        18630,
+        5959,
+        1797,
+        6581,
+        56,
+        412,
+        16219,
+        36821,
+        6226,
+        46,
+        45484,
+        3336,
+        25401
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0016"
+    }
+}

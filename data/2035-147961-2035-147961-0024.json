@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0024.flac",
+    "text": "THERE ARE ONLY THREE SLEDGES LEFT HE WHISPERED",
+    "tokens": [
+        4221,
+        9338,
+        15986,
+        22224,
+        48697,
+        12419,
+        1961,
+        48075,
+        12509,
+        9792,
+        11179,
+        7655,
+        1797,
+        18973,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0024"
+    }
+}

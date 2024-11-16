@@ -1,0 +1,41 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0003.flac",
+    "text": "WHEN ARE YOU GETTING RID OF THESE CATS I'M NOT FIXING TO START AN ANNEX TO KATE'S CAT HOME",
+    "tokens": [
+        12418,
+        1677,
+        15986,
+        7013,
+        17151,
+        48996,
+        371,
+        2389,
+        3963,
+        48947,
+        327,
+        33586,
+        314,
+        6,
+        44,
+        5626,
+        44855,
+        2751,
+        5390,
+        33303,
+        3537,
+        40126,
+        6369,
+        5390,
+        509,
+        6158,
+        6,
+        50,
+        38348,
+        41779
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0003"
+    }
+}

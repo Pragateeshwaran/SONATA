@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0036.flac",
+    "text": "SO HERE IT WAS SPREAD OUT CLEAR BEFORE HIM AND NOW HE KNEW WHAT TO EXPECT",
+    "tokens": [
+        15821,
+        15698,
+        7283,
+        21725,
+        6226,
+        15675,
+        16289,
+        30301,
+        1503,
+        38331,
+        45909,
+        5357,
+        20229,
+        11179,
+        509,
+        13965,
+        25003,
+        5390,
+        25703,
+        9782
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0036"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0023.flac",
+    "text": "SHE ASKED DIRECTLY IF HER FATHER WAS DEAD",
+    "tokens": [
+        9693,
+        36,
+        7054,
+        42,
+        1961,
+        42242,
+        11319,
+        16876,
+        24906,
+        376,
+        45226,
+        21725,
+        42533
+    ],
+    "metadata": {
+        "speaker_id": "8297",
+        "chapter_id": "275155",
+        "file_id": "8297-275155-0023"
+    }
+}

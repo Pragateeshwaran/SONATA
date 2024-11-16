@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0013.flac",
+    "text": "SHE HAD LOST HIM YEARS AND YEARS BEFORE AND NOW SHE SAW HIM HE WAS THERE AND SHE KNEW HIM",
+    "tokens": [
+        9693,
+        36,
+        367,
+        2885,
+        406,
+        10892,
+        45909,
+        32914,
+        50,
+        5357,
+        32914,
+        50,
+        38331,
+        5357,
+        20229,
+        48052,
+        311,
+        12298,
+        45909,
+        11179,
+        21725,
+        34702,
+        5357,
+        48052,
+        509,
+        13965,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "64257",
+        "file_id": "6345-64257-0013"
+    }
+}

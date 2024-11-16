@@ -1,0 +1,22 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0060.flac",
+    "text": "AND SHE SPEAKS OF NO WEAPON",
+    "tokens": [
+        6981,
+        48052,
+        6226,
+        36,
+        10206,
+        50,
+        3963,
+        8005,
+        12887,
+        2969,
+        1340
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0060"
+    }
+}

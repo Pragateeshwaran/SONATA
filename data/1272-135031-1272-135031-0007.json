@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0007.flac",
+    "text": "HE EATS AND SLEEPS VERY STEADILY REPLIED THE NEW KING",
+    "tokens": [
+        13909,
+        412,
+        33586,
+        5357,
+        311,
+        2538,
+        36,
+        3705,
+        29550,
+        24483,
+        2885,
+        33340,
+        45285,
+        19767,
+        3336,
+        12682,
+        32957
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "135031",
+        "file_id": "1272-135031-0007"
+    }
+}

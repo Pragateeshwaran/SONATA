@@ -1,0 +1,13 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0008.flac",
+    "text": "GEORGE",
+    "tokens": [
+        8264,
+        49697
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0008"
+    }
+}

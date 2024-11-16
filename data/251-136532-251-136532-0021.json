@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0021.flac",
+    "text": "SO I BELIEVE I SHALL GO BACK AT LEAST FOR A WHILE AND SEE WHAT I CAN DO",
+    "tokens": [
+        15821,
+        314,
+        29991,
+        10008,
+        6089,
+        314,
+        50163,
+        10351,
+        28767,
+        5161,
+        12509,
+        11262,
+        7473,
+        317,
+        7655,
+        41119,
+        5357,
+        31107,
+        25003,
+        314,
+        15628,
+        8410
+    ],
+    "metadata": {
+        "speaker_id": "251",
+        "chapter_id": "136532",
+        "file_id": "251-136532-0021"
+    }
+}

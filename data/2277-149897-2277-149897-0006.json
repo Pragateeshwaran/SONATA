@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0006.flac",
+    "text": "THEN HE CALLED HARRY THE BOY OF ALL WORK AROUND THE PLACE",
+    "tokens": [
+        4221,
+        1677,
+        11179,
+        42815,
+        1961,
+        43638,
+        18276,
+        3336,
+        16494,
+        56,
+        3963,
+        11096,
+        30936,
+        5923,
+        15919,
+        3336,
+        9297,
+        11598
+    ],
+    "metadata": {
+        "speaker_id": "2277",
+        "chapter_id": "149897",
+        "file_id": "2277-149897-0006"
+    }
+}

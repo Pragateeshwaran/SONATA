@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0010.flac",
+    "text": "SHE WAS LOST LOST UTTERLY WITH AN ETERNAL LOSS",
+    "tokens": [
+        9693,
+        36,
+        21725,
+        406,
+        10892,
+        406,
+        10892,
+        19255,
+        5781,
+        11319,
+        13315,
+        3537,
+        412,
+        31800,
+        1847,
+        406,
+        18420
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "64257",
+        "file_id": "6345-64257-0010"
+    }
+}

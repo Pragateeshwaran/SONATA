@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0018.flac",
+    "text": "I NOTICED HOW WHITE AND WELL SHAPED HIS OWN HANDS WERE",
+    "tokens": [
+        40,
+        5626,
+        2149,
+        1961,
+        29630,
+        44925,
+        5357,
+        12887,
+        3069,
+        6006,
+        2969,
+        1961,
+        33700,
+        47672,
+        367,
+        1565,
+        5258,
+        370,
+        9338
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "147956",
+        "file_id": "1988-147956-0018"
+    }
+}

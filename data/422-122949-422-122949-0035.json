@@ -1,0 +1,32 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\422\\122949\\422-122949-0035.flac",
+    "text": "AND TO CHOOSE FOR COMPANY THAT ROGUISH AND CHEERFUL VICE POLITENESS",
+    "tokens": [
+        6981,
+        5390,
+        49143,
+        14058,
+        7473,
+        24301,
+        31827,
+        14603,
+        371,
+        7730,
+        52,
+        18422,
+        5357,
+        5870,
+        36,
+        1137,
+        46476,
+        46304,
+        32082,
+        1677,
+        7597
+    ],
+    "metadata": {
+        "speaker_id": "422",
+        "chapter_id": "122949",
+        "file_id": "422-122949-0035"
+    }
+}

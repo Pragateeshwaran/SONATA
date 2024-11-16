@@ -1,0 +1,16 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0016.flac",
+    "text": "TEN SECONDS",
+    "tokens": [
+        51,
+        1677,
+        10729,
+        1340,
+        5258
+    ],
+    "metadata": {
+        "speaker_id": "1272",
+        "chapter_id": "141231",
+        "file_id": "1272-141231-0016"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0017.flac",
+    "text": "THE YANKEES MARCHED OVER THE HILL OUT OF SIGHT",
+    "tokens": [
+        10970,
+        575,
+        1565,
+        7336,
+        1546,
+        18805,
+        3398,
+        1961,
+        28729,
+        3336,
+        367,
+        8267,
+        16289,
+        3963,
+        311,
+        9947
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0017"
+    }
+}

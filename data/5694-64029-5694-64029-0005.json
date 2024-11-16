@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0005.flac",
+    "text": "I AM A VIDET YOU KNOW THE RESPONSIBILITY RESTING ON ME",
+    "tokens": [
+        40,
+        3001,
+        317,
+        32247,
+        2767,
+        7013,
+        35876,
+        3336,
+        47203,
+        1340,
+        11584,
+        25382,
+        30617,
+        2751,
+        6177,
+        11948
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0005"
+    }
+}

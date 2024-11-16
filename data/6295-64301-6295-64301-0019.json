@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0019.flac",
+    "text": "IT CRIED ALOUD THAT ETERNITY WAS VERY LONG AND LIKE A GREAT PALACE WITHOUT A QUIET ROOM",
+    "tokens": [
+        2043,
+        327,
+        7112,
+        1961,
+        8355,
+        2606,
+        35,
+        14603,
+        412,
+        31800,
+        9050,
+        21725,
+        29550,
+        44533,
+        5357,
+        34178,
+        317,
+        37853,
+        40795,
+        11598,
+        42881,
+        317,
+        1195,
+        10080,
+        2767,
+        15107,
+        2662
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "64301",
+        "file_id": "6295-64301-0019"
+    }
+}

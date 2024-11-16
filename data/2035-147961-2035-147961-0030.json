@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0030.flac",
+    "text": "PAVEL KNOCKED HIM OVER THE SIDE OF THE SLEDGE AND THREW THE GIRL AFTER HIM",
+    "tokens": [
+        4537,
+        18697,
+        22466,
+        11290,
+        1961,
+        45909,
+        28729,
+        3336,
+        311,
+        14114,
+        3963,
+        3336,
+        12419,
+        1961,
+        8264,
+        5357,
+        2320,
+        2200,
+        54,
+        3336,
+        402,
+        4663,
+        43,
+        36050,
+        45909
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0030"
+    }
+}

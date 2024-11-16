@@ -1,0 +1,38 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0011.flac",
+    "text": "THE JAILER MAY FORGET THAT HE IS ON GUARD THE PRISONER NEVER FORGETS THAT HE IS GUARDED",
+    "tokens": [
+        10970,
+        41722,
+        4146,
+        1137,
+        26720,
+        7473,
+        18851,
+        14603,
+        11179,
+        3180,
+        6177,
+        19348,
+        9795,
+        3336,
+        4810,
+        39960,
+        1137,
+        33602,
+        7473,
+        18851,
+        50,
+        14603,
+        11179,
+        3180,
+        19348,
+        9795,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "2803",
+        "chapter_id": "154328",
+        "file_id": "2803-154328-0011"
+    }
+}

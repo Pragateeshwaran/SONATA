@@ -1,0 +1,37 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0073.flac",
+    "text": "HE ISN'T FIT TO HEAR WHAT'S SAID HERE HE BELIEVES IT'S ALL TRUE",
+    "tokens": [
+        13909,
+        3180,
+        45,
+        6,
+        51,
+        376,
+        2043,
+        5390,
+        11179,
+        1503,
+        25003,
+        6,
+        50,
+        14719,
+        2389,
+        15698,
+        11179,
+        29991,
+        10008,
+        53,
+        1546,
+        7283,
+        6,
+        50,
+        11096,
+        26751
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0073"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0021.flac",
+    "text": "ALL THE SAME HE ADDED IRRELEVANTLY YOU SHALL HAVE THE LATCH KEY",
+    "tokens": [
+        7036,
+        3336,
+        311,
+        10067,
+        11179,
+        27841,
+        1961,
+        14826,
+        2200,
+        2538,
+        53,
+        8643,
+        11319,
+        7013,
+        50163,
+        21515,
+        3336,
+        406,
+        11417,
+        35374
+    ],
+    "metadata": {
+        "speaker_id": "6345",
+        "chapter_id": "93306",
+        "file_id": "6345-93306-0021"
+    }
+}

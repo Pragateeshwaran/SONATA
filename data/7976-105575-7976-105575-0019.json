@@ -1,0 +1,33 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0019.flac",
+    "text": "MY FRIEND WITH MANY OTHERS WAS BEING CARRIED OUT TO DIE ELSEWHERE",
+    "tokens": [
+        26708,
+        48167,
+        10619,
+        13315,
+        17254,
+        56,
+        440,
+        4221,
+        4877,
+        21725,
+        9348,
+        2751,
+        17368,
+        7112,
+        1961,
+        16289,
+        5390,
+        360,
+        10008,
+        17852,
+        5188,
+        47357
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "105575",
+        "file_id": "7976-105575-0019"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0049.flac",
+    "text": "DAMN YOUR IMPERTINENCE SIR BURST OUT BURGESS",
+    "tokens": [
+        35,
+        2390,
+        45,
+        16592,
+        30023,
+        17395,
+        1268,
+        18310,
+        311,
+        4663,
+        45604,
+        2257,
+        16289,
+        45604,
+        38,
+        7597
+    ],
+    "metadata": {
+        "speaker_id": "3752",
+        "chapter_id": "4944",
+        "file_id": "3752-4944-0049"
+    }
+}

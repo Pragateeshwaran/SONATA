@@ -1,0 +1,28 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0034.flac",
+    "text": "THAT WAS WHAT MISSUS MACPHERSON SAID TO ME ONLY THE OTHER DAY",
+    "tokens": [
+        4221,
+        1404,
+        21725,
+        25003,
+        49684,
+        2937,
+        20582,
+        11909,
+        29086,
+        14719,
+        2389,
+        5390,
+        11948,
+        22224,
+        3336,
+        25401,
+        24644
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0034"
+    }
+}

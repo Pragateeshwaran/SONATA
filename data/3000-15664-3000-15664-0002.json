@@ -1,0 +1,40 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0002.flac",
+    "text": "PERHAPS THE PROFESSION OF DOING GOOD MAY BE FULL BUT EVERY BODY SHOULD BE KIND AT LEAST TO HIMSELF",
+    "tokens": [
+        18973,
+        39,
+        44580,
+        3336,
+        4810,
+        19238,
+        47621,
+        3963,
+        8410,
+        2751,
+        21090,
+        26720,
+        9348,
+        34958,
+        21728,
+        27222,
+        347,
+        33076,
+        40312,
+        9348,
+        509,
+        12115,
+        5161,
+        12509,
+        11262,
+        5390,
+        45909,
+        50,
+        37738
+    ],
+    "metadata": {
+        "speaker_id": "3000",
+        "chapter_id": "15664",
+        "file_id": "3000-15664-0002"
+    }
+}

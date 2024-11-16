@@ -1,0 +1,35 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0001.flac",
+    "text": "HUGH'S WRITTEN A DELIGHTFUL PART FOR HER AND SHE'S QUITE INEXPRESSIBLE",
+    "tokens": [
+        39,
+        44004,
+        6,
+        50,
+        11342,
+        22470,
+        1677,
+        317,
+        28163,
+        9947,
+        46476,
+        16652,
+        7473,
+        24906,
+        5357,
+        48052,
+        6,
+        50,
+        19604,
+        12709,
+        3268,
+        6369,
+        32761,
+        34563
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0001"
+    }
+}

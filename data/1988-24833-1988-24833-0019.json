@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0019.flac",
+    "text": "I LOOK AT MY WATCH IT'S A QUARTER TO ELEVEN",
+    "tokens": [
+        40,
+        48045,
+        5161,
+        17615,
+        16518,
+        7283,
+        6,
+        50,
+        317,
+        19604,
+        1503,
+        5781,
+        5390,
+        40342,
+        28290
+    ],
+    "metadata": {
+        "speaker_id": "1988",
+        "chapter_id": "24833",
+        "file_id": "1988-24833-0019"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0072.flac",
+    "text": "ASK KARL YUNDT HE GROWLED SAVAGELY",
+    "tokens": [
+        1921,
+        42,
+        509,
+        1503,
+        43,
+        575,
+        4944,
+        24544,
+        11179,
+        10863,
+        3913,
+        30465,
+        311,
+        10116,
+        4760,
+        30943
+    ],
+    "metadata": {
+        "speaker_id": "777",
+        "chapter_id": "126732",
+        "file_id": "777-126732-0072"
+    }
+}

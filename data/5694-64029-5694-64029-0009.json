@@ -1,0 +1,31 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0009.flac",
+    "text": "I MADE A QUICK GLANCE OVER MY SHOULDER AND GRABBED AT MY GUN",
+    "tokens": [
+        40,
+        337,
+        19266,
+        317,
+        19604,
+        11860,
+        10188,
+        19240,
+        28729,
+        17615,
+        40312,
+        1137,
+        5357,
+        402,
+        3861,
+        15199,
+        1961,
+        5161,
+        17615,
+        43794
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0009"
+    }
+}

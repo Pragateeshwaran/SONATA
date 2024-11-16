@@ -1,0 +1,29 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0059.flac",
+    "text": "I SUPPOSE SHE HAS BEEN CAREFULLY QUESTIONED VERY I SHOULD SAY",
+    "tokens": [
+        40,
+        19549,
+        48933,
+        48052,
+        33930,
+        9348,
+        1677,
+        47342,
+        37,
+        9994,
+        56,
+        43658,
+        2849,
+        1961,
+        29550,
+        314,
+        40312,
+        45687
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0059"
+    }
+}

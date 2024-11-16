@@ -1,0 +1,34 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0041.flac",
+    "text": "A SECOND COUSIN OF MARY ANN'S IS IN THE COOK'S TOURS LINE",
+    "tokens": [
+        32,
+        10729,
+        18672,
+        327,
+        20958,
+        1268,
+        3963,
+        337,
+        13153,
+        40126,
+        6,
+        50,
+        3180,
+        3268,
+        3336,
+        327,
+        15308,
+        6,
+        50,
+        309,
+        2606,
+        6998,
+        48920
+    ],
+    "metadata": {
+        "speaker_id": "2428",
+        "chapter_id": "83705",
+        "file_id": "2428-83705-0041"
+    }
+}

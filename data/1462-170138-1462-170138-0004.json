@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0004.flac",
+    "text": "MYSELF I ALWAYS KNEW SHE HAD IT IN HER",
+    "tokens": [
+        44,
+        16309,
+        37738,
+        314,
+        49576,
+        509,
+        13965,
+        48052,
+        367,
+        2885,
+        7283,
+        3268,
+        24906
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170138",
+        "file_id": "1462-170138-0004"
+    }
+}

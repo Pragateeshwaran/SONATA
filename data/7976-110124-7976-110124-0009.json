@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0009.flac",
+    "text": "BUI WE SHOULD NOT FORGET OUR PROMISE TO OUR FATHER CRIED THE YOUNGEST DAUGHTER",
+    "tokens": [
+        33,
+        10080,
+        12887,
+        40312,
+        5626,
+        7473,
+        18851,
+        30229,
+        4810,
+        2662,
+        24352,
+        5390,
+        30229,
+        376,
+        45226,
+        327,
+        7112,
+        1961,
+        3336,
+        7013,
+        10503,
+        6465,
+        17051,
+        44004,
+        5781
+    ],
+    "metadata": {
+        "speaker_id": "7976",
+        "chapter_id": "110124",
+        "file_id": "7976-110124-0009"
+    }
+}

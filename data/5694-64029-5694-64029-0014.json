@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0014.flac",
+    "text": "BAD GENERALSHIP I THOUGHT IT WAS CHRISTMAS",
+    "tokens": [
+        33,
+        2885,
+        41877,
+        49423,
+        314,
+        2320,
+        2606,
+        38,
+        6535,
+        7283,
+        21725,
+        48354,
+        31180
+    ],
+    "metadata": {
+        "speaker_id": "5694",
+        "chapter_id": "64029",
+        "file_id": "5694-64029-0014"
+    }
+}

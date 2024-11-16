@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0004.flac",
+    "text": "FERDINAND FELT HIS FREEDOM AS WELL AS HIS HAPPINESS",
+    "tokens": [
+        24302,
+        35,
+        1268,
+        6981,
+        376,
+        3698,
+        51,
+        33700,
+        44253,
+        1961,
+        2662,
+        7054,
+        12887,
+        3069,
+        7054,
+        33700,
+        367,
+        24805,
+        44180
+    ],
+    "metadata": {
+        "speaker_id": "7850",
+        "chapter_id": "73752",
+        "file_id": "7850-73752-0004"
+    }
+}

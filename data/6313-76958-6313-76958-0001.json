@@ -1,0 +1,25 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0001.flac",
+    "text": "EVEN IF I CAN'T SING I CAN BEAT THAT",
+    "tokens": [
+        20114,
+        1677,
+        16876,
+        314,
+        15628,
+        6,
+        51,
+        311,
+        2751,
+        314,
+        15628,
+        9348,
+        1404,
+        14603
+    ],
+    "metadata": {
+        "speaker_id": "6313",
+        "chapter_id": "76958",
+        "file_id": "6313-76958-0001"
+    }
+}

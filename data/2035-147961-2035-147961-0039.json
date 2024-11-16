@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0039.flac",
+    "text": "WHEN HE WAS OUT HUNTING HE USED TO GO INTO THE EMPTY LOG HOUSE AND SIT THERE BROODING",
+    "tokens": [
+        12418,
+        1677,
+        11179,
+        21725,
+        16289,
+        41041,
+        48996,
+        11179,
+        1294,
+        1961,
+        5390,
+        10351,
+        39319,
+        3336,
+        38144,
+        9936,
+        41605,
+        46586,
+        5357,
+        311,
+        2043,
+        34702,
+        11177,
+        22808,
+        2751
+    ],
+    "metadata": {
+        "speaker_id": "2035",
+        "chapter_id": "147961",
+        "file_id": "2035-147961-0039"
+    }
+}

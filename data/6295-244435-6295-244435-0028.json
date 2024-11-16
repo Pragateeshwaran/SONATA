@@ -1,0 +1,24 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0028.flac",
+    "text": "HE SOON LEFT CHARLESTON OUT OF SIGHT",
+    "tokens": [
+        13909,
+        12809,
+        1340,
+        12509,
+        9792,
+        28521,
+        43,
+        6465,
+        1340,
+        16289,
+        3963,
+        311,
+        9947
+    ],
+    "metadata": {
+        "speaker_id": "6295",
+        "chapter_id": "244435",
+        "file_id": "6295-244435-0028"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0042.flac",
+    "text": "DON'T CRY DON'T CRY HE WHISPERED",
+    "tokens": [
+        41173,
+        6,
+        51,
+        8740,
+        56,
+        23917,
+        6,
+        51,
+        8740,
+        56,
+        11179,
+        7655,
+        1797,
+        18973,
+        1961
+    ],
+    "metadata": {
+        "speaker_id": "1462",
+        "chapter_id": "170142",
+        "file_id": "1462-170142-0042"
+    }
+}

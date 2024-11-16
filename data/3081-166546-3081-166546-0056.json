@@ -1,0 +1,26 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0056.flac",
+    "text": "WHO CAME NEXT ON THE SCENE SOME PEOPLE FROM THE LOBBY",
+    "tokens": [
+        41856,
+        327,
+        10067,
+        39726,
+        6177,
+        3336,
+        6374,
+        39267,
+        41670,
+        36388,
+        16034,
+        3336,
+        406,
+        9864,
+        17513
+    ],
+    "metadata": {
+        "speaker_id": "3081",
+        "chapter_id": "166546",
+        "file_id": "3081-166546-0056"
+    }
+}

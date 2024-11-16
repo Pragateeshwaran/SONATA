@@ -1,0 +1,36 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0008.flac",
+    "text": "AT THESE BLASPHEMOUS SOUNDS THE PILLARS OF THE SANCTUARY WERE SHAKEN",
+    "tokens": [
+        1404,
+        48947,
+        9878,
+        1921,
+        11909,
+        3620,
+        20958,
+        311,
+        19385,
+        5258,
+        3336,
+        350,
+        8267,
+        27415,
+        3963,
+        3336,
+        37376,
+        4177,
+        52,
+        13153,
+        370,
+        9338,
+        6006,
+        10206,
+        1677
+    ],
+    "metadata": {
+        "speaker_id": "1673",
+        "chapter_id": "143397",
+        "file_id": "1673-143397-0008"
+    }
+}

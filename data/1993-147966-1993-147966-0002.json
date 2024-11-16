@@ -1,0 +1,30 @@
+{
+    "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147966\\1993-147966-0002.flac",
+    "text": "YOUR MAMA I SAID ANGRILY WANTS OTHER PEOPLE'S THINGS",
+    "tokens": [
+        56,
+        11698,
+        337,
+        25087,
+        314,
+        14719,
+        2389,
+        3537,
+        10761,
+        33340,
+        370,
+        1565,
+        4694,
+        25401,
+        36388,
+        6,
+        50,
+        2320,
+        20754
+    ],
+    "metadata": {
+        "speaker_id": "1993",
+        "chapter_id": "147966",
+        "file_id": "1993-147966-0002"
+    }
+}
