@@ -7,7 +7,7 @@ base_dir = r'dev-clean\LibriSpeech\dev-clean'
 storage_dir = r'./data'
 
 # Initialize tiktoken encoder
-encoder = tiktoken.get_encoding("gpt2")  # Using OpenAI's GPT-4 encoding
+encoder = tiktoken.get_encoding("gpt2")  # Using OpenAI's GPT-2 encoding
 
 # Initialize the final dictionary to store the mappings
 audio_text_mapping = {}
