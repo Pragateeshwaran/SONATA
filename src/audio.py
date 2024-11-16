@@ -77,7 +77,7 @@ def mel_filters(n_mels: int) -> torch.Tensor:
     Returns:
     - A PyTorch tensor containing the Mel filterbank matrix.
     """
-    filters_path = os.path.join(r'F:\works\A-important\A-neurals\CoLiX\src', "assets", "mel_filters.npz")
+    filters_path = os.path.join(r'src', "assets", "mel_filters.npz")
     with np.load(filters_path) as f:
         mel_filter = f[f"mel_{n_mels}"]
     return torch.from_numpy(mel_filter)
