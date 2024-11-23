@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0013.flac",
-    "text": "MASS SUICIDE THAT'S WHAT IT WAS NOTICE WHAT'S IN THE CORNERS",
+    "text": "<|startoftext|> MASS SUICIDE THAT'S WHAT IT WAS NOTICE WHAT'S IN THE CORNERS <|endoftext|>",
     "tokens": [
+        50255,
         44,
         10705,
         13558,
@@ -21,7 +22,8 @@
         3336,
         23929,
         45,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

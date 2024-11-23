@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0003.flac",
-    "text": "THERE HAD BEEN ANOTHER BLACK FROST THE NIGHT BEFORE AND THE AIR WAS CLEAR AND HEADY AS WINE",
+    "text": "<|startoftext|> THERE HAD BEEN ANOTHER BLACK FROST THE NIGHT BEFORE AND THE AIR WAS CLEAR AND HEADY AS WINE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         367,
@@ -27,7 +28,8 @@
         56,
         7054,
         370,
-        8881
+        8881,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

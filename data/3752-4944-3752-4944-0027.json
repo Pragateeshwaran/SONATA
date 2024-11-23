@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0027.flac",
-    "text": "BEFORE THE TWO CLERGYMEN HAD GOT HALF WAY DOWN THE STEEP PATH THAT LED FROM THE COMMANDANT'S HOUSE TO THE FLAT ON WHICH THE COTTAGES OF THE DOCTOR AND CHAPLAIN WERE BUILT MACKLEWAIN REJOINED THEM",
+    "text": "<|startoftext|> BEFORE THE TWO CLERGYMEN HAD GOT HALF WAY DOWN THE STEEP PATH THAT LED FROM THE COMMANDANT'S HOUSE TO THE FLAT ON WHICH THE COTTAGES OF THE DOCTOR AND CHAPLAIN WERE BUILT MACKLEWAIN REJOINED THEM <|endoftext|>",
     "tokens": [
+        50255,
         12473,
         30818,
         3336,
@@ -66,7 +67,8 @@
         45006,
         1268,
         1961,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

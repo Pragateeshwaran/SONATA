@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0004.flac",
-    "text": "ELECTRONIC EQUIPMENT CASCADED FROM THE WALL SHELVES AND A HEAVY DUTY CHAIN HOIST CAME LOOSE FROM ITS OVERHEAD TRACK PLUNGING TO THE FLOOR WITH A TERRIFYING CRASH",
+    "text": "<|startoftext|> ELECTRONIC EQUIPMENT CASCADED FROM THE WALL SHELVES AND A HEAVY DUTY CHAIN HOIST CAME LOOSE FROM ITS OVERHEAD TRACK PLUNGING TO THE FLOOR WITH A TERRIFYING CRASH <|endoftext|>",
     "tokens": [
+        50255,
         36,
         16779,
         45806,
@@ -59,7 +60,8 @@
         5064,
         45761,
         8740,
-        11211
+        11211,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

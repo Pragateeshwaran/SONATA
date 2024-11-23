@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0012.flac",
-    "text": "WHEN HE BECOMES AN OLD MAN HE LOVES TO MAKE A NOTABLE EFFORT TO PROVE HIS GRATITUDE",
+    "text": "<|startoftext|> WHEN HE BECOMES AN OLD MAN HE LOVES TO MAKE A NOTABLE EFFORT TO PROVE HIS GRATITUDE <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         11179,
@@ -32,7 +33,8 @@
         1404,
         2043,
         52,
-        7206
+        7206,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

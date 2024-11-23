@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0009.flac",
-    "text": "THE MOST GIFTED INDIVIDUALS IN THE LAND EMULATED EACH OTHER IN PROVING WHICH ENTERTAINED FOR HIM THE MOST SINCERE AFFECTION",
+    "text": "<|startoftext|> THE MOST GIFTED INDIVIDUALS IN THE LAND EMULATED EACH OTHER IN PROVING WHICH ENTERTAINED FOR HIM THE MOST SINCERE AFFECTION <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         337,
         10892,
@@ -40,7 +41,8 @@
         9338,
         317,
         5777,
-        24565
+        24565,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

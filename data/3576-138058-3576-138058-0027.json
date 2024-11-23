@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0027.flac",
-    "text": "THE SERVANTS WEPT CLAUDIA SWOONED AWAY AGAIN AND AGAIN AND THE WHOLE PLACE SEEMED A FIELD OF SORROW AND AN ABODE OF MISFORTUNE",
+    "text": "<|startoftext|> THE SERVANTS WEPT CLAUDIA SWOONED AWAY AGAIN AND AGAIN AND THE WHOLE PLACE SEEMED A FIELD OF SORROW AND AN ABODE OF MISFORTUNE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         42887,
         1565,
@@ -48,7 +49,8 @@
         50029,
         37,
         9863,
-        41884
+        41884,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0010.flac",
-    "text": "NEAR THE FIRE AND THE ORNAMENTS FRED BROUGHT HOME FROM INDIA ON THE MANTEL BOARD",
+    "text": "<|startoftext|> NEAR THE FIRE AND THE ORNAMENTS FRED BROUGHT HOME FROM INDIA ON THE MANTEL BOARD <|endoftext|>",
     "tokens": [
+        50255,
         12161,
         1503,
         3336,
@@ -28,7 +29,8 @@
         8643,
         3698,
         16494,
-        9795
+        9795,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

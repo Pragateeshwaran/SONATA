@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0000.flac",
-    "text": "A PERSON WOULD THINK THAT AFTER A FAMILY HAD LIVED SO LONG IN A PLACE ALL THE NEIGHBORS WOULD BE FOND OF THEM YET IT IS NOT SO",
+    "text": "<|startoftext|> A PERSON WOULD THINK THAT AFTER A FAMILY HAD LIVED SO LONG IN A PLACE ALL THE NEIGHBORS WOULD BE FOND OF THEM YET IT IS NOT SO <|endoftext|>",
     "tokens": [
+        50255,
         32,
         46740,
         370,
@@ -42,7 +43,8 @@
         7283,
         3180,
         5626,
-        12809
+        12809,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

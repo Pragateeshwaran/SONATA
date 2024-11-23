@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0020.flac",
-    "text": "SHE BIT HER LIP AND LOOKED DOWN AT HER HANDS WHICH WERE CLASPED TIGHTLY IN FRONT OF HER",
+    "text": "<|startoftext|> SHE BIT HER LIP AND LOOKED DOWN AT HER HANDS WHICH WERE CLASPED TIGHTLY IN FRONT OF HER <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         36992,
@@ -32,7 +33,8 @@
         8782,
         35830,
         3963,
-        24906
+        24906,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

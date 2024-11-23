@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0008.flac",
-    "text": "SO THEY FOLLOWED HER THROUGH THE LOW ARCHWAY AND IN A ROOM BEYOND VERY SIMPLY FURNISHED SAT A YOUNG GIRL ENGAGED IN DARNING A PAIR OF PINK STOCKINGS",
+    "text": "<|startoftext|> SO THEY FOLLOWED HER THROUGH THE LOW ARCHWAY AND IN A ROOM BEYOND VERY SIMPLY FURNISHED SAT A YOUNG GIRL ENGAGED IN DARNING A PAIR OF PINK STOCKINGS <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         33302,
         11895,
@@ -52,7 +53,8 @@
         17248,
         3563,
         11290,
-        20754
+        20754,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

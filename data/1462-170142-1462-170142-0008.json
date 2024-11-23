@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0008.flac",
-    "text": "WHEN DID YOU COME BARTLEY AND HOW DID IT HAPPEN YOU HAVEN'T SPOKEN A WORD",
+    "text": "<|startoftext|> WHEN DID YOU COME BARTLEY AND HOW DID IT HAPPEN YOU HAVEN'T SPOKEN A WORD <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         35697,
@@ -28,7 +29,8 @@
         1677,
         317,
         370,
-        12532
+        12532,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

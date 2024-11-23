@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0017.flac",
-    "text": "I HEAR THE T V GOING FOR A FEW MINUTES THEN POP TURNS IT OFF AND GOES IN THE KITCHEN TO TALK TO MOM",
+    "text": "<|startoftext|> I HEAR THE T V GOING FOR A FEW MINUTES THEN POP TURNS IT OFF AND GOES IN THE KITCHEN TO TALK TO MOM <|endoftext|>",
     "tokens": [
+        50255,
         40,
         11179,
         1503,
@@ -37,7 +38,8 @@
         28082,
         5390,
         337,
-        2662
+        2662,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

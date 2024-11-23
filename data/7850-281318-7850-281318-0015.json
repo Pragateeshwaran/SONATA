@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0015.flac",
-    "text": "I THOUGHT THAT WAS THE WAY TO BEGIN",
+    "text": "<|startoftext|> I THOUGHT THAT WAS THE WAY TO BEGIN <|endoftext|>",
     "tokens": [
+        50255,
         40,
         2320,
         2606,
@@ -13,7 +14,8 @@
         34882,
         5390,
         347,
-        43312
+        43312,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

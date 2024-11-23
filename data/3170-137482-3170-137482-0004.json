@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0004.flac",
-    "text": "OUR SCANDALOUS PROCEEDINGS OFTEN EXPOSED US TO THE GREATEST DANGER",
+    "text": "<|startoftext|> OUR SCANDALOUS PROCEEDINGS OFTEN EXPOSED US TO THE GREATEST DANGER <|endoftext|>",
     "tokens": [
+        50255,
         11698,
         6374,
         6981,
@@ -22,7 +23,8 @@
         6465,
         360,
         15567,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0010.flac",
-    "text": "O WISE MOTHER MAGPIE DEAR MOTHER MAGPIE THEY CRIED TEACH US HOW TO BUILD OUR NESTS LIKE YOURS FOR IT IS GROWING NIGHT AND WE ARE TIRED AND SLEEPY",
+    "text": "<|startoftext|> O WISE MOTHER MAGPIE DEAR MOTHER MAGPIE THEY CRIED TEACH US HOW TO BUILD OUR NESTS LIKE YOURS FOR IT IS GROWING NIGHT AND WE ARE TIRED AND SLEEPY <|endoftext|>",
     "tokens": [
+        50255,
         46,
         370,
         24352,
@@ -50,7 +51,8 @@
         311,
         2538,
         8905,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

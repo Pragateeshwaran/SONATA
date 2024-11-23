@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0007.flac",
-    "text": "THE ASTONISHMENT WITH WHICH THE VILLAGERS REGARDED THIS MACHINE WAS OVERWHELMING",
+    "text": "<|startoftext|> THE ASTONISHMENT WITH WHICH THE VILLAGERS REGARDED THIS MACHINE WAS OVERWHELMING <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         29273,
         1340,
@@ -27,7 +28,8 @@
         12418,
         3698,
         44,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

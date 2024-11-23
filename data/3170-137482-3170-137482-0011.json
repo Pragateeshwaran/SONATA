@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0011.flac",
-    "text": "THE WAITER OF THE MAGAZZINO CAME TO BE PAID AND OUR CHIEF GAVE HIM WHAT WAS DUE ENJOINING SILENCE UNDER PENALTY OF DEATH",
+    "text": "<|startoftext|> THE WAITER OF THE MAGAZZINO CAME TO BE PAID AND OUR CHIEF GAVE HIM WHAT WAS DUE ENJOINING SILENCE UNDER PENALTY OF DEATH <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         16400,
         2043,
@@ -43,7 +44,8 @@
         9936,
         3963,
         5550,
-        12599
+        12599,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

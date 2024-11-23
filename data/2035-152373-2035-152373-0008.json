@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0008.flac",
-    "text": "AS LEADING TO THE MENTION OF OTHER INTERESTING EVENTS WE MUST SET THIS INROAD CLEARLY BEFORE THE READER",
+    "text": "<|startoftext|> AS LEADING TO THE MENTION OF OTHER INTERESTING EVENTS WE MUST SET THIS INROAD CLEARLY BEFORE THE READER <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         12509,
         2885,
@@ -29,7 +30,8 @@
         38331,
         3336,
         20832,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

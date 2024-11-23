@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0005.flac",
-    "text": "THEY VERY RARELY SUCCEED IN A GOOD SHOW OF YELLOW",
+    "text": "<|startoftext|> THEY VERY RARELY SUCCEED IN A GOOD SHOW OF YELLOW <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         29550,
@@ -18,7 +19,8 @@
         3963,
         575,
         23304,
-        3913
+        3913,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0030.flac",
-    "text": "BUT BY THE LARGESS OF CELESTIAL GRACES WHICH HAVE SUCH LOFTY VAPOURS FOR THEIR RAIN THAT NEAR TO THEM OUR SIGHT APPROACHES NOT",
+    "text": "<|startoftext|> BUT BY THE LARGESS OF CELESTIAL GRACES WHICH HAVE SUCH LOFTY VAPOURS FOR THEIR RAIN THAT NEAR TO THEM OUR SIGHT APPROACHES NOT <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         11050,
         3336,
@@ -44,7 +45,8 @@
         31190,
         16219,
         1546,
-        5626
+        5626,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

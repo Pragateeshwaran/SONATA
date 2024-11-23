@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0025.flac",
-    "text": "HILDA'S FACE QUIVERED BUT SHE WHISPERED YES I THINK IT MUST HAVE BEEN",
+    "text": "<|startoftext|> HILDA'S FACE QUIVERED BUT SHE WHISPERED YES I THINK IT MUST HAVE BEEN <|endoftext|>",
     "tokens": [
+        50255,
         39,
         4146,
         5631,
@@ -25,7 +26,8 @@
         17191,
         21515,
         9348,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

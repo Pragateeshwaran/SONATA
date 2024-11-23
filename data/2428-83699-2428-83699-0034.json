@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0034.flac",
-    "text": "PRESENTLY FEET WERE HEARD ADVANCING ALONG THE PASSAGE SEVERAL PAIRS IT SEEMED AND A LIGHT GLEAMED THROUGH THE WINDOW OVER THE DOOR",
+    "text": "<|startoftext|> PRESENTLY FEET WERE HEARD ADVANCING ALONG THE PASSAGE SEVERAL PAIRS IT SEEMED AND A LIGHT GLEAMED THROUGH THE WINDOW OVER THE DOOR <|endoftext|>",
     "tokens": [
+        50255,
         48296,
         3525,
         11319,
@@ -48,7 +49,8 @@
         28729,
         3336,
         8410,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

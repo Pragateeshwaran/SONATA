@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0037.flac",
-    "text": "I CANNOT PRETEND TO EXPLAIN WHY EXCEPT ON THE SUPPOSITION THAT ROMANCE IS DEAD AT LEAST IN THAT CIRCLE OF SOCIETY IN WHICH THE SNELLINGS MOVE",
+    "text": "<|startoftext|> I CANNOT PRETEND TO EXPLAIN WHY EXCEPT ON THE SUPPOSITION THAT ROMANCE IS DEAD AT LEAST IN THAT CIRCLE OF SOCIETY IN WHICH THE SNELLINGS MOVE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         15628,
         11929,
@@ -46,7 +47,8 @@
         23304,
         20754,
         13070,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0025.flac",
-    "text": "DANTE BECAUSE VIRGILIUS HAS DEPARTED DO NOT WEEP YET DO NOT WEEP YET AWHILE FOR BY ANOTHER SWORD THOU NEED'ST MUST WEEP",
+    "text": "<|startoftext|> DANTE BECAUSE VIRGILIUS HAS DEPARTED DO NOT WEEP YET DO NOT WEEP YET AWHILE FOR BY ANOTHER SWORD THOU NEED'ST MUST WEEP <|endoftext|>",
     "tokens": [
+        50255,
         35,
         8643,
         36,
@@ -46,7 +47,8 @@
         2257,
         17191,
         370,
-        35238
+        35238,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

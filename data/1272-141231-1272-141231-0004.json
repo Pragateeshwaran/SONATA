@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0004.flac",
-    "text": "ONE MINUTE A VOICE SAID AND THE TIME BUZZER SOUNDED",
+    "text": "<|startoftext|> ONE MINUTE A VOICE SAID AND THE TIME BUZZER SOUNDED <|endoftext|>",
     "tokens": [
+        50255,
         11651,
         20625,
         37780,
@@ -18,7 +19,8 @@
         1137,
         311,
         15919,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

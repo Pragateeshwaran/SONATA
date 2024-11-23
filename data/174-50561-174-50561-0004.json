@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0004.flac",
-    "text": "THE EMPEROR'S DAUGHTER",
+    "text": "<|startoftext|> THE EMPEROR'S DAUGHTER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         38144,
         1137,
@@ -10,7 +11,8 @@
         50,
         17051,
         44004,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

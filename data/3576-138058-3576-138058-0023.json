@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0023.flac",
-    "text": "IT IS NOT TRUE THEN SAID CLAUDIA THAT THOU WERT GOING THIS MORNING TO MARRY LEONORA THE DAUGHTER OF THE RICH BALVASTRO",
+    "text": "<|startoftext|> IT IS NOT TRUE THEN SAID CLAUDIA THAT THOU WERT GOING THIS MORNING TO MARRY LEONORA THE DAUGHTER OF THE RICH BALVASTRO <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         5626,
@@ -41,7 +42,8 @@
         53,
         1921,
         5446,
-        46
+        46,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

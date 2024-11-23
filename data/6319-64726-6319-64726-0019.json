@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0019.flac",
-    "text": "THE VIOLINS AND HAUT BOYS PLAYED OLD BUT EXCELLENT PIECES OF MUSIC AND AFTER SUPPER TO LOSE NO TIME THE GRAND ALMONER MARRIED THE ROYAL LOVERS IN THE CHAPEL OF THE CASTLE",
+    "text": "<|startoftext|> THE VIOLINS AND HAUT BOYS PLAYED OLD BUT EXCELLENT PIECES OF MUSIC AND AFTER SUPPER TO LOSE NO TIME THE GRAND ALMONER MARRIED THE ROYAL LOVERS IN THE CHAPEL OF THE CASTLE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         13889,
         3535,
@@ -60,7 +61,8 @@
         3336,
         327,
         11262,
-        2538
+        2538,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0009.flac",
-    "text": "I HAD THE PLEASURE OF MEETING HIM IN SOCIETY",
+    "text": "<|startoftext|> I HAD THE PLEASURE OF MEETING HIM IN SOCIETY <|endoftext|>",
     "tokens": [
+        50255,
         40,
         367,
         2885,
@@ -19,7 +20,8 @@
         31430,
         40,
         2767,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

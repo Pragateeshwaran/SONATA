@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0030.flac",
-    "text": "STEVIE ACCUSTOMED TO MOVE ABOUT DISREGARDED HAD GOT UP FROM THE KITCHEN TABLE CARRYING OFF HIS DRAWING TO BED WITH HIM",
+    "text": "<|startoftext|> STEVIE ACCUSTOMED TO MOVE ABOUT DISREGARDED HAD GOT UP FROM THE KITCHEN TABLE CARRYING OFF HIS DRAWING TO BED WITH HIM <|endoftext|>",
     "tokens": [
+        50255,
         2257,
         20114,
         10008,
@@ -39,7 +40,8 @@
         347,
         1961,
         13315,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

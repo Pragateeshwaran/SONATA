@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0020.flac",
-    "text": "THEN HE SAT DOWN IN HIS CHAIR AND GAZED WITHOUT SEEING CONTEMPLATING THE RESULT OF HIS WORK",
+    "text": "<|startoftext|> THEN HE SAT DOWN IN HIS CHAIR AND GAZED WITHOUT SEEING CONTEMPLATING THE RESULT OF HIS WORK <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         11179,
@@ -27,7 +28,8 @@
         16724,
         3963,
         33700,
-        30936
+        30936,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

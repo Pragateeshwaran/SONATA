@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0012.flac",
-    "text": "STACY BROWN PROVED THE ONLY GRUMBLER IN THE LOT DECLARING THAT HE COULD NOT SLEEP A WINK ON SUCH A BED AS THAT",
+    "text": "<|startoftext|> STACY BROWN PROVED THE ONLY GRUMBLER IN THE LOT DECLARING THAT HE COULD NOT SLEEP A WINK ON SUCH A BED AS THAT <|endoftext|>",
     "tokens": [
+        50255,
         2257,
         43300,
         11177,
@@ -39,7 +40,8 @@
         347,
         1961,
         7054,
-        14603
+        14603,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

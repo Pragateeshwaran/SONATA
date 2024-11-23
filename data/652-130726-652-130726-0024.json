@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0024.flac",
-    "text": "TO THE PICKLE ADD TWO LARGE ONIONS CUT IN QUARTERS TWO FRESH CARROTS AND ABOUT ONE OUNCE OF MIXED WHOLE ALLSPICE BLACK PEPPERS CLOVES AND BAY LEAVES",
+    "text": "<|startoftext|> TO THE PICKLE ADD TWO LARGE ONIONS CUT IN QUARTERS TWO FRESH CARROTS AND ABOUT ONE OUNCE OF MIXED WHOLE ALLSPICE BLACK PEPPERS CLOVES AND BAY LEAVES <|endoftext|>",
     "tokens": [
+        50255,
         10468,
         3336,
         350,
@@ -53,7 +54,8 @@
         4792,
         12509,
         10116,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0007.flac",
-    "text": "MY GRANDMOTHER ALWAYS SPOKE IN A VERY LOUD TONE TO FOREIGNERS AS IF THEY WERE DEAF",
+    "text": "<|startoftext|> MY GRANDMOTHER ALWAYS SPOKE IN A VERY LOUD TONE TO FOREIGNERS AS IF THEY WERE DEAF <|endoftext|>",
     "tokens": [
+        50255,
         26708,
         10863,
         6981,
@@ -30,7 +31,8 @@
         370,
         9338,
         5550,
-        8579
+        8579,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

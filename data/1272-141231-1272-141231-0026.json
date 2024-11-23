@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0026.flac",
-    "text": "BREATHING DEEPLY BRION SOFTLY SPOKE THE AUTO HYPNOTIC PHRASES THAT TRIGGERED THE PROCESS",
+    "text": "<|startoftext|> BREATHING DEEPLY BRION SOFTLY SPOKE THE AUTO HYPNOTIC PHRASES THAT TRIGGERED THE PROCESS <|endoftext|>",
     "tokens": [
+        50255,
         40438,
         12599,
         2751,
@@ -35,7 +36,8 @@
         1961,
         3336,
         41755,
-        7597
+        7597,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

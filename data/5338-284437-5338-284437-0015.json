@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0015.flac",
-    "text": "PERHAPS YOU ARE TRYING TO RIDICULE ME SHE CONTINUED REGARDING THE SAILOR'S FACE CLOSELY",
+    "text": "<|startoftext|> PERHAPS YOU ARE TRYING TO RIDICULE ME SHE CONTINUED REGARDING THE SAILOR'S FACE CLOSELY <|endoftext|>",
     "tokens": [
+        50255,
         18973,
         39,
         44580,
@@ -31,7 +32,8 @@
         46587,
         7852,
         2640,
-        30943
+        30943,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

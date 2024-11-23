@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0013.flac",
-    "text": "IT WAS AT ABOUT THIS TIME IN THEIR LIVES THAT THE WOONGAS BECAME ESPECIALLY DARING IN THEIR DEPREDATIONS",
+    "text": "<|startoftext|> IT WAS AT ABOUT THIS TIME IN THEIR LIVES THAT THE WOONGAS BECAME ESPECIALLY DARING IN THEIR DEPREDATIONS <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         5161,
@@ -32,7 +33,8 @@
         5550,
         4805,
         1961,
-        18421
+        18421,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

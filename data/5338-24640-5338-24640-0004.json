@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24640\\5338-24640-0004.flac",
-    "text": "WHEN I WAS A YOUNG MAN LIKE YOU MISTER WAVERLEY ANY SUCH HAIR BRAINED EXPEDITION I BEG YOUR PARDON FOR THE EXPRESSION WOULD HAVE HAD INEXPRESSIBLE CHARMS FOR ME",
+    "text": "<|startoftext|> WHEN I WAS A YOUNG MAN LIKE YOU MISTER WAVERLEY ANY SUCH HAIR BRAINED EXPEDITION I BEG YOUR PARDON FOR THE EXPRESSION WOULD HAVE HAD INEXPRESSIBLE CHARMS FOR ME <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         314,
@@ -52,7 +53,8 @@
         28521,
         5653,
         7473,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0023.flac",
-    "text": "TAKING EVERYTHING UPON MYSELF I ORDERED A SERVANT TO HURRY OUT FOR A PHYSICIAN WHO CAME IN A SHORT TIME AND ORDERED THE PATIENT TO BE BLED AGAIN THUS APPROVING THE FIRST BLEEDING PRESCRIBED BY ME",
+    "text": "<|startoftext|> TAKING EVERYTHING UPON MYSELF I ORDERED A SERVANT TO HURRY OUT FOR A PHYSICIAN WHO CAME IN A SHORT TIME AND ORDERED THE PATIENT TO BE BLED AGAIN THUS APPROVING THE FIRST BLEEDING PRESCRIBED BY ME <|endoftext|>",
     "tokens": [
+        50255,
         5603,
         37286,
         27222,
@@ -65,7 +66,8 @@
         33,
         1961,
         11050,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

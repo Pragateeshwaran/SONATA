@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0014.flac",
-    "text": "GWYNPLAINE ATE UP THEIR PUBLIC",
+    "text": "<|startoftext|> GWYNPLAINE ATE UP THEIR PUBLIC <|endoftext|>",
     "tokens": [
+        50255,
         33191,
         40760,
         45710,
@@ -10,7 +11,8 @@
         36,
         15958,
         47278,
-        44731
+        44731,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

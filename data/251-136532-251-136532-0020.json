@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0020.flac",
-    "text": "BRING IT TO THE PUBLIC ATTENTION DRAMATIZE IT",
+    "text": "<|startoftext|> BRING IT TO THE PUBLIC ATTENTION DRAMATIZE IT <|endoftext|>",
     "tokens": [
+        50255,
         11473,
         2751,
         7283,
@@ -14,7 +15,8 @@
         2390,
         1404,
         35400,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

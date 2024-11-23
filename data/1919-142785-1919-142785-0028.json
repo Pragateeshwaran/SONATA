@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0028.flac",
-    "text": "BOIL THEM BEFORE THEY ARE PUT INTO THE SOUP OR OTHER DISH THEY MAY BE INTENDED FOR",
+    "text": "<|startoftext|> BOIL THEM BEFORE THEY ARE PUT INTO THE SOUP OR OTHER DISH THEY MAY BE INTENDED FOR <|endoftext|>",
     "tokens": [
+        50255,
         8202,
         4146,
         44788,
@@ -23,7 +24,8 @@
         9348,
         17828,
         49361,
-        7473
+        7473,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

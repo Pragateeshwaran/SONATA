@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0010.flac",
-    "text": "HANSEL THOUGHT THE ROOF TASTED VERY NICE AND SO HE TORE OFF A GREAT PIECE WHILE GRETHEL BROKE A LARGE ROUND PANE OUT OF THE WINDOW AND SAT DOWN QUITE CONTENTEDLY",
+    "text": "<|startoftext|> HANSEL THOUGHT THE ROOF TASTED VERY NICE AND SO HE TORE OFF A GREAT PIECE WHILE GRETHEL BROKE A LARGE ROUND PANE OUT OF THE WINDOW AND SAT DOWN QUITE CONTENTEDLY <|endoftext|>",
     "tokens": [
+        50255,
         39,
         15037,
         3698,
@@ -59,7 +60,8 @@
         22904,
         3525,
         1961,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

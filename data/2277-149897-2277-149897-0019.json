@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0019.flac",
-    "text": "THREE O'CLOCK CAME FOUR FIVE SIX AND NO LETTER",
+    "text": "<|startoftext|> THREE O'CLOCK CAME FOUR FIVE SIX AND NO LETTER <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         11587,
         440,
@@ -19,7 +20,8 @@
         5357,
         8005,
         37994,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

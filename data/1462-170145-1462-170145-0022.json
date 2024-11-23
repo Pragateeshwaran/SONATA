@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0022.flac",
-    "text": "I DON'T KNOW WHAT I OUGHT TO SAY BUT I DON'T BELIEVE YOU'D BE HAPPY TRULY I DON'T AREN'T YOU TRYING TO FRIGHTEN ME",
+    "text": "<|startoftext|> I DON'T KNOW WHAT I OUGHT TO SAY BUT I DON'T BELIEVE YOU'D BE HAPPY TRULY I DON'T AREN'T YOU TRYING TO FRIGHTEN ME <|endoftext|>",
     "tokens": [
+        50255,
         40,
         23917,
         6,
@@ -47,7 +48,8 @@
         8782,
         9947,
         1677,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

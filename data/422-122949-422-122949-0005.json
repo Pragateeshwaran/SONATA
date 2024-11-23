@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\422\\122949\\422-122949-0005.flac",
-    "text": "PROBABLY A PESSIMISTIC SUSPICION WITH REGARD TO THE ENTIRE SITUATION OF MAN WILL FIND EXPRESSION PERHAPS A CONDEMNATION OF MAN TOGETHER WITH HIS SITUATION",
+    "text": "<|startoftext|> PROBABLY A PESSIMISTIC SUSPICION WITH REGARD TO THE ENTIRE SITUATION OF MAN WILL FIND EXPRESSION PERHAPS A CONDEMNATION OF MAN TOGETHER WITH HIS SITUATION <|endoftext|>",
     "tokens": [
+        50255,
         31190,
         4339,
         9148,
@@ -54,7 +55,8 @@
         311,
         2043,
         52,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "422",

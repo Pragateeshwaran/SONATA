@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0033.flac",
-    "text": "THEY ALSO HAVE AS THE CHEF IN CHARGE OF THE ABALONE DISHES HERBERT FORMERLY CHEF FOR ONE OF THE YACHT CLUBS OF THE COAST WHO CLAIMS TO HAVE THE ONLY PROPER RECIPE FOR MAKING ABALONE'S TENDER",
+    "text": "<|startoftext|> THEY ALSO HAVE AS THE CHEF IN CHARGE OF THE ABALONE DISHES HERBERT FORMERLY CHEF FOR ONE OF THE YACHT CLUBS OF THE COAST WHO CLAIMS TO HAVE THE ONLY PROPER RECIPE FOR MAKING ABALONE'S TENDER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         35912,
@@ -66,7 +67,8 @@
         50,
         309,
         10619,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

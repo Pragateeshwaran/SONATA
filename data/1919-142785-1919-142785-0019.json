@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0019.flac",
-    "text": "THE LEMON WAS FIRST CULTIVATED IN ENGLAND IN THE BEGINNING OF THE SEVENTEENTH CENTURY AND IS NOW OFTEN TO BE FOUND IN OUR GREEN HOUSES",
+    "text": "<|startoftext|> THE LEMON WAS FIRST CULTIVATED IN ENGLAND IN THE BEGINNING OF THE SEVENTEENTH CENTURY AND IS NOW OFTEN TO BE FOUND IN OUR GREEN HOUSES <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         406,
         3620,
@@ -47,7 +48,8 @@
         47606,
         367,
         20958,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0004.flac",
-    "text": "IT WAS PREPARED BY DRESSING IN THE FINEST CLOTHES TOGETHER WITH SOME PERSONAL POSSESSIONS AND ORNAMENTS WRAPPED IN SEVERAL ROBES AND FINALLY IN A SECURE COVERING OF RAW HIDE",
+    "text": "<|startoftext|> IT WAS PREPARED BY DRESSING IN THE FINEST CLOTHES TOGETHER WITH SOME PERSONAL POSSESSIONS AND ORNAMENTS WRAPPED IN SEVERAL ROBES AND FINALLY IN A SECURE COVERING OF RAW HIDE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         22814,
@@ -55,7 +56,8 @@
         3963,
         33782,
         367,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

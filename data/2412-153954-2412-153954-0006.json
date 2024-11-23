@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0006.flac",
-    "text": "THEIR EXPRESSION WAS DIVINE AND AS THEY GLANCED AT ME TIMIDLY BUT WITH PARTED LIPS IN GREAT BEWILDERMENT I FORGOT ALL THOUGHTS OF THEIR CONVERSION IN FEELINGS THAT WERE FAR MORE EARTHLY",
+    "text": "<|startoftext|> THEIR EXPRESSION WAS DIVINE AND AS THEY GLANCED AT ME TIMIDLY BUT WITH PARTED LIPS IN GREAT BEWILDERMENT I FORGOT ALL THOUGHTS OF THEIR CONVERSION IN FEELINGS THAT WERE FAR MORE EARTHLY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         4663,
         7788,
@@ -58,7 +59,8 @@
         12011,
         31834,
         4221,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

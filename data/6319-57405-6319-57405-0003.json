@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0003.flac",
-    "text": "BUT MEN KEPT ON FIGHTING AND ROBBING EVEN WHILE THE RAIN WAS POURING DOWN AND THE SEA WAS COMING UP OVER THE LAND",
+    "text": "<|startoftext|> BUT MEN KEPT ON FIGHTING AND ROBBING EVEN WHILE THE RAIN WAS POURING DOWN AND THE SEA WAS COMING UP OVER THE LAND <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         41597,
         509,
@@ -35,7 +36,8 @@
         28729,
         3336,
         406,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

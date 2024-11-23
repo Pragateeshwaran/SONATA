@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0014.flac",
-    "text": "ON THE DAIS UNDER THE GOLDEN DOME THE KING CRIED OUT AGAIN RACKED BY AWFUL PAROXYSMS",
+    "text": "<|startoftext|> ON THE DAIS UNDER THE GOLDEN DOME THE KING CRIED OUT AGAIN RACKED BY AWFUL PAROXYSMS <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         3336,
         17051,
@@ -29,7 +30,8 @@
         29463,
         48632,
         16309,
-        5653
+        5653,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

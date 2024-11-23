@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0060.flac",
-    "text": "CONTINUE IN THIS MANNER TILL THE BORDER IS COMPLETED ARRANGING THE SIPPETS A PALE AND A DARK ONE ALTERNATELY",
+    "text": "<|startoftext|> CONTINUE IN THIS MANNER TILL THE BORDER IS COMPLETED ARRANGING THE SIPPETS A PALE AND A DARK ONE ALTERNATELY <|endoftext|>",
     "tokens": [
+        50255,
         37815,
         1268,
         8924,
@@ -36,7 +37,8 @@
         8355,
         31800,
         1404,
-        30943
+        30943,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

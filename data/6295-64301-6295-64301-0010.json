@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0010.flac",
-    "text": "HE LAID DOWN HIS VIOLIN AND SEATED HIMSELF WHERE MARY TOLD HIM IN HER FATHER'S ARM CHAIR BY THE FIRE",
+    "text": "<|startoftext|> HE LAID DOWN HIS VIOLIN AND SEATED HIMSELF WHERE MARY TOLD HIM IN HER FATHER'S ARM CHAIR BY THE FIRE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         9131,
         2389,
@@ -33,7 +34,8 @@
         42149,
         11050,
         3336,
-        39110
+        39110,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

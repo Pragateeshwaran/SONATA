@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0020.flac",
-    "text": "WHERE ARE THEY ASKED THE BOY",
+    "text": "<|startoftext|> WHERE ARE THEY ASKED THE BOY <|endoftext|>",
     "tokens": [
+        50255,
         47357,
         15986,
         33302,
@@ -10,7 +11,8 @@
         1961,
         3336,
         16494,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

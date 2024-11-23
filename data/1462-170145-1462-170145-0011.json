@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0011.flac",
-    "text": "I THINK I HAVE FELT THAT YOU WERE COMING",
+    "text": "<|startoftext|> I THINK I HAVE FELT THAT YOU WERE COMING <|endoftext|>",
     "tokens": [
+        50255,
         40,
         2320,
         17248,
@@ -15,7 +16,8 @@
         370,
         9338,
         9440,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

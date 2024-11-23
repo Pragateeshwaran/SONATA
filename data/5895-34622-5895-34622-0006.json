@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0006.flac",
-    "text": "ON THE ROOF FROM A TUBE PAINTED GREEN LIKE THE REST SMOKE AROSE",
+    "text": "<|startoftext|> ON THE ROOF FROM A TUBE PAINTED GREEN LIKE THE REST SMOKE AROSE <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         3336,
         371,
@@ -23,7 +24,8 @@
         46,
         7336,
         5923,
-        14058
+        14058,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

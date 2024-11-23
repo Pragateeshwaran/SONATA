@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24615\\5338-24615-0007.flac",
-    "text": "THE HOUSE WHICH SEEMED TO CONSIST OF TWO OR THREE HIGH NARROW AND STEEP ROOFED BUILDINGS PROJECTING FROM EACH OTHER AT RIGHT ANGLES FORMED ONE SIDE OF THE INCLOSURE",
+    "text": "<|startoftext|> THE HOUSE WHICH SEEMED TO CONSIST OF TWO OR THREE HIGH NARROW AND STEEP ROOFED BUILDINGS PROJECTING FROM EACH OTHER AT RIGHT ANGLES FORMED ONE SIDE OF THE INCLOSURE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         46586,
         7655,
@@ -52,7 +53,8 @@
         3268,
         5097,
         2640,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

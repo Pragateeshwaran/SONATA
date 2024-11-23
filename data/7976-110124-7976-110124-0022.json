@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0022.flac",
-    "text": "WHEN SHE RETURNED HIS HAND WAS STICKING THROUGH THE HOLE IN THE DOOR",
+    "text": "<|startoftext|> WHEN SHE RETURNED HIS HAND WAS STICKING THROUGH THE HOLE IN THE DOOR <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         48052,
@@ -23,7 +24,8 @@
         3268,
         3336,
         8410,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

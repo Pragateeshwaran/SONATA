@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0005.flac",
-    "text": "HAD HER BEAUTY FASCINATED HIM",
+    "text": "<|startoftext|> HAD HER BEAUTY FASCINATED HIM <|endoftext|>",
     "tokens": [
+        50255,
         39,
         2885,
         24906,
@@ -12,7 +13,8 @@
         42643,
         1268,
         11617,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

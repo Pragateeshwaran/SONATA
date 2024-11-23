@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0042.flac",
-    "text": "AS A MARRIED WOMAN YOU WILL GET ON BETTER AS MY WIFE YOU WILL BE ALLOWED TO COME TO ME IF I NEED YOU AND AS MY HE STOPPED THERE FOR HE COULD NOT ADD AS MY WIDOW YOU WILL HAVE MY PENSION TO SUPPORT YOU",
+    "text": "<|startoftext|> AS A MARRIED WOMAN YOU WILL GET ON BETTER AS MY WIFE YOU WILL BE ALLOWED TO COME TO ME IF I NEED YOU AND AS MY HE STOPPED THERE FOR HE COULD NOT ADD AS MY WIDOW YOU WILL HAVE MY PENSION TO SUPPORT YOU <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         317,
         18805,
@@ -62,7 +63,8 @@
         2849,
         5390,
         43333,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

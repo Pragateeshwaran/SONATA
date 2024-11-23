@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0001.flac",
-    "text": "THIS BOOK IN ITS ORIGINAL FORM WAS RECEIVED WITH FAVOUR AND SETTLED THE CLAIM OF ROSSETTI TO RANK AS A POETIC TRANSLATOR OR INDEED AS A POET IN HIS OWN RIGHT",
+    "text": "<|startoftext|> THIS BOOK IN ITS ORIGINAL FORM WAS RECEIVED WITH FAVOUR AND SETTLED THE CLAIM OF ROSSETTI TO RANK AS A POETIC TRANSLATOR OR INDEED AS A POET IN HIS OWN RIGHT <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         39633,
         3268,
@@ -52,7 +53,8 @@
         3268,
         33700,
         47672,
-        33621
+        33621,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

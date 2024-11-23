@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0024.flac",
-    "text": "HE BEGAN PRESENTLY TO RELENT AND SPOKE TO ME IN A KINDER MANNER",
+    "text": "<|startoftext|> HE BEGAN PRESENTLY TO RELENT AND SPOKE TO ME IN A KINDER MANNER <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         347,
         7156,
@@ -24,7 +25,8 @@
         12115,
         1137,
         17254,
-        21479
+        21479,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

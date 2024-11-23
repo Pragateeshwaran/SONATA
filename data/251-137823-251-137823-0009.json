@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0009.flac",
-    "text": "TOM'S EYES FOCUSED IN HORROR ON THE WRECKAGE ENVELOPED BY STILL BILLOWING DUST",
+    "text": "<|startoftext|> TOM'S EYES FOCUSED IN HORROR ON THE WRECKAGE ENVELOPED BY STILL BILLOWING DUST <|endoftext|>",
     "tokens": [
+        50255,
         51,
         2662,
         6,
@@ -33,7 +34,8 @@
         3913,
         2751,
         360,
-        7759
+        7759,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

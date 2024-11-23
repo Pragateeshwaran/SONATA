@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0015.flac",
-    "text": "AS YET THEY HAD BEEN UNABLE TO ATTEMPT ANY FANCY RIDING WITH THEIR PONIES OWING TO THE RUGGED NATURE OF THE COUNTRY THROUGH WHICH THEY HAD BEEN JOURNEYING",
+    "text": "<|startoftext|> AS YET THEY HAD BEEN UNABLE TO ATTEMPT ANY FANCY RIDING WITH THEIR PONIES OWING TO THE RUGGED NATURE OF THE COUNTRY THROUGH WHICH THEY HAD BEEN JOURNEYING <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         575,
         2767,
@@ -55,7 +56,8 @@
         449,
         11698,
         36231,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

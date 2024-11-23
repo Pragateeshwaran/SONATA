@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0020.flac",
-    "text": "THIS JUICE WHICH IS CALLED CITRIC ACID MAY BE PRESERVED IN BOTTLES FOR A CONSIDERABLE TIME BY COVERING IT WITH A THIN STRATUM OF OIL",
+    "text": "<|startoftext|> THIS JUICE WHICH IS CALLED CITRIC ACID MAY BE PRESERVED IN BOTTLES FOR A CONSIDERABLE TIME BY COVERING IT WITH A THIN STRATUM OF OIL <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         449,
         52,
@@ -46,7 +47,8 @@
         5883,
         3963,
         440,
-        4146
+        4146,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

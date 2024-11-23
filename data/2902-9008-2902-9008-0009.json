@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0009.flac",
-    "text": "HOW CAN HE WHOSE SPHERE LIES ABOVE THE STARS STOOP EVERY MOMENT TO EARTH",
+    "text": "<|startoftext|> HOW CAN HE WHOSE SPHERE LIES ABOVE THE STARS STOOP EVERY MOMENT TO EARTH <|endoftext|>",
     "tokens": [
+        50255,
         37181,
         15628,
         11179,
@@ -27,7 +28,8 @@
         3525,
         5390,
         31834,
-        4221
+        4221,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0008.flac",
-    "text": "EARLY IN THE MORNING THE STEPMOTHER CAME AND PULLED THEM OUT OF BED AND GAVE THEM EACH A SLICE OF BREAD WHICH WAS STILL SMALLER THAN THE FORMER PIECE",
+    "text": "<|startoftext|> EARLY IN THE MORNING THE STEPMOTHER CAME AND PULLED THEM OUT OF BED AND GAVE THEM EACH A SLICE OF BREAD WHICH WAS STILL SMALLER THAN THE FORMER PIECE <|endoftext|>",
     "tokens": [
+        50255,
         17133,
         11319,
         3268,
@@ -50,7 +51,8 @@
         29296,
         30434,
         2943,
-        36
+        36,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

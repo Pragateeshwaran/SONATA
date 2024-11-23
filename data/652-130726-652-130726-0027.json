@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0027.flac",
-    "text": "PUT INTO THE OVEN AGAIN AND COOK FOR HALF AN HOUR BASTING FREQUENTLY WITH THE ORIGINAL BRINE",
+    "text": "<|startoftext|> PUT INTO THE OVEN AGAIN AND COOK FOR HALF AN HOUR BASTING FREQUENTLY WITH THE ORIGINAL BRINE <|endoftext|>",
     "tokens": [
+        50255,
         30076,
         39319,
         3336,
@@ -30,7 +31,8 @@
         43901,
         17961,
         11177,
-        8881
+        8881,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

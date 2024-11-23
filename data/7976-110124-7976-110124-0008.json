@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0008.flac",
-    "text": "IF WE DECIDE TO SHOW MERCY TO THIS POOR BEGGAR IT IS NOT FOR YOU TO OPPOSE IT",
+    "text": "<|startoftext|> IF WE DECIDE TO SHOW MERCY TO THIS POOR BEGGAR IT IS NOT FOR YOU TO OPPOSE IT <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         12887,
         27196,
@@ -28,7 +29,8 @@
         440,
         10246,
         14058,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

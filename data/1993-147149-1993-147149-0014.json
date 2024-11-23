@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0014.flac",
-    "text": "THEN ALICE BROKE THE SILENCE BY SAYING",
+    "text": "<|startoftext|> THEN ALICE BROKE THE SILENCE BY SAYING <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         8355,
@@ -14,7 +15,8 @@
         18310,
         11050,
         45687,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

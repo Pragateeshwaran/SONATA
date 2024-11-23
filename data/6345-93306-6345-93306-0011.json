@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0011.flac",
-    "text": "IS IT ONLY THAT YOU'RE POOR WHY THAT'S NOTHING I'M POOR TOO SHE LAUGHED",
+    "text": "<|startoftext|> IS IT ONLY THAT YOU'RE POOR WHY THAT'S NOTHING I'M POOR TOO SHE LAUGHED <|endoftext|>",
     "tokens": [
+        50255,
         1797,
         7283,
         22224,
@@ -28,7 +29,8 @@
         48052,
         9131,
         44004,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

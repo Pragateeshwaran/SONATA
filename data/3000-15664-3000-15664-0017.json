@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0017.flac",
-    "text": "IT IS THREE OR FOUR MILES LONG AND TERMINATES AT AN ELEVATION OF ABOUT NINE THOUSAND FIVE HUNDRED FEET ABOVE SEA LEVEL IN MORAINE SPRINKLED ICE CLIFFS SIXTY FEET HIGH",
+    "text": "<|startoftext|> IT IS THREE OR FOUR MILES LONG AND TERMINATES AT AN ELEVATION OF ABOUT NINE THOUSAND FIVE HUNDRED FEET ABOVE SEA LEVEL IN MORAINE SPRINKLED ICE CLIFFS SIXTY FEET HIGH <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         48697,
@@ -55,7 +56,8 @@
         9936,
         18630,
         2767,
-        34677
+        34677,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

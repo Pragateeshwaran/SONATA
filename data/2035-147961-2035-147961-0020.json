@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0020.flac",
-    "text": "A BLACK DROVE CAME UP OVER THE HILL BEHIND THE WEDDING PARTY",
+    "text": "<|startoftext|> A BLACK DROVE CAME UP OVER THE HILL BEHIND THE WEDDING PARTY <|endoftext|>",
     "tokens": [
+        50255,
         32,
         31963,
         10560,
@@ -23,7 +24,8 @@
         35,
         2751,
         16652,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

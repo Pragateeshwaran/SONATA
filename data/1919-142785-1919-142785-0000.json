@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0000.flac",
-    "text": "ILLUSTRATION LONG PEPPER",
+    "text": "<|startoftext|> ILLUSTRATION LONG PEPPER <|endoftext|>",
     "tokens": [
+        50255,
         8267,
         7759,
         49,
@@ -9,7 +10,8 @@
         44533,
         350,
         8905,
-        18973
+        18973,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

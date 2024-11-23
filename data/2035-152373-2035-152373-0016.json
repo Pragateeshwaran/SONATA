@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0016.flac",
-    "text": "THE TRIBUTE WAS AT THIS PERIOD ENORMOUS FIFTEEN THOUSAND HEAD OF CATTLE ANNUALLY",
+    "text": "<|startoftext|> THE TRIBUTE WAS AT THIS PERIOD ENORMOUS FIFTEEN THOUSAND HEAD OF CATTLE ANNUALLY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         37679,
         33,
@@ -29,7 +30,8 @@
         35455,
         40126,
         52,
-        19807
+        19807,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

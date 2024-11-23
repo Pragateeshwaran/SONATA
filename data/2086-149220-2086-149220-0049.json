@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0049.flac",
-    "text": "AT SOME UNCERTAIN PERIOD IN THE DEPTHS OF NIGHT AND AS IT WERE THROUGH THE THIN VEIL OF A DREAM SHE WAS CONSCIOUS OF A FOOTSTEP MOUNTING THE STAIRS HEAVILY BUT NOT WITH FORCE AND DECISION",
+    "text": "<|startoftext|> AT SOME UNCERTAIN PERIOD IN THE DEPTHS OF NIGHT AND AS IT WERE THROUGH THE THIN VEIL OF A DREAM SHE WAS CONSCIOUS OF A FOOTSTEP MOUNTING THE STAIRS HEAVILY BUT NOT WITH FORCE AND DECISION <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         41670,
         39151,
@@ -63,7 +64,8 @@
         5222,
         5357,
         27196,
-        42446
+        42446,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

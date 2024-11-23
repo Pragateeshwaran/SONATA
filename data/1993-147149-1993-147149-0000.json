@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0000.flac",
-    "text": "HOW INFINITE THE WEALTH OF LOVE AND HOPE GARNERED IN THESE SAME TINY TREASURE HOUSES AND OH",
+    "text": "<|startoftext|> HOW INFINITE THE WEALTH OF LOVE AND HOPE GARNERED IN THESE SAME TINY TREASURE HOUSES AND OH <|endoftext|>",
     "tokens": [
+        50255,
         37181,
         3268,
         20032,
@@ -32,7 +33,8 @@
         20958,
         1546,
         5357,
-        18723
+        18723,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

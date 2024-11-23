@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0010.flac",
-    "text": "MARTHA REMEMBERED THE CLOSED DOOR ON THE FIRST SURVEY THEY HADN'T ATTEMPTED OPENING IT",
+    "text": "<|startoftext|> MARTHA REMEMBERED THE CLOSED DOOR ON THE FIRST SURVEY THEY HADN'T ATTEMPTED OPENING IT <|endoftext|>",
     "tokens": [
+        50255,
         40569,
         4221,
         32,
@@ -31,7 +32,8 @@
         1961,
         38303,
         2751,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

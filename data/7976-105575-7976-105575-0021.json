@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0021.flac",
-    "text": "THE CLOUD OF REBELS WE HAD SEEN DIVIDED ITSELF INTO THREE COLUMNS",
+    "text": "<|startoftext|> THE CLOUD OF REBELS WE HAD SEEN DIVIDED ITSELF INTO THREE COLUMNS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         7852,
         2606,
@@ -25,7 +26,8 @@
         48697,
         20444,
         5883,
-        8035
+        8035,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

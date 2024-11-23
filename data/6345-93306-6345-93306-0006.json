@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0006.flac",
-    "text": "THEN SHE TURNED TOWARDS THE QUARTER INDICATED AND DISAPPEARED ROUND THE LAUREL BUSHES",
+    "text": "<|startoftext|> THEN SHE TURNED TOWARDS THE QUARTER INDICATED AND DISAPPEARED ROUND THE LAUREL BUSHES <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         48052,
@@ -32,7 +33,8 @@
         43,
         347,
         27143,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

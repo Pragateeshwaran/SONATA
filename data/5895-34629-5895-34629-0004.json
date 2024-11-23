@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0004.flac",
-    "text": "IT MIGHT HAVE BEEN ORDERED FOR THE GREEN BOX",
+    "text": "<|startoftext|> IT MIGHT HAVE BEEN ORDERED FOR THE GREEN BOX <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         337,
         9947,
@@ -13,7 +14,8 @@
         7473,
         3336,
         47606,
-        45216
+        45216,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

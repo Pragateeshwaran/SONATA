@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0035.flac",
-    "text": "HE WROTE THE QUESTION AND GAVE IT TO ME I READ IT I COULD NOT UNDERSTAND EITHER THE SUBJECT OR THE MEANING OF THE WORDS BUT IT DID NOT MATTER I HAD TO GIVE AN ANSWER",
+    "text": "<|startoftext|> HE WROTE THE QUESTION AND GAVE IT TO ME I READ IT I COULD NOT UNDERSTAND EITHER THE SUBJECT OR THE MEANING OF THE WORDS BUT IT DID NOT MATTER I HAD TO GIVE AN ANSWER <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         11342,
         23051,
@@ -54,7 +55,8 @@
         3537,
         3537,
         17887,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0019.flac",
-    "text": "YOU SEE PAPA'S SO VERY RICH AND AT HOME THEY EXPECT ME TO TO GET ACQUAINTED WITH DUKES AND THINGS AND SHE STOPPED",
+    "text": "<|startoftext|> YOU SEE PAPA'S SO VERY RICH AND AT HOME THEY EXPECT ME TO TO GET ACQUAINTED WITH DUKES AND THINGS AND SHE STOPPED <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         31107,
         350,
@@ -39,7 +40,8 @@
         48052,
         44934,
         47,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0010.flac",
-    "text": "WELL TOO IF HE LIKE LOVE WOULD FILCH OUR HOARD WITH PLEASURE TO OURSELVES SLUICING OUR VEIN AND VIGOUR TO PERPETUATE THE STRAIN OF LIFE BY SPILTH OF LIFE WITHIN US STORED",
+    "text": "<|startoftext|> WELL TOO IF HE LIKE LOVE WOULD FILCH OUR HOARD WITH PLEASURE TO OURSELVES SLUICING OUR VEIN AND VIGOUR TO PERPETUATE THE STRAIN OF LIFE BY SPILTH OF LIFE WITHIN US STORED <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         3069,
         5390,
@@ -61,7 +62,8 @@
         1268,
         1294,
         3563,
-        32023
+        32023,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

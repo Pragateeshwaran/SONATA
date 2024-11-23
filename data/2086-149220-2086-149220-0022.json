@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0022.flac",
-    "text": "IF YOU WOULD PERMIT ME SAID THE ARTIST LOOKING AT PHOEBE I SHOULD LIKE TO TRY WHETHER THE DAGUERREOTYPE CAN BRING OUT DISAGREEABLE TRAITS ON A PERFECTLY AMIABLE FACE",
+    "text": "<|startoftext|> IF YOU WOULD PERMIT ME SAID THE ARTIST LOOKING AT PHOEBE I SHOULD LIKE TO TRY WHETHER THE DAGUERREOTYPE CAN BRING OUT DISAGREEABLE TRAITS ON A PERFECTLY AMIABLE FACE <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         7013,
         370,
@@ -57,7 +58,8 @@
         3001,
         3539,
         19146,
-        46587
+        46587,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

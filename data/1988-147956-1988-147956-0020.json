@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0020.flac",
-    "text": "THE WIND WAS SO STRONG THAT I HAD TO HOLD MY HAT ON AND THE GIRLS SKIRTS WERE BLOWN OUT BEFORE THEM",
+    "text": "<|startoftext|> THE WIND WAS SO STRONG THAT I HAD TO HOLD MY HAT ON AND THE GIRLS SKIRTS WERE BLOWN OUT BEFORE THEM <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         370,
         12115,
@@ -34,7 +35,8 @@
         14165,
         16289,
         38331,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0029.flac",
-    "text": "YES HILDA I KNOW THAT HE SAID SIMPLY",
+    "text": "<|startoftext|> YES HILDA I KNOW THAT HE SAID SIMPLY <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         367,
         4146,
@@ -14,7 +15,8 @@
         2389,
         23749,
         6489,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

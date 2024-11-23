@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0001.flac",
-    "text": "YOU SURELY CANNOT SUPPOSE THAT IN A NATURAL STATE YOU WOULD BE FORCED TO CLIMB REGULARLY UP ONE TALL BARE STICK SUCH AS I SEE YOU UPON NOW",
+    "text": "<|startoftext|> YOU SURELY CANNOT SUPPOSE THAT IN A NATURAL STATE YOU WOULD BE FORCED TO CLIMB REGULARLY UP ONE TALL BARE STICK SUCH AS I SEE YOU UPON NOW <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         311,
         11335,
@@ -47,7 +48,8 @@
         7013,
         15958,
         1340,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

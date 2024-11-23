@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0018.flac",
-    "text": "A RED HAIRED MOUNTAIN OF A MAN WITH AN APPARENTLY INEXHAUSTIBLE STORE OF ENERGY",
+    "text": "<|startoftext|> A RED HAIRED MOUNTAIN OF A MAN WITH AN APPARENTLY INEXHAUSTIBLE STORE OF ENERGY <|endoftext|>",
     "tokens": [
+        50255,
         32,
         23848,
         14558,
@@ -28,7 +29,8 @@
         3963,
         12964,
         1137,
-        31212
+        31212,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

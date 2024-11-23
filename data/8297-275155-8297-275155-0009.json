@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0009.flac",
-    "text": "BUT YOU OUGHT TO HAVE KNOWN THAT WE ARE ONLY HALF AN HOUR BEHIND YOU AT SYDENHAM IN THE MATTER OF NEWS",
+    "text": "<|startoftext|> BUT YOU OUGHT TO HAVE KNOWN THAT WE ARE ONLY HALF AN HOUR BEHIND YOU AT SYDENHAM IN THE MATTER OF NEWS <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         7013,
         440,
@@ -33,7 +34,8 @@
         36775,
         5781,
         3963,
-        28840
+        28840,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

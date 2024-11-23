@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0067.flac",
-    "text": "IT HAS NOT BEEN RUNNING SINCE LAST NIGHT OR IT WOULD BE FULL OF CURIOUS PEOPLE ALL THE TIME HUSTLING TO GET A GLIMPSE OF THIS PLACE",
+    "text": "<|startoftext|> IT HAS NOT BEEN RUNNING SINCE LAST NIGHT OR IT WOULD BE FULL OF CURIOUS PEOPLE ALL THE TIME HUSTLING TO GET A GLIMPSE OF THIS PLACE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         33930,
         5626,
@@ -42,7 +43,8 @@
         3963,
         12680,
         9297,
-        11598
+        11598,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

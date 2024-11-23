@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0016.flac",
-    "text": "AND WHY SHOULD THAT DISTURB ME LET HIM ENTER",
+    "text": "<|startoftext|> AND WHY SHOULD THAT DISTURB ME LET HIM ENTER <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         44463,
         40312,
@@ -13,7 +14,8 @@
         11948,
         37994,
         45909,
-        46962
+        46962,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

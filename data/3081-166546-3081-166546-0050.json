@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0050.flac",
-    "text": "OLD DAYS DON'T RETURN FOR THE ASKING",
+    "text": "<|startoftext|> OLD DAYS DON'T RETURN FOR THE ASKING <|endoftext|>",
     "tokens": [
+        50255,
         15173,
         24644,
         50,
@@ -13,7 +14,8 @@
         7473,
         3336,
         7054,
-        37286
+        37286,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

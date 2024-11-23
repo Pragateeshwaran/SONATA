@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0037.flac",
-    "text": "MODE PUT THE FLOUR INTO A BASIN MIX THE SUGAR WELL WITH IT MAKE A HOLE IN THE CENTRE AND STIR IN THE YEAST AND MILK WHICH SHOULD BE LUKEWARM WITH ENOUGH OF THE FLOUR TO MAKE IT THE THICKNESS OF CREAM",
+    "text": "<|startoftext|> MODE PUT THE FLOUR INTO A BASIN MIX THE SUGAR WELL WITH IT MAKE A HOLE IN THE CENTRE AND STIR IN THE YEAST AND MILK WHICH SHOULD BE LUKEWARM WITH ENOUGH OF THE FLOUR TO MAKE IT THE THICKNESS OF CREAM <|endoftext|>",
     "tokens": [
+        50255,
         49058,
         350,
         3843,
@@ -65,7 +66,8 @@
         31097,
         3963,
         29244,
-        2390
+        2390,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

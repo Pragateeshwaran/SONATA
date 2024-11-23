@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0015.flac",
-    "text": "MODE BOIL THE RICE IN WATER UNTIL IT IS QUITE TENDER POUR OFF THE WATER AND PUT THE RICE BEFORE IT IS COLD TO THE FLOUR",
+    "text": "<|startoftext|> MODE BOIL THE RICE IN WATER UNTIL IT IS QUITE TENDER POUR OFF THE WATER AND PUT THE RICE BEFORE IT IS COLD TO THE FLOUR <|endoftext|>",
     "tokens": [
+        50255,
         49058,
         16494,
         4146,
@@ -41,7 +42,8 @@
         5390,
         3336,
         9977,
-        11698
+        11698,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

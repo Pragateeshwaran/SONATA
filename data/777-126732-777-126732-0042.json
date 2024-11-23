@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0042.flac",
-    "text": "HE CLOSED THE DOOR BEHIND THEIR BACKS WITH RESTRAINED VIOLENCE TURNED THE KEY SHOT THE BOLT",
+    "text": "<|startoftext|> HE CLOSED THE DOOR BEHIND THEIR BACKS WITH RESTRAINED VIOLENCE TURNED THE KEY SHOT THE BOLT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         7852,
         48751,
@@ -32,7 +33,8 @@
         3336,
         347,
         3535,
-        51
+        51,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

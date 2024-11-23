@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0015.flac",
-    "text": "THE JOYOUS CONVULSION OF LAUGHTER WAS AS A TRIBUTE PAID THEY SUBMITTED TO IT GLADLY BUT ALMOST MECHANICALLY",
+    "text": "<|startoftext|> THE JOYOUS CONVULSION OF LAUGHTER WAS AS A TRIBUTE PAID THEY SUBMITTED TO IT GLADLY BUT ALMOST MECHANICALLY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         449,
         21414,
@@ -41,7 +42,8 @@
         25994,
         1565,
         2149,
-        19807
+        19807,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

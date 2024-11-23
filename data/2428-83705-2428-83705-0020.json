@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0020.flac",
-    "text": "IT WAS PLAIN THAT TOGETHER WE SHOULD MANAGE MOST COMFORTABLY DELIGHTFULLY IN FACT",
+    "text": "<|startoftext|> IT WAS PLAIN THAT TOGETHER WE SHOULD MANAGE MOST COMFORTABLY DELIGHTFULLY IN FACT <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         9297,
@@ -28,7 +29,8 @@
         56,
         3268,
         376,
-        10659
+        10659,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

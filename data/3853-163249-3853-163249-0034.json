@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0034.flac",
-    "text": "NOW CYNTHY BE YOU SATISFIED",
+    "text": "<|startoftext|> NOW CYNTHY BE YOU SATISFIED <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         30440,
         45,
@@ -12,7 +13,8 @@
         29020,
         1797,
         11674,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

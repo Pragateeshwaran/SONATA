@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0014.flac",
-    "text": "I DON'T THINK HIS GUN WAS LOADED THOUGH BECAUSE WE DID NOT HEAR THE BALL WHISTLE",
+    "text": "<|startoftext|> I DON'T THINK HIS GUN WAS LOADED THOUGH BECAUSE WE DID NOT HEAR THE BALL WHISTLE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         23917,
         6,
@@ -28,7 +29,8 @@
         46433,
         7655,
         8808,
-        2538
+        2538,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

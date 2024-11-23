@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0020.flac",
-    "text": "BUT SOFTLY AS THE NAME WAS BREATHED MARY GRANT ALREADY AWAKENED BY THE SOUNDS IN THE HUT SLIPPED OVER TOWARD GLENARVAN AND SEIZING THE HAND ALL STAINED WITH EARTH SHE COVERED IT WITH KISSES",
+    "text": "<|startoftext|> BUT SOFTLY AS THE NAME WAS BREATHED MARY GRANT ALREADY AWAKENED BY THE SOUNDS IN THE HUT SLIPPED OVER TOWARD GLENARVAN AND SEIZING THE HAND ALL STAINED WITH EARTH SHE COVERED IT WITH KISSES <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         12809,
         9792,
@@ -66,7 +67,8 @@
         13315,
         509,
         16744,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

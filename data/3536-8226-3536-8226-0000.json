@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0000.flac",
-    "text": "IN THE LAST COMMUNICATION WHICH HE HAD RECEIVED FROM LADY MILBOROUGH SHE HAD SCOLDED HIM IN TERMS THAT WERE FOR HER SEVERE BECAUSE HE HAD NOT RETURNED TO HIS WIFE AND TAKEN HER OFF WITH HIM TO NAPLES",
+    "text": "<|startoftext|> IN THE LAST COMMUNICATION WHICH HE HAD RECEIVED FROM LADY MILBOROUGH SHE HAD SCOLDED HIM IN TERMS THAT WERE FOR HER SEVERE BECAUSE HE HAD NOT RETURNED TO HIS WIFE AND TAKEN HER OFF WITH HIM TO NAPLES <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         3336,
         41894,
@@ -68,7 +69,8 @@
         5390,
         399,
         2969,
-        28378
+        28378,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0028.flac",
-    "text": "HE PUT ON HIS HAT AND LOOKED AROUND FOR HIS UMBRELLA",
+    "text": "<|startoftext|> HE PUT ON HIS HAT AND LOOKED AROUND FOR HIS UMBRELLA <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         350,
         3843,
@@ -20,7 +21,8 @@
         10744,
         2200,
         3069,
-        32
+        32,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

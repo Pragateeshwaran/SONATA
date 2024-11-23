@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0016.flac",
-    "text": "EVEN THIS COMEDIAN OF JAWS AND CLAWS WAS ECLIPSED IN SUCCESS",
+    "text": "<|startoftext|> EVEN THIS COMEDIAN OF JAWS AND CLAWS WAS ECLIPSED IN SUCCESS <|endoftext|>",
     "tokens": [
+        50255,
         20114,
         1677,
         12680,
@@ -24,7 +25,8 @@
         3268,
         13558,
         4093,
-        7597
+        7597,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

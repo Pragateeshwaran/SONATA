@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0024.flac",
-    "text": "THE EMPTYING OF TANKARDS DID NOT DECREASE THEIR SUCCESS",
+    "text": "<|startoftext|> THE EMPTYING OF TANKARDS DID NOT DECREASE THEIR SUCCESS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         38144,
         9936,
@@ -18,7 +19,8 @@
         47278,
         13558,
         4093,
-        7597
+        7597,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

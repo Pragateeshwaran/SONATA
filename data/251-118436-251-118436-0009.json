@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0009.flac",
-    "text": "THE SLANT OF THE MOON PRESAGED EVIL FOR THE KING OF VENDHYA THE STARS ARE IN TURMOIL THE SERPENT IN THE HOUSE OF THE ELEPHANT",
+    "text": "<|startoftext|> THE SLANT OF THE MOON PRESAGED EVIL FOR THE KING OF VENDHYA THE STARS ARE IN TURMOIL THE SERPENT IN THE HOUSE OF THE ELEPHANT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         12419,
         8643,
@@ -42,7 +43,8 @@
         3336,
         40342,
         11909,
-        8643
+        8643,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

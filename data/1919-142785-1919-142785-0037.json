@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0037.flac",
-    "text": "FORCEMEAT FOR COLD SAVOURY PIES",
+    "text": "<|startoftext|> FORCEMEAT FOR COLD SAVOURY PIES <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         34,
         3620,
@@ -15,7 +16,8 @@
         11698,
         56,
         350,
-        11015
+        11015,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0010.flac",
-    "text": "WHEN THESE TWO SOULS PERCEIVED EACH OTHER THEY RECOGNIZED EACH OTHER AS NECESSARY TO EACH OTHER AND EMBRACED EACH OTHER CLOSELY",
+    "text": "<|startoftext|> WHEN THESE TWO SOULS PERCEIVED EACH OTHER THEY RECOGNIZED EACH OTHER AS NECESSARY TO EACH OTHER AND EMBRACED EACH OTHER CLOSELY <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         48947,
@@ -43,7 +44,8 @@
         25401,
         7852,
         2640,
-        30943
+        30943,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

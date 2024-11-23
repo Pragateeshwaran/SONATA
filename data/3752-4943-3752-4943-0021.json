@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0021.flac",
-    "text": "HE HAD HARDLY UTTERED THE WORDS WHEN THE BOY FLUNG HIMSELF BENEATH THE LOG",
+    "text": "<|startoftext|> HE HAD HARDLY UTTERED THE WORDS WHEN THE BOY FLUNG HIMSELF BENEATH THE LOG <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         2885,
@@ -28,7 +29,8 @@
         39267,
         12599,
         3336,
-        41605
+        41605,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

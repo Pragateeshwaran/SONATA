@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0008.flac",
-    "text": "THIS EVERY OTHER SAVOUR DOTH TRANSCEND AND NOTWITHSTANDING SLAKED SO FAR MAY BE THY THIRST THAT I REVEAL TO THEE NO MORE",
+    "text": "<|startoftext|> THIS EVERY OTHER SAVOUR DOTH TRANSCEND AND NOTWITHSTANDING SLAKED SO FAR MAY BE THY THIRST THAT I REVEAL TO THEE NO MORE <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         27222,
         25401,
@@ -41,7 +42,8 @@
         3336,
         36,
         8005,
-        12011
+        12011,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

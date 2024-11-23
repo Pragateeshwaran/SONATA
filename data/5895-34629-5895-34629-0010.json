@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0010.flac",
-    "text": "THEY BEGAN THEIR PERFORMANCES",
+    "text": "<|startoftext|> THEY BEGAN THEIR PERFORMANCES <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         347,
@@ -12,7 +13,8 @@
         13775,
         10725,
         34,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0023.flac",
-    "text": "GALLOPING INTO CAMP THE BOY FETCHED HIS SOMBRERO WHICH HE CARRIED WELL OUT INTO THE FIELD AND TOSSED AWAY",
+    "text": "<|startoftext|> GALLOPING INTO CAMP THE BOY FETCHED HIS SOMBRERO WHICH HE CARRIED WELL OUT INTO THE FIELD AND TOSSED AWAY <|endoftext|>",
     "tokens": [
+        50255,
         38,
         7036,
         3185,
@@ -38,7 +39,8 @@
         18420,
         1961,
         14356,
-        4792
+        4792,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

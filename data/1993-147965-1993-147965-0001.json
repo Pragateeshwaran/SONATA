@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147965\\1993-147965-0001.flac",
-    "text": "MORNING PRAYERS WERE LONGER THAN USUAL",
+    "text": "<|startoftext|> MORNING PRAYERS WERE LONGER THAN USUAL <|endoftext|>",
     "tokens": [
+        50255,
         44,
         1581,
         15871,
@@ -15,7 +16,8 @@
         2320,
         1565,
         1294,
-        25620
+        25620,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

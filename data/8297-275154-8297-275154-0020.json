@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0020.flac",
-    "text": "HE PAUSED AND PUT HIS HAND TO HIS FEVERED HEAD",
+    "text": "<|startoftext|> HE PAUSED AND PUT HIS HAND TO HIS FEVERED HEAD <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         8147,
         2937,
@@ -17,7 +18,8 @@
         18630,
         5959,
         1961,
-        39837
+        39837,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

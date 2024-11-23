@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0027.flac",
-    "text": "HE WAS GOING HOME AFTER VICTORY",
+    "text": "<|startoftext|> HE WAS GOING HOME AFTER VICTORY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         10351,
@@ -10,7 +11,8 @@
         36050,
         569,
         18379,
-        15513
+        15513,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

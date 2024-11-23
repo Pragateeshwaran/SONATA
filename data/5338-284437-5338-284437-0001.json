@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0001.flac",
-    "text": "HERE SAID ONE OF THEIR GUIDES AS THE PROCESSION HALTED BEFORE THE LITTLE STONE BUILDING IS THE PALACE OF TOURMALINE WHO IS OUR QUEEN",
+    "text": "<|startoftext|> HERE SAID ONE OF THEIR GUIDES AS THE PROCESSION HALTED BEFORE THE LITTLE STONE BUILDING IS THE PALACE OF TOURMALINE WHO IS OUR QUEEN <|endoftext|>",
     "tokens": [
+        50255,
         39,
         9338,
         14719,
@@ -41,7 +42,8 @@
         30229,
         1195,
         8924,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

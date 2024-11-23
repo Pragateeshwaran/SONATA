@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0028.flac",
-    "text": "HE'S UP IN TOWN SIR A MINDING OF HIS PARLIAMENTARY DUTIES",
+    "text": "<|startoftext|> HE'S UP IN TOWN SIR A MINDING OF HIS PARLIAMENTARY DUTIES <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         6,
         50,
@@ -24,7 +25,8 @@
         13153,
         360,
         3843,
-        11015
+        11015,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

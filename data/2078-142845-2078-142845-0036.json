@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0036.flac",
-    "text": "PLAIN BUNS SEVENTEEN TWENTY NINE",
+    "text": "<|startoftext|> PLAIN BUNS SEVENTEEN TWENTY NINE <|endoftext|>",
     "tokens": [
+        50255,
         6489,
         29833,
         347,
@@ -16,7 +17,8 @@
         3525,
         56,
         399,
-        8881
+        8881,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

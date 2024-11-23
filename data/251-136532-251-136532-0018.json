@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0018.flac",
-    "text": "WITHOUT QUESTION HE HAD BECOME OVERNIGHT THE MOST WIDELY KNOWN ARCHAEOLOGIST IN HISTORY",
+    "text": "<|startoftext|> WITHOUT QUESTION HE HAD BECOME OVERNIGHT THE MOST WIDELY KNOWN ARCHAEOLOGIST IN HISTORY <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         12425,
@@ -31,7 +32,8 @@
         8808,
         3268,
         367,
-        42480
+        42480,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

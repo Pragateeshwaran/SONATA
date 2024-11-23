@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0022.flac",
-    "text": "HOLD ON TO ME MISS NANCY SAID THE GIANT I'M BIG ENOUGH TO CARRY DOUBLE",
+    "text": "<|startoftext|> HOLD ON TO ME MISS NANCY SAID THE GIANT I'M BIG ENOUGH TO CARRY DOUBLE <|endoftext|>",
     "tokens": [
+        50255,
         39,
         15173,
         6177,
@@ -27,7 +28,8 @@
         18276,
         360,
         2606,
-        19146
+        19146,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

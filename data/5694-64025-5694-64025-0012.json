@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0012.flac",
-    "text": "OFFICERS COULD NOT CURB THE MEN TO KEEP IN LINE",
+    "text": "<|startoftext|> OFFICERS COULD NOT CURB THE MEN TO KEEP IN LINE <|endoftext|>",
     "tokens": [
+        50255,
         27977,
         2149,
         4877,
@@ -17,7 +18,8 @@
         509,
         35238,
         3268,
-        48920
+        48920,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

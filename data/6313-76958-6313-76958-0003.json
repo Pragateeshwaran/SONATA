@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0003.flac",
-    "text": "A LOUD LAUGH FOLLOWED AT CHUNKY'S EXPENSE",
+    "text": "<|startoftext|> A LOUD LAUGH FOLLOWED AT CHUNKY'S EXPENSE <|endoftext|>",
     "tokens": [
+        50255,
         32,
         406,
         2606,
@@ -18,7 +19,8 @@
         6,
         50,
         25703,
-        24290
+        24290,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

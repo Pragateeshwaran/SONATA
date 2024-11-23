@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0011.flac",
-    "text": "THE LADIES IN YELLOW DRESSES STAND AGAIN IN A RING ABOUT THE EMPEROR'S DAUGHTER AND ARE FOR THE LAST TIME ACCOSTED BY THE SINGER WITH HIS LUTE",
+    "text": "<|startoftext|> THE LADIES IN YELLOW DRESSES STAND AGAIN IN A RING ABOUT THE EMPEROR'S DAUGHTER AND ARE FOR THE LAST TIME ACCOSTED BY THE SINGER WITH HIS LUTE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         406,
         2885,
@@ -47,7 +48,8 @@
         13315,
         33700,
         406,
-        37780
+        37780,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

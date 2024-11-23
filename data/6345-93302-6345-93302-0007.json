@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0007.flac",
-    "text": "IT WAS BITTERLY COLD BUT THE EMBANKMENT WAS MORE ROMANTIC THAN A RAILWAY CARRIAGE",
+    "text": "<|startoftext|> IT WAS BITTERLY COLD BUT THE EMBANKMENT WAS MORE ROMANTIC THAN A RAILWAY CARRIAGE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         36992,
@@ -29,7 +30,8 @@
         17368,
         49,
         3539,
-        8264
+        8264,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

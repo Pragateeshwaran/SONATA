@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0027.flac",
-    "text": "WHICH CLOUDS SEEING THAT THERE WAS NO ROOF SOMETIMES WEPT OVER THE MASTERPIECE OF URSUS",
+    "text": "<|startoftext|> WHICH CLOUDS SEEING THAT THERE WAS NO ROOF SOMETIMES WEPT OVER THE MASTERPIECE OF URSUS <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         20739,
         7852,
@@ -33,7 +34,8 @@
         3963,
         471,
         6998,
-        2937
+        2937,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

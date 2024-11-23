@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0018.flac",
-    "text": "IT TURNED OUT THAT SHE HAD A LITTLE MONEY OF HER OWN ABOUT A HUNDRED AND THIRTY POUNDS A YEAR",
+    "text": "<|startoftext|> IT TURNED OUT THAT SHE HAD A LITTLE MONEY OF HER OWN ABOUT A HUNDRED AND THIRTY POUNDS A YEAR <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         309,
         27064,
@@ -33,7 +34,8 @@
         19385,
         5258,
         317,
-        32914
+        32914,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

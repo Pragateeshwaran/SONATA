@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0011.flac",
-    "text": "HER HANDS AND FEET WERE ACHING WITH COLD",
+    "text": "<|startoftext|> HER HANDS AND FEET WERE ACHING WITH COLD <|endoftext|>",
     "tokens": [
+        50255,
         16879,
         367,
         1565,
@@ -16,7 +17,8 @@
         2751,
         13315,
         327,
-        15173
+        15173,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

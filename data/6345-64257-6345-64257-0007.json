@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0007.flac",
-    "text": "BUT SHE KNEW NOBODY AND WANDERED ALONE IN THE GARDEN OPPRESSED WITH SOMETHING SHE DID NOT UNDERSTAND",
+    "text": "<|startoftext|> BUT SHE KNEW NOBODY AND WANDERED ALONE IN THE GARDEN OPPRESSED WITH SOMETHING SHE DID NOT UNDERSTAND <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         48052,
         509,
@@ -33,7 +34,8 @@
         5626,
         35219,
         2257,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

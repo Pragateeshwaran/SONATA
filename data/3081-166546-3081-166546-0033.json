@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0033.flac",
-    "text": "BUT CLEWS THERE ARE ABSOLUTELY NONE",
+    "text": "<|startoftext|> BUT CLEWS THERE ARE ABSOLUTELY NONE <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         30301,
         19416,
@@ -12,7 +13,8 @@
         3843,
         30943,
         399,
-        11651
+        11651,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

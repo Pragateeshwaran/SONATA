@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0008.flac",
-    "text": "BY THE SIDE OF THE DOOR WAS CONSTRUCTED OFF HAND BY MEANS OF AN EMPTY BARREL A BOX FOR THE MONEY TAKER WHO WAS SOMETIMES FIBI AND SOMETIMES VINOS",
+    "text": "<|startoftext|> BY THE SIDE OF THE DOOR WAS CONSTRUCTED OFF HAND BY MEANS OF AN EMPTY BARREL A BOX FOR THE MONEY TAKER WHO WAS SOMETIMES FIBI AND SOMETIMES VINOS <|endoftext|>",
     "tokens": [
+        50255,
         17513,
         3336,
         311,
@@ -50,7 +51,8 @@
         1546,
         569,
         1268,
-        2640
+        2640,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

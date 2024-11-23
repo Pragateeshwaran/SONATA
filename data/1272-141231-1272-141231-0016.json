@@ -1,12 +1,14 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0016.flac",
-    "text": "TEN SECONDS",
+    "text": "<|startoftext|> TEN SECONDS <|endoftext|>",
     "tokens": [
+        50255,
         51,
         1677,
         10729,
         1340,
-        5258
+        5258,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

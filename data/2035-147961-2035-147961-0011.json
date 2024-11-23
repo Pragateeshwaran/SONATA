@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0011.flac",
-    "text": "QUICKLY IT WAS COVERED WITH BRIGHT RED SPOTS I THOUGHT I HAD NEVER SEEN ANY BLOOD SO BRIGHT",
+    "text": "<|startoftext|> QUICKLY IT WAS COVERED WITH BRIGHT RED SPOTS I THOUGHT I HAD NEVER SEEN ANY BLOOD SO BRIGHT <|endoftext|>",
     "tokens": [
+        50255,
         10917,
         11860,
         11319,
@@ -31,7 +32,8 @@
         22808,
         12809,
         11177,
-        9947
+        9947,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

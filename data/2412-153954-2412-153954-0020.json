@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0020.flac",
-    "text": "AGAIN THERE WAS A VERY OLD CARRIAGE WHOSE WHEELS IN SPITE OF RUST AND DECAY I COULD SEE HAD BEEN DESIGNED ORIGINALLY FOR IRON RAILS",
+    "text": "<|startoftext|> AGAIN THERE WAS A VERY OLD CARRIAGE WHOSE WHEELS IN SPITE OF RUST AND DECAY I COULD SEE HAD BEEN DESIGNED ORIGINALLY FOR IRON RAILS <|endoftext|>",
     "tokens": [
+        50255,
         4760,
         29833,
         34702,
@@ -46,7 +47,8 @@
         14826,
         1340,
         17926,
-        45484
+        45484,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

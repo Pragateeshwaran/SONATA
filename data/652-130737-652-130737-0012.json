@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0012.flac",
-    "text": "RHEIN AND MOSELLE EIGHTEEN NINETY THREE",
+    "text": "<|startoftext|> RHEIN AND MOSELLE EIGHTEEN NINETY THREE <|endoftext|>",
     "tokens": [
+        50255,
         49,
         13909,
         1268,
@@ -18,7 +19,8 @@
         1268,
         2767,
         56,
-        48697
+        48697,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

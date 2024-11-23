@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0031.flac",
-    "text": "THEY OUGHT TO BE TAKEN UP IN THE AUTUMN AND WHEN DRIED IN THE HOUSE WILL KEEP TILL SPRING",
+    "text": "<|startoftext|> THEY OUGHT TO BE TAKEN UP IN THE AUTUMN AND WHEN DRIED IN THE HOUSE WILL KEEP TILL SPRING <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         440,
@@ -32,7 +33,8 @@
         309,
         8267,
         49068,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

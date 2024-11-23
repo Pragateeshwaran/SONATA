@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0003.flac",
-    "text": "SHE STOOD FOR A MOMENT ON THE HEARTH AND IN SAD DREAMY MOOD LISTENED TO THE HOWLING SWOOPS OF THE WIND MAKING THE HOUSE QUIVER AND SHAKE",
+    "text": "<|startoftext|> SHE STOOD FOR A MOMENT ON THE HEARTH AND IN SAD DREAMY MOOD LISTENED TO THE HOWLING SWOOPS OF THE WIND MAKING THE HOUSE QUIVER AND SHAKE <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         3563,
@@ -48,7 +49,8 @@
         38757,
         5357,
         25630,
-        7336
+        7336,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

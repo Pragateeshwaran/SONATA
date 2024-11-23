@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0008.flac",
-    "text": "DRY AND OF MAGNIFICENT BOUQUET",
+    "text": "<|startoftext|> DRY AND OF MAGNIFICENT BOUQUET <|endoftext|>",
     "tokens": [
+        50255,
         7707,
         56,
         5357,
@@ -13,7 +14,8 @@
         347,
         2606,
         10917,
-        2767
+        2767,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

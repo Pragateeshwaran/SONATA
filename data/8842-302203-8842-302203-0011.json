@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0011.flac",
-    "text": "THE SECOND PART BEGINS HERE SAYING BE NOW THE THIRD HERE THEN WHILE IT WAS HIS PLEASURE",
+    "text": "<|startoftext|> THE SECOND PART BEGINS HERE SAYING BE NOW THE THIRD HERE THEN WHILE IT WAS HIS PLEASURE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         10729,
         18672,
@@ -27,7 +28,8 @@
         350,
         2538,
         1921,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

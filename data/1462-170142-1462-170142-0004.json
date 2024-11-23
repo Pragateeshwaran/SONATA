@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0004.flac",
-    "text": "A COAL FIRE WAS CRACKLING IN THE GRATE AND THE LAMPS WERE LIT FOR IT WAS ALREADY BEGINNING TO GROW DARK OUTSIDE",
+    "text": "<|startoftext|> A COAL FIRE WAS CRACKLING IN THE GRATE AND THE LAMPS WERE LIT FOR IT WAS ALREADY BEGINNING TO GROW DARK OUTSIDE <|endoftext|>",
     "tokens": [
+        50255,
         32,
         7375,
         1847,
@@ -39,7 +40,8 @@
         46455,
         16289,
         50,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

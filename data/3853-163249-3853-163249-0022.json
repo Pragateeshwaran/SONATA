@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0022.flac",
-    "text": "YOU WILL LET ME DO IT AND IN RETURN I WILL MARRY YOU WHENEVER YOU ASK ME ANSWERED CHRISTIE SEALING THE PROMISE WITH A KISS THAT SILENCED HIM",
+    "text": "<|startoftext|> YOU WILL LET ME DO IT AND IN RETURN I WILL MARRY YOU WHENEVER YOU ASK ME ANSWERED CHRISTIE SEALING THE PROMISE WITH A KISS THAT SILENCED HIM <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         17682,
         37994,
@@ -44,7 +45,8 @@
         47551,
         24181,
         1961,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

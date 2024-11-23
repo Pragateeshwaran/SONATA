@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\422\\122949\\422-122949-0002.flac",
-    "text": "WE TRUTHFUL ONES THE NOBILITY IN ANCIENT GREECE CALLED THEMSELVES",
+    "text": "<|startoftext|> WE TRUTHFUL ONES THE NOBILITY IN ANCIENT GREECE CALLED THEMSELVES <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         7579,
         24318,
@@ -24,7 +25,8 @@
         5653,
         3698,
         53,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "422",

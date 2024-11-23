@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0063.flac",
-    "text": "ILLUSTRATION SAGE",
+    "text": "<|startoftext|> ILLUSTRATION SAGE <|endoftext|>",
     "tokens": [
+        50255,
         8267,
         7759,
         49,
         6234,
         311,
-        11879
+        11879,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

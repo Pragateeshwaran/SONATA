@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0019.flac",
-    "text": "I FREQUENTLY THOUGHT IT WOULD BE PLEASANT TO SPLIT THE DIFFERENCE WITH THAT MULE AND I WOULD GLADLY HAVE DONE SO IF I COULD HAVE GOTTEN ONE HALF OF HIS NO",
+    "text": "<|startoftext|> I FREQUENTLY THOUGHT IT WOULD BE PLEASANT TO SPLIT THE DIFFERENCE WITH THAT MULE AND I WOULD GLADLY HAVE DONE SO IF I COULD HAVE GOTTEN ONE HALF OF HIS NO <|endoftext|>",
     "tokens": [
+        50255,
         40,
         44253,
         10917,
@@ -55,7 +56,8 @@
         37,
         3963,
         33700,
-        8005
+        8005,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

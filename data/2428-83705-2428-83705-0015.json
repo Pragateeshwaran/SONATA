@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0015.flac",
-    "text": "WHEN SHE HEARD OF MY ENGAGEMENT WITH MARY ANN SHE WROTE AND SUGGESTED THAT WE SHOULD SPEND OUR HONEYMOON IN HER COTTAGE OR PIGSTYE AND THAT I SHOULD PAY HER RENT FOR IT",
+    "text": "<|startoftext|> WHEN SHE HEARD OF MY ENGAGEMENT WITH MARY ANN SHE WROTE AND SUGGESTED THAT WE SHOULD SPEND OUR HONEYMOON IN HER COTTAGE OR PIGSTYE AND THAT I SHOULD PAY HER RENT FOR IT <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         48052,
@@ -54,7 +55,8 @@
         371,
         3525,
         7473,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

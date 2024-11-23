@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0034.flac",
-    "text": "THAT WAS WHAT MISSUS MACPHERSON SAID TO ME ONLY THE OTHER DAY",
+    "text": "<|startoftext|> THAT WAS WHAT MISSUS MACPHERSON SAID TO ME ONLY THE OTHER DAY <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         21725,
@@ -18,7 +19,8 @@
         22224,
         3336,
         25401,
-        24644
+        24644,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0029.flac",
-    "text": "TO MAKE HOT BUTTERED TOAST SEVENTEEN TWENTY SIX",
+    "text": "<|startoftext|> TO MAKE HOT BUTTERED TOAST SEVENTEEN TWENTY SIX <|endoftext|>",
     "tokens": [
+        50255,
         10468,
         39134,
         44607,
@@ -19,7 +20,8 @@
         3525,
         56,
         311,
-        10426
+        10426,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

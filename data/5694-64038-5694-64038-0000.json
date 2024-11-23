@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0000.flac",
-    "text": "ADVANCE INTO TENNESSEE",
+    "text": "<|startoftext|> ADVANCE INTO TENNESSEE <|endoftext|>",
     "tokens": [
+        50255,
         2885,
         53,
         19240,
@@ -9,7 +10,8 @@
         309,
         34571,
         1546,
-        36078
+        36078,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

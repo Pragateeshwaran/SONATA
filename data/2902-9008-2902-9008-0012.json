@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0012.flac",
-    "text": "STRANGE THAT MEN SHOULD BE CONTENT TO GROVEL AND BE MEN WHEN THEY MIGHT RISE TO THE RANK OF GODS",
+    "text": "<|startoftext|> STRANGE THAT MEN SHOULD BE CONTENT TO GROVEL AND BE MEN WHEN THEY MIGHT RISE TO THE RANK OF GODS <|endoftext|>",
     "tokens": [
+        50255,
         18601,
         27746,
         14603,
@@ -29,7 +30,8 @@
         15154,
         3963,
         29562,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

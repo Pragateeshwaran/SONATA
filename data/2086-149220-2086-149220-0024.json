@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0024.flac",
-    "text": "THERE IS A WONDERFUL INSIGHT IN HEAVEN'S BROAD AND SIMPLE SUNSHINE",
+    "text": "<|startoftext|> THERE IS A WONDERFUL INSIGHT IN HEAVEN'S BROAD AND SIMPLE SUNSHINE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         3180,
@@ -25,7 +26,8 @@
         16437,
         35329,
         9693,
-        8881
+        8881,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

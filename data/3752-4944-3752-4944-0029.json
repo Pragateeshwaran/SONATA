@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0029.flac",
-    "text": "WHOM IS HE GOING TO FLOG NOW",
+    "text": "<|startoftext|> WHOM IS HE GOING TO FLOG NOW <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         2662,
         3180,
@@ -11,7 +12,8 @@
         5390,
         9977,
         7730,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

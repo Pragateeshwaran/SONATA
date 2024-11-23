@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0018.flac",
-    "text": "I SUPPOSE SEVERITY IS NECESSARY RETURNED MEEKIN THOUGH TO MY EARS A FLOGGING SOUNDS A LITTLE DISTASTEFUL",
+    "text": "<|startoftext|> I SUPPOSE SEVERITY IS NECESSARY RETURNED MEEKIN THOUGH TO MY EARS A FLOGGING SOUNDS A LITTLE DISTASTEFUL <|endoftext|>",
     "tokens": [
+        50255,
         40,
         19549,
         48933,
@@ -40,7 +41,8 @@
         8808,
         1921,
         9328,
-        46476
+        46476,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0007.flac",
-    "text": "HE DOES AND FOR ONCE I WIN A ROUND I KEEP MUSIC FOR THIS SEMESTER",
+    "text": "<|startoftext|> HE DOES AND FOR ONCE I WIN A ROUND I KEEP MUSIC FOR THIS SEMESTER <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         38359,
         5357,
@@ -22,7 +23,8 @@
         12680,
         48603,
         1546,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

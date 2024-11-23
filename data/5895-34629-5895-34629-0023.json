@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0023.flac",
-    "text": "AT EVERY PERFORMANCE THE YARD OF THE INN TRANSFORMED INTO A PIT WAS FILLED WITH A RAGGED AND ENTHUSIASTIC AUDIENCE",
+    "text": "<|startoftext|> AT EVERY PERFORMANCE THE YARD OF THE INN TRANSFORMED INTO A PIT WAS FILLED WITH A RAGGED AND ENTHUSIASTIC AUDIENCE <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         27222,
         19878,
@@ -39,7 +40,8 @@
         11262,
         2149,
         41260,
-        42589
+        42589,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

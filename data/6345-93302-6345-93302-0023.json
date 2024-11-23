@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0023.flac",
-    "text": "I DIDN'T THINK A DECENT MAN COULD DO SUCH THINGS SHE WAS PULLING ON HER GLOVES GO HOME AND GLOAT OVER IT ALL",
+    "text": "<|startoftext|> I DIDN'T THINK A DECENT MAN COULD DO SUCH THINGS SHE WAS PULLING ON HER GLOVES GO HOME AND GLOAT OVER IT ALL <|endoftext|>",
     "tokens": [
+        50255,
         40,
         35697,
         45,
@@ -38,7 +39,8 @@
         1404,
         28729,
         7283,
-        11096
+        11096,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

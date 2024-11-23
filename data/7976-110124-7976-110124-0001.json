@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0001.flac",
-    "text": "EVERY YEAR AT A CERTAIN DAY OF A CERTAIN MONTH HE WENT AWAY TO A DISTANT CITY TO COLLECT MONEY ON AN ACCOUNT",
+    "text": "<|startoftext|> EVERY YEAR AT A CERTAIN DAY OF A CERTAIN MONTH HE WENT AWAY TO A DISTANT CITY TO COLLECT MONEY ON AN ACCOUNT <|endoftext|>",
     "tokens": [
+        50255,
         36,
         5959,
         56,
@@ -38,7 +39,8 @@
         6177,
         3537,
         15859,
-        28270
+        28270,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

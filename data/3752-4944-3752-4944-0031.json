@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0031.flac",
-    "text": "PERHAPS YOU'LL HAVE THE GOODNESS TO ALLOW ME TO BE THE BEST JUDGE OF THAT RETURNED MACKLEWAIN DRAWING UP HIS LITTLE BODY TO ITS LEAST INSIGNIFICANT STATURE",
+    "text": "<|startoftext|> PERHAPS YOU'LL HAVE THE GOODNESS TO ALLOW ME TO BE THE BEST JUDGE OF THAT RETURNED MACKLEWAIN DRAWING UP HIS LITTLE BODY TO ITS LEAST INSIGNIFICANT STATURE <|endoftext|>",
     "tokens": [
+        50255,
         18973,
         39,
         44580,
@@ -52,7 +53,8 @@
         30643,
         8643,
         15486,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

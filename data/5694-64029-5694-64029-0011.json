@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0011.flac",
-    "text": "I THINK WE MUST HAVE KILLED A GOOD MANY IN THE OLD FIELD BECAUSE WE WERE FIRING ALL THE TIME AT THE SOLID LINE AS THEY ADVANCED UPON US",
+    "text": "<|startoftext|> I THINK WE MUST HAVE KILLED A GOOD MANY IN THE OLD FIELD BECAUSE WE WERE FIRING ALL THE TIME AT THE SOLID LINE AS THEY ADVANCED UPON US <|endoftext|>",
     "tokens": [
+        50255,
         40,
         2320,
         17248,
@@ -43,7 +44,8 @@
         1961,
         15958,
         1340,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

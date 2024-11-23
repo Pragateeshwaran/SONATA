@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0000.flac",
-    "text": "HER MEETING WITH LETTY WAS INDESCRIBABLY TENDER AND THE DAYS THAT FOLLOWED WERE PRETTY EQUALLY DIVIDED BETWEEN HER AND HER BROTHER IN NURSING THE ONE AND LOVING THE OTHER",
+    "text": "<|startoftext|> HER MEETING WITH LETTY WAS INDESCRIBABLY TENDER AND THE DAYS THAT FOLLOWED WERE PRETTY EQUALLY DIVIDED BETWEEN HER AND HER BROTHER IN NURSING THE ONE AND LOVING THE OTHER <|endoftext|>",
     "tokens": [
+        50255,
         16879,
         11948,
         2767,
@@ -59,7 +60,8 @@
         8874,
         2751,
         3336,
-        25401
+        25401,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0013.flac",
-    "text": "THE FIRST EDITION OF EREWHON SOLD IN ABOUT THREE WEEKS I HAD NOT TAKEN MOULDS AND AS THE DEMAND WAS STRONG IT WAS SET UP AGAIN IMMEDIATELY",
+    "text": "<|startoftext|> THE FIRST EDITION OF EREWHON SOLD IN ABOUT THREE WEEKS I HAD NOT TAKEN MOULDS AND AS THE DEMAND WAS STRONG IT WAS SET UP AGAIN IMMEDIATELY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         31328,
         39219,
@@ -46,7 +47,8 @@
         30733,
         40,
         1404,
-        30943
+        30943,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0002.flac",
-    "text": "ORIGINALLY THE MOST VALUABLE OF THESE WERE FOUND IN THE SPICE ISLANDS OR MOLUCCAS OF THE INDIAN OCEAN AND WERE HIGHLY PRIZED BY THE NATIONS OF ANTIQUITY",
+    "text": "<|startoftext|> ORIGINALLY THE MOST VALUABLE OF THESE WERE FOUND IN THE SPICE ISLANDS OR MOLUCCAS OF THE INDIAN OCEAN AND WERE HIGHLY PRIZED BY THE NATIONS OF ANTIQUITY <|endoftext|>",
     "tokens": [
+        50255,
         1581,
         3528,
         1268,
@@ -56,7 +57,8 @@
         3537,
         25621,
         10917,
-        9050
+        9050,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

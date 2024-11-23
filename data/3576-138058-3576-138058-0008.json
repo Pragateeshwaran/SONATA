@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0008.flac",
-    "text": "DOST THOU RISE AGAINST HIM WHO GIVES THEE HIS BREAD",
+    "text": "<|startoftext|> DOST THOU RISE AGAINST HIM WHO GIVES THEE HIS BREAD <|endoftext|>",
     "tokens": [
+        50255,
         35,
         10892,
         2320,
@@ -18,7 +19,8 @@
         36,
         33700,
         347,
-        15675
+        15675,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

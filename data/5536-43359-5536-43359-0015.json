@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0015.flac",
-    "text": "OUR HONOR IS THE GUARANTEE FOR HIS SAFETY SO LONG AS HE IS WITHIN THE CAMP",
+    "text": "<|startoftext|> OUR HONOR IS THE GUARANTEE FOR HIS SAFETY SO LONG AS HE IS WITHIN THE CAMP <|endoftext|>",
     "tokens": [
+        50255,
         11698,
         367,
         1340,
@@ -26,7 +27,8 @@
         1268,
         3336,
         327,
-        23518
+        23518,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0025.flac",
-    "text": "CRUEL RECKLESS WOMAN SHE CRIED HOW EASILY WERT THOU MOVED TO CARRY OUT A THOUGHT SO WICKED",
+    "text": "<|startoftext|> CRUEL RECKLESS WOMAN SHE CRIED HOW EASILY WERT THOU MOVED TO CARRY OUT A THOUGHT SO WICKED <|endoftext|>",
     "tokens": [
+        50255,
         9419,
         52,
         3698,
@@ -36,7 +37,8 @@
         12809,
         370,
         11860,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0021.flac",
-    "text": "IT'S THE FIRST TIME HILDA HAS BEEN TO OUR HOUSE AND TOM INTRODUCES HER AROUND",
+    "text": "<|startoftext|> IT'S THE FIRST TIME HILDA HAS BEEN TO OUR HOUSE AND TOM INTRODUCES HER AROUND <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         6,
         50,
@@ -26,7 +27,8 @@
         1546,
         24906,
         5923,
-        15919
+        15919,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

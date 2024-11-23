@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0014.flac",
-    "text": "FOR THESE READ FIBI AND VINOS THAT WE MAY CONFORM TO ENGLISH PRONUNCIATION",
+    "text": "<|startoftext|> FOR THESE READ FIBI AND VINOS THAT WE MAY CONFORM TO ENGLISH PRONUNCIATION <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         48947,
         20832,
@@ -24,7 +25,8 @@
         1340,
         4944,
         25690,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

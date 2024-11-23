@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0005.flac",
-    "text": "THAT WHITE FLAG AND THOSE BOATS GOING OUT MEAN THAT SUMTER IS OURS",
+    "text": "<|startoftext|> THAT WHITE FLAG AND THOSE BOATS GOING OUT MEAN THAT SUMTER IS OURS <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         44925,
@@ -22,7 +23,8 @@
         5781,
         3180,
         30229,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

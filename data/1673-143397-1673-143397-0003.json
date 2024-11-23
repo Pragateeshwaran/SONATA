@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0003.flac",
-    "text": "THE ZEAL OF CYRIL EXPOSED HIM TO THE PENALTIES OF THE JULIAN LAW BUT IN A FEEBLE GOVERNMENT AND A SUPERSTITIOUS AGE HE WAS SECURE OF IMPUNITY AND EVEN OF PRAISE",
+    "text": "<|startoftext|> THE ZEAL OF CYRIL EXPOSED HIM TO THE PENALTIES OF THE JULIAN LAW BUT IN A FEEBLE GOVERNMENT AND A SUPERSTITIOUS AGE HE WAS SECURE OF IMPUNITY AND EVEN OF PRAISE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         1168,
         36,
@@ -56,7 +57,8 @@
         3963,
         350,
         3861,
-        24352
+        24352,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

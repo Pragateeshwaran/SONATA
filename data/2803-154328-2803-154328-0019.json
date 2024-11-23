@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0019.flac",
-    "text": "JOHN MANGLES INSERTING THE BLADE OF HIS PONIARD AVOIDED THE KNIFE WHICH NOW PROTRUDED ABOVE THE SOIL BUT SEIZED THE HAND THAT WIELDED IT",
+    "text": "<|startoftext|> JOHN MANGLES INSERTING THE BLADE OF HIS PONIARD AVOIDED THE KNIFE WHICH NOW PROTRUDED ABOVE THE SOIL BUT SEIZED THE HAND THAT WIELDED IT <|endoftext|>",
     "tokens": [
+        50255,
         47118,
         17254,
         8763,
@@ -49,7 +50,8 @@
         29360,
         24639,
         1961,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

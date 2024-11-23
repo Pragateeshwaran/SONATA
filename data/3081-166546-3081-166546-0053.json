@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0053.flac",
-    "text": "NATURALLY THEY REACHED HER FIRST",
+    "text": "<|startoftext|> NATURALLY THEY REACHED HER FIRST <|endoftext|>",
     "tokens": [
+        50255,
         34259,
         4261,
         19807,
@@ -10,7 +11,8 @@
         16219,
         1961,
         24906,
-        31328
+        31328,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0002.flac",
-    "text": "AND THERE IS AN OLD STORY ABOUT THIS WHICH I SHALL TELL YOU",
+    "text": "<|startoftext|> AND THERE IS AN OLD STORY ABOUT THIS WHICH I SHALL TELL YOU <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         34702,
         3180,
@@ -17,7 +18,8 @@
         50163,
         13368,
         3069,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

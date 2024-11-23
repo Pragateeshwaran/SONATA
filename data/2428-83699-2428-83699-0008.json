@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0008.flac",
-    "text": "UNDER SUCH CIRCUMSTANCES SHE WAS HARDLY LIKELY TO BE LIVELY HERSELF BUT HER NAME WAS MADGE AND IT WAS THE ACCIDENT OF HER CHRISTIAN NAME WHICH DECIDED ME TO GO",
+    "text": "<|startoftext|> UNDER SUCH CIRCUMSTANCES SHE WAS HARDLY LIKELY TO BE LIVELY HERSELF BUT HER NAME WAS MADGE AND IT WAS THE ACCIDENT OF HER CHRISTIAN NAME WHICH DECIDED ME TO GO <|endoftext|>",
     "tokens": [
+        50255,
         4944,
         14418,
         13558,
@@ -52,7 +53,8 @@
         1961,
         11948,
         5390,
-        10351
+        10351,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

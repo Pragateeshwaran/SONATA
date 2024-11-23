@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0037.flac",
-    "text": "MACKLEWAIN SHOOK HIS HEAD SERIOUSLY",
+    "text": "<|startoftext|> MACKLEWAIN SHOOK HIS HEAD SERIOUSLY <|endoftext|>",
     "tokens": [
+        50255,
         44,
         8120,
         2538,
@@ -15,7 +16,8 @@
         40,
         2606,
         8634,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

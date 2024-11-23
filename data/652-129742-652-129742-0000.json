@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0000.flac",
-    "text": "ASPARAGUS SALAD COOK THE ASPARAGUS IN SALTED WATER DRAIN AND CHILL",
+    "text": "<|startoftext|> ASPARAGUS SALAD COOK THE ASPARAGUS IN SALTED WATER DRAIN AND CHILL <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         27082,
         4760,
@@ -26,7 +27,8 @@
         1268,
         5357,
         5870,
-        8267
+        8267,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0028.flac",
-    "text": "WHEN DONE TAKE THE MEAT OUT OF THE SAUCE",
+    "text": "<|startoftext|> WHEN DONE TAKE THE MEAT OUT OF THE SAUCE <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         360,
@@ -16,7 +17,8 @@
         3336,
         14719,
         52,
-        5222
+        5222,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0000.flac",
-    "text": "THE PLACE SEEMED FRAGRANT WITH ALL THE RICHES OF GREEK THOUGHT AND SONG SINCE THE DAYS WHEN PTOLEMY PHILADELPHUS WALKED THERE WITH EUCLID AND THEOCRITUS CALLIMACHUS AND LYCOPHRON",
+    "text": "<|startoftext|> THE PLACE SEEMED FRAGRANT WITH ALL THE RICHES OF GREEK THOUGHT AND SONG SINCE THE DAYS WHEN PTOLEMY PHILADELPHUS WALKED THERE WITH EUCLID AND THEOCRITUS CALLIMACHUS AND LYCOPHRON <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         9297,
         11598,
@@ -69,7 +70,8 @@
         44816,
         3185,
         17184,
-        1340
+        1340,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

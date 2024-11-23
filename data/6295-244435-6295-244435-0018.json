@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0018.flac",
-    "text": "HE INTENDED TO LEAVE EARLY IN THE MORNING BUT FIRST HE SOUGHT HIS FRIENDS AND TOLD THEM GOOD BYE",
+    "text": "<|startoftext|> HE INTENDED TO LEAVE EARLY IN THE MORNING BUT FIRST HE SOUGHT HIS FRIENDS AND TOLD THEM GOOD BYE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         17828,
         49361,
@@ -31,7 +32,8 @@
         44788,
         21090,
         11050,
-        36
+        36,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

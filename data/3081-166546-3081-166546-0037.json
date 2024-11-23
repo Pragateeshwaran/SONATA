@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0037.flac",
-    "text": "THE OLD MAN'S EYES SHOT FIRE AND UNCONSCIOUSLY ONE FOOT SLIPPED TO THE FLOOR",
+    "text": "<|startoftext|> THE OLD MAN'S EYES SHOT FIRE AND UNCONSCIOUSLY ONE FOOT SLIPPED TO THE FLOOR <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         440,
         11163,
@@ -31,7 +32,8 @@
         3336,
         9977,
         46,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

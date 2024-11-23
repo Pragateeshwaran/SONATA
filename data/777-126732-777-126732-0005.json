@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0005.flac",
-    "text": "WITH HIS ELBOW PRESENTING NO APPEARANCE OF A JOINT BUT MORE LIKE A BEND IN A DUMMY'S LIMB THROWN OVER THE BACK OF A CHAIR HE LEANED FORWARD SLIGHTLY OVER HIS SHORT AND ENORMOUS THIGHS TO SPIT INTO THE GRATE",
+    "text": "<|startoftext|> WITH HIS ELBOW PRESENTING NO APPEARANCE OF A JOINT BUT MORE LIKE A BEND IN A DUMMY'S LIMB THROWN OVER THE BACK OF A CHAIR HE LEANED FORWARD SLIGHTLY OVER HIS SHORT AND ENORMOUS THIGHS TO SPIT INTO THE GRATE <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         33700,
@@ -71,7 +72,8 @@
         39319,
         3336,
         10863,
-        6158
+        6158,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

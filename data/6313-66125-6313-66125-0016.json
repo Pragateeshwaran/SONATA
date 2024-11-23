@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0016.flac",
-    "text": "SLOWLY BUT STEADILY THE SLENDER LINE WAS PAID OUT AMID A TENSE SILENCE ON THE PART OF THE LITTLE GROUP AT THE TOP OF THE CANYOU",
+    "text": "<|startoftext|> SLOWLY BUT STEADILY THE SLENDER LINE WAS PAID OUT AMID A TENSE SILENCE ON THE PART OF THE LITTLE GROUP AT THE TOP OF THE CANYOU <|endoftext|>",
     "tokens": [
+        50255,
         8634,
         3913,
         11319,
@@ -40,7 +41,8 @@
         3963,
         3336,
         15628,
-        36981
+        36981,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0004.flac",
-    "text": "THREE DAYS LATER MINNETAKI BECAME NEWSOME'S WIFE AT THE HUDSON BAY POST",
+    "text": "<|startoftext|> THREE DAYS LATER MINNETAKI BECAME NEWSOME'S WIFE AT THE HUDSON BAY POST <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         11587,
         24644,
@@ -29,7 +30,8 @@
         1340,
         347,
         4792,
-        24582
+        24582,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

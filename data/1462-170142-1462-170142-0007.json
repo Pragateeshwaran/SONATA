@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0007.flac",
-    "text": "I NEVER DREAMED IT WOULD BE YOU BARTLEY",
+    "text": "<|startoftext|> I NEVER DREAMED IT WOULD BE YOU BARTLEY <|endoftext|>",
     "tokens": [
+        50255,
         40,
         33602,
         360,
@@ -13,7 +14,8 @@
         9348,
         7013,
         42346,
-        25173
+        25173,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

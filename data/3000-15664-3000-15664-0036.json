@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0036.flac",
-    "text": "UNDER CERTAIN CONDITIONS YOU MAY HEAR THE ROAR OF THE WATER RUSHING FROM THE ROCK AT A DISTANCE OF HALF A MILE OR EVEN MORE OR YOU MAY NOT HEAR IT UNTIL WITHIN A FEW RODS",
+    "text": "<|startoftext|> UNDER CERTAIN CONDITIONS YOU MAY HEAR THE ROAR OF THE WATER RUSHING FROM THE ROCK AT A DISTANCE OF HALF A MILE OR EVEN MORE OR YOU MAY NOT HEAR IT UNTIL WITHIN A FEW RODS <|endoftext|>",
     "tokens": [
+        50255,
         4944,
         14418,
         327,
@@ -58,7 +59,8 @@
         6217,
         371,
         3727,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

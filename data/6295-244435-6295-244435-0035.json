@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0035.flac",
-    "text": "BILL SKELLY AN HIS GANG THEM MOUNTAINEERS ARE UP",
+    "text": "<|startoftext|> BILL SKELLY AN HIS GANG THEM MOUNTAINEERS ARE UP <|endoftext|>",
     "tokens": [
+        50255,
         39888,
         311,
         7336,
@@ -18,7 +19,8 @@
         8881,
         4877,
         15986,
-        15958
+        15958,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

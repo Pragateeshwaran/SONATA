@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0028.flac",
-    "text": "PHOEBE MERELY GLANCED AT IT AND GAVE IT BACK",
+    "text": "<|startoftext|> PHOEBE MERELY GLANCED AT IT AND GAVE IT BACK <|endoftext|>",
     "tokens": [
+        50255,
         11909,
         27799,
         12473,
@@ -16,7 +17,8 @@
         14545,
         6089,
         7283,
-        28767
+        28767,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

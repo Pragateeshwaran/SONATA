@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0004.flac",
-    "text": "THE YANKEE PICKET LINES WERE NOT A HALF MILE OFF",
+    "text": "<|startoftext|> THE YANKEE PICKET LINES WERE NOT A HALF MILE OFF <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         575,
         15154,
@@ -19,7 +20,8 @@
         37,
         15789,
         2538,
-        18562
+        18562,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

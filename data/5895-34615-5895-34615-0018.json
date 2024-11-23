@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0018.flac",
-    "text": "GWYNPLAINE HAD YELLOW HAIR",
+    "text": "<|startoftext|> GWYNPLAINE HAD YELLOW HAIR <|endoftext|>",
     "tokens": [
+        50255,
         33191,
         40760,
         45710,
@@ -12,7 +13,8 @@
         23304,
         3913,
         14558,
-        4663
+        4663,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

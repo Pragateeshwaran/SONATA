@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0010.flac",
-    "text": "EXCELLENTLY I LIKE PRIDE OF YOUR SORT IMPETUOSITY BECOMES YOU FOR YOU HAVE LEARNED TO CONTROL IT IF NEED BE AND THE AMBITION IS BEST OF ALL",
+    "text": "<|startoftext|> EXCELLENTLY I LIKE PRIDE OF YOUR SORT IMPETUOSITY BECOMES YOU FOR YOU HAVE LEARNED TO CONTROL IT IF NEED BE AND THE AMBITION IS BEST OF ALL <|endoftext|>",
     "tokens": [
+        50255,
         6369,
         5222,
         3069,
@@ -46,7 +47,8 @@
         3180,
         38502,
         3963,
-        11096
+        11096,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

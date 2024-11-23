@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0015.flac",
-    "text": "SHOULD YOU DESIRE TO FIND OUT MORE ABOUT THE BATTLE I REFER YOU TO HISTORY",
+    "text": "<|startoftext|> SHOULD YOU DESIRE TO FIND OUT MORE ABOUT THE BATTLE I REFER YOU TO HISTORY <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         24010,
         7013,
@@ -22,7 +23,8 @@
         7013,
         5390,
         367,
-        42480
+        42480,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

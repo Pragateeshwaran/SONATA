@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0036.flac",
-    "text": "THE COALS IN THE GRATE SETTLED DOWN WITH A SLIGHT CRASH AND MICHAELIS THE HERMIT OF VISIONS IN THE DESERT OF A PENITENTIARY GOT UP IMPETUOUSLY",
+    "text": "<|startoftext|> THE COALS IN THE GRATE SETTLED DOWN WITH A SLIGHT CRASH AND MICHAELIS THE HERMIT OF VISIONS IN THE DESERT OF A PENITENTIARY GOT UP IMPETUOUSLY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         7375,
         23333,
@@ -48,7 +49,8 @@
         52,
         2606,
         8634,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

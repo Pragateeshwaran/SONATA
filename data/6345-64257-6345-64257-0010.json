@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0010.flac",
-    "text": "SHE WAS LOST LOST UTTERLY WITH AN ETERNAL LOSS",
+    "text": "<|startoftext|> SHE WAS LOST LOST UTTERLY WITH AN ETERNAL LOSS <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         21725,
@@ -18,7 +19,8 @@
         31800,
         1847,
         406,
-        18420
+        18420,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

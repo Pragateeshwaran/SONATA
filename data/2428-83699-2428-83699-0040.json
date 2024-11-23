@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0040.flac",
-    "text": "AFTER A VAST AMOUNT OF UNFASTENING THE DOOR WAS OPENED AND ON THE THRESHOLD THERE STOOD A GIRL WITH A LIGHTED CANDLE IN HER HAND",
+    "text": "<|startoftext|> AFTER A VAST AMOUNT OF UNFASTENING THE DOOR WAS OPENED AND ON THE THRESHOLD THERE STOOD A GIRL WITH A LIGHTED CANDLE IN HER HAND <|endoftext|>",
     "tokens": [
+        50255,
         8579,
         5781,
         317,
@@ -46,7 +47,8 @@
         3268,
         24906,
         367,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

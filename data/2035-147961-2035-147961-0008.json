@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0008.flac",
-    "text": "IT SEEMED TO ME THAT HE DESPISED HIM FOR BEING SO SIMPLE AND DOCILE",
+    "text": "<|startoftext|> IT SEEMED TO ME THAT HE DESPISED HIM FOR BEING SO SIMPLE AND DOCILE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         7946,
         3620,
@@ -23,7 +24,8 @@
         16437,
         5357,
         37760,
-        41119
+        41119,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

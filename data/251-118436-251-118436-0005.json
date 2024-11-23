@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0005.flac",
-    "text": "THE MAN SHRUGGED HIS BROAD SHOULDERS AND TURNED BACK INTO THE ARABESQUE CHAMBER",
+    "text": "<|startoftext|> THE MAN SHRUGGED HIS BROAD SHOULDERS AND TURNED BACK INTO THE ARABESQUE CHAMBER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         17254,
         6006,
@@ -29,7 +30,8 @@
         8924,
         5870,
         2390,
-        13246
+        13246,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0011.flac",
-    "text": "COME IN AND STOP WITH ME AND NO HARM SHALL COME TO YOU AND SO SAYING SHE TOOK THEM BOTH BY THE HAND AND LED THEM INTO HER COTTAGE",
+    "text": "<|startoftext|> COME IN AND STOP WITH ME AND NO HARM SHALL COME TO YOU AND SO SAYING SHE TOOK THEM BOTH BY THE HAND AND LED THEM INTO HER COTTAGE <|endoftext|>",
     "tokens": [
+        50255,
         9858,
         36,
         3268,
@@ -39,7 +40,8 @@
         24906,
         327,
         29089,
-        11879
+        11879,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

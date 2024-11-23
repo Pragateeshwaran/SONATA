@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0009.flac",
-    "text": "HE WAS IN A MOOD FOR MUSIC WAS HE NOT",
+    "text": "<|startoftext|> HE WAS IN A MOOD FOR MUSIC WAS HE NOT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         3268,
@@ -13,7 +14,8 @@
         2149,
         21725,
         11179,
-        5626
+        5626,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

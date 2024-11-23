@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0025.flac",
-    "text": "INDEED WE OF THE RANK AND FILE HAD LITTLE CONFIDENCE IN GRANT IN THOSE DAYS",
+    "text": "<|startoftext|> INDEED WE OF THE RANK AND FILE HAD LITTLE CONFIDENCE IN GRANT IN THOSE DAYS <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         7206,
         1961,
@@ -28,7 +29,8 @@
         2320,
         14058,
         24644,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

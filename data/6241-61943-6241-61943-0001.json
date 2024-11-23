@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0001.flac",
-    "text": "BUT IN THE CAUSE OF SCIENCE MEN ARE EXPECTED TO SUFFER",
+    "text": "<|startoftext|> BUT IN THE CAUSE OF SCIENCE MEN ARE EXPECTED TO SUFFER <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         3268,
         3336,
@@ -17,7 +18,8 @@
         1961,
         5390,
         13558,
-        45746
+        45746,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

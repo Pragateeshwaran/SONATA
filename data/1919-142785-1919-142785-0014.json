@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0014.flac",
-    "text": "PLACE THE JUG IN A SAUCEPAN OF BOILING WATER KEEP STIRRING WELL UNTIL IT THICKENS BUT DO NOT ALLOW IT TO BOIL OR IT WILL CURDLE",
+    "text": "<|startoftext|> PLACE THE JUG IN A SAUCEPAN OF BOILING WATER KEEP STIRRING WELL UNTIL IT THICKENS BUT DO NOT ALLOW IT TO BOIL OR IT WILL CURDLE <|endoftext|>",
     "tokens": [
+        50255,
         6489,
         11598,
         3336,
@@ -50,7 +51,8 @@
         327,
         4261,
         35,
-        2538
+        2538,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

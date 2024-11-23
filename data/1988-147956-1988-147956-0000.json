@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0000.flac",
-    "text": "FUCHS BROUGHT UP A SACK OF POTATOES AND A PIECE OF CURED PORK FROM THE CELLAR AND GRANDMOTHER PACKED SOME LOAVES OF SATURDAY'S BREAD A JAR OF BUTTER AND SEVERAL PUMPKIN PIES IN THE STRAW OF THE WAGON BOX",
+    "text": "<|startoftext|> FUCHS BROUGHT UP A SACK OF POTATOES AND A PIECE OF CURED PORK FROM THE CELLAR AND GRANDMOTHER PACKED SOME LOAVES OF SATURDAY'S BREAD A JAR OF BUTTER AND SEVERAL PUMPKIN PIES IN THE STRAW OF THE WAGON BOX <|endoftext|>",
     "tokens": [
+        50255,
         38989,
         3398,
         50,
@@ -79,7 +80,8 @@
         370,
         4760,
         1340,
-        45216
+        45216,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

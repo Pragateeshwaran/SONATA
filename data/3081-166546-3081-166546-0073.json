@@ -1,8 +1,10 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0073.flac",
-    "text": "YES",
+    "text": "<|startoftext|> YES <|endoftext|>",
     "tokens": [
-        43335
+        50255,
+        43335,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

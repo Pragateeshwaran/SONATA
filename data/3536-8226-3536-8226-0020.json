@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0020.flac",
-    "text": "IT IS VERY MUCH EASIER FOR SUCH MEN AS MISTER BOZZLE TO CARRY DECENCY OF APPEARANCE ABOUT WITH THEM THAN TO KEEP IT AT HOME",
+    "text": "<|startoftext|> IT IS VERY MUCH EASIER FOR SUCH MEN AS MISTER BOZZLE TO CARRY DECENCY OF APPEARANCE ABOUT WITH THEM THAN TO KEEP IT AT HOME <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         29550,
@@ -39,7 +40,8 @@
         35238,
         7283,
         5161,
-        41779
+        41779,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

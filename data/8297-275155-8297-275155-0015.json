@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0015.flac",
-    "text": "YOU WOULD HAVE SEEN HER PINING FOR THE COMPANY OF OTHER CHILDREN AND WOULD HAVE HAD NO MERCY ON HER",
+    "text": "<|startoftext|> YOU WOULD HAVE SEEN HER PINING FOR THE COMPANY OF OTHER CHILDREN AND WOULD HAVE HAD NO MERCY ON HER <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         370,
         24010,
@@ -32,7 +33,8 @@
         34,
         56,
         6177,
-        24906
+        24906,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

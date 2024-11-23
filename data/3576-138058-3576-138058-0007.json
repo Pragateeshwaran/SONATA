@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0007.flac",
-    "text": "DOST THOU REVOLT AGAINST THY MASTER AND NATURAL LORD",
+    "text": "<|startoftext|> DOST THOU REVOLT AGAINST THY MASTER AND NATURAL LORD <|endoftext|>",
     "tokens": [
+        50255,
         35,
         10892,
         2320,
@@ -19,7 +20,8 @@
         10149,
         4261,
         1847,
-        35750
+        35750,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

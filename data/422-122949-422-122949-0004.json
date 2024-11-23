@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\422\\122949\\422-122949-0004.flac",
-    "text": "HE HONOURS WHATEVER HE RECOGNIZES IN HIMSELF SUCH MORALITY EQUALS SELF GLORIFICATION",
+    "text": "<|startoftext|> HE HONOURS WHATEVER HE RECOGNIZES IN HIMSELF SUCH MORALITY EQUALS SELF GLORIFICATION <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         1340,
@@ -32,7 +33,8 @@
         10188,
         1581,
         30643,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "422",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0040.flac",
-    "text": "NOW LET'S BE BRAVE AND ENJOY EVERY MINUTE OF IT",
+    "text": "<|startoftext|> NOW LET'S BE BRAVE AND ENJOY EVERY MINUTE OF IT <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         37994,
         6,
@@ -17,7 +18,8 @@
         20625,
         37780,
         3963,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

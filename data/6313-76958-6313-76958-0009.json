@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0009.flac",
-    "text": "THE COWBOY DID THIS VERY THING BUT WITHIN AN HOUR HE FOUND HIMSELF ALONE THE OTHERS HAVING TURNED IN ONE BY ONE",
+    "text": "<|startoftext|> THE COWBOY DID THIS VERY THING BUT WITHIN AN HOUR HE FOUND HIMSELF ALONE THE OTHERS HAVING TURNED IN ONE BY ONE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         327,
         3913,
@@ -39,7 +40,8 @@
         3268,
         16329,
         11050,
-        16329
+        16329,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

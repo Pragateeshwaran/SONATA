@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0019.flac",
-    "text": "THERE WAS A TRAP AT THE BOY AND BLUNDERBUSS BUT THAT REQUIRED FETCHING",
+    "text": "<|startoftext|> THERE WAS A TRAP AT THE BOY AND BLUNDERBUSS BUT THAT REQUIRED FETCHING <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         21725,
@@ -26,7 +27,8 @@
         376,
         2767,
         3398,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

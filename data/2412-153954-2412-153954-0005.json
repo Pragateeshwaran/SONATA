@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0005.flac",
-    "text": "EACH FEATURE WAS FINISHED EYELIDS EYELASHES AND EARS BEING ALMOST INVARIABLY PERFECT",
+    "text": "<|startoftext|> EACH FEATURE WAS FINISHED EYELIDS EYELASHES AND EARS BEING ALMOST INVARIABLY PERFECT <|endoftext|>",
     "tokens": [
+        50255,
         36,
         16219,
         18630,
@@ -34,7 +35,8 @@
         56,
         19878,
         37,
-        9782
+        9782,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

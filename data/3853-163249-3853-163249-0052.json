@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0052.flac",
-    "text": "DAVID AND CHRISTIE WENT SMILING AWAY TOGETHER AND IF THEY SHED ANY TEARS OVER THE BRIEF HAPPINESS NO ONE SAW THEM BUT THE FLOWERS AND THEY LOYALLY KEPT THE SECRET FOLDED UP IN THEIR TENDER HEARTS",
+    "text": "<|startoftext|> DAVID AND CHRISTIE WENT SMILING AWAY TOGETHER AND IF THEY SHED ANY TEARS OVER THE BRIEF HAPPINESS NO ONE SAW THEM BUT THE FLOWERS AND THEY LOYALLY KEPT THE SECRET FOLDED UP IN THEIR TENDER HEARTS <|endoftext|>",
     "tokens": [
+        50255,
         5631,
         11008,
         5357,
@@ -65,7 +66,8 @@
         1137,
         11179,
         1503,
-        4694
+        4694,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

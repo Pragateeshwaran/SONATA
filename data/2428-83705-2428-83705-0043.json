@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0043.flac",
-    "text": "BESIDES WHICH WE CAN ALWAYS SELL THE COUPONS AND RAILWAY PASSES WHICH WE DON'T USE",
+    "text": "<|startoftext|> BESIDES WHICH WE CAN ALWAYS SELL THE COUPONS AND RAILWAY PASSES WHICH WE DON'T USE <|endoftext|>",
     "tokens": [
+        50255,
         33,
         1546,
         42538,
@@ -28,7 +29,8 @@
         23917,
         6,
         51,
-        23210
+        23210,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

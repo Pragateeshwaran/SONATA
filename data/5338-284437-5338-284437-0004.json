@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0004.flac",
-    "text": "DID YOU SUPPOSE A PALACE WOULD BE LIKE ONE OF OUR HANDSOME RESIDENCES ASKED THE WOMAN EVIDENTLY SURPRISED",
+    "text": "<|startoftext|> DID YOU SUPPOSE A PALACE WOULD BE LIKE ONE OF OUR HANDSOME RESIDENCES ASKED THE WOMAN EVIDENTLY SURPRISED <|endoftext|>",
     "tokens": [
+        50255,
         35,
         2389,
         7013,
@@ -37,7 +38,8 @@
         41016,
         4805,
         1797,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0035.flac",
-    "text": "OH BARTLEY WHAT AM I TO DO",
+    "text": "<|startoftext|> OH BARTLEY WHAT AM I TO DO <|endoftext|>",
     "tokens": [
+        50255,
         12096,
         42346,
         25173,
@@ -9,7 +10,8 @@
         3001,
         314,
         5390,
-        8410
+        8410,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

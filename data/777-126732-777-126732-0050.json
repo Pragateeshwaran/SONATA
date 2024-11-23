@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0050.flac",
-    "text": "HE TOOK THE CASH BOX OUT OF THE DRAWER AND TURNING TO LEAVE THE SHOP BECAME AWARE THAT STEVIE WAS STILL DOWNSTAIRS",
+    "text": "<|startoftext|> HE TOOK THE CASH BOX OUT OF THE DRAWER AND TURNING TO LEAVE THE SHOP BECAME AWARE THAT STEVIE WAS STILL DOWNSTAIRS <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         5390,
         11380,
@@ -41,7 +42,8 @@
         30320,
         2257,
         42149,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

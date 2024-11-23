@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0030.flac",
-    "text": "SEASON WITH SALT AND PEPPER AND A LITTLE SUGAR TO TASTE",
+    "text": "<|startoftext|> SEASON WITH SALT AND PEPPER AND A LITTLE SUGAR TO TASTE <|endoftext|>",
     "tokens": [
+        50255,
         5188,
         36033,
         13315,
@@ -22,7 +23,8 @@
         5390,
         309,
         1921,
-        9328
+        9328,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

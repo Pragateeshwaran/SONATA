@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0025.flac",
-    "text": "HE HADN'T SEEN ANYTHING TO SHOOT AT BUT HE BLAZED AWAY HE LOADED AND FIRED THE SECOND TIME WHEN THEY WERE ORDERED TO RETREAT",
+    "text": "<|startoftext|> HE HADN'T SEEN ANYTHING TO SHOOT AT BUT HE BLAZED AWAY HE LOADED AND FIRED THE SECOND TIME WHEN THEY WERE ORDERED TO RETREAT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         2885,
@@ -44,7 +45,8 @@
         5390,
         30826,
         2200,
-        1404
+        1404,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

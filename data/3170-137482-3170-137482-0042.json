@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0042.flac",
-    "text": "AS FOR THE EUCHARIST TRANSUBSTANTIATION THE REAL PRESENCE IT WAS ALL NO MYSTERY TO THEM BUT PALPABLE EVIDENCE AND YET THEY WERE NOT JESUITS",
+    "text": "<|startoftext|> AS FOR THE EUCHARIST TRANSUBSTANTIATION THE REAL PRESENCE IT WAS ALL NO MYSTERY TO THEM BUT PALPABLE EVIDENCE AND YET THEY WERE NOT JESUITS <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         7473,
         3336,
@@ -44,7 +45,8 @@
         449,
         1546,
         52,
-        29722
+        29722,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

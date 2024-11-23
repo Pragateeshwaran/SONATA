@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0014.flac",
-    "text": "THIS IS THE MATERIAL OR PHYSICAL PRAYER",
+    "text": "<|startoftext|> THIS IS THE MATERIAL OR PHYSICAL PRAYER <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         3180,
         3336,
@@ -14,7 +15,8 @@
         20151,
         350,
         30631,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

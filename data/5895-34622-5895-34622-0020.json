@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0020.flac",
-    "text": "URSUS WAS THE POET OF THESE MAGICAL REPRESENTATIONS HE WROTE THE PIECES",
+    "text": "<|startoftext|> URSUS WAS THE POET OF THESE MAGICAL REPRESENTATIONS HE WROTE THE PIECES <|endoftext|>",
     "tokens": [
+        50255,
         4261,
         50,
         2937,
@@ -23,7 +24,8 @@
         3336,
         30434,
         2943,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

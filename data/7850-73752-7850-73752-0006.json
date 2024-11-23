@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0006.flac",
-    "text": "RESTLESS WITH IMPENDING JOY HE SAUNTERED TO THE BRIDGE AND LEANT OVER THE BALUSTRADE GAZING ON THE WATERS IN CHARMED AND CHARMING VACANCY",
+    "text": "<|startoftext|> RESTLESS WITH IMPENDING JOY HE SAUNTERED TO THE BRIDGE AND LEANT OVER THE BALUSTRADE GAZING ON THE WATERS IN CHARMED AND CHARMING VACANCY <|endoftext|>",
     "tokens": [
+        50255,
         49,
         6465,
         48481,
@@ -48,7 +49,8 @@
         569,
         2246,
         20940,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0011.flac",
-    "text": "AND THE NEW BLOOD AT THE ERA OF THIS STORY WAS AT HAND",
+    "text": "<|startoftext|> AND THE NEW BLOOD AT THE ERA OF THIS STORY WAS AT HAND <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         3336,
         12682,
@@ -16,7 +17,8 @@
         21725,
         5161,
         367,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

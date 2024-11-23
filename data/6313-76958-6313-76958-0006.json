@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0006.flac",
-    "text": "NONE OF YOU WILL BE FIT FOR DUTY TO MORROW",
+    "text": "<|startoftext|> NONE OF YOU WILL BE FIT FOR DUTY TO MORROW <|endoftext|>",
     "tokens": [
+        50255,
         45,
         11651,
         3963,
@@ -17,7 +18,8 @@
         5390,
         35208,
         49,
-        3913
+        3913,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

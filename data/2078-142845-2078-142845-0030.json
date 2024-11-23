@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0030.flac",
-    "text": "A LOAF OF HOUSEHOLD BREAD ABOUT TWO DAYS OLD ANSWERS FOR MAKING TOAST BETTER THAN COTTAGE BREAD THE LATTER NOT BEING A GOOD SHAPE AND TOO CRUSTY FOR THE PURPOSE",
+    "text": "<|startoftext|> A LOAF OF HOUSEHOLD BREAD ABOUT TWO DAYS OLD ANSWERS FOR MAKING TOAST BETTER THAN COTTAGE BREAD THE LATTER NOT BEING A GOOD SHAPE AND TOO CRUSTY FOR THE PURPOSE <|endoftext|>",
     "tokens": [
+        50255,
         32,
         17579,
         8579,
@@ -53,7 +54,8 @@
         7473,
         3336,
         33079,
-        48933
+        48933,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

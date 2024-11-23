@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143396\\1673-143396-0017.flac",
-    "text": "YET AS THE PROFOUND DOCTOR HAD BEEN TERRIFIED AT HIS OWN RASHNESS APOLLINARIS WAS HEARD TO MUTTER SOME FAINT ACCENTS OF EXCUSE AND EXPLANATION",
+    "text": "<|startoftext|> YET AS THE PROFOUND DOCTOR HAD BEEN TERRIFIED AT HIS OWN RASHNESS APOLLINARIS WAS HEARD TO MUTTER SOME FAINT ACCENTS OF EXCUSE AND EXPLANATION <|endoftext|>",
     "tokens": [
+        50255,
         56,
         2767,
         7054,
@@ -51,7 +52,8 @@
         7788,
         6489,
         1565,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

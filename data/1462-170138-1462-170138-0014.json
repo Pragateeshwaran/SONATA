@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0014.flac",
-    "text": "HE NODDED CURTLY AND MADE FOR THE DOOR DODGING ACQUAINTANCES AS HE WENT",
+    "text": "<|startoftext|> HE NODDED CURTLY AND MADE FOR THE DOOR DODGING ACQUAINTANCES AS HE WENT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         399,
         3727,
@@ -30,7 +31,8 @@
         7054,
         11179,
         370,
-        3525
+        3525,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

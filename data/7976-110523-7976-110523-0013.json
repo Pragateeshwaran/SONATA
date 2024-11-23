@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0013.flac",
-    "text": "THEN SHE TOOK UP HANSEL WITH HER ROUGH HAND AND SHUT HIM UP IN A LITTLE CAGE WITH A LATTICE DOOR AND ALTHOUGH HE SCREAMED LOUDLY IT WAS OF NO USE",
+    "text": "<|startoftext|> THEN SHE TOOK UP HANSEL WITH HER ROUGH HAND AND SHUT HIM UP IN A LITTLE CAGE WITH A LATTICE DOOR AND ALTHOUGH HE SCREAMED LOUDLY IT WAS OF NO USE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         48052,
@@ -52,7 +53,8 @@
         21725,
         3963,
         8005,
-        23210
+        23210,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

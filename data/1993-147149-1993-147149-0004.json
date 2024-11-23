@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0004.flac",
-    "text": "MARGARET MET JEM WILSON SEVERAL DAYS AFTER HIS BROTHERS WERE SERIOUSLY ILL AND HEARD FROM HIM THE STATE OF THINGS AT HIS HOME",
+    "text": "<|startoftext|> MARGARET MET JEM WILSON SEVERAL DAYS AFTER HIS BROTHERS WERE SERIOUSLY ILL AND HEARD FROM HIM THE STATE OF THINGS AT HIS HOME <|endoftext|>",
     "tokens": [
+        50255,
         40569,
         38,
         1503,
@@ -43,7 +44,8 @@
         20754,
         5161,
         33700,
-        41779
+        41779,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

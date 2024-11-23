@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149214\\2086-149214-0003.flac",
-    "text": "IF PERMITTED BY THE HISTORICAL CONNECTION WHICH THOUGH SLIGHT WAS ESSENTIAL TO HIS PLAN THE AUTHOR WOULD VERY WILLINGLY HAVE AVOIDED ANYTHING OF THIS NATURE",
+    "text": "<|startoftext|> IF PERMITTED BY THE HISTORICAL CONNECTION WHICH THOUGH SLIGHT WAS ESSENTIAL TO HIS PLAN THE AUTHOR WOULD VERY WILLINGLY HAVE AVOIDED ANYTHING OF THIS NATURE <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         19878,
         44,
@@ -48,7 +49,8 @@
         3963,
         12680,
         10149,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

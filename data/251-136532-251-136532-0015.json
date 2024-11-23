@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0015.flac",
-    "text": "SO THEY JUST CAME IN HERE AND LIT THE CHARCOAL AND SAT DRINKING TOGETHER TILL THEY ALL FELL ASLEEP",
+    "text": "<|startoftext|> SO THEY JUST CAME IN HERE AND LIT THE CHARCOAL AND SAT DRINKING TOGETHER TILL THEY ALL FELL ASLEEP <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         33302,
         25848,
@@ -32,7 +33,8 @@
         3069,
         7054,
         2538,
-        8905
+        8905,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

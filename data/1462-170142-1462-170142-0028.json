@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0028.flac",
-    "text": "PRESENTLY IT STOLE BACK TO HIS COAT SLEEVE",
+    "text": "<|startoftext|> PRESENTLY IT STOLE BACK TO HIS COAT SLEEVE <|endoftext|>",
     "tokens": [
+        50255,
         48296,
         3525,
         11319,
@@ -17,7 +18,8 @@
         311,
         2538,
         36,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

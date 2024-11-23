@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0013.flac",
-    "text": "WHERE IS MY HUSBAND",
+    "text": "<|startoftext|> WHERE IS MY HUSBAND <|endoftext|>",
     "tokens": [
+        50255,
         47357,
         3180,
         17615,
         367,
         27155,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

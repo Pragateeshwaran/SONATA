@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0019.flac",
-    "text": "HE WANTED TO GO BY HOME AND TELL HIS WIFE AND CHILDREN GOOD BYE AND TO GET HIS CLOTHES IT WAS NO GO",
+    "text": "<|startoftext|> HE WANTED TO GO BY HOME AND TELL HIS WIFE AND CHILDREN GOOD BYE AND TO GET HIS CLOTHES IT WAS NO GO <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         41300,
         1961,
@@ -33,7 +34,8 @@
         7283,
         21725,
         8005,
-        10351
+        10351,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

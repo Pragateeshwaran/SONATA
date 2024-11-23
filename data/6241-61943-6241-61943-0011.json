@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0011.flac",
-    "text": "NEARLY THE WHOLE POPULATION OF THE TOWN WAS ON FOOT TO SEE US LAND",
+    "text": "<|startoftext|> NEARLY THE WHOLE POPULATION OF THE TOWN WAS ON FOOT TO SEE US LAND <|endoftext|>",
     "tokens": [
+        50255,
         12161,
         1503,
         11319,
@@ -23,7 +24,8 @@
         31107,
         1294,
         406,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

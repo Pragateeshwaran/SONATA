@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0015.flac",
-    "text": "SHE WANTED TO MAKE SOME REFERENCE TO THEIR RELATIONS UPON THE TRAIN BUT WAS TOO TIMID",
+    "text": "<|startoftext|> SHE WANTED TO MAKE SOME REFERENCE TO THEIR RELATIONS UPON THE TRAIN BUT WAS TOO TIMID <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         41300,
@@ -26,7 +27,8 @@
         5390,
         46,
         31742,
-        2389
+        2389,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

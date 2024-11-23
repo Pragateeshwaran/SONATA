@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0003.flac",
-    "text": "AND AGAIN HE LISTENED WITH A QUIET PLEASURE",
+    "text": "<|startoftext|> AND AGAIN HE LISTENED WITH A QUIET PLEASURE <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         36218,
         1268,
@@ -17,7 +18,8 @@
         350,
         2538,
         1921,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

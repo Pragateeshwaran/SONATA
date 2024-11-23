@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0020.flac",
-    "text": "MISS WOODLEY DID NOT RECOLLECT HERSELF SO BUT WAS SO IN REALITY IN HER PEACE AND CHARITY WERE INSTINCTIVE VIRTUES ACCIDENT COULD NOT INCREASE THEM",
+    "text": "<|startoftext|> MISS WOODLEY DID NOT RECOLLECT HERSELF SO BUT WAS SO IN REALITY IN HER PEACE AND CHARITY WERE INSTINCTIVE VIRTUES ACCIDENT COULD NOT INCREASE THEM <|endoftext|>",
     "tokens": [
+        50255,
         44,
         16744,
         370,
@@ -46,7 +47,8 @@
         19387,
         2200,
         11159,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

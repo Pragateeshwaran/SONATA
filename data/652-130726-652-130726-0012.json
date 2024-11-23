@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0012.flac",
-    "text": "IN EITHER OF THESE RESTAURANTS YOU WILL BE SERVED WITH THE BEST THE MARKET AFFORDS COOKED THE RIGHT WAY",
+    "text": "<|startoftext|> IN EITHER OF THESE RESTAURANTS YOU WILL BE SERVED WITH THE BEST THE MARKET AFFORDS COOKED THE RIGHT WAY <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         412,
         10554,
@@ -33,7 +34,8 @@
         1961,
         3336,
         33621,
-        34882
+        34882,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

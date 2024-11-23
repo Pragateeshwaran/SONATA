@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0023.flac",
-    "text": "THREE WEEKS LATER CAME WABIGOON'S REPLY",
+    "text": "<|startoftext|> THREE WEEKS LATER CAME WABIGOON'S REPLY <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         11587,
         370,
@@ -18,7 +19,8 @@
         6,
         50,
         45285,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0016.flac",
-    "text": "ILLUSTRATION THE LEMON",
+    "text": "<|startoftext|> ILLUSTRATION THE LEMON <|endoftext|>",
     "tokens": [
+        50255,
         8267,
         7759,
         49,
@@ -9,7 +10,8 @@
         3336,
         406,
         3620,
-        1340
+        1340,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0010.flac",
-    "text": "THE EFFECT OF HIS APPEARANCE HAD BEEN SURPRISING",
+    "text": "<|startoftext|> THE EFFECT OF HIS APPEARANCE HAD BEEN SURPRISING <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         33659,
         9782,
@@ -18,7 +19,8 @@
         41016,
         4805,
         1797,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

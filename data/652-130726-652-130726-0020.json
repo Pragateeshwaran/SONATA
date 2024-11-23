@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0020.flac",
-    "text": "AT THE CORNER OF MARKET AND EDDY STREETS IS THE ODEON DOWN IN A BASEMENT WITH DECORATIONS OF MOST GARISH ORDER",
+    "text": "<|startoftext|> AT THE CORNER OF MARKET AND EDDY STREETS IS THE ODEON DOWN IN A BASEMENT WITH DECORATIONS OF MOST GARISH ORDER <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         3336,
         23929,
@@ -36,7 +37,8 @@
         402,
         1503,
         18422,
-        38678
+        38678,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

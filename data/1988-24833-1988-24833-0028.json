@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0028.flac",
-    "text": "HERE'S TO YOU A LONG HAPPY LIFE",
+    "text": "<|startoftext|> HERE'S TO YOU A LONG HAPPY LIFE <|endoftext|>",
     "tokens": [
+        50255,
         39,
         9338,
         6,
@@ -13,7 +14,8 @@
         367,
         24805,
         56,
-        36821
+        36821,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

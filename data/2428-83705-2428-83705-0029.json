@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0029.flac",
-    "text": "I NOTICE THAT THEY ARE GENERALLY PERSONS WHO HAVE ALREADY TENDERED THEIR OFFERINGS",
+    "text": "<|startoftext|> I NOTICE THAT THEY ARE GENERALLY PERSONS WHO HAVE ALREADY TENDERED THEIR OFFERINGS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         28536,
         14603,
@@ -25,7 +26,8 @@
         47278,
         18562,
         1137,
-        20754
+        20754,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

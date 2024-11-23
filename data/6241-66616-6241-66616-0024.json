@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0024.flac",
-    "text": "ON THE TENTH OF OCTOBER HE WOULD MEET ROD AT SPRUCEWOOD ON THE BLACK STURGEON RIVER",
+    "text": "<|startoftext|> ON THE TENTH OF OCTOBER HE WOULD MEET ROD AT SPRUCEWOOD ON THE BLACK STURGEON RIVER <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         3336,
         309,
@@ -31,7 +32,8 @@
         8264,
         1340,
         371,
-        38757
+        38757,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

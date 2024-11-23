@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0009.flac",
-    "text": "THIS LADY'S RIGHT NAME WAS JOAN BUT BECAUSE OF HER COMELINESS OR AT LEAST IT WAS SO IMAGINED SHE WAS CALLED OF MANY PRIMAVERA SPRING AND WENT BY THAT NAME AMONG THEM",
+    "text": "<|startoftext|> THIS LADY'S RIGHT NAME WAS JOAN BUT BECAUSE OF HER COMELINESS OR AT LEAST IT WAS SO IMAGINED SHE WAS CALLED OF MANY PRIMAVERA SPRING AND WENT BY THAT NAME AMONG THEM <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         406,
         2885,
@@ -55,7 +56,8 @@
         36751,
         3001,
         18494,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

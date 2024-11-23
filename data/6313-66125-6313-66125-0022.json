@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0022.flac",
-    "text": "LIGE LEANING OVER THE BRINK WAS ABLE TO FOLLOW THE BOY'S MOVEMENTS BY THE AID OF THE THIN ARC OF LIGHT MADE BY THE TORCH IN TAD'S HAND",
+    "text": "<|startoftext|> LIGE LEANING OVER THE BRINK WAS ABLE TO FOLLOW THE BOY'S MOVEMENTS BY THE AID OF THE THIN ARC OF LIGHT MADE BY THE TORCH IN TAD'S HAND <|endoftext|>",
     "tokens": [
+        50255,
         43,
         3528,
         36,
@@ -50,7 +51,8 @@
         6,
         50,
         367,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

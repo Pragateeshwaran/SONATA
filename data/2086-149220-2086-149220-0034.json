@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0034.flac",
-    "text": "IF THE ORIGINAL IS STILL IN THE WORLD I THINK HE MIGHT DEFY THE SUN TO MAKE HIM LOOK STERN AND HARD",
+    "text": "<|startoftext|> IF THE ORIGINAL IS STILL IN THE WORLD I THINK HE MIGHT DEFY THE SUN TO MAKE HIM LOOK STERN AND HARD <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         3336,
         43901,
@@ -30,7 +31,8 @@
         28778,
         5357,
         367,
-        9795
+        9795,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

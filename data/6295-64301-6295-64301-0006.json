@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0006.flac",
-    "text": "WHEN HE REACHED THE SUBURBS THE LIGHT OF HOMES WAS SHINING THROUGH CURTAINS OF ALL COLORS",
+    "text": "<|startoftext|> WHEN HE REACHED THE SUBURBS THE LIGHT OF HOMES WAS SHINING THROUGH CURTAINS OF ALL COLORS <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         11179,
@@ -32,7 +33,8 @@
         3963,
         11096,
         20444,
-        20673
+        20673,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

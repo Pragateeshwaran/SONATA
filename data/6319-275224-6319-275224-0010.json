@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0010.flac",
-    "text": "ECHOED THE FLOWERS TREMULOUSLY AS WITH A SORT OF FEARFUL PLEASURE THEY AWAITED HIS APPROACH",
+    "text": "<|startoftext|> ECHOED THE FLOWERS TREMULOUSLY AS WITH A SORT OF FEARFUL PLEASURE THEY AWAITED HIS APPROACH <|endoftext|>",
     "tokens": [
+        50255,
         25994,
         46,
         1961,
@@ -35,7 +36,8 @@
         33700,
         3486,
         31190,
-        16219
+        16219,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

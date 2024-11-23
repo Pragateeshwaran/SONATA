@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0009.flac",
-    "text": "IT IS THEREFORE AND ON ALL ACCOUNTS UNNECESSARY TO SAY MUCH MORE OF THE WORK HERE THAN IT SAYS FOR ITSELF",
+    "text": "<|startoftext|> IT IS THEREFORE AND ON ALL ACCOUNTS UNNECESSARY TO SAY MUCH MORE OF THE WORK HERE THAN IT SAYS FOR ITSELF <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         34702,
@@ -32,7 +33,8 @@
         50,
         7473,
         42437,
-        37738
+        37738,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

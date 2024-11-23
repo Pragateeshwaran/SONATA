@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0012.flac",
-    "text": "HE SURVIVED THE WAR ONLY TO BE MURDERED LATER ON A PLANTATION IN MISSISSIPPI",
+    "text": "<|startoftext|> HE SURVIVED THE WAR ONLY TO BE MURDERED LATER ON A PLANTATION IN MISSISSIPPI <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         41016,
         53,
@@ -27,7 +28,8 @@
         49684,
         16744,
         4061,
-        11901
+        11901,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0064.flac",
-    "text": "IT WAS AS THOUGH HE HAD REACHED THE CRISIS OF A DISEASE WHICH HAD BEEN FOR DAYS GATHERING FORCE",
+    "text": "<|startoftext|> IT WAS AS THOUGH HE HAD REACHED THE CRISIS OF A DISEASE WHICH HAD BEEN FOR DAYS GATHERING FORCE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         7054,
@@ -34,7 +35,8 @@
         45226,
         2751,
         7473,
-        5222
+        5222,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0019.flac",
-    "text": "THEN YOU DON'T KNOW WHAT YOU'RE TALKING ABOUT",
+    "text": "<|startoftext|> THEN YOU DON'T KNOW WHAT YOU'RE TALKING ABOUT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         7013,
@@ -16,7 +17,8 @@
         309,
         28082,
         2751,
-        33478
+        33478,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

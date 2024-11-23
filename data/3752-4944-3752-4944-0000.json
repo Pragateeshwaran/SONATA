@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0000.flac",
-    "text": "CAPTAIN FRERE SAYS THAT THE SCENERY IS DELIGHTFUL",
+    "text": "<|startoftext|> CAPTAIN FRERE SAYS THAT THE SCENERY IS DELIGHTFUL <|endoftext|>",
     "tokens": [
+        50255,
         33177,
         30339,
         8782,
@@ -16,7 +17,8 @@
         3180,
         28163,
         9947,
-        46476
+        46476,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

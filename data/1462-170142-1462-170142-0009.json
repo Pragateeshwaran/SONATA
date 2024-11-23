@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0009.flac",
-    "text": "SHE LOOKED AT HIS HEAVY SHOULDERS AND BIG DETERMINED HEAD THRUST FORWARD LIKE A CATAPULT IN LEASH",
+    "text": "<|startoftext|> SHE LOOKED AT HIS HEAVY SHOULDERS AND BIG DETERMINED HEAD THRUST FORWARD LIKE A CATAPULT IN LEASH <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         48045,
@@ -31,7 +32,8 @@
         16724,
         3268,
         12509,
-        11211
+        11211,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

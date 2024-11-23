@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0028.flac",
-    "text": "HIS ENTHUSIASM CAUSED URSUS TO REMARK THIS MAN AND GWYNPLAINE TO OBSERVE HIM",
+    "text": "<|startoftext|> HIS ENTHUSIASM CAUSED URSUS TO REMARK THIS MAN AND GWYNPLAINE TO OBSERVE HIM <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         12964,
@@ -30,7 +31,8 @@
         4462,
         1137,
         6089,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0012.flac",
-    "text": "AND WHERE EACH BIRD PERCHED THERE IT WAS TO BUILD ITS NEST",
+    "text": "<|startoftext|> AND WHERE EACH BIRD PERCHED THERE IT WAS TO BUILD ITS NEST <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         33411,
         412,
@@ -19,7 +20,8 @@
         26761,
         42437,
         399,
-        6465
+        6465,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

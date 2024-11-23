@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0048.flac",
-    "text": "THESE WERE BUT FEW AND FOR THE FIRST TIME SINCE HE OPENED HIS SHOP HE TOOK A COMMERCIAL SURVEY OF ITS VALUE",
+    "text": "<|startoftext|> THESE WERE BUT FEW AND FOR THE FIRST TIME SINCE HE OPENED HIS SHOP HE TOOK A COMMERCIAL SURVEY OF ITS VALUE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         33635,
         370,
@@ -36,7 +37,8 @@
         3963,
         42437,
         26173,
-        8924
+        8924,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0020.flac",
-    "text": "HE'S SO FAR TO THE RIGHT OF ME THAT I CAN'T REACH HIM",
+    "text": "<|startoftext|> HE'S SO FAR TO THE RIGHT OF ME THAT I CAN'T REACH HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         6,
         50,
@@ -19,7 +20,8 @@
         51,
         4526,
         16219,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0001.flac",
-    "text": "THE ORIGINAL ATTITUDE OF THE AMERICAN INDIAN TOWARD THE ETERNAL THE GREAT MYSTERY THAT SURROUNDS AND EMBRACES US WAS AS SIMPLE AS IT WAS EXALTED",
+    "text": "<|startoftext|> THE ORIGINAL ATTITUDE OF THE AMERICAN INDIAN TOWARD THE ETERNAL THE GREAT MYSTERY THAT SURROUNDS AND EMBRACES US WAS AS SIMPLE AS IT WAS EXALTED <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         43901,
         17961,
@@ -48,7 +49,8 @@
         21725,
         7788,
         31429,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

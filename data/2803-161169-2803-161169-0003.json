@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0003.flac",
-    "text": "AND SO THROUGH MANY QUESTIONS AND MANY EXPERIMENTS THEY LEARN AT LAST HOW TO USE THE CONTENTS OF THIS ONE STOREHOUSE",
+    "text": "<|startoftext|> AND SO THROUGH MANY QUESTIONS AND MANY EXPERIMENTS THEY LEARN AT LAST HOW TO USE THE CONTENTS OF THIS ONE STOREHOUSE <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         12809,
         35383,
@@ -35,7 +36,8 @@
         3563,
         6965,
         46685,
-        5188
+        5188,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0026.flac",
-    "text": "HE HAD GAMBLED AND LOST A GREAT DEAL AND HIS BROTHER WAS HIS MOST BITTER ENEMY BECAUSE HE WAS INFATUATED WITH THE IDEA THAT HE HAD TRIED TO POISON HIM",
+    "text": "<|startoftext|> HE HAD GAMBLED AND LOST A GREAT DEAL AND HIS BROTHER WAS HIS MOST BITTER ENEMY BECAUSE HE WAS INFATUATED WITH THE IDEA THAT HE HAD TRIED TO POISON HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         2885,
@@ -50,7 +51,8 @@
         5390,
         19922,
         39960,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

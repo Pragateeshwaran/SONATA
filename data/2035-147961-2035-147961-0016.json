@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0016.flac",
-    "text": "WITHOUT A WORD PETER GOT UP AND LIT HIS LANTERN",
+    "text": "<|startoftext|> WITHOUT A WORD PETER GOT UP AND LIT HIS LANTERN <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         12425,
@@ -17,7 +18,8 @@
         2043,
         33700,
         24192,
-        31800
+        31800,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

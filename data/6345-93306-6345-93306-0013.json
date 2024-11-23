@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0013.flac",
-    "text": "HE TOLD ME TO STAY ON AT THE HOTEL AND I DID AND THEN ONE NIGHT WHEN I WAS AT THE THEATRE MY MAID A HORRID FRENCH THING WE GOT IN PARIS PACKED UP ALL MY TRUNKS AND TOOK ALL MY MONEY AND PAID THE BILL AND WENT",
+    "text": "<|startoftext|> HE TOLD ME TO STAY ON AT THE HOTEL AND I DID AND THEN ONE NIGHT WHEN I WAS AT THE THEATRE MY MAID A HORRID FRENCH THING WE GOT IN PARIS PACKED UP ALL MY TRUNKS AND TOOK ALL MY MONEY AND PAID THE BILL AND WENT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         309,
         15173,
@@ -69,7 +70,8 @@
         8267,
         5357,
         370,
-        3525
+        3525,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

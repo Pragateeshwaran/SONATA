@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0009.flac",
-    "text": "YES MY LORD WE SHOULD TRY IN VAIN",
+    "text": "<|startoftext|> YES MY LORD WE SHOULD TRY IN VAIN <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         17615,
         35750,
@@ -11,7 +12,8 @@
         56,
         3268,
         13753,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

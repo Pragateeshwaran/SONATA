@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0022.flac",
-    "text": "HE SMILED GUILTILY AS HE ADDED BUT I MUST ADMIT I WAS MORE THAN A LITTLE CONCERNED MYSELF",
+    "text": "<|startoftext|> HE SMILED GUILTILY AS HE ADDED BUT I MUST ADMIT I WAS MORE THAN A LITTLE CONCERNED MYSELF <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         9447,
         4146,
@@ -33,7 +34,8 @@
         1961,
         337,
         16309,
-        37738
+        37738,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

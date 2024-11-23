@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0017.flac",
-    "text": "THE LADY IN WAITING BECAME VERY IMPATIENT AND AT LENGTH ANNOUNCED TO THE PRINCESS THAT THEY ALL WAITED FOR HER",
+    "text": "<|startoftext|> THE LADY IN WAITING BECAME VERY IMPATIENT AND AT LENGTH ANNOUNCED TO THE PRINCESS THAT THEY ALL WAITED FOR HER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         406,
         2885,
@@ -36,7 +37,8 @@
         16400,
         22061,
         7473,
-        24906
+        24906,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

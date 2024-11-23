@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0008.flac",
-    "text": "WE MAY DO SO WAS MY REPLY BUT WHAT ABOUT OUR WORTHY GUIDE",
+    "text": "<|startoftext|> WE MAY DO SO WAS MY REPLY BUT WHAT ABOUT OUR WORTHY GUIDE <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         26720,
         8410,
@@ -18,7 +19,8 @@
         4221,
         56,
         19348,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

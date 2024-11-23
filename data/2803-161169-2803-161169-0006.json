@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0006.flac",
-    "text": "LOOK A LITTLE CLOSER WHILE OUR GUIDE LETS THE LIGHT OF HIS LAMP FALL UPON THE BLACK WALL AT YOUR SIDE",
+    "text": "<|startoftext|> LOOK A LITTLE CLOSER WHILE OUR GUIDE LETS THE LIGHT OF HIS LAMP FALL UPON THE BLACK WALL AT YOUR SIDE <|endoftext|>",
     "tokens": [
+        50255,
         43,
         15308,
         317,
@@ -36,7 +37,8 @@
         5161,
         16592,
         311,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

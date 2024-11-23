@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0013.flac",
-    "text": "THE TWO ELDEST ATE THEIR APPLES BUT THE YOUNGEST COULD NOT EAT THAT NIGHT SHE THREW THE APPLE AWAY",
+    "text": "<|startoftext|> THE TWO ELDEST ATE THEIR APPLES BUT THE YOUNGEST COULD NOT EAT THAT NIGHT SHE THREW THE APPLE AWAY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         35288,
         412,
@@ -33,7 +34,8 @@
         3486,
         16437,
         14356,
-        4792
+        4792,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

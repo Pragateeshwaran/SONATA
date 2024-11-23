@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0023.flac",
-    "text": "SEND MY SOUL CLEAN TO ASURA",
+    "text": "<|startoftext|> SEND MY SOUL CLEAN TO ASURA <|endoftext|>",
     "tokens": [
+        50255,
         50,
         10619,
         17615,
@@ -11,7 +12,8 @@
         1565,
         5390,
         7054,
-        45570
+        45570,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

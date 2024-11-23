@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0015.flac",
-    "text": "RETURN TO YOUR PROVINCES AND MAY YOUR PRIVATE VIRTUES REPAIR THE MISCHIEF AND SCANDAL OF YOUR MEETING",
+    "text": "<|startoftext|> RETURN TO YOUR PROVINCES AND MAY YOUR PRIVATE VIRTUES REPAIR THE MISCHIEF AND SCANDAL OF YOUR MEETING <|endoftext|>",
     "tokens": [
+        50255,
         26087,
         27064,
         5390,
@@ -34,7 +35,8 @@
         16592,
         11948,
         2767,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

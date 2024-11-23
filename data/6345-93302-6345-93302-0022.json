@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0022.flac",
-    "text": "NO IT'S ONLY PAINFUL FOR BOTH OF US",
+    "text": "<|startoftext|> NO IT'S ONLY PAINFUL FOR BOTH OF US <|endoftext|>",
     "tokens": [
+        50255,
         15285,
         7283,
         6,
@@ -14,7 +15,8 @@
         347,
         26946,
         3963,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

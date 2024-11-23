@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0002.flac",
-    "text": "YET DID THE WATCHFUL MISS WOODLEY OFTENTIMES HEAR A SIGH ESCAPE FROM HER UNKNOWN TO HERSELF TILL SHE WAS REMINDED OF IT AND THEN A SUDDEN BLUSH WOULD INSTANTLY OVERSPREAD HER FACE",
+    "text": "<|startoftext|> YET DID THE WATCHFUL MISS WOODLEY OFTENTIMES HEAR A SIGH ESCAPE FROM HER UNKNOWN TO HERSELF TILL SHE WAS REMINDED OF IT AND THEN A SUDDEN BLUSH WOULD INSTANTLY OVERSPREAD HER FACE <|endoftext|>",
     "tokens": [
+        50255,
         56,
         2767,
         35697,
@@ -58,7 +59,8 @@
         4303,
         15675,
         24906,
-        46587
+        46587,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

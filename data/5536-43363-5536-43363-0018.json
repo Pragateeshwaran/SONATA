@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0018.flac",
-    "text": "MANY OF THE INDIANS BELIEVED THAT ONE MAY BE BORN MORE THAN ONCE AND THERE WERE SOME WHO CLAIMED TO HAVE FULL KNOWLEDGE OF A FORMER INCARNATION",
+    "text": "<|startoftext|> MANY OF THE INDIANS BELIEVED THAT ONE MAY BE BORN MORE THAN ONCE AND THERE WERE SOME WHO CLAIMED TO HAVE FULL KNOWLEDGE OF A FORMER INCARNATION <|endoftext|>",
     "tokens": [
+        50255,
         10725,
         56,
         3963,
@@ -46,7 +47,8 @@
         19387,
         1503,
         45,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

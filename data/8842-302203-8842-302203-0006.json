@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0006.flac",
-    "text": "THEN SAW I MANY BROKEN HINTED SIGHTS IN THE UNCERTAIN STATE I STEPP'D INTO",
+    "text": "<|startoftext|> THEN SAW I MANY BROKEN HINTED SIGHTS IN THE UNCERTAIN STATE I STEPP'D INTO <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         311,
@@ -28,7 +29,8 @@
         47,
         6,
         35,
-        39319
+        39319,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

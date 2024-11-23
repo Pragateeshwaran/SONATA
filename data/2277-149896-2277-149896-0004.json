@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0004.flac",
-    "text": "HOW WOULD THE PAPERS TALK ABOUT IT",
+    "text": "<|startoftext|> HOW WOULD THE PAPERS TALK ABOUT IT <|endoftext|>",
     "tokens": [
+        50255,
         37181,
         370,
         24010,
@@ -12,7 +13,8 @@
         309,
         28082,
         33478,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

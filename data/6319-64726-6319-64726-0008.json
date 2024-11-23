@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0008.flac",
-    "text": "THE YOUNG PRINCE AT THESE WORDS FELT HIMSELF ON FIRE",
+    "text": "<|startoftext|> THE YOUNG PRINCE AT THESE WORDS FELT HIMSELF ON FIRE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         7013,
         10503,
@@ -19,7 +20,8 @@
         50,
         37738,
         6177,
-        39110
+        39110,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

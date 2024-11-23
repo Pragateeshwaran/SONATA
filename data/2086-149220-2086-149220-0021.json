@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0021.flac",
-    "text": "IT IS LIKE A BANDAGE OVER ONE'S EYES TO COME INTO IT",
+    "text": "<|startoftext|> IT IS LIKE A BANDAGE OVER ONE'S EYES TO COME INTO IT <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         34178,
@@ -19,7 +20,8 @@
         9440,
         36,
         39319,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

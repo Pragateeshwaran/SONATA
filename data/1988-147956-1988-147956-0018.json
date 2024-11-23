@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0018.flac",
-    "text": "I NOTICED HOW WHITE AND WELL SHAPED HIS OWN HANDS WERE",
+    "text": "<|startoftext|> I NOTICED HOW WHITE AND WELL SHAPED HIS OWN HANDS WERE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         5626,
         2149,
@@ -20,7 +21,8 @@
         1565,
         5258,
         370,
-        9338
+        9338,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0028.flac",
-    "text": "I AM GOING SIR AND I DO NOT HESITATE TO SAY THAT NO PRAYERS WILL BE MORE FERVENT THAN MINE",
+    "text": "<|startoftext|> I AM GOING SIR AND I DO NOT HESITATE TO SAY THAT NO PRAYERS WILL BE MORE FERVENT THAN MINE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         3001,
         10351,
@@ -33,7 +34,8 @@
         2320,
         1565,
         337,
-        8881
+        8881,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

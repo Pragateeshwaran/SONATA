@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0000.flac",
-    "text": "SAN FRANCISCO'S CARE FREE SPIRIT WAS FULLY EXEMPLIFIED BEFORE THE ASHES OF THE GREAT FIRE OF NINETEEN O SIX WERE COLD",
+    "text": "<|startoftext|> SAN FRANCISCO'S CARE FREE SPIRIT WAS FULLY EXEMPLIFIED BEFORE THE ASHES OF THE GREAT FIRE OF NINETEEN O SIX WERE COLD <|endoftext|>",
     "tokens": [
+        50255,
         36753,
         8782,
         20940,
@@ -42,7 +43,8 @@
         370,
         9338,
         327,
-        15173
+        15173,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

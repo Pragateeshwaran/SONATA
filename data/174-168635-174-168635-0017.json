@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0017.flac",
-    "text": "THE BEST OF US ARE NOT EXEMPT FROM EGOTISTICAL THOUGHTS",
+    "text": "<|startoftext|> THE BEST OF US ARE NOT EXEMPT FROM EGOTISTICAL THOUGHTS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         38502,
         3963,
@@ -18,7 +19,8 @@
         20151,
         2320,
         32632,
-        4694
+        4694,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

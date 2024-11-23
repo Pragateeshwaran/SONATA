@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0028.flac",
-    "text": "SHE HAS A KNACK OF GETTING PEOPLE TO DO WHAT SHE WISHES AND TO GIVE HER WHAT SHE WANTS WHICH IS A LITTLE SHORT OF MIRACULOUS",
+    "text": "<|startoftext|> SHE HAS A KNACK OF GETTING PEOPLE TO DO WHAT SHE WISHES AND TO GIVE HER WHAT SHE WANTS WHICH IS A LITTLE SHORT OF MIRACULOUS <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         33930,
@@ -43,7 +44,8 @@
         4663,
         2246,
         6239,
-        20958
+        20958,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

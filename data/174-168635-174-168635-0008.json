@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0008.flac",
-    "text": "NATURE A DIFFERENCE OF FIFTY YEARS HAD SET A PROFOUND GULF BETWEEN JEAN VALJEAN AND COSETTE DESTINY FILLED IN THIS GULF",
+    "text": "<|startoftext|> NATURE A DIFFERENCE OF FIFTY YEARS HAD SET A PROFOUND GULF BETWEEN JEAN VALJEAN AND COSETTE DESTINY FILLED IN THIS GULF <|endoftext|>",
     "tokens": [
+        50255,
         34259,
         11335,
         317,
@@ -51,7 +52,8 @@
         12680,
         402,
         6239,
-        37
+        37,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0009.flac",
-    "text": "OH BARTLEY DID YOU WRITE TO ME",
+    "text": "<|startoftext|> OH BARTLEY DID YOU WRITE TO ME <|endoftext|>",
     "tokens": [
+        50255,
         12096,
         42346,
         25173,
@@ -9,7 +10,8 @@
         7013,
         44423,
         5390,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

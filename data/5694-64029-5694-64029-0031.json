@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0031.flac",
-    "text": "BEFORE WE ARRIVED AT THE HOUSE WE SAW A BODY OF YANKEES APPROACHING AND AS WE STARTED TO RUN BACK THEY FIRED UPON US",
+    "text": "<|startoftext|> BEFORE WE ARRIVED AT THE HOUSE WE SAW A BODY OF YANKEES APPROACHING AND AS WE STARTED TO RUN BACK THEY FIRED UPON US <|endoftext|>",
     "tokens": [
+        50255,
         12473,
         30818,
         12887,
@@ -40,7 +41,8 @@
         1961,
         15958,
         1340,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

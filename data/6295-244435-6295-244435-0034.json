@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0034.flac",
-    "text": "THERE WERE NEVER BEFORE SUCH TIMES IN OLD KENTUCKY",
+    "text": "<|startoftext|> THERE WERE NEVER BEFORE SUCH TIMES IN OLD KENTUCKY <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         370,
@@ -18,7 +19,8 @@
         509,
         3525,
         16696,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

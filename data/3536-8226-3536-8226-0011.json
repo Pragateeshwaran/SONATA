@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0011.flac",
-    "text": "I'LL TELL YOU WHAT IT IS B EXCLAIMED MISSUS BOZZLE IT'S MY BELIEF AS HE AIN'T QUITE RIGHT UP HERE AND MISSUS BOZZLE TOUCHED HER FOREHEAD",
+    "text": "<|startoftext|> I'LL TELL YOU WHAT IT IS B EXCLAIMED MISSUS BOZZLE IT'S MY BELIEF AS HE AIN'T QUITE RIGHT UP HERE AND MISSUS BOZZLE TOUCHED HER FOREHEAD <|endoftext|>",
     "tokens": [
+        50255,
         40,
         6,
         3069,
@@ -51,7 +52,8 @@
         24906,
         376,
         6965,
-        37682
+        37682,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

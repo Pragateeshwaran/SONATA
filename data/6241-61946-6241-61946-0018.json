@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0018.flac",
-    "text": "IN ANY CASE I SHALL TRUST RATHER TO MY OWN INTELLIGENCE THAN THEIRS",
+    "text": "<|startoftext|> IN ANY CASE I SHALL TRUST RATHER TO MY OWN INTELLIGENCE THAN THEIRS <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         15529,
         42001,
@@ -22,7 +23,8 @@
         2320,
         1565,
         47278,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

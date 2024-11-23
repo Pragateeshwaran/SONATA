@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0021.flac",
-    "text": "SHE LOOKED AT ME HER EYES FAIRLY BLAZING WITH THINGS SHE COULD NOT SAY",
+    "text": "<|startoftext|> SHE LOOKED AT ME HER EYES FAIRLY BLAZING WITH THINGS SHE COULD NOT SAY <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         48045,
@@ -24,7 +25,8 @@
         327,
         24010,
         5626,
-        45687
+        45687,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

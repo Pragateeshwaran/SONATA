@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0015.flac",
-    "text": "GRETHEL SHE CRIED IN A PASSION GET SOME WATER QUICKLY BE HANSEL FAT OR LEAN THIS MORNING I WILL KILL AND COOK HIM",
+    "text": "<|startoftext|> GRETHEL SHE CRIED IN A PASSION GET SOME WATER QUICKLY BE HANSEL FAT OR LEAN THIS MORNING I WILL KILL AND COOK HIM <|endoftext|>",
     "tokens": [
+        50255,
         28934,
         4221,
         3698,
@@ -37,7 +38,8 @@
         5357,
         327,
         15308,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

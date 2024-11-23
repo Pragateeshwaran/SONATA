@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0038.flac",
-    "text": "HE PAUSED THEN ADDED WITH MODEST FIRMNESS",
+    "text": "<|startoftext|> HE PAUSED THEN ADDED WITH MODEST FIRMNESS <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         8147,
         2937,
@@ -14,7 +15,8 @@
         6465,
         23703,
         44,
-        31097
+        31097,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

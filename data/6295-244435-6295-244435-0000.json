@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0000.flac",
-    "text": "CHAPTER SEVEN THE HOMECOMING",
+    "text": "<|startoftext|> CHAPTER SEVEN THE HOMECOMING <|endoftext|>",
     "tokens": [
+        50255,
         41481,
         7946,
         28290,
@@ -10,7 +11,8 @@
         2662,
         2943,
         2662,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

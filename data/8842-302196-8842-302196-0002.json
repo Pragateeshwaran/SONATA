@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0002.flac",
-    "text": "THE LIFE BLOOD OF RHYTHMICAL TRANSLATION IS THIS COMMANDMENT THAT A GOOD POEM SHALL NOT BE TURNED INTO A BAD ONE",
+    "text": "<|startoftext|> THE LIFE BLOOD OF RHYTHMICAL TRANSLATION IS THIS COMMANDMENT THAT A GOOD POEM SHALL NOT BE TURNED INTO A BAD ONE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         36821,
         9878,
@@ -34,7 +35,8 @@
         39319,
         317,
         33934,
-        16329
+        16329,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

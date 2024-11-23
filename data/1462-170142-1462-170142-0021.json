@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0021.flac",
-    "text": "COULD YOU COULD YOU SIT DOWN AND TALK ABOUT IT QUIETLY BARTLEY AS IF I WERE A FRIEND AND NOT SOME ONE WHO HAD TO BE DEFIED",
+    "text": "<|startoftext|> COULD YOU COULD YOU SIT DOWN AND TALK ABOUT IT QUIETLY BARTLEY AS IF I WERE A FRIEND AND NOT SOME ONE WHO HAD TO BE DEFIED <|endoftext|>",
     "tokens": [
+        50255,
         34,
         24010,
         7013,
@@ -41,7 +42,8 @@
         9348,
         5550,
         11674,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

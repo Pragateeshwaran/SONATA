@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0015.flac",
-    "text": "IT WAS ONLY A TROUBLE TO THE GAS MAKERS WHO HAD NO USE FOR IT AND EVEN THREW IT AWAY UNTIL SOME ONE MORE THOUGHTFUL THAN THE OTHERS FOUND OUT THAT WATER WOULD NOT PASS THROUGH IT",
+    "text": "<|startoftext|> IT WAS ONLY A TROUBLE TO THE GAS MAKERS WHO HAD NO USE FOR IT AND EVEN THREW IT AWAY UNTIL SOME ONE MORE THOUGHTFUL THAN THE OTHERS FOUND OUT THAT WATER WOULD NOT PASS THROUGH IT <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         22224,
@@ -60,7 +61,8 @@
         41752,
         35383,
         32632,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\148538\\1988-148538-0009.flac",
-    "text": "IF I SAY TO AN AMERICAN THAT THE COUNTRY HE LIVES IN IS A FINE ONE AY HE REPLIES THERE IS NOT ITS FELLOW IN THE WORLD",
+    "text": "<|startoftext|> IF I SAY TO AN AMERICAN THAT THE COUNTRY HE LIVES IN IS A FINE ONE AY HE REPLIES THERE IS NOT ITS FELLOW IN THE WORLD <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         314,
         45687,
@@ -35,7 +36,8 @@
         44765,
         3268,
         3336,
-        29564
+        29564,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

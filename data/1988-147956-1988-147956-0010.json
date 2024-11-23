@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0010.flac",
-    "text": "I REMEMBERED WHAT THE CONDUCTOR HAD SAID ABOUT HER EYES",
+    "text": "<|startoftext|> I REMEMBERED WHAT THE CONDUCTOR HAD SAID ABOUT HER EYES <|endoftext|>",
     "tokens": [
+        50255,
         40,
         22657,
         28952,
@@ -19,7 +20,8 @@
         33478,
         24906,
         412,
-        43335
+        43335,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

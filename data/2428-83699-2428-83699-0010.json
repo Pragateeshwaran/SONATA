@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0010.flac",
-    "text": "I DID NOT EXPECT A PRINCELY ENTERTAINMENT",
+    "text": "<|startoftext|> I DID NOT EXPECT A PRINCELY ENTERTAINMENT <|endoftext|>",
     "tokens": [
+        50255,
         40,
         35697,
         5626,
@@ -13,7 +14,8 @@
         30943,
         46962,
         30339,
-        10979
+        10979,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

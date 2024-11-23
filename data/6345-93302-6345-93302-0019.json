@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0019.flac",
-    "text": "THOSE FOUR TRUE WORDS WOUNDED HER MORE THAN ALL THE REST",
+    "text": "<|startoftext|> THOSE FOUR TRUE WORDS WOUNDED HER MORE THAN ALL THE REST <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         14058,
         376,
@@ -18,7 +19,8 @@
         1565,
         11096,
         3336,
-        30617
+        30617,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

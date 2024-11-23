@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0011.flac",
-    "text": "A WORD SHOULD BE SAID HERE OF THE TITLE OF DANTE'S AUTOBIOGRAPHY",
+    "text": "<|startoftext|> A WORD SHOULD BE SAID HERE OF THE TITLE OF DANTE'S AUTOBIOGRAPHY <|endoftext|>",
     "tokens": [
+        50255,
         32,
         370,
         12532,
@@ -25,7 +26,8 @@
         3483,
         49656,
         31300,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

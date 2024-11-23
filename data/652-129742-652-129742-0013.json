@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0013.flac",
-    "text": "SERVE ON A LETTUCE LEAF WITH MAYONNAISE DRESSING MADE WITHOUT MUSTARD AND THINNED WITH CREAM",
+    "text": "<|startoftext|> SERVE ON A LETTUCE LEAF WITH MAYONNAISE DRESSING MADE WITHOUT MUSTARD AND THINNED WITH CREAM <|endoftext|>",
     "tokens": [
+        50255,
         35009,
         6089,
         6177,
@@ -32,7 +33,8 @@
         1961,
         13315,
         29244,
-        2390
+        2390,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0016.flac",
-    "text": "GENTLEMEN HE SAID IN A HOARSE VOICE GIVE ME YOUR WORD OF HONOR THAT THIS HORRIBLE SECRET SHALL FOREVER REMAIN BURIED AMONGST OURSELVES THE TWO MEN DREW BACK",
+    "text": "<|startoftext|> GENTLEMEN HE SAID IN A HOARSE VOICE GIVE ME YOUR WORD OF HONOR THAT THIS HORRIBLE SECRET SHALL FOREVER REMAIN BURIED AMONGST OURSELVES THE TWO MEN DREW BACK <|endoftext|>",
     "tokens": [
+        50255,
         38,
         3525,
         2538,
@@ -55,7 +56,8 @@
         360,
         2200,
         54,
-        28767
+        28767,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

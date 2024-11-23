@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0032.flac",
-    "text": "THE FIRST THING EITHER OF THEM NOTICED WAS A NEW SOUND THAT BROKE INTO THE CLEAR AIR LOUDER THAN THEY HAD EVER HEARD IT BEFORE THE BELL OF THE MONASTERY OF THEIR OWN VILLAGE RINGING FOR EARLY PRAYERS",
+    "text": "<|startoftext|> THE FIRST THING EITHER OF THEM NOTICED WAS A NEW SOUND THAT BROKE INTO THE CLEAR AIR LOUDER THAN THEY HAD EVER HEARD IT BEFORE THE BELL OF THE MONASTERY OF THEIR OWN VILLAGE RINGING FOR EARLY PRAYERS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         31328,
         2320,
@@ -64,7 +65,8 @@
         11319,
         350,
         30631,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

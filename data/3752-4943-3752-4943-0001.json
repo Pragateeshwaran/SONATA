@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0001.flac",
-    "text": "WHEN THE MUSTER BELL RANG AND THE GANG BROKE UP RUFUS DAWES ON HIS SILENT WAY TO HIS SEPARATE CELL OBSERVED A NOTABLE CHANGE OF CUSTOM IN THE DISPOSITION OF THE NEW CONVICT",
+    "text": "<|startoftext|> WHEN THE MUSTER BELL RANG AND THE GANG BROKE UP RUFUS DAWES ON HIS SILENT WAY TO HIS SEPARATE CELL OBSERVED A NOTABLE CHANGE OF CUSTOM IN THE DISPOSITION OF THE NEW CONVICT <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         3336,
@@ -61,7 +62,8 @@
         12682,
         7102,
         53,
-        18379
+        18379,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

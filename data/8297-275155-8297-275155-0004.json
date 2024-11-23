@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0004.flac",
-    "text": "WITH HIS OWN SUSPICIONS STEADILY CONTRADICTING HIM HE ARRIVED AT THE HOTEL OBSTINATELY BELIEVING THAT THE CHARMING WIDOW WOULD PROVE TO BE A STRANGER",
+    "text": "<|startoftext|> WITH HIS OWN SUSPICIONS STEADILY CONTRADICTING HIM HE ARRIVED AT THE HOTEL OBSTINATELY BELIEVING THAT THE CHARMING WIDOW WOULD PROVE TO BE A STRANGER <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         33700,
@@ -54,7 +55,8 @@
         317,
         19269,
         15567,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

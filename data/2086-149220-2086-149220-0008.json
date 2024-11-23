@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0008.flac",
-    "text": "IT WAS EVIDENT THAT THE RACE HAD DEGENERATED LIKE MANY A NOBLE RACE BESIDES IN CONSEQUENCE OF TOO STRICT A WATCHFULNESS TO KEEP IT PURE",
+    "text": "<|startoftext|> IT WAS EVIDENT THAT THE RACE HAD DEGENERATED LIKE MANY A NOBLE RACE BESIDES IN CONSEQUENCE OF TOO STRICT A WATCHFULNESS TO KEEP IT PURE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         8696,
@@ -46,7 +47,8 @@
         35238,
         7283,
         350,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

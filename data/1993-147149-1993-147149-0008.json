@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0008.flac",
-    "text": "IS THERE ANY CHANCE FOR THE OTHER ONE THINK YOU",
+    "text": "<|startoftext|> IS THERE ANY CHANCE FOR THE OTHER ONE THINK YOU <|endoftext|>",
     "tokens": [
+        50255,
         1797,
         34702,
         15529,
@@ -13,7 +14,8 @@
         16329,
         2320,
         17248,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

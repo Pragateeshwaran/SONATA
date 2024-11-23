@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0012.flac",
-    "text": "SCARED DAH WHO'S AFRAID ANSWERED HE",
+    "text": "<|startoftext|> SCARED DAH WHO'S AFRAID ANSWERED HE <|endoftext|>",
     "tokens": [
+        50255,
         6173,
         1503,
         1961,
@@ -17,7 +18,8 @@
         17887,
         1137,
         1961,
-        11179
+        11179,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

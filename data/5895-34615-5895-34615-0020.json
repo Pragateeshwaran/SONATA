@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0020.flac",
-    "text": "ITS YELLOW BRISTLES RATHER A MANE THAN A HEAD OF HAIR COVERED AND CONCEALED A LOFTY BROW EVIDENTLY MADE TO CONTAIN THOUGHT",
+    "text": "<|startoftext|> ITS YELLOW BRISTLES RATHER A MANE THAN A HEAD OF HAIR COVERED AND CONCEALED A LOFTY BROW EVIDENTLY MADE TO CONTAIN THOUGHT <|endoftext|>",
     "tokens": [
+        50255,
         29722,
         575,
         23304,
@@ -45,7 +46,8 @@
         2320,
         2606,
         38,
-        6535
+        6535,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0027.flac",
-    "text": "AFTER ANTONIA HAD SAID THE NEW WORDS OVER AND OVER SHE WANTED TO GIVE ME A LITTLE CHASED SILVER RING SHE WORE ON HER MIDDLE FINGER",
+    "text": "<|startoftext|> AFTER ANTONIA HAD SAID THE NEW WORDS OVER AND OVER SHE WANTED TO GIVE ME A LITTLE CHASED SILVER RING SHE WORE ON HER MIDDLE FINGER <|endoftext|>",
     "tokens": [
+        50255,
         8579,
         5781,
         3537,
@@ -45,7 +46,8 @@
         2538,
         376,
         2751,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

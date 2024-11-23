@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0043.flac",
-    "text": "HE WAS NOT SATISFIED WITH HIS FRIENDS",
+    "text": "<|startoftext|> HE WAS NOT SATISFIED WITH HIS FRIENDS <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         5626,
@@ -13,7 +14,8 @@
         33700,
         48167,
         1677,
-        5258
+        5258,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

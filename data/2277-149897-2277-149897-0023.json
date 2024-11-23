@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0023.flac",
-    "text": "IT WAS THE WORST SUNDAY HE HAD SPENT IN HIS LIFE",
+    "text": "<|startoftext|> IT WAS THE WORST SUNDAY HE HAD SPENT IN HIS LIFE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         3336,
@@ -16,7 +17,8 @@
         3525,
         3268,
         33700,
-        36821
+        36821,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

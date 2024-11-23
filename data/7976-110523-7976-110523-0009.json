@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0009.flac",
-    "text": "WE ARE GOING INTO THE FOREST TO HEW WOOD AND IN THE EVENING WHEN WE ARE READY WE WILL COME AND FETCH YOU AGAIN",
+    "text": "<|startoftext|> WE ARE GOING INTO THE FOREST TO HEW WOOD AND IN THE EVENING WHEN WE ARE READY WE WILL COME AND FETCH YOU AGAIN <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         15986,
         10351,
@@ -35,7 +36,8 @@
         3398,
         7013,
         36218,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

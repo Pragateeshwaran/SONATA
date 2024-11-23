@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24640\\5338-24640-0001.flac",
-    "text": "MISTER MORTON REPLIED THAT FAR FROM MAKING ANY CLAIM UPON HIS GOOD OPINION HIS ONLY WISH AND THE SOLE PURPOSE OF HIS VISIT WAS TO FIND OUT THE MEANS OF DESERVING IT",
+    "text": "<|startoftext|> MISTER MORTON REPLIED THAT FAR FROM MAKING ANY CLAIM UPON HIS GOOD OPINION HIS ONLY WISH AND THE SOLE PURPOSE OF HIS VISIT WAS TO FIND OUT THE MEANS OF DESERVING IT <|endoftext|>",
     "tokens": [
+        50255,
         44,
         41517,
         337,
@@ -51,7 +52,8 @@
         1137,
         53,
         2751,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

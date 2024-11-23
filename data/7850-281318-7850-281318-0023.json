@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0023.flac",
-    "text": "FOR SHE HAD ONLY THE FOUNDATION LAID CRISS CROSS AS THE MAGPIE HAD SHOWN HER",
+    "text": "<|startoftext|> FOR SHE HAD ONLY THE FOUNDATION LAID CRISS CROSS AS THE MAGPIE HAD SHOWN HER <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         48052,
         367,
@@ -26,7 +27,8 @@
         2885,
         6006,
         14165,
-        24906
+        24906,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

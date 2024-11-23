@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0002.flac",
-    "text": "NO LETTER HAD COME NO WORD OF ANY KIND AND YET HERE IT WAS LATE IN THE EVENING AND SHE HAD AGREED TO MEET HIM THAT MORNING",
+    "text": "<|startoftext|> NO LETTER HAD COME NO WORD OF ANY KIND AND YET HERE IT WAS LATE IN THE EVENING AND SHE HAD AGREED TO MEET HIM THAT MORNING <|endoftext|>",
     "tokens": [
+        50255,
         15285,
         37994,
         5781,
@@ -41,7 +42,8 @@
         45909,
         14603,
         35208,
-        15871
+        15871,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

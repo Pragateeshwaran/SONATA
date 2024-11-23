@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147964\\1993-147964-0005.flac",
-    "text": "WHEN HE MOUNTED HIS HORSE AT THE DOOR I SAW THAT HE HAD A HATCHET SLUNG TO HIS BELT AND HE GAVE GRANDMOTHER A MEANING LOOK WHICH TOLD ME HE WAS PLANNING A SURPRISE FOR ME",
+    "text": "<|startoftext|> WHEN HE MOUNTED HIS HORSE AT THE DOOR I SAW THAT HE HAD A HATCHET SLUNG TO HIS BELT AND HE GAVE GRANDMOTHER A MEANING LOOK WHICH TOLD ME HE WAS PLANNING A SURPRISE FOR ME <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         11179,
@@ -60,7 +61,8 @@
         4805,
         24352,
         7473,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

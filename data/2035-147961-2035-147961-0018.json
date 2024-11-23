@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0018.flac",
-    "text": "AFTER THE CEREMONY AT THE CHURCH THE PARTY WENT TO A DINNER GIVEN BY THE PARENTS OF THE BRIDE",
+    "text": "<|startoftext|> AFTER THE CEREMONY AT THE CHURCH THE PARTY WENT TO A DINNER GIVEN BY THE PARENTS OF THE BRIDE <|endoftext|>",
     "tokens": [
+        50255,
         8579,
         5781,
         3336,
@@ -34,7 +35,8 @@
         3963,
         3336,
         11177,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

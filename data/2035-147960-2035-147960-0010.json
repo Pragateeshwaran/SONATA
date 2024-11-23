@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0010.flac",
-    "text": "I EXPLAINED TO ANTONIA HOW THIS MEANT THAT HE WAS TWENTY FOUR YEARS OLD THAT HE MUST HAVE BEEN THERE WHEN WHITE MEN FIRST CAME LEFT ON FROM BUFFALO AND INDIAN TIMES",
+    "text": "<|startoftext|> I EXPLAINED TO ANTONIA HOW THIS MEANT THAT HE WAS TWENTY FOUR YEARS OLD THAT HE MUST HAVE BEEN THERE WHEN WHITE MEN FIRST CAME LEFT ON FROM BUFFALO AND INDIAN TIMES <|endoftext|>",
     "tokens": [
+        50255,
         40,
         7788,
         6489,
@@ -52,7 +53,8 @@
         24413,
         16868,
         31742,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

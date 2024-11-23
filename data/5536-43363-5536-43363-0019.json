@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0019.flac",
-    "text": "THERE WAS A WELL KNOWN SIOUX WAR PROPHET WHO LIVED IN THE MIDDLE OF THE LAST CENTURY SO THAT HE IS STILL REMEMBERED BY THE OLD MEN OF HIS BAND",
+    "text": "<|startoftext|> THERE WAS A WELL KNOWN SIOUX WAR PROPHET WHO LIVED IN THE MIDDLE OF THE LAST CENTURY SO THAT HE IS STILL REMEMBERED BY THE OLD MEN OF HIS BAND <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         21725,
@@ -50,7 +51,8 @@
         3963,
         33700,
         347,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

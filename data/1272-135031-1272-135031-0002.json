@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0002.flac",
-    "text": "I HAVE REMAINED A PRISONER ONLY BECAUSE I WISHED TO BE ONE AND WITH THIS HE STEPPED FORWARD AND BURST THE STOUT CHAINS AS EASILY AS IF THEY HAD BEEN THREADS",
+    "text": "<|startoftext|> I HAVE REMAINED A PRISONER ONLY BECAUSE I WISHED TO BE ONE AND WITH THIS HE STEPPED FORWARD AND BURST THE STOUT CHAINS AS EASILY AS IF THEY HAD BEEN THREADS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         21515,
         22657,
@@ -53,7 +54,8 @@
         1677,
         2320,
         15675,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

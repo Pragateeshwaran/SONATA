@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0067.flac",
-    "text": "MISTER VERLOC'S ANXIETIES HAD PREVENTED HIM FROM ATTACHING ANY SENSE TO WHAT HIS WIFE WAS SAYING",
+    "text": "<|startoftext|> MISTER VERLOC'S ANXIETIES HAD PREVENTED HIM FROM ATTACHING ANY SENSE TO WHAT HIS WIFE WAS SAYING <|endoftext|>",
     "tokens": [
+        50255,
         44,
         41517,
         33310,
@@ -34,7 +35,8 @@
         29150,
         21725,
         45687,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

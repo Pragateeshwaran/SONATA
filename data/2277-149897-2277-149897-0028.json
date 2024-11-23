@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0028.flac",
-    "text": "HE WOULD EXPLAIN TO HER JUST WHERE HE STOOD AND HOW MUCH HE NEEDED HER",
+    "text": "<|startoftext|> HE WOULD EXPLAIN TO HER JUST WHERE HE STOOD AND HOW MUCH HE NEEDED HER <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         370,
         24010,
@@ -21,7 +22,8 @@
         11179,
         36465,
         1961,
-        24906
+        24906,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

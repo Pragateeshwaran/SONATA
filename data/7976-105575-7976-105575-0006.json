@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0006.flac",
-    "text": "ONE DARING REBEL WAS SHOT DOWN AND BAYONETED CLEAR BEHIND THE LINE OF COMPANY B WHERE HE HAD BROKEN THROUGH TO SEIZE THE FLAG OF MY REGIMENT",
+    "text": "<|startoftext|> ONE DARING REBEL WAS SHOT DOWN AND BAYONETED CLEAR BEHIND THE LINE OF COMPANY B WHERE HE HAD BROKEN THROUGH TO SEIZE THE FLAG OF MY REGIMENT <|endoftext|>",
     "tokens": [
+        50255,
         11651,
         41649,
         2751,
@@ -48,7 +49,8 @@
         17615,
         23337,
         3955,
-        3525
+        3525,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

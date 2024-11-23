@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0000.flac",
-    "text": "ONCE THERE WAS A FATHER WHO THOUGHT HE WOULD BUILD FOR HIS CHILDREN A BEAUTIFUL HOME PUTTING INTO IT EVERY THING THEY COULD NEED OR DESIRE THROUGHOUT THEIR LIVES",
+    "text": "<|startoftext|> ONCE THERE WAS A FATHER WHO THOUGHT HE WOULD BUILD FOR HIS CHILDREN A BEAUTIFUL HOME PUTTING INTO IT EVERY THING THEY COULD NEED OR DESIRE THROUGHOUT THEIR LIVES <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         5222,
         34702,
@@ -51,7 +52,8 @@
         12425,
         47278,
         406,
-        42472
+        42472,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

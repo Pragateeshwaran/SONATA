@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0012.flac",
-    "text": "EVEN FROM A DISTANCE ONE COULD SEE THAT THERE WAS SOMETHING STRANGE ABOUT THIS BOY",
+    "text": "<|startoftext|> EVEN FROM A DISTANCE ONE COULD SEE THAT THERE WAS SOMETHING STRANGE ABOUT THIS BOY <|endoftext|>",
     "tokens": [
+        50255,
         20114,
         1677,
         16034,
@@ -24,7 +25,8 @@
         33478,
         12680,
         16494,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

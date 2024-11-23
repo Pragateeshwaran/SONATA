@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0011.flac",
-    "text": "ALL DISCARDED PORTIONS OF THE HUMAN BODY STILL REMAIN PART OF IT ATTACHED TO IT BY INTANGIBLE CONNECTIONS",
+    "text": "<|startoftext|> ALL DISCARDED PORTIONS OF THE HUMAN BODY STILL REMAIN PART OF IT ATTACHED TO IT BY INTANGIBLE CONNECTIONS <|endoftext|>",
     "tokens": [
+        50255,
         7036,
         13954,
         34,
@@ -34,7 +35,8 @@
         34563,
         7102,
         48842,
-        11053
+        11053,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

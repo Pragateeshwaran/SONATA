@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0002.flac",
-    "text": "IT IS PRETTY CLEAR ALSO THAT THE LAST RALLY OF DRUIDISM AGAINST CHRISTIANITY TOOK PLACE BEHIND HIS BANNER ON THE PLAIN OF MOIRA",
+    "text": "<|startoftext|> IT IS PRETTY CLEAR ALSO THAT THE LAST RALLY OF DRUIDISM AGAINST CHRISTIANITY TOOK PLACE BEHIND HIS BANNER ON THE PLAIN OF MOIRA <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         22814,
@@ -42,7 +43,8 @@
         3963,
         13070,
         40,
-        3861
+        3861,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0031.flac",
-    "text": "THE HOF BRAU HOWEVER IS LESS DISTINCTIVELY GERMAN AS THE GREATER NUMBER OF ITS PATRONS ARE AMERICANS",
+    "text": "<|startoftext|> THE HOF BRAU HOWEVER IS LESS DISTINCTIVELY GERMAN AS THE GREATER NUMBER OF ITS PATRONS ARE AMERICANS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         367,
         19238,
@@ -35,7 +36,8 @@
         15986,
         32617,
         2149,
-        15037
+        15037,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

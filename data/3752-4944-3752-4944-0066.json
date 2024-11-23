@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0066.flac",
-    "text": "TWICE HE PAUSED ON THE WAY TO THE SITTING ROOM AND TWICE WAS HE DRIVEN ON BY A POWER STRONGER THAN HIS WILL",
+    "text": "<|startoftext|> TWICE HE PAUSED ON THE WAY TO THE SITTING ROOM AND TWICE WAS HE DRIVEN ON BY A POWER STRONGER THAN HIS WILL <|endoftext|>",
     "tokens": [
+        50255,
         34551,
         8476,
         11179,
@@ -36,7 +37,8 @@
         2320,
         1565,
         33700,
-        17682
+        17682,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

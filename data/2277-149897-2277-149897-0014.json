@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0014.flac",
-    "text": "ALL THE TIME HIS THOUGHTS WOULD RUN OUT TO HIS HOME AND SEE THE SCENE BEING THEREIN ENACTED",
+    "text": "<|startoftext|> ALL THE TIME HIS THOUGHTS WOULD RUN OUT TO HIS HOME AND SEE THE SCENE BEING THEREIN ENACTED <|endoftext|>",
     "tokens": [
+        50255,
         7036,
         3336,
         20460,
@@ -26,7 +27,8 @@
         34702,
         1268,
         12964,
-        38542
+        38542,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

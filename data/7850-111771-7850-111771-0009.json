@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0009.flac",
-    "text": "HIS SUCCESS SEEMS TO HAVE BEEN THE OUTGROWTH OF HARD STUDY AND ABILITY TO PERFORM THE MOST EXHAUSTIVE LABOR WITHOUT FATIGUE",
+    "text": "<|startoftext|> HIS SUCCESS SEEMS TO HAVE BEEN THE OUTGROWTH OF HARD STUDY AND ABILITY TO PERFORM THE MOST EXHAUSTIVE LABOR WITHOUT FATIGUE <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         13558,
@@ -42,7 +43,8 @@
         42881,
         47200,
         3528,
-        8924
+        8924,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

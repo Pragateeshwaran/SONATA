@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0012.flac",
-    "text": "WHEN AT LAST THEY REACHED THE PLAIN THEY FOUND THEMSELVES AT THE HEAD OF A NOBLE COMPANY OF HUMAN BEINGS ALL EAGER TO SERVE THEM",
+    "text": "<|startoftext|> WHEN AT LAST THEY REACHED THE PLAIN THEY FOUND THEMSELVES AT THE HEAD OF A NOBLE COMPANY OF HUMAN BEINGS ALL EAGER TO SERVE THEM <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         5161,
@@ -42,7 +43,8 @@
         5390,
         18871,
         6089,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

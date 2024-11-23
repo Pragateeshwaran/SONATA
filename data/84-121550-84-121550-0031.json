@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0031.flac",
-    "text": "AS SOON AS EVER OF MY SECOND AGE I WAS UPON THE THRESHOLD AND CHANGED LIFE HIMSELF FROM ME HE TOOK AND GAVE TO OTHERS",
+    "text": "<|startoftext|> AS SOON AS EVER OF MY SECOND AGE I WAS UPON THE THRESHOLD AND CHANGED LIFE HIMSELF FROM ME HE TOOK AND GAVE TO OTHERS <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         12809,
         1340,
@@ -41,7 +42,8 @@
         5390,
         440,
         4221,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

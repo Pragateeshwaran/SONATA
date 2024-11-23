@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0014.flac",
-    "text": "YOU SHALL HEAR HOW MY DIVORCED DAUGHTER AND MY POOR LITTLE GRANDCHILD WERE TREATED AT SANDYSEAL AFTER YOU LEFT US",
+    "text": "<|startoftext|> YOU SHALL HEAR HOW MY DIVORCED DAUGHTER AND MY POOR LITTLE GRANDCHILD WERE TREATED AT SANDYSEAL AFTER YOU LEFT US <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         50163,
         11179,
@@ -41,7 +42,8 @@
         7013,
         12509,
         9792,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

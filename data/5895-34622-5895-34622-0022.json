@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0022.flac",
-    "text": "THIS OPENING LOOKED FOR ALL THE WORLD LIKE A MOUTH OF HELL IN THE WORDS OF THE ITINERANT PURITAN PREACHERS WHO TURNED AWAY FROM IT WITH HORROR",
+    "text": "<|startoftext|> THIS OPENING LOOKED FOR ALL THE WORLD LIKE A MOUTH OF HELL IN THE WORDS OF THE ITINERANT PURITAN PREACHERS WHO TURNED AWAY FROM IT WITH HORROR <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         38303,
         2751,
@@ -44,7 +45,8 @@
         7283,
         13315,
         48345,
-        16411
+        16411,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

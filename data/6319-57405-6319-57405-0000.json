@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0000.flac",
-    "text": "IN THOSE VERY EARLY TIMES THERE WAS A MAN NAMED DEUCALION AND HE WAS THE SON OF PROMETHEUS",
+    "text": "<|startoftext|> IN THOSE VERY EARLY TIMES THERE WAS A MAN NAMED DEUCALION AND HE WAS THE SON OF PROMETHEUS <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         2320,
         14058,
@@ -32,7 +33,8 @@
         2662,
         2767,
         13909,
-        2937
+        2937,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0010.flac",
-    "text": "WHEN A MARRIED WOMAN HAS FOLLOWERS AND THE HUSBAND DON'T GO THE WRONG SIDE OF THE POST TOO OR IT AIN'T PROVED AGAIN HIM THAT HE DO THEY'LL NEVER LET HER HAVE NOTHING TO DO WITH THE CHILDREN",
+    "text": "<|startoftext|> WHEN A MARRIED WOMAN HAS FOLLOWERS AND THE HUSBAND DON'T GO THE WRONG SIDE OF THE POST TOO OR IT AIN'T PROVED AGAIN HIM THAT HE DO THEY'LL NEVER LET HER HAVE NOTHING TO DO WITH THE CHILDREN <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         317,
@@ -64,7 +65,8 @@
         5870,
         4146,
         7707,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

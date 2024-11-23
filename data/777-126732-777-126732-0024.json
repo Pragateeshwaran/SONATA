@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0024.flac",
-    "text": "THE SHADOW OF HIS EVIL GIFT CLUNG TO HIM YET LIKE THE SMELL OF A DEADLY DRUG IN AN OLD VIAL OF POISON EMPTIED NOW USELESS READY TO BE THROWN AWAY UPON THE RUBBISH HEAP OF THINGS THAT HAD SERVED THEIR TIME",
+    "text": "<|startoftext|> THE SHADOW OF HIS EVIL GIFT CLUNG TO HIM YET LIKE THE SMELL OF A DEADLY DRUG IN AN OLD VIAL OF POISON EMPTIED NOW USELESS READY TO BE THROWN AWAY UPON THE RUBBISH HEAP OF THINGS THAT HAD SERVED THEIR TIME <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         6006,
         2885,
@@ -71,7 +72,8 @@
         42887,
         1961,
         47278,
-        20460
+        20460,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

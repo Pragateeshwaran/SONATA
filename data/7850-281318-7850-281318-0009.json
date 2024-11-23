@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0009.flac",
-    "text": "SO IN A GREAT COMPANY THEY CAME FLUTTERING HOPPING TWITTERING UP TO THE ELM TREE WHERE MOTHER MAGPIE NESTLED COMFORTABLY IN HER NEW HOUSE",
+    "text": "<|startoftext|> SO IN A GREAT COMPANY THEY CAME FLUTTERING HOPPING TWITTERING UP TO THE ELM TREE WHERE MOTHER MAGPIE NESTLED COMFORTABLY IN HER NEW HOUSE <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         3268,
         317,
@@ -47,7 +48,8 @@
         3268,
         24906,
         12682,
-        46586
+        46586,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

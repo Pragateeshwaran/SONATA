@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0017.flac",
-    "text": "PERHAPS YOU CAN OUTWIT HER YET CRIED ANOTHER",
+    "text": "<|startoftext|> PERHAPS YOU CAN OUTWIT HER YET CRIED ANOTHER <|endoftext|>",
     "tokens": [
+        50255,
         18973,
         39,
         44580,
@@ -17,7 +18,8 @@
         7112,
         1961,
         3537,
-        31858
+        31858,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

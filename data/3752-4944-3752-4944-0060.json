@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0060.flac",
-    "text": "OH GOD GIVE ME STRENGTH AID ME HELP ME",
+    "text": "<|startoftext|> OH GOD GIVE ME STRENGTH AID ME HELP ME <|endoftext|>",
     "tokens": [
+        50255,
         12096,
         29562,
         402,
@@ -13,7 +14,8 @@
         2389,
         11948,
         49944,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

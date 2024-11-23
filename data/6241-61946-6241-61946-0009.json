@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0009.flac",
-    "text": "I SHOULD HAVE A VIOLENT ATTACK OF THE CRAMP IF I WERE NOT TO HAVE SOME SORT OF EXERCISE",
+    "text": "<|startoftext|> I SHOULD HAVE A VIOLENT ATTACK OF THE CRAMP IF I WERE NOT TO HAVE SOME SORT OF EXERCISE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         40312,
         21515,
@@ -28,7 +29,8 @@
         3963,
         7788,
         47691,
-        24352
+        24352,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

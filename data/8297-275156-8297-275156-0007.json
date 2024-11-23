@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0007.flac",
-    "text": "EVEN THE CHANCE OF SUCCESSFULLY CONFIDING HER TO BENNYDECK'S PROTECTION HAD LOST SOMETHING OF ITS FAIR PROMISE SINCE RANDAL'S VISIT TO SYDENHAM",
+    "text": "<|startoftext|> EVEN THE CHANCE OF SUCCESSFULLY CONFIDING HER TO BENNYDECK'S PROTECTION HAD LOST SOMETHING OF ITS FAIR PROMISE SINCE RANDAL'S VISIT TO SYDENHAM <|endoftext|>",
     "tokens": [
+        50255,
         20114,
         1677,
         3336,
@@ -54,7 +55,8 @@
         5390,
         19704,
         41819,
-        33363
+        33363,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

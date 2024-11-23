@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0000.flac",
-    "text": "A MAN SAID TO THE UNIVERSE SIR I EXIST",
+    "text": "<|startoftext|> A MAN SAID TO THE UNIVERSE SIR I EXIST <|endoftext|>",
     "tokens": [
+        50255,
         32,
         17254,
         14719,
@@ -14,7 +15,8 @@
         4663,
         314,
         7788,
-        8808
+        8808,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

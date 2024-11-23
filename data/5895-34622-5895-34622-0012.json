@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0012.flac",
-    "text": "THE CURIOSITY OF ONE PLACE EXHAUSTED THEY PASSED ON TO ANOTHER",
+    "text": "<|startoftext|> THE CURIOSITY OF ONE PLACE EXHAUSTED THEY PASSED ON TO ANOTHER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         327,
         47269,
@@ -21,7 +22,8 @@
         6177,
         5390,
         3537,
-        31858
+        31858,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

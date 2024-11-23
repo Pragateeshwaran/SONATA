@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0009.flac",
-    "text": "CELERY AND NUT SALAD CUT ENOUGH CELERY FINE TO MEASURE TWO CUPS ADD ONE CUP OF FINELY SHREDDED OR SHAVED CABBAGE AND ONE AND ONE HALF CUPS OF WALNUT MEATS BROKEN IN SMALL PIECES BUT NOT CHOPPED",
+    "text": "<|startoftext|> CELERY AND NUT SALAD CUT ENOUGH CELERY FINE TO MEASURE TWO CUPS ADD ONE CUP OF FINELY SHREDDED OR SHAVED CABBAGE AND ONE AND ONE HALF CUPS OF WALNUT MEATS BROKEN IN SMALL PIECES BUT NOT CHOPPED <|endoftext|>",
     "tokens": [
+        50255,
         34,
         3698,
         19664,
@@ -74,7 +75,8 @@
         5870,
         3185,
         47,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

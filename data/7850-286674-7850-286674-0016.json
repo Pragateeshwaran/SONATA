@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0016.flac",
-    "text": "HE BEGAN TO DRAW IN HIS LEGS VERY VERY SLOWLY AND JUST AS HIS GREAT HARD LOWER SHELL TOUCHED THE MUD THE LAST LARVA CRAWLED OUT UNDER HIS TAIL",
+    "text": "<|startoftext|> HE BEGAN TO DRAW IN HIS LEGS VERY VERY SLOWLY AND JUST AS HIS GREAT HARD LOWER SHELL TOUCHED THE MUD THE LAST LARVA CRAWLED OUT UNDER HIS TAIL <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         347,
         7156,
@@ -47,7 +48,8 @@
         35219,
         33700,
         21664,
-        4146
+        4146,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

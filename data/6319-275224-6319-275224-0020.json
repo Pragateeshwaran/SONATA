@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0020.flac",
-    "text": "I AM NOT THINKING ABOUT THE GARDEN MAMMA REPLIED THE YOUNG GIRL WITHOUT LIFTING UP HER FACE WE CAN PLANT NEW FLOWERS AND TIE UP EVEN SOME OF THESE AFRESH",
+    "text": "<|startoftext|> I AM NOT THINKING ABOUT THE GARDEN MAMMA REPLIED THE YOUNG GIRL WITHOUT LIFTING UP HER FACE WE CAN PLANT NEW FLOWERS AND TIE UP EVEN SOME OF THESE AFRESH <|endoftext|>",
     "tokens": [
+        50255,
         40,
         3001,
         5626,
@@ -49,7 +50,8 @@
         48947,
         317,
         10913,
-        44011
+        44011,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

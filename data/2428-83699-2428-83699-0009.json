@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0009.flac",
-    "text": "I HAD NO ILLUSIONS",
+    "text": "<|startoftext|> I HAD NO ILLUSIONS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         367,
         2885,
@@ -9,7 +10,8 @@
         314,
         3069,
         2937,
-        11053
+        11053,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

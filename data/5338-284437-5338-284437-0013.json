@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0013.flac",
-    "text": "SHE SMILED A LITTLE SADLY AT TROT SEEMED TO APPROVE BUTTON BRIGHT'S OPEN FRANK FACE AND WAS QUITE SURPRISED BECAUSE CAP'N BILL WAS SO MUCH BIGGER THAN HER OWN PEOPLE",
+    "text": "<|startoftext|> SHE SMILED A LITTLE SADLY AT TROT SEEMED TO APPROVE BUTTON BRIGHT'S OPEN FRANK FACE AND WAS QUITE SURPRISED BECAUSE CAP'N BILL WAS SO MUCH BIGGER THAN HER OWN PEOPLE <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         9447,
@@ -59,7 +60,8 @@
         1565,
         24906,
         47672,
-        36388
+        36388,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

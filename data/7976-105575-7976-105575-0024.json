@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0024.flac",
-    "text": "THAT NIGHT I STOOD GUARD UNDER AN OAK TREE ON THE BATTLEFIELD AMONG THE UNBURIED DEAD",
+    "text": "<|startoftext|> THAT NIGHT I STOOD GUARD UNDER AN OAK TREE ON THE BATTLEFIELD AMONG THE UNBURIED DEAD <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         37707,
@@ -27,7 +28,8 @@
         4725,
         38926,
         19767,
-        42533
+        42533,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

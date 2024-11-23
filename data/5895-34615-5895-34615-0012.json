@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0012.flac",
-    "text": "THE MANICHAEANS BELIEVED THE ABSOLUTE OCCASIONALLY GIVES WAY AND THAT GOD HIMSELF SOMETIMES ABDICATES FOR A TIME SO ALSO OF THE WILL",
+    "text": "<|startoftext|> THE MANICHAEANS BELIEVED THE ABSOLUTE OCCASIONALLY GIVES WAY AND THAT GOD HIMSELF SOMETIMES ABDICATES FOR A TIME SO ALSO OF THE WILL <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         17254,
         2149,
@@ -45,7 +46,8 @@
         35912,
         3963,
         3336,
-        17682
+        17682,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0004.flac",
-    "text": "WHY NOT ALLOW YOUR SILVER TUFTS TO LUXURIATE IN A NATURAL MANNER",
+    "text": "<|startoftext|> WHY NOT ALLOW YOUR SILVER TUFTS TO LUXURIATE IN A NATURAL MANNER <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         56,
         5626,
@@ -24,7 +25,8 @@
         4261,
         1847,
         17254,
-        21479
+        21479,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0003.flac",
-    "text": "THE LADY IS NOT THE MOTHER OF THE BOYS BUT THEIR AUNT",
+    "text": "<|startoftext|> THE LADY IS NOT THE MOTHER OF THE BOYS BUT THEIR AUNT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         406,
         2885,
@@ -19,7 +20,8 @@
         47278,
         317,
         4944,
-        51
+        51,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

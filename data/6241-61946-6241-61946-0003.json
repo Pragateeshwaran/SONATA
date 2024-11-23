@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0003.flac",
-    "text": "GEOGRAPHERS HAVE DIVIDED IT INTO FOUR PARTS AND WE HAD TO CROSS THE SOUTHWEST QUARTER WHICH IN THE VERNACULAR IS CALLED SUDVESTR FJORDUNGR",
+    "text": "<|startoftext|> GEOGRAPHERS HAVE DIVIDED IT INTO FOUR PARTS AND WE HAD TO CROSS THE SOUTHWEST QUARTER WHICH IN THE VERNACULAR IS CALLED SUDVESTR FJORDUNGR <|endoftext|>",
     "tokens": [
+        50255,
         38,
         4720,
         10761,
@@ -53,7 +54,8 @@
         41,
         12532,
         4944,
-        10761
+        10761,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

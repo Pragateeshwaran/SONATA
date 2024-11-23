@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24615\\5338-24615-0003.flac",
-    "text": "THE EVIL AND REMEDY SUCH AS IT IS STILL EXIST BUT THIS IS REMOTE FROM OUR PRESENT PURPOSE AND IS ONLY THROWN OUT FOR CONSIDERATION OF THE COLLECTORS UNDER MISTER DENT'S DOG BILL",
+    "text": "<|startoftext|> THE EVIL AND REMEDY SUCH AS IT IS STILL EXIST BUT THIS IS REMOTE FROM OUR PRESENT PURPOSE AND IS ONLY THROWN OUT FOR CONSIDERATION OF THE COLLECTORS UNDER MISTER DENT'S DOG BILL <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         8696,
         4146,
@@ -54,7 +55,8 @@
         360,
         7730,
         347,
-        8267
+        8267,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

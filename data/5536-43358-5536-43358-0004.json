@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0004.flac",
-    "text": "AMONG US ALL MEN WERE CREATED SONS OF GOD AND STOOD ERECT AS CONSCIOUS OF THEIR DIVINITY",
+    "text": "<|startoftext|> AMONG US ALL MEN WERE CREATED SONS OF GOD AND STOOD ERECT AS CONSCIOUS OF THEIR DIVINITY <|endoftext|>",
     "tokens": [
+        50255,
         2390,
         18494,
         1294,
@@ -30,7 +31,8 @@
         360,
         3824,
         1268,
-        9050
+        9050,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

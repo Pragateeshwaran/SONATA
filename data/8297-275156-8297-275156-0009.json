@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0009.flac",
-    "text": "CONSIDERATIONS OF DELICACY SEEMED TO FORBID TAKING THIS LIBERTY EVEN WITH AN INTIMATE FRIEND",
+    "text": "<|startoftext|> CONSIDERATIONS OF DELICACY SEEMED TO FORBID TAKING THIS LIBERTY EVEN WITH AN INTIMATE FRIEND <|endoftext|>",
     "tokens": [
+        50255,
         10943,
         50,
         41237,
@@ -30,7 +31,8 @@
         3955,
         6158,
         48167,
-        10619
+        10619,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0009.flac",
-    "text": "BUI WE SHOULD NOT FORGET OUR PROMISE TO OUR FATHER CRIED THE YOUNGEST DAUGHTER",
+    "text": "<|startoftext|> BUI WE SHOULD NOT FORGET OUR PROMISE TO OUR FATHER CRIED THE YOUNGEST DAUGHTER <|endoftext|>",
     "tokens": [
+        50255,
         33,
         10080,
         12887,
@@ -26,7 +27,8 @@
         6465,
         17051,
         44004,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

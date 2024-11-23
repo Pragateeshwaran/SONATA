@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0020.flac",
-    "text": "YES I KNOW VERY WELL",
+    "text": "<|startoftext|> YES I KNOW VERY WELL <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         314,
         35876,
         29550,
         12887,
-        3069
+        3069,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

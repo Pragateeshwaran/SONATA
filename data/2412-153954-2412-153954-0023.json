@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0023.flac",
-    "text": "THIS HAD SOME EFFECT IN CALMING HIM",
+    "text": "<|startoftext|> THIS HAD SOME EFFECT IN CALMING HIM <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         367,
         2885,
@@ -12,7 +13,8 @@
         33290,
         44,
         2751,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

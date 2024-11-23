@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0011.flac",
-    "text": "TO THE UNTUTORED SAGE THE CONCENTRATION OF POPULATION WAS THE PROLIFIC MOTHER OF ALL EVILS MORAL NO LESS THAN PHYSICAL",
+    "text": "<|startoftext|> TO THE UNTUTORED SAGE THE CONCENTRATION OF POPULATION WAS THE PROLIFIC MOTHER OF ALL EVILS MORAL NO LESS THAN PHYSICAL <|endoftext|>",
     "tokens": [
+        50255,
         10468,
         3336,
         4725,
@@ -39,7 +40,8 @@
         1565,
         9370,
         16309,
-        20151
+        20151,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

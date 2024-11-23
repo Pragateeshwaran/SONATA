@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0020.flac",
-    "text": "I TOLD HIM AND HE INSISTED UPON MY COMING WITH HIM IN THE GONDOLA SAYING THAT HE WOULD LEAVE ME AT MY HOUSE",
+    "text": "<|startoftext|> I TOLD HIM AND HE INSISTED UPON MY COMING WITH HIM IN THE GONDOLA SAYING THAT HE WOULD LEAVE ME AT MY HOUSE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         309,
         15173,
@@ -36,7 +37,8 @@
         11948,
         5161,
         17615,
-        46586
+        46586,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

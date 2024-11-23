@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0004.flac",
-    "text": "BUT NO GHOST OR ANYTHING ELSE APPEARED UPON THE ANCIENT WALLS",
+    "text": "<|startoftext|> BUT NO GHOST OR ANYTHING ELSE APPEARED UPON THE ANCIENT WALLS <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         8005,
         24739,
@@ -23,7 +24,8 @@
         3525,
         370,
         1847,
-        6561
+        6561,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0017.flac",
-    "text": "I SHALL LOCK UP ALL THE DOORS AND WINDOWS IN THE HOUSE AND THEN I SHALL GIVE YOU MY LATCH KEY AND YOU CAN LET YOURSELF IN AND STAY THE NIGHT HERE THERE IS NO ONE IN THE HOUSE",
+    "text": "<|startoftext|> I SHALL LOCK UP ALL THE DOORS AND WINDOWS IN THE HOUSE AND THEN I SHALL GIVE YOU MY LATCH KEY AND YOU CAN LET YOURSELF IN AND STAY THE NIGHT HERE THERE IS NO ONE IN THE HOUSE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         50163,
         406,
@@ -49,7 +50,8 @@
         16329,
         3268,
         3336,
-        46586
+        46586,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

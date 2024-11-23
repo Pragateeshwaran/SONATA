@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0015.flac",
-    "text": "HE WENT IN AND EXAMINED HIS LETTERS BUT THERE WAS NOTHING FROM CARRIE",
+    "text": "<|startoftext|> HE WENT IN AND EXAMINED HIS LETTERS BUT THERE WAS NOTHING FROM CARRIE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         370,
         3525,
@@ -24,7 +25,8 @@
         16034,
         17368,
         7112,
-        36
+        36,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

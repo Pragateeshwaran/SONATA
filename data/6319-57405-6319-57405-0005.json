@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0005.flac",
-    "text": "THE DAY IS COMING SAID PROMETHEUS WHEN JUPITER WILL SEND A FLOOD TO DESTROY MANKIND FROM THE EARTH",
+    "text": "<|startoftext|> THE DAY IS COMING SAID PROMETHEUS WHEN JUPITER WILL SEND A FLOOD TO DESTROY MANKIND FROM THE EARTH <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         24644,
         3180,
@@ -35,7 +36,8 @@
         16034,
         3336,
         31834,
-        4221
+        4221,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

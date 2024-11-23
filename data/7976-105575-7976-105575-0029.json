@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0029.flac",
-    "text": "A WEEK AFTER THE BATTLE MY BROTHER RODE BY THERE ON A CAVALRY EXPEDITION AND MADE THE HORRIBLE DISCOVERY THAT HOGS WERE EATING UP THE BODIES OF OUR DEAD HEROES THAT TOO WAS WAR",
+    "text": "<|startoftext|> A WEEK AFTER THE BATTLE MY BROTHER RODE BY THERE ON A CAVALRY EXPEDITION AND MADE THE HORRIBLE DISCOVERY THAT HOGS WERE EATING UP THE BODIES OF OUR DEAD HEROES THAT TOO WAS WAR <|endoftext|>",
     "tokens": [
+        50255,
         32,
         43765,
         36050,
@@ -56,7 +57,8 @@
         5390,
         46,
         21725,
-        11837
+        11837,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

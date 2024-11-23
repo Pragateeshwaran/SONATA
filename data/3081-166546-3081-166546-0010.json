@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0010.flac",
-    "text": "I KNOW IT SOUNDS FOOLISH BUT THE ALTERNATIVE IS SO IMPROBABLE",
+    "text": "<|startoftext|> I KNOW IT SOUNDS FOOLISH BUT THE ALTERNATIVE IS SO IMPROBABLE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         35876,
         7283,
@@ -21,7 +22,8 @@
         8959,
         31190,
         4339,
-        19146
+        19146,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

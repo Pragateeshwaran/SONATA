@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0011.flac",
-    "text": "IN THE THIRD I SAY WHAT IT IS I PURPOSE TO SPEAK SO AS NOT TO BE IMPEDED BY FAINTHEARTEDNESS",
+    "text": "<|startoftext|> IN THE THIRD I SAY WHAT IT IS I PURPOSE TO SPEAK SO AS NOT TO BE IMPEDED BY FAINTHEARTEDNESS <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         3336,
         2320,
@@ -32,7 +33,8 @@
         10970,
         7227,
         1961,
-        31097
+        31097,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147964\\1993-147964-0006.flac",
-    "text": "I PUT ON MY CAP AND RAN OUT TO MEET JAKE",
+    "text": "<|startoftext|> I PUT ON MY CAP AND RAN OUT TO MEET JAKE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         350,
         3843,
@@ -16,7 +17,8 @@
         11948,
         2767,
         41722,
-        7336
+        7336,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

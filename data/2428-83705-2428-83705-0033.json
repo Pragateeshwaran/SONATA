@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0033.flac",
-    "text": "WE HAVE ALL BEEN GIVING MARY ANN PRESENTS AND I SUPPOSE YOU MISTER WHITING HAVE BEEN GIVING HER SOMETHING TOO",
+    "text": "<|startoftext|> WE HAVE ALL BEEN GIVING MARY ANN PRESENTS AND I SUPPOSE YOU MISTER WHITING HAVE BEEN GIVING HER SOMETHING TOO <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         21515,
         11096,
@@ -36,7 +37,8 @@
         20702,
         2751,
         5390,
-        46
+        46,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

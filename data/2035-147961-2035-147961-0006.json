@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0006.flac",
-    "text": "I COULD NOT TAKE MY EYES OFF THE MAN IN THE BED",
+    "text": "<|startoftext|> I COULD NOT TAKE MY EYES OFF THE MAN IN THE BED <|endoftext|>",
     "tokens": [
+        50255,
         40,
         327,
         24010,
@@ -17,7 +18,8 @@
         3268,
         3336,
         347,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

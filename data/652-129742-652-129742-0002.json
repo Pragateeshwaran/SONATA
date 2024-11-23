@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0002.flac",
-    "text": "SERVE WITH FRENCH DRESSING HIDDEN UNDER THE LEAVES OF THE NEST",
+    "text": "<|startoftext|> SERVE WITH FRENCH DRESSING HIDDEN UNDER THE LEAVES OF THE NEST <|endoftext|>",
     "tokens": [
+        50255,
         35009,
         6089,
         13315,
@@ -22,7 +23,8 @@
         3963,
         3336,
         399,
-        6465
+        6465,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0006.flac",
-    "text": "POP IT'S A COURSE",
+    "text": "<|startoftext|> POP IT'S A COURSE <|endoftext|>",
     "tokens": [
+        50255,
         47,
         3185,
         7283,
@@ -9,7 +10,8 @@
         50,
         317,
         37384,
-        5188
+        5188,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

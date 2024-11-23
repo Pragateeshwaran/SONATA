@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0017.flac",
-    "text": "WHEN THEREFORE HE ADDRESSED HIMSELF TO ME IN THE LANGUAGE OF HORACE WE AT ONCE CAME TO UNDERSTAND ONE ANOTHER",
+    "text": "<|startoftext|> WHEN THEREFORE HE ADDRESSED HIMSELF TO ME IN THE LANGUAGE OF HORACE WE AT ONCE CAME TO UNDERSTAND ONE ANOTHER <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         34702,
@@ -37,7 +38,8 @@
         6981,
         16329,
         3537,
-        31858
+        31858,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

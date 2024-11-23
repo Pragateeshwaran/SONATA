@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0019.flac",
-    "text": "BENNET WILL TAKE THE GARDEN AND GREEN HOUSE OFF MY HANDS THIS AUTUMN FOR A YEAR OR LONGER IF I LIKE",
+    "text": "<|startoftext|> BENNET WILL TAKE THE GARDEN AND GREEN HOUSE OFF MY HANDS THIS AUTUMN FOR A YEAR OR LONGER IF I LIKE <|endoftext|>",
     "tokens": [
+        50255,
         33,
         1677,
         12884,
@@ -32,7 +33,8 @@
         1137,
         16876,
         314,
-        34178
+        34178,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

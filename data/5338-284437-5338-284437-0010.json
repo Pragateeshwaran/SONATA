@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0010.flac",
-    "text": "HER COMPLEXION WAS NOT A DECIDED PINK BUT A SOFT ROSY TINT NOT MUCH DEEPER THAN THAT OF TROT'S SKIN",
+    "text": "<|startoftext|> HER COMPLEXION WAS NOT A DECIDED PINK BUT A SOFT ROSY TINT NOT MUCH DEEPER THAN THAT OF TROT'S SKIN <|endoftext|>",
     "tokens": [
+        50255,
         16879,
         49269,
         55,
@@ -36,7 +37,8 @@
         6,
         50,
         14277,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

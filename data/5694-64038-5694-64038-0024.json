@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0024.flac",
-    "text": "A REGIMENT WAS SENT TO THE ATTACK IT WAS JIM'S REGIMENT",
+    "text": "<|startoftext|> A REGIMENT WAS SENT TO THE ATTACK IT WAS JIM'S REGIMENT <|endoftext|>",
     "tokens": [
+        50255,
         32,
         23337,
         3955,
@@ -21,7 +22,8 @@
         50,
         23337,
         3955,
-        3525
+        3525,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

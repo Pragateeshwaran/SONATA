@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0005.flac",
-    "text": "HE WAS NOW COMMANDER OF ALL THE FEDERAL FORCES",
+    "text": "<|startoftext|> HE WAS NOW COMMANDER OF ALL THE FEDERAL FORCES <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         20229,
@@ -16,7 +17,8 @@
         27130,
         7473,
         34,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

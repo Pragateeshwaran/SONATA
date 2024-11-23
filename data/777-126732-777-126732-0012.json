@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0012.flac",
-    "text": "STRUGGLE WARFARE WAS THE CONDITION OF PRIVATE OWNERSHIP IT WAS FATAL",
+    "text": "<|startoftext|> STRUGGLE WARFARE WAS THE CONDITION OF PRIVATE OWNERSHIP IT WAS FATAL <|endoftext|>",
     "tokens": [
+        50255,
         18601,
         7340,
         38,
@@ -25,7 +26,8 @@
         7283,
         21725,
         47200,
-        1847
+        1847,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

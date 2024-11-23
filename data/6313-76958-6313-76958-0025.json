@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0025.flac",
-    "text": "A WRANGLER'S A WRANGLER ANSWERED BIG FOOT STOLIDLY",
+    "text": "<|startoftext|> A WRANGLER'S A WRANGLER ANSWERED BIG FOOT STOLIDLY <|endoftext|>",
     "tokens": [
+        50255,
         32,
         11342,
         1565,
@@ -24,7 +25,8 @@
         3563,
         3535,
         2389,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

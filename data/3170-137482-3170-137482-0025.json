@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0025.flac",
-    "text": "THEY DID NOT KNOW WHO I WAS AND DID NOT LIKE TO ASK ME WHILST I THOUGHT IT BETTER TO PRESERVE A MODEST SILENCE",
+    "text": "<|startoftext|> THEY DID NOT KNOW WHO I WAS AND DID NOT LIKE TO ASK ME WHILST I THOUGHT IT BETTER TO PRESERVE A MODEST SILENCE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         35697,
@@ -37,7 +38,8 @@
         19164,
         6465,
         47551,
-        18310
+        18310,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

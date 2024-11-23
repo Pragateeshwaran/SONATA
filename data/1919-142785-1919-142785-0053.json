@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0053.flac",
-    "text": "WHEN THE THREE INGREDIENTS ARE PROPERLY PREPARED POUND THEM ALTOGETHER IN A MORTAR FOR SOME TIME FOR THE MORE QUENELLES ARE POUNDED THE MORE DELICATE THEY ARE",
+    "text": "<|startoftext|> WHEN THE THREE INGREDIENTS ARE PROPERLY PREPARED POUND THEM ALTOGETHER IN A MORTAR FOR SOME TIME FOR THE MORE QUENELLES ARE POUNDED THE MORE DELICATE THEY ARE <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         3336,
@@ -51,7 +52,8 @@
         2149,
         6158,
         33302,
-        15986
+        15986,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

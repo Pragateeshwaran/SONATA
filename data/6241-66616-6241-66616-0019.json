@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0019.flac",
-    "text": "THERE WERE TEARS IN THE BOYS EYES WHEN THEY PARTED AND THE MOTHER CRIED FOR THE INDIAN BOY WHO WAS RETURNING TO HIS PEOPLE",
+    "text": "<|startoftext|> THERE WERE TEARS IN THE BOYS EYES WHEN THEY PARTED AND THE MOTHER CRIED FOR THE INDIAN BOY WHO WAS RETURNING TO HIS PEOPLE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         370,
@@ -38,7 +39,8 @@
         15871,
         5390,
         33700,
-        36388
+        36388,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

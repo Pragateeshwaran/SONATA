@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0001.flac",
-    "text": "MY GUIDES HOWEVER WERE WELL KNOWN AND THE NATURAL POLITENESS OF THE PEOPLE PREVENTED THEM FROM PUTTING ME TO ANY INCONVENIENCE BUT THEY COULD NOT HELP EYEING ME NOR I THEM",
+    "text": "<|startoftext|> MY GUIDES HOWEVER WERE WELL KNOWN AND THE NATURAL POLITENESS OF THE PEOPLE PREVENTED THEM FROM PUTTING ME TO ANY INCONVENIENCE BUT THEY COULD NOT HELP EYEING ME NOR I THEM <|endoftext|>",
     "tokens": [
+        50255,
         26708,
         19348,
         42538,
@@ -53,7 +54,8 @@
         11948,
         25273,
         314,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

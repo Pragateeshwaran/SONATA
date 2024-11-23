@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0030.flac",
-    "text": "VERY GOOD YOUR HONOUR SAYS TROKE",
+    "text": "<|startoftext|> VERY GOOD YOUR HONOUR SAYS TROKE <|endoftext|>",
     "tokens": [
+        50255,
         5959,
         56,
         21090,
@@ -13,7 +14,8 @@
         50,
         7579,
         46,
-        7336
+        7336,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

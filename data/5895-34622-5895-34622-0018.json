@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0018.flac",
-    "text": "THE CARAVAN WAS DIVIDED INTO THREE COMPARTMENTS PARTITIONED FROM EACH OTHER",
+    "text": "<|startoftext|> THE CARAVAN WAS DIVIDED INTO THREE COMPARTMENTS PARTITIONED FROM EACH OTHER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         17368,
         10116,
@@ -22,7 +23,8 @@
         16034,
         412,
         16219,
-        25401
+        25401,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

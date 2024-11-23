@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0024.flac",
-    "text": "THERE ARE ONLY THREE SLEDGES LEFT HE WHISPERED",
+    "text": "<|startoftext|> THERE ARE ONLY THREE SLEDGES LEFT HE WHISPERED <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         15986,
@@ -16,7 +17,8 @@
         7655,
         1797,
         18973,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

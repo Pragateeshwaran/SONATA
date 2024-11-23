@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0004.flac",
-    "text": "AND THE POOR SILLY THINGS RUFFLED UP THEIR FEATHERS AND LOOKED MISERABLE AS ONLY A LITTLE BIRD CAN LOOK WHEN IT IS UNHAPPY",
+    "text": "<|startoftext|> AND THE POOR SILLY THINGS RUFFLED UP THEIR FEATHERS AND LOOKED MISERABLE AS ONLY A LITTLE BIRD CAN LOOK WHEN IT IS UNHAPPY <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         3336,
         19922,
@@ -42,7 +43,8 @@
         4725,
         39,
         24805,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

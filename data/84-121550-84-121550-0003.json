@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0003.flac",
-    "text": "I DO NOT THINK THERE SHONE SO GREAT A LIGHT UNDER THE LIDS OF VENUS WHEN TRANSFIXED BY HER OWN SON BEYOND HIS USUAL CUSTOM",
+    "text": "<|startoftext|> I DO NOT THINK THERE SHONE SO GREAT A LIGHT UNDER THE LIDS OF VENUS WHEN TRANSFIXED BY HER OWN SON BEYOND HIS USUAL CUSTOM <|endoftext|>",
     "tokens": [
+        50255,
         40,
         8410,
         5626,
@@ -40,7 +41,8 @@
         25620,
         327,
         7759,
-        2662
+        2662,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

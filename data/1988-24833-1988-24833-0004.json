@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0004.flac",
-    "text": "RIGHT AWAY WHEN I BRING HOME MY NEW PROGRAM HE SAYS HOW COME YOU'RE TAKING ONE LESS COURSE THIS HALF",
+    "text": "<|startoftext|> RIGHT AWAY WHEN I BRING HOME MY NEW PROGRAM HE SAYS HOW COME YOU'RE TAKING ONE LESS COURSE THIS HALF <|endoftext|>",
     "tokens": [
+        50255,
         49,
         9947,
         14356,
@@ -32,7 +33,8 @@
         5188,
         12680,
         42968,
-        37
+        37,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0031.flac",
-    "text": "TWO OR THREE MILES FARTHER ON IS THE MAIN STRONGHOLD OF THE MODOCS HELD BY THEM SO LONG AND DEFIANTLY AGAINST ALL THE SOLDIERS THAT COULD BE BROUGHT TO THE ATTACK",
+    "text": "<|startoftext|> TWO OR THREE MILES FARTHER ON IS THE MAIN STRONGHOLD OF THE MODOCS HELD BY THEM SO LONG AND DEFIANTLY AGAINST ALL THE SOLDIERS THAT COULD BE BROUGHT TO THE ATTACK <|endoftext|>",
     "tokens": [
+        50255,
         34551,
         46,
         6375,
@@ -53,7 +54,8 @@
         5390,
         3336,
         26195,
-        8120
+        8120,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

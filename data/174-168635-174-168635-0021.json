@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0021.flac",
-    "text": "HE PROTECTED HER AND SHE STRENGTHENED HIM",
+    "text": "<|startoftext|> HE PROTECTED HER AND SHE STRENGTHENED HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         48006,
         9782,
@@ -13,7 +14,8 @@
         49494,
         1677,
         1961,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

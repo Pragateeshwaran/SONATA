@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0013.flac",
-    "text": "THE PLAYWRIGHT GAVE MAINHALL A CURIOUS LOOK OUT OF HIS DEEP SET FADED EYES AND MADE A WRY FACE",
+    "text": "<|startoftext|> THE PLAYWRIGHT GAVE MAINHALL A CURIOUS LOOK OUT OF HIS DEEP SET FADED EYES AND MADE A WRY FACE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         28180,
         18564,
@@ -34,7 +35,8 @@
         317,
         11342,
         56,
-        46587
+        46587,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

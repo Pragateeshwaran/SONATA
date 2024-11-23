@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0007.flac",
-    "text": "THE MAN NO LONGER PRODUCED ON HER THE EFFECT OF BEING OLD OR POOR SHE THOUGHT JEAN VALJEAN HANDSOME JUST AS SHE THOUGHT THE HOVEL PRETTY",
+    "text": "<|startoftext|> THE MAN NO LONGER PRODUCED ON HER THE EFFECT OF BEING OLD OR POOR SHE THOUGHT JEAN VALJEAN HANDSOME JUST AS SHE THOUGHT THE HOVEL PRETTY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         17254,
         8005,
@@ -53,7 +54,8 @@
         3698,
         22814,
         51,
-        9936
+        9936,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

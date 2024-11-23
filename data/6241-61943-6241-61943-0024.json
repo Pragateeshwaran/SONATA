@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0024.flac",
-    "text": "I HAVE NOT THE SLIGHTEST DOUBT THAT IN HIGH WINDS ITS RED TILES WERE BLOWN OUT TO THE GREAT ANNOYANCE OF THE PASTOR AND CONGREGATION",
+    "text": "<|startoftext|> I HAVE NOT THE SLIGHTEST DOUBT THAT IN HIGH WINDS ITS RED TILES WERE BLOWN OUT TO THE GREAT ANNOYANCE OF THE PASTOR AND CONGREGATION <|endoftext|>",
     "tokens": [
+        50255,
         40,
         21515,
         5626,
@@ -43,7 +44,8 @@
         7102,
         28934,
         38,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

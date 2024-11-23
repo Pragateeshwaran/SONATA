@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0024.flac",
-    "text": "HE KNEW HER WELL ENOUGH TO KNOW THAT WHEN SHE HAD DECIDED UPON A PLAN SHE WOULD FOLLOW IT UP",
+    "text": "<|startoftext|> HE KNEW HER WELL ENOUGH TO KNOW THAT WHEN SHE HAD DECIDED UPON A PLAN SHE WOULD FOLLOW IT UP <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         509,
         13965,
@@ -30,7 +31,8 @@
         11895,
         44765,
         7283,
-        15958
+        15958,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

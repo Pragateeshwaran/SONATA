@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0014.flac",
-    "text": "GRETHEL BEGAN TO CRY BUT IT WAS ALL USELESS FOR THE OLD WITCH MADE HER DO AS SHE WANTED",
+    "text": "<|startoftext|> GRETHEL BEGAN TO CRY BUT IT WAS ALL USELESS FOR THE OLD WITCH MADE HER DO AS SHE WANTED <|endoftext|>",
     "tokens": [
+        50255,
         28934,
         4221,
         3698,
@@ -31,7 +32,8 @@
         7054,
         48052,
         41300,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

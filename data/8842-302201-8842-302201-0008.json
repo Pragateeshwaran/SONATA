@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0008.flac",
-    "text": "SO TO THE ROAD THOU SHALT BE RECONCILED AND FIND THE LADY AND WITH THE LADY LOVE",
+    "text": "<|startoftext|> SO TO THE ROAD THOU SHALT BE RECONCILED AND FIND THE LADY AND WITH THE LADY LOVE <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         5390,
         3336,
@@ -30,7 +31,8 @@
         406,
         2885,
         56,
-        27889
+        27889,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

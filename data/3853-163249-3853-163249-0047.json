@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0047.flac",
-    "text": "DAVID CAUGHT THE EXALTATION AND GAVE NO FURTHER THOUGHT TO ANY THING BUT THE DUTY OF THE HOUR FINDING HIMSELF STRONGER AND BRAVER FOR THAT LONG LOOK INTO THE ILLUMINATED FACE OF THE WOMAN HE LOVED",
+    "text": "<|startoftext|> DAVID CAUGHT THE EXALTATION AND GAVE NO FURTHER THOUGHT TO ANY THING BUT THE DUTY OF THE HOUR FINDING HIMSELF STRONGER AND BRAVER FOR THAT LONG LOOK INTO THE ILLUMINATED FACE OF THE WOMAN HE LOVED <|endoftext|>",
     "tokens": [
+        50255,
         5631,
         11008,
         7257,
@@ -66,7 +67,8 @@
         11179,
         406,
         8874,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0026.flac",
-    "text": "BUT WILL HE THANK ME FOR IT",
+    "text": "<|startoftext|> BUT WILL HE THANK ME FOR IT <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         17682,
         11179,
         49360,
         11948,
         7473,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

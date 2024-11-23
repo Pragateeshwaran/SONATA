@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0002.flac",
-    "text": "AT LAST HE SENT WORD TO SAY THAT HE HIMSELF WOULD BE IN ENGLAND BEFORE THE END OF MARCH AND WOULD SEE THAT THE MAJESTY OF THE LAW SHOULD BE VINDICATED IN HIS FAVOUR",
+    "text": "<|startoftext|> AT LAST HE SENT WORD TO SAY THAT HE HIMSELF WOULD BE IN ENGLAND BEFORE THE END OF MARCH AND WOULD SEE THAT THE MAJESTY OF THE LAW SHOULD BE VINDICATED IN HIS FAVOUR <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         41894,
         11179,
@@ -52,7 +53,8 @@
         33700,
         9677,
         53,
-        11698
+        11698,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

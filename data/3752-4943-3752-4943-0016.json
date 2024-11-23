@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0016.flac",
-    "text": "DO HIM GOOD CURSE HIM",
+    "text": "<|startoftext|> DO HIM GOOD CURSE HIM <|endoftext|>",
     "tokens": [
+        50255,
         18227,
         45909,
         21090,
         327,
         4261,
         5188,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

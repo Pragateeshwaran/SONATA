@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0036.flac",
-    "text": "DURING THE AUCTION HE WENT ABOUT WITH HIS HEAD DOWN AND NEVER LIFTED HIS EYES",
+    "text": "<|startoftext|> DURING THE AUCTION HE WENT ABOUT WITH HIS HEAD DOWN AND NEVER LIFTED HIS EYES <|endoftext|>",
     "tokens": [
+        50255,
         35,
         4261,
         2751,
@@ -24,7 +25,8 @@
         1961,
         33700,
         412,
-        43335
+        43335,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

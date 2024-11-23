@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0004.flac",
-    "text": "YOU WOULD THINK THAT WITH SIX LEGS APIECE AND THREE JOINTS IN EACH LEG THEY MIGHT WALK QUITE FAST YET THEY NEVER DID",
+    "text": "<|startoftext|> YOU WOULD THINK THAT WITH SIX LEGS APIECE AND THREE JOINTS IN EACH LEG THEY MIGHT WALK QUITE FAST YET THEY NEVER DID <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         370,
         24010,
@@ -38,7 +39,8 @@
         2767,
         33302,
         33602,
-        35697
+        35697,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

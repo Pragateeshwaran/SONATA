@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0021.flac",
-    "text": "REGAINING THE LOW GROUND AT THE BASE OF THE MOUNTAIN AND HOLDING ON IN YOUR GRAND ORBIT YOU PASS THROUGH A BELT OF JUNIPER WOODS CALLED THE CEDARS TO SHEEP ROCK AT THE FOOT OF THE SHASTA PASS",
+    "text": "<|startoftext|> REGAINING THE LOW GROUND AT THE BASE OF THE MOUNTAIN AND HOLDING ON IN YOUR GRAND ORBIT YOU PASS THROUGH A BELT OF JUNIPER WOODS CALLED THE CEDARS TO SHEEP ROCK AT THE FOOT OF THE SHASTA PASS <|endoftext|>",
     "tokens": [
+        50255,
         2200,
         9273,
         1268,
@@ -63,7 +64,8 @@
         6006,
         1921,
         5603,
-        41752
+        41752,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

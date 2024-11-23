@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0010.flac",
-    "text": "ALL HIS EMOTIONS WHATEVER THEY MIGHT HAVE BEEN AUGMENTED HIS STRANGE FACE OF JOY OR TO SPEAK MORE CORRECTLY AGGRAVATED IT",
+    "text": "<|startoftext|> ALL HIS EMOTIONS WHATEVER THEY MIGHT HAVE BEEN AUGMENTED HIS STRANGE FACE OF JOY OR TO SPEAK MORE CORRECTLY AGGRAVATED IT <|endoftext|>",
     "tokens": [
+        50255,
         7036,
         33700,
         17228,
@@ -41,7 +42,8 @@
         3861,
         53,
         11617,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

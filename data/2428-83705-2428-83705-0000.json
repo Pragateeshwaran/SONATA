@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0000.flac",
-    "text": "HER FATHER IS A MOST REMARKABLE PERSON TO SAY THE LEAST",
+    "text": "<|startoftext|> HER FATHER IS A MOST REMARKABLE PERSON TO SAY THE LEAST <|endoftext|>",
     "tokens": [
+        50255,
         16879,
         376,
         45226,
@@ -17,7 +18,8 @@
         45687,
         3336,
         12509,
-        11262
+        11262,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

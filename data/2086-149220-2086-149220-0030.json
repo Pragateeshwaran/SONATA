@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0030.flac",
-    "text": "THE SUN AS YOU SEE TELLS QUITE ANOTHER STORY AND WILL NOT BE COAXED OUT OF IT AFTER HALF A DOZEN PATIENT ATTEMPTS ON MY PART",
+    "text": "<|startoftext|> THE SUN AS YOU SEE TELLS QUITE ANOTHER STORY AND WILL NOT BE COAXED OUT OF IT AFTER HALF A DOZEN PATIENT ATTEMPTS ON MY PART <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         35329,
         7054,
@@ -39,7 +40,8 @@
         4694,
         6177,
         17615,
-        16652
+        16652,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

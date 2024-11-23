@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0035.flac",
-    "text": "IS THERE NOTHING WILD IN THE EYE CONTINUED HOLGRAVE SO EARNESTLY THAT IT EMBARRASSED PHOEBE AS DID ALSO THE QUIET FREEDOM WITH WHICH HE PRESUMED ON THEIR SO RECENT ACQUAINTANCE",
+    "text": "<|startoftext|> IS THERE NOTHING WILD IN THE EYE CONTINUED HOLGRAVE SO EARNESTLY THAT IT EMBARRASSED PHOEBE AS DID ALSO THE QUIET FREEDOM WITH WHICH HE PRESUMED ON THEIR SO RECENT ACQUAINTANCE <|endoftext|>",
     "tokens": [
+        50255,
         1797,
         34702,
         5626,
@@ -61,7 +62,8 @@
         10917,
         32,
         12394,
-        19240
+        19240,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

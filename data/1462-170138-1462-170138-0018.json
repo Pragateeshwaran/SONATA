@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0018.flac",
-    "text": "I SAY SIR HARRY THE LITTLE GIRL'S GOING FAMOUSLY TO NIGHT ISN'T SHE",
+    "text": "<|startoftext|> I SAY SIR HARRY THE LITTLE GIRL'S GOING FAMOUSLY TO NIGHT ISN'T SHE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         45687,
         311,
@@ -29,7 +30,8 @@
         45,
         6,
         51,
-        48052
+        48052,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0051.flac",
-    "text": "THIS OF COURSE WAS MERE BRAVADO ON THE PART OF THE COMMANDANT",
+    "text": "<|startoftext|> THIS OF COURSE WAS MERE BRAVADO ON THE PART OF THE COMMANDANT <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         3963,
         37384,
@@ -20,7 +21,8 @@
         3336,
         22240,
         6981,
-        8643
+        8643,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

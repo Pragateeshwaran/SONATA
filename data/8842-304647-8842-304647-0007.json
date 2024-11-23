@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0007.flac",
-    "text": "MOST WONDERFUL",
+    "text": "<|startoftext|> MOST WONDERFUL <|endoftext|>",
     "tokens": [
+        50255,
         44,
         10892,
         370,
         1340,
         14418,
-        46476
+        46476,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

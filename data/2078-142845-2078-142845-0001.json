@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0001.flac",
-    "text": "SEVENTEEN SEVENTEEN",
+    "text": "<|startoftext|> SEVENTEEN SEVENTEEN <|endoftext|>",
     "tokens": [
+        50255,
         5188,
         53,
         3525,
@@ -11,7 +12,8 @@
         53,
         3525,
         36,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0014.flac",
-    "text": "MUST I LEAVE ALONE NO",
+    "text": "<|startoftext|> MUST I LEAVE ALONE NO <|endoftext|>",
     "tokens": [
+        50255,
         44,
         7759,
         314,
@@ -10,7 +11,8 @@
         6089,
         8355,
         11651,
-        8005
+        8005,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

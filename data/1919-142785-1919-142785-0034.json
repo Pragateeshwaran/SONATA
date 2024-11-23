@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0034.flac",
-    "text": "SIMMER FOR A MINUTE OR TWO AND SERVE IN A TUREEN",
+    "text": "<|startoftext|> SIMMER FOR A MINUTE OR TWO AND SERVE IN A TUREEN <|endoftext|>",
     "tokens": [
+        50255,
         48913,
         29296,
         7473,
@@ -17,7 +18,8 @@
         317,
         309,
         11335,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0037.flac",
-    "text": "EVERY ONE SAID PETER KISSED THE COW BEFORE SHE WAS LED AWAY BY HER NEW OWNER",
+    "text": "<|startoftext|> EVERY ONE SAID PETER KISSED THE COW BEFORE SHE WAS LED AWAY BY HER NEW OWNER <|endoftext|>",
     "tokens": [
+        50255,
         36,
         5959,
         56,
@@ -26,7 +27,8 @@
         24906,
         12682,
         47210,
-        21479
+        21479,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

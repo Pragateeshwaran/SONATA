@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0009.flac",
-    "text": "UNKNOWN PEOPLE HAD WORKED UPON HIS FACE HE ON THE OTHER HAND HAD WORKED ON HIS MIND AND BEHIND THIS WELL EXECUTED MASK HE HAD PLACED ALL THAT HE COULD OF THOUGHT",
+    "text": "<|startoftext|> UNKNOWN PEOPLE HAD WORKED UPON HIS FACE HE ON THE OTHER HAND HAD WORKED ON HIS MIND AND BEHIND THIS WELL EXECUTED MASK HE HAD PLACED ALL THAT HE COULD OF THOUGHT <|endoftext|>",
     "tokens": [
+        50255,
         4944,
         44706,
         36388,
@@ -55,7 +56,8 @@
         2320,
         2606,
         38,
-        6535
+        6535,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

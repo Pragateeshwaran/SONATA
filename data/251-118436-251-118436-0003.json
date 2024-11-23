@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0003.flac",
-    "text": "AS YOU WELL KNOW THERE ARE TEN MEN AND TEN WOMEN WHOSE SOLE DUTY IS TO TASTE HIS FOOD AND WINE AND FIFTY ARMED WARRIORS GUARD HIS CHAMBER AS THEY GUARD IT NOW",
+    "text": "<|startoftext|> AS YOU WELL KNOW THERE ARE TEN MEN AND TEN WOMEN WHOSE SOLE DUTY IS TO TASTE HIS FOOD AND WINE AND FIFTY ARMED WARRIORS GUARD HIS CHAMBER AS THEY GUARD IT NOW <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         7013,
         12887,
@@ -55,7 +56,8 @@
         19348,
         9795,
         7283,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

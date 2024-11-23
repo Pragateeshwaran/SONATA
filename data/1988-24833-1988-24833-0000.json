@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0000.flac",
-    "text": "THE TWO STRAY KITTENS GRADUALLY MAKE THEMSELVES AT HOME",
+    "text": "<|startoftext|> THE TWO STRAY KITTENS GRADUALLY MAKE THEMSELVES AT HOME <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         35288,
         3563,
@@ -20,7 +21,8 @@
         53,
         1546,
         5161,
-        41779
+        41779,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

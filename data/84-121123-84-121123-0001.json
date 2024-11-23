@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0001.flac",
-    "text": "BUT IN LESS THAN FIVE MINUTES THE STAIRCASE GROANED BENEATH AN EXTRAORDINARY WEIGHT",
+    "text": "<|startoftext|> BUT IN LESS THAN FIVE MINUTES THE STAIRCASE GROANED BENEATH AN EXTRAORDINARY WEIGHT <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         3268,
         406,
@@ -32,7 +33,8 @@
         1268,
         13153,
         12887,
-        9947
+        9947,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

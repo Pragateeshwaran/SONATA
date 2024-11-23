@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0038.flac",
-    "text": "WHO LIVES HERE ARE THE PEOPLE MAD",
+    "text": "<|startoftext|> WHO LIVES HERE ARE THE PEOPLE MAD <|endoftext|>",
     "tokens": [
+        50255,
         41856,
         406,
         42472,
@@ -9,7 +10,8 @@
         15986,
         3336,
         36388,
-        45878
+        45878,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

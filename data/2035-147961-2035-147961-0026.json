@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0026.flac",
-    "text": "THEY WERE WITHIN A FEW MILES OF THEIR VILLAGE NOW",
+    "text": "<|startoftext|> THEY WERE WITHIN A FEW MILES OF THEIR VILLAGE NOW <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         370,
@@ -18,7 +19,8 @@
         569,
         8267,
         11879,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

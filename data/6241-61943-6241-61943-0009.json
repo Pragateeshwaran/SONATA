@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0009.flac",
-    "text": "THE VALKYRIE KEPT OFF THE COAST STEERING TO THE WESTWARD",
+    "text": "<|startoftext|> THE VALKYRIE KEPT OFF THE COAST STEERING TO THE WESTWARD <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         26173,
         31159,
@@ -21,7 +22,8 @@
         3336,
         370,
         6465,
-        39743
+        39743,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

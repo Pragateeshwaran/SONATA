@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0002.flac",
-    "text": "OUR ARMY STOPPED AT MURFREESBORO",
+    "text": "<|startoftext|> OUR ARMY STOPPED AT MURFREESBORO <|endoftext|>",
     "tokens": [
+        50255,
         11698,
         20359,
         56,
@@ -16,7 +17,8 @@
         1546,
         33,
         1581,
-        46
+        46,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0013.flac",
-    "text": "FOR RELIEF HE AROSE AND JOINED IN CONVERSATION WITH A FEW FRIENDS WHO WERE DRINKING",
+    "text": "<|startoftext|> FOR RELIEF HE AROSE AND JOINED IN CONVERSATION WITH A FEW FRIENDS WHO WERE DRINKING <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         29749,
         10008,
@@ -29,7 +30,8 @@
         9338,
         10560,
         17248,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

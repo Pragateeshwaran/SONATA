@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0062.flac",
-    "text": "SUFFICIENT HALF THIS QUANTITY FOR TWO SLICES OF SALMON",
+    "text": "<|startoftext|> SUFFICIENT HALF THIS QUANTITY FOR TWO SLICES OF SALMON <|endoftext|>",
     "tokens": [
+        50255,
         12564,
         5777,
         2149,
@@ -18,7 +19,8 @@
         34444,
         3963,
         42475,
-        27857
+        27857,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

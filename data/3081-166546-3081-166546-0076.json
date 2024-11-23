@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0076.flac",
-    "text": "WHAT MADE THE DIFFERENCE",
+    "text": "<|startoftext|> WHAT MADE THE DIFFERENCE <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         337,
         19266,
@@ -9,7 +10,8 @@
         360,
         5064,
         24302,
-        18310
+        18310,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

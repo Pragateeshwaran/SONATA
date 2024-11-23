@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0013.flac",
-    "text": "AND I SHE WHISPERED I FELT THAT YOU WERE FEELING THAT",
+    "text": "<|startoftext|> AND I SHE WHISPERED I FELT THAT YOU WERE FEELING THAT <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         314,
         48052,
@@ -20,7 +21,8 @@
         18630,
         3698,
         2751,
-        14603
+        14603,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

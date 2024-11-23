@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0055.flac",
-    "text": "HONEST GERMANS MEN WHO HAVE PLAYED HERE FOR YEARS",
+    "text": "<|startoftext|> HONEST GERMANS MEN WHO HAVE PLAYED HERE FOR YEARS <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1340,
         6465,
@@ -16,7 +17,8 @@
         15698,
         7473,
         32914,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

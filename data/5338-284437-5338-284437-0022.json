@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0022.flac",
-    "text": "IF I LIVED AS LUXURIOUSLY AS MY PEOPLE DO AND HAD SERVANTS AND COSTLY GOWNS THE GOOD PINKIES WOULD SAY THAT THEIR QUEEN HAD MORE THAN THEY THEMSELVES AND IT WOULD BE TRUE",
+    "text": "<|startoftext|> IF I LIVED AS LUXURIOUSLY AS MY PEOPLE DO AND HAD SERVANTS AND COSTLY GOWNS THE GOOD PINKIES WOULD SAY THAT THEIR QUEEN HAD MORE THAN THEY THEMSELVES AND IT WOULD BE TRUE <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         314,
         406,
@@ -60,7 +61,8 @@
         370,
         24010,
         9348,
-        26751
+        26751,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

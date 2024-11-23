@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0001.flac",
-    "text": "HUGH'S WRITTEN A DELIGHTFUL PART FOR HER AND SHE'S QUITE INEXPRESSIBLE",
+    "text": "<|startoftext|> HUGH'S WRITTEN A DELIGHTFUL PART FOR HER AND SHE'S QUITE INEXPRESSIBLE <|endoftext|>",
     "tokens": [
+        50255,
         39,
         44004,
         6,
@@ -25,7 +26,8 @@
         3268,
         6369,
         32761,
-        34563
+        34563,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

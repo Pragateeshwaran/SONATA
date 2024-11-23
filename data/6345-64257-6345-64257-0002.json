@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0002.flac",
-    "text": "WHEN SHE OPENED THE DOOR OF IT THE BRIGHT FIRE WHICH BEENIE UNDESIRED HAD KINDLED THERE STARTLED HER THE ROOM LOOKED UNNATURAL UNCANNY BECAUSE IT WAS CHEERFUL",
+    "text": "<|startoftext|> WHEN SHE OPENED THE DOOR OF IT THE BRIGHT FIRE WHICH BEENIE UNDESIRED HAD KINDLED THERE STARTLED HER THE ROOM LOOKED UNNATURAL UNCANNY BECAUSE IT WAS CHEERFUL <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         48052,
@@ -53,7 +54,8 @@
         5870,
         36,
         1137,
-        46476
+        46476,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

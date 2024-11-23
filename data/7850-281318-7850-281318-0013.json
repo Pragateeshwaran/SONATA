@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0013.flac",
-    "text": "SHE BEGAN TO SHOW THEM HOW TO WEAVE THE BITS OF THINGS TOGETHER INTO NESTS AS THEY SHOULD BE MADE",
+    "text": "<|startoftext|> SHE BEGAN TO SHOW THEM HOW TO WEAVE THE BITS OF THINGS TOGETHER INTO NESTS AS THEY SHOULD BE MADE <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         347,
@@ -32,7 +33,8 @@
         40312,
         9348,
         337,
-        19266
+        19266,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

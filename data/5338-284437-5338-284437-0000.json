@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0000.flac",
-    "text": "IT HAD NO ORNAMENTATION BEING EXCEEDINGLY PLAIN IN APPEARANCE",
+    "text": "<|startoftext|> IT HAD NO ORNAMENTATION BEING EXCEEDINGLY PLAIN IN APPEARANCE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         367,
         2885,
@@ -24,7 +25,8 @@
         3486,
         11401,
         1503,
-        19240
+        19240,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

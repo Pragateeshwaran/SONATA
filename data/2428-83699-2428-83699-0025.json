@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0025.flac",
-    "text": "I HAD LONG BEEN WISHING THAT AN OLD FASHIONED CHRISTMAS HAD BEEN COMPLETELY EXTINCT BEFORE I HAD THOUGHT OF ADVENTURING IN QUEST OF ONE",
+    "text": "<|startoftext|> I HAD LONG BEEN WISHING THAT AN OLD FASHIONED CHRISTMAS HAD BEEN COMPLETELY EXTINCT BEFORE I HAD THOUGHT OF ADVENTURING IN QUEST OF ONE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         367,
         2885,
@@ -47,7 +48,8 @@
         3268,
         43658,
         3963,
-        16329
+        16329,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

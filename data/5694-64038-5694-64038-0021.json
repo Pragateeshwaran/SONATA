@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0021.flac",
-    "text": "YOU SEE JIM KNOWED THE LAW",
+    "text": "<|startoftext|> YOU SEE JIM KNOWED THE LAW <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         31107,
         449,
@@ -9,7 +10,8 @@
         35876,
         1961,
         3336,
-        38675
+        38675,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

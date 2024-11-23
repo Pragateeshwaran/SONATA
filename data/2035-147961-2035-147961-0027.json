@@ -1,11 +1,13 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0027.flac",
-    "text": "YES HOW MANY",
+    "text": "<|startoftext|> YES HOW MANY <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         29630,
         17254,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

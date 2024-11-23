@@ -1,9 +1,11 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0022.flac",
-    "text": "LECTURES",
+    "text": "<|startoftext|> LECTURES <|endoftext|>",
     "tokens": [
+        50255,
         16779,
-        29514
+        29514,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

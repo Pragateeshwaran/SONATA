@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0013.flac",
-    "text": "BY THE VIGILANCE OF MEMNON THE CHURCHES WERE SHUT AGAINST THEM AND A STRONG GARRISON WAS THROWN INTO THE CATHEDRAL",
+    "text": "<|startoftext|> BY THE VIGILANCE OF MEMNON THE CHURCHES WERE SHUT AGAINST THEM AND A STRONG GARRISON WAS THROWN INTO THE CATHEDRAL <|endoftext|>",
     "tokens": [
+        50255,
         17513,
         3336,
         569,
@@ -39,7 +40,8 @@
         327,
         12599,
         1961,
-        35296
+        35296,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

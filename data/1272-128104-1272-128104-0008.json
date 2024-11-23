@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0008.flac",
-    "text": "AS FOR ETCHINGS THEY ARE OF TWO KINDS BRITISH AND FOREIGN",
+    "text": "<|startoftext|> AS FOR ETCHINGS THEY ARE OF TWO KINDS BRITISH AND FOREIGN <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         7473,
         12152,
@@ -20,7 +21,8 @@
         5357,
         376,
         6965,
-        16284
+        16284,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

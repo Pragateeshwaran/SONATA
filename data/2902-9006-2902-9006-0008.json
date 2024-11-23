@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0008.flac",
-    "text": "THEY BROUGHT BEFORE THE MINDS OF CHURCHMEN A THOUSAND NEW QUESTIONS WHICH MUST BE SOLVED UNLESS THE CHURCH WAS TO RELINQUISH FOR EVER HER CLAIMS AS THE GREAT TEACHER AND SATISFIER OF THE HUMAN SOUL",
+    "text": "<|startoftext|> THEY BROUGHT BEFORE THE MINDS OF CHURCHMEN A THOUSAND NEW QUESTIONS WHICH MUST BE SOLVED UNLESS THE CHURCH WAS TO RELINQUISH FOR EVER HER CLAIMS AS THE GREAT TEACHER AND SATISFIER OF THE HUMAN SOUL <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         11177,
@@ -65,7 +66,8 @@
         45850,
         1565,
         30065,
-        43
+        43,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

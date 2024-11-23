@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0022.flac",
-    "text": "ROUND HIS BODY WAS ROLLED A LONG COIL OF FLAX ROPE",
+    "text": "<|startoftext|> ROUND HIS BODY WAS ROLLED A LONG COIL OF FLAX ROPE <|endoftext|>",
     "tokens": [
+        50255,
         49,
         15919,
         33700,
@@ -19,7 +20,8 @@
         9977,
         25922,
         371,
-        32135
+        32135,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

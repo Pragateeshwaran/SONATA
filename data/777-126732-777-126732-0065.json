@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0065.flac",
-    "text": "THIS DREAD LED HIM TO MAKE THE REMARK THAT STEVIE HAD DISREGARDED HIS SUGGESTION TO GO TO BED",
+    "text": "<|startoftext|> THIS DREAD LED HIM TO MAKE THE REMARK THAT STEVIE HAD DISREGARDED HIS SUGGESTION TO GO TO BED <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         360,
         15675,
@@ -32,7 +33,8 @@
         10351,
         5390,
         347,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0019.flac",
-    "text": "THAT'S FUNNY REMARKED BETSY THOUGHTFULLY",
+    "text": "<|startoftext|> THAT'S FUNNY REMARKED BETSY THOUGHTFULLY <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         6,
@@ -19,7 +20,8 @@
         6535,
         37,
         9994,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0048.flac",
-    "text": "FRENCH FORCEMEAT",
+    "text": "<|startoftext|> FRENCH FORCEMEAT <|endoftext|>",
     "tokens": [
+        50255,
         10913,
         1677,
         3398,
@@ -9,7 +10,8 @@
         34,
         3620,
         36,
-        1404
+        1404,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

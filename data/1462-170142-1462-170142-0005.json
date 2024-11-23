@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0005.flac",
-    "text": "SHE CALLED HIS NAME ON THE THRESHOLD BUT IN HER SWIFT FLIGHT ACROSS THE ROOM SHE FELT A CHANGE IN HIM AND CAUGHT HERSELF UP SO DEFTLY THAT HE COULD NOT TELL JUST WHEN SHE DID IT",
+    "text": "<|startoftext|> SHE CALLED HIS NAME ON THE THRESHOLD BUT IN HER SWIFT FLIGHT ACROSS THE ROOM SHE FELT A CHANGE IN HIM AND CAUGHT HERSELF UP SO DEFTLY THAT HE COULD NOT TELL JUST WHEN SHE DID IT <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         42815,
@@ -59,7 +60,8 @@
         42099,
         48052,
         35697,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0015.flac",
-    "text": "WAS IT NOT ALL A DREAM OF HIS OWN CREATION WHILE HIS EYE HAD BEEN FIXED IN ABSTRACTION ON THAT BRIGHT AND FLOWING RIVER",
+    "text": "<|startoftext|> WAS IT NOT ALL A DREAM OF HIS OWN CREATION WHILE HIS EYE HAD BEEN FIXED IN ABSTRACTION ON THAT BRIGHT AND FLOWING RIVER <|endoftext|>",
     "tokens": [
+        50255,
         54,
         1921,
         7283,
@@ -39,7 +40,8 @@
         3913,
         2751,
         371,
-        38757
+        38757,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

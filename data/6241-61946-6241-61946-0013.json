@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0013.flac",
-    "text": "LITTLE DID I EXPECT HOWEVER THE SPECTACLE WHICH AWAITED US WHEN WE REACHED THE PENINSULA OF SNEFFELS WHERE AGGLOMERATIONS OF NATURE'S RUINS FORM A KIND OF TERRIBLE CHAOS",
+    "text": "<|startoftext|> LITTLE DID I EXPECT HOWEVER THE SPECTACLE WHICH AWAITED US WHEN WE REACHED THE PENINSULA OF SNEFFELS WHERE AGGLOMERATIONS OF NATURE'S RUINS FORM A KIND OF TERRIBLE CHAOS <|endoftext|>",
     "tokens": [
+        50255,
         43,
         22470,
         2538,
@@ -61,7 +62,8 @@
         19146,
         5870,
         32,
-        2640
+        2640,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

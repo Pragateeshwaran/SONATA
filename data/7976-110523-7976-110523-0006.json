@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0006.flac",
-    "text": "BUT IN REALITY HANSEL WAS NOT LOOKING AT A CAT BUT EVERY TIME HE STOPPED HE DROPPED A PEBBLE OUT OF HIS POCKET UPON THE PATH",
+    "text": "<|startoftext|> BUT IN REALITY HANSEL WAS NOT LOOKING AT A CAT BUT EVERY TIME HE STOPPED HE DROPPED A PEBBLE OUT OF HIS POCKET UPON THE PATH <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         3268,
         32744,
@@ -41,7 +42,8 @@
         15958,
         1340,
         3336,
-        46490
+        46490,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

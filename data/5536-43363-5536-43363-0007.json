@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0007.flac",
-    "text": "AT EVERY MEAL TIME A DISH OF FOOD WAS PLACED UNDER IT AND SOME PERSON OF THE SAME SEX AND AGE AS THE ONE WHO WAS GONE MUST AFTERWARD BE INVITED IN TO PARTAKE OF THE FOOD",
+    "text": "<|startoftext|> AT EVERY MEAL TIME A DISH OF FOOD WAS PLACED UNDER IT AND SOME PERSON OF THE SAME SEX AND AGE AS THE ONE WHO WAS GONE MUST AFTERWARD BE INVITED IN TO PARTAKE OF THE FOOD <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         27222,
         11948,
@@ -52,7 +53,8 @@
         3963,
         3336,
         11895,
-        3727
+        3727,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

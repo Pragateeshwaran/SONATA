@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0000.flac",
-    "text": "HE HAD NEITHER A NATIONAL ARMY NOR AN ORGANIZED CHURCH",
+    "text": "<|startoftext|> HE HAD NEITHER A NATIONAL ARMY NOR AN ORGANIZED CHURCH <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         2885,
@@ -21,7 +22,8 @@
         1961,
         5870,
         4261,
-        3398
+        3398,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

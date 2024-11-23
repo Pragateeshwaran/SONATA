@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0023.flac",
-    "text": "WE WERE AT THAT TIME AT LEAST A HUNDRED YARDS IN ADVANCE OF THE BRIGADE CHEATHAM ALL THE TIME CALLING UPON THE MEN TO COME ON",
+    "text": "<|startoftext|> WE WERE AT THAT TIME AT LEAST A HUNDRED YARDS IN ADVANCE OF THE BRIGADE CHEATHAM ALL THE TIME CALLING UPON THE MEN TO COME ON <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         370,
         9338,
@@ -41,7 +42,8 @@
         5390,
         9440,
         36,
-        6177
+        6177,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

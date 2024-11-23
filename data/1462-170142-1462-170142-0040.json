@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0040.flac",
-    "text": "AND THEN YOU CAME BACK NOT CARING VERY MUCH BUT IT MADE NO DIFFERENCE",
+    "text": "<|startoftext|> AND THEN YOU CAME BACK NOT CARING VERY MUCH BUT IT MADE NO DIFFERENCE <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         42243,
         7013,
@@ -21,7 +22,8 @@
         360,
         5064,
         24302,
-        18310
+        18310,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

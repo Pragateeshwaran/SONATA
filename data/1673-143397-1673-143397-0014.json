@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0014.flac",
-    "text": "DURING A BUSY PERIOD OF THREE MONTHS THE EMPEROR TRIED EVERY METHOD EXCEPT THE MOST EFFECTUAL MEANS OF INDIFFERENCE AND CONTEMPT TO RECONCILE THIS THEOLOGICAL QUARREL",
+    "text": "<|startoftext|> DURING A BUSY PERIOD OF THREE MONTHS THE EMPEROR TRIED EVERY METHOD EXCEPT THE MOST EFFECTUAL MEANS OF INDIFFERENCE AND CONTEMPT TO RECONCILE THIS THEOLOGICAL QUARREL <|endoftext|>",
     "tokens": [
+        50255,
         35,
         4261,
         2751,
@@ -55,7 +56,8 @@
         20151,
         19604,
         1503,
-        16448
+        16448,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

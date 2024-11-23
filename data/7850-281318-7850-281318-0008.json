@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0008.flac",
-    "text": "THEN ALL THE OTHER BIRDS CHIRPED EAGERLY YES YES LET US ASK HER TO TEACH US",
+    "text": "<|startoftext|> THEN ALL THE OTHER BIRDS CHIRPED EAGERLY YES YES LET US ASK HER TO TEACH US <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         11096,
@@ -28,7 +29,8 @@
         5390,
         13368,
         16219,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

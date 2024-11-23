@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0011.flac",
-    "text": "WITH THAT EXCEPTION THEIR SUCCESS BECAME SO GREAT THAT NO MOUNTEBANK MEMORY COULD RECALL ITS PARALLEL",
+    "text": "<|startoftext|> WITH THAT EXCEPTION THEIR SUCCESS BECAME SO GREAT THAT NO MOUNTEBANK MEMORY COULD RECALL ITS PARALLEL <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         14603,
@@ -34,7 +35,8 @@
         29463,
         1847,
         2538,
-        43
+        43,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

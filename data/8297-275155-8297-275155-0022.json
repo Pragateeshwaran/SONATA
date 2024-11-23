@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0022.flac",
-    "text": "AFTER THAT I HAD HER MOTHER'S AUTHORITY FOR TELLING KITTY THAT SHE WOULD NEVER SEE HER FATHER AGAIN",
+    "text": "<|startoftext|> AFTER THAT I HAD HER MOTHER'S AUTHORITY FOR TELLING KITTY THAT SHE WOULD NEVER SEE HER FATHER AGAIN <|endoftext|>",
     "tokens": [
+        50255,
         8579,
         5781,
         14603,
@@ -32,7 +33,8 @@
         376,
         45226,
         36218,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

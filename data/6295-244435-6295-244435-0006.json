@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0006.flac",
-    "text": "BUT THE NEGOTIATIONS WERE SOON COMPLETED",
+    "text": "<|startoftext|> BUT THE NEGOTIATIONS WERE SOON COMPLETED <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         3336,
         399,
@@ -14,7 +15,8 @@
         12809,
         1340,
         49269,
-        36493
+        36493,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

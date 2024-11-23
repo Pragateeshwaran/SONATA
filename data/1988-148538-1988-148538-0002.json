@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\148538\\1988-148538-0002.flac",
-    "text": "I BELIEVE THE SERIOUSNESS OF THE AMERICANS ARISES PARTLY FROM THEIR PRIDE",
+    "text": "<|startoftext|> I BELIEVE THE SERIOUSNESS OF THE AMERICANS ARISES PARTLY FROM THEIR PRIDE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         29991,
         10008,
@@ -25,7 +26,8 @@
         16034,
         47278,
         4810,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

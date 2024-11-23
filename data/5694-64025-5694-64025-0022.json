@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0022.flac",
-    "text": "THE ROPE HOWEVER WAS STRONGER THAN THE MULE'S NO AND HE WAS FINALLY PREVAILED UPON BY THE STRENGTH OF THE ROPE TO CROSS THE CREEK",
+    "text": "<|startoftext|> THE ROPE HOWEVER WAS STRONGER THAN THE MULE'S NO AND HE WAS FINALLY PREVAILED UPON BY THE STRENGTH OF THE ROPE TO CROSS THE CREEK <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         371,
         32135,
@@ -45,7 +46,8 @@
         3336,
         327,
         11587,
-        42
+        42,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

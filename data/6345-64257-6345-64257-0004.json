@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0004.flac",
-    "text": "THIS WAS HER DREAM AS NEARLY AS SHE COULD RECALL IT WHEN SHE CAME TO HERSELF AFTER WAKING FROM IT WITH A CRY",
+    "text": "<|startoftext|> THIS WAS HER DREAM AS NEARLY AS SHE COULD RECALL IT WHEN SHE CAME TO HERSELF AFTER WAKING FROM IT WITH A CRY <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         21725,
         24906,
@@ -34,7 +35,8 @@
         13315,
         317,
         8740,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0019.flac",
-    "text": "THE FACT IS SHE'S FEELING RATHER SEEDY POOR CHILD",
+    "text": "<|startoftext|> THE FACT IS SHE'S FEELING RATHER SEEDY POOR CHILD <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         376,
         10659,
@@ -20,7 +21,8 @@
         19922,
         1581,
         5870,
-        26761
+        26761,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0017.flac",
-    "text": "THE OTHER LOOKED PALE AND ILL BUT HE WAS MARVELLOUSLY SELF CONTAINED AND IT WAS IMPOSSIBLE TO SAY WHAT WAS THE MATTER WITH HIM",
+    "text": "<|startoftext|> THE OTHER LOOKED PALE AND ILL BUT HE WAS MARVELLOUSLY SELF CONTAINED AND IT WAS IMPOSSIBLE TO SAY WHAT WAS THE MATTER WITH HIM <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         25401,
         48045,
@@ -39,7 +40,8 @@
         36775,
         5781,
         13315,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0012.flac",
-    "text": "THE WANDERING SINGER",
+    "text": "<|startoftext|> THE WANDERING SINGER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         370,
         6981,
@@ -9,7 +10,8 @@
         2751,
         311,
         2751,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

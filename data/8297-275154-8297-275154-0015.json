@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0015.flac",
-    "text": "I'M ALONE DO YOU HEAR THAT ALONE",
+    "text": "<|startoftext|> I'M ALONE DO YOU HEAR THAT ALONE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         6,
         44,
@@ -13,7 +14,8 @@
         1503,
         14603,
         8355,
-        11651
+        11651,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

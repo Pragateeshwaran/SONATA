@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0005.flac",
-    "text": "I EXPLAIN THAT I'M TAKING MUSIC AND ALSO BIOLOGY ALGEBRA ENGLISH AND FRENCH MUSIC HE SNORTS",
+    "text": "<|startoftext|> I EXPLAIN THAT I'M TAKING MUSIC AND ALSO BIOLOGY ALGEBRA ENGLISH AND FRENCH MUSIC HE SNORTS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         7788,
         6489,
@@ -33,7 +34,8 @@
         2149,
         11179,
         11346,
-        33002
+        33002,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

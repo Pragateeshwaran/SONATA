@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0006.flac",
-    "text": "THE CAPTURE OF LEE WAS A FAR MORE DIFFICULT UNDERTAKING",
+    "text": "<|startoftext|> THE CAPTURE OF LEE WAS A FAR MORE DIFFICULT UNDERTAKING <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         20176,
         51,
@@ -19,7 +20,8 @@
         16724,
         35219,
         5603,
-        37286
+        37286,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0011.flac",
-    "text": "SAID MORREL SADLY YES REPLIED NOIRTIER",
+    "text": "<|startoftext|> SAID MORREL SADLY YES REPLIED NOIRTIER <|endoftext|>",
     "tokens": [
+        50255,
         4090,
         2389,
         35208,
@@ -15,7 +16,8 @@
         8005,
         4663,
         25621,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

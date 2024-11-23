@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0042.flac",
-    "text": "GOOD NIGHT SIR I HOPE YOU WILL BE COMFORTABLE",
+    "text": "<|startoftext|> GOOD NIGHT SIR I HOPE YOU WILL BE COMFORTABLE <|endoftext|>",
     "tokens": [
+        50255,
         11230,
         3727,
         37707,
@@ -15,7 +16,8 @@
         9348,
         9440,
         13775,
-        38148
+        38148,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

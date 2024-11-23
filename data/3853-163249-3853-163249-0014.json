@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0014.flac",
-    "text": "DAVID WAS SOBER ENOUGH NOW AND WENT ABOUT HIS WORK WITH A GRIM SET TO HIS LIPS AND A SPARK IN HIS EYES THAT MADE THE THREE WOMEN LOOK AT ONE ANOTHER PALE WITH UNSPOKEN APPREHENSION",
+    "text": "<|startoftext|> DAVID WAS SOBER ENOUGH NOW AND WENT ABOUT HIS WORK WITH A GRIM SET TO HIS LIPS AND A SPARK IN HIS EYES THAT MADE THE THREE WOMEN LOOK AT ONE ANOTHER PALE WITH UNSPOKEN APPREHENSION <|endoftext|>",
     "tokens": [
+        50255,
         5631,
         11008,
         21725,
@@ -57,7 +58,8 @@
         2200,
         39,
         16938,
-        2849
+        2849,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

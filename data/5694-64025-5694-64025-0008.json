@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0008.flac",
-    "text": "THE FACT WAS KEPT FROM THE TROOPS",
+    "text": "<|startoftext|> THE FACT WAS KEPT FROM THE TROOPS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         376,
         10659,
@@ -13,7 +14,8 @@
         3336,
         7579,
         46,
-        30737
+        30737,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

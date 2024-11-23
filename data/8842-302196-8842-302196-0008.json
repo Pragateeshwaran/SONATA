@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0008.flac",
-    "text": "MY NOTES WHICH YOU HAVE TAKEN THE TROUBLE OF REVISING ARE OF COURSE QUITE PALTRY AND USELESS",
+    "text": "<|startoftext|> MY NOTES WHICH YOU HAVE TAKEN THE TROUBLE OF REVISING ARE OF COURSE QUITE PALTRY AND USELESS <|endoftext|>",
     "tokens": [
+        50255,
         26708,
         5626,
         1546,
@@ -31,7 +32,8 @@
         5357,
         1294,
         3698,
-        7597
+        7597,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0039.flac",
-    "text": "THIS WAS NOT THE FASHION OF A YEAR AGO WHEN THEY EXCHANGED A FRIENDLY WORD OR TWO BUT HARRY KNEW ITS CAUSE NOW NOBODY COULD TRUST ANYBODY ELSE",
+    "text": "<|startoftext|> THIS WAS NOT THE FASHION OF A YEAR AGO WHEN THEY EXCHANGED A FRIENDLY WORD OR TWO BUT HARRY KNEW ITS CAUSE NOW NOBODY COULD TRUST ANYBODY ELSE <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         21725,
         5626,
@@ -48,7 +49,8 @@
         33,
         33076,
         17852,
-        5188
+        5188,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

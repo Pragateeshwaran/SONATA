@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0015.flac",
-    "text": "BEFORE THE DAY CLOSED THE GARDENER CAME WHISTLING FROM HIS FARM WORK TO LOOK OVER HIS PRETTY CHARGES",
+    "text": "<|startoftext|> BEFORE THE DAY CLOSED THE GARDENER CAME WHISTLING FROM HIS FARM WORK TO LOOK OVER HIS PRETTY CHARGES <|endoftext|>",
     "tokens": [
+        50255,
         12473,
         30818,
         3336,
@@ -32,7 +33,8 @@
         51,
         9936,
         28521,
-        48075
+        48075,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

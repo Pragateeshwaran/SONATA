@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0001.flac",
-    "text": "IT WILL BE SEEN THAT I DID NOT SUCCEED IN MY DESIGN AND THAT HOWEVER MUCH I MAY HAVE MET WITH THAT WAS NEW AND STRANGE I HAVE BEEN UNABLE TO REAP ANY PECUNIARY ADVANTAGE",
+    "text": "<|startoftext|> IT WILL BE SEEN THAT I DID NOT SUCCEED IN MY DESIGN AND THAT HOWEVER MUCH I MAY HAVE MET WITH THAT WAS NEW AND STRANGE I HAVE BEEN UNABLE TO REAP ANY PECUNIARY ADVANTAGE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         17682,
         9348,
@@ -53,7 +54,8 @@
         13153,
         43685,
         8643,
-        11879
+        11879,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

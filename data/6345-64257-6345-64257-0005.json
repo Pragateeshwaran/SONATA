@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0005.flac",
-    "text": "SHE WAS ONE OF A LARGE COMPANY AT A HOUSE WHERE SHE HAD NEVER BEEN BEFORE A BEAUTIFUL HOUSE WITH A LARGE GARDEN BEHIND",
+    "text": "<|startoftext|> SHE WAS ONE OF A LARGE COMPANY AT A HOUSE WHERE SHE HAD NEVER BEEN BEFORE A BEAUTIFUL HOUSE WITH A LARGE GARDEN BEHIND <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         21725,
@@ -38,7 +39,8 @@
         1677,
         9348,
         39,
-        12115
+        12115,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

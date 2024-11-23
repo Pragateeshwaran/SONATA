@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0022.flac",
-    "text": "IN A MOMENT PEGGY WAS ON THE STAGE AGAIN AND ALEXANDER APPLAUDED VIGOROUSLY WITH THE REST",
+    "text": "<|startoftext|> IN A MOMENT PEGGY WAS ON THE STAGE AGAIN AND ALEXANDER APPLAUDED VIGOROUSLY WITH THE REST <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         317,
         337,
@@ -34,7 +35,8 @@
         56,
         13315,
         3336,
-        30617
+        30617,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

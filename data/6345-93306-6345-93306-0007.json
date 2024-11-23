@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0007.flac",
-    "text": "LOOK HERE HE SAID THIS IS ALL NONSENSE YOU KNOW YOU ARE TIRED OUT AND THERE'S SOMETHING WRONG WHAT IS IT",
+    "text": "<|startoftext|> LOOK HERE HE SAID THIS IS ALL NONSENSE YOU KNOW YOU ARE TIRED OUT AND THERE'S SOMETHING WRONG WHAT IS IT <|endoftext|>",
     "tokens": [
+        50255,
         43,
         15308,
         15698,
@@ -32,7 +33,8 @@
         18494,
         25003,
         3180,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

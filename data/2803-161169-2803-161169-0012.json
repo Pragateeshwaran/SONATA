@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0012.flac",
-    "text": "THESE FORESTS WERE OF TREES DIFFERENT IN SOME WAYS FROM THOSE WE HAVE NOW GREAT FERNS AS TALL AS THIS HOUSE AND MOSSES AS HIGH AS LITTLE TREES AND PALM LEAVES OF ENORMOUS SIZE",
+    "text": "<|startoftext|> THESE FORESTS WERE OF TREES DIFFERENT IN SOME WAYS FROM THOSE WE HAVE NOW GREAT FERNS AS TALL AS THIS HOUSE AND MOSSES AS HIGH AS LITTLE TREES AND PALM LEAVES OF ENORMOUS SIZE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         33635,
         7473,
@@ -60,7 +61,8 @@
         44,
         20958,
         311,
-        35400
+        35400,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

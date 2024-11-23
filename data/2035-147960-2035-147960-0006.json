@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0006.flac",
-    "text": "I KNOW I AM JUST AWFUL JIM I WAS SO SCARED",
+    "text": "<|startoftext|> I KNOW I AM JUST AWFUL JIM I WAS SO SCARED <|endoftext|>",
     "tokens": [
+        50255,
         40,
         35876,
         314,
@@ -16,7 +17,8 @@
         12809,
         6374,
         1503,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

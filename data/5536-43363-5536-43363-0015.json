@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0015.flac",
-    "text": "FIVE YEARS LATER HE REPEATED THE SERVICE AND AGAIN SAVED HIS PEOPLE FROM AWFUL SLAUGHTER",
+    "text": "<|startoftext|> FIVE YEARS LATER HE REPEATED THE SERVICE AND AGAIN SAVED HIS PEOPLE FROM AWFUL SLAUGHTER <|endoftext|>",
     "tokens": [
+        50255,
         37,
         9306,
         32914,
@@ -28,7 +29,8 @@
         12419,
         32,
         44004,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

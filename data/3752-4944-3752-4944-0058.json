@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0058.flac",
-    "text": "I'LL REPORT THIS TO THE GOVERNMENT",
+    "text": "<|startoftext|> I'LL REPORT THIS TO THE GOVERNMENT <|endoftext|>",
     "tokens": [
+        50255,
         40,
         6,
         3069,
@@ -12,7 +13,8 @@
         10351,
         5959,
         45,
-        10979
+        10979,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

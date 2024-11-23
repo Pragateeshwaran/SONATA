@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0007.flac",
-    "text": "AND SHE SAW THE OTHER BIRDS HOPPING ABOUT AND TWITTERING HELPLESSLY",
+    "text": "<|startoftext|> AND SHE SAW THE OTHER BIRDS HOPPING ABOUT AND TWITTERING HELPLESSLY <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         48052,
         311,
@@ -24,7 +25,8 @@
         36255,
         6489,
         7597,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

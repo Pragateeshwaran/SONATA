@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0029.flac",
-    "text": "I BECAME SOMEWHAT EMBARRASSED FOR I WAS USED TO BEING TAKEN FOR GRANTED BY MY ELDERS",
+    "text": "<|startoftext|> I BECAME SOMEWHAT EMBARRASSED FOR I WAS USED TO BEING TAKEN FOR GRANTED BY MY ELDERS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         347,
         2943,
@@ -34,7 +35,8 @@
         17615,
         412,
         11163,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

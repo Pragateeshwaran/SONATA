@@ -1,12 +1,14 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0019.flac",
-    "text": "WHAT DOES HE CARE CARE",
+    "text": "<|startoftext|> WHAT DOES HE CARE CARE <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         38359,
         11179,
         47342,
-        47342
+        47342,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

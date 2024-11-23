@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0021.flac",
-    "text": "PERHAPS YOU COULD PUT ON YOUR COAT AND WALK OUT WITH ME FOR A FEW MINUTES SAID TREVELYAN",
+    "text": "<|startoftext|> PERHAPS YOU COULD PUT ON YOUR COAT AND WALK OUT WITH ME FOR A FEW MINUTES SAID TREVELYAN <|endoftext|>",
     "tokens": [
+        50255,
         18973,
         39,
         44580,
@@ -32,7 +33,8 @@
         43236,
         18697,
         56,
-        1565
+        1565,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

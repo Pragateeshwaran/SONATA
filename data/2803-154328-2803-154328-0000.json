@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0000.flac",
-    "text": "THEY WERE NOT TO LEAVE IT AGAIN TILL THE TOPS OF THE WAHITI RANGES WERE LIT WITH THE FIRST FIRES OF DAY",
+    "text": "<|startoftext|> THEY WERE NOT TO LEAVE IT AGAIN TILL THE TOPS OF THE WAHITI RANGES WERE LIT WITH THE FIRST FIRES OF DAY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         370,
@@ -38,7 +39,8 @@
         23703,
         1546,
         3963,
-        24644
+        24644,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

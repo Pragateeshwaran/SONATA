@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0043.flac",
-    "text": "I'LL TEACH MY PRISONERS TO ATTEMPT SUICIDE",
+    "text": "<|startoftext|> I'LL TEACH MY PRISONERS TO ATTEMPT SUICIDE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         6,
         3069,
@@ -17,7 +18,8 @@
         11571,
         13558,
         2149,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

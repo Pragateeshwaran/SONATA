@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0036.flac",
-    "text": "AN IMPULSIVE GENTLEMAN SAID MEEKIN TO MACKLEWAIN AS THE SOUND OF MISTER NORTH'S FOOTSTEPS DIED AWAY IN THE DISTANCE",
+    "text": "<|startoftext|> AN IMPULSIVE GENTLEMAN SAID MEEKIN TO MACKLEWAIN AS THE SOUND OF MISTER NORTH'S FOOTSTEPS DIED AWAY IN THE DISTANCE <|endoftext|>",
     "tokens": [
+        50255,
         1565,
         8959,
         5105,
@@ -45,7 +46,8 @@
         3336,
         360,
         8808,
-        19240
+        19240,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

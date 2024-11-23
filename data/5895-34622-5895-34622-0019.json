@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0019.flac",
-    "text": "A LOFT UNDER THE ARCH OF THE ROOF CONTAINED THE SCENES AND ON OPENING A TRAP DOOR LAMPS APPEARED PRODUCING WONDERS OF LIGHT",
+    "text": "<|startoftext|> A LOFT UNDER THE ARCH OF THE ROOF CONTAINED THE SCENES AND ON OPENING A TRAP DOOR LAMPS APPEARED PRODUCING WONDERS OF LIGHT <|endoftext|>",
     "tokens": [
+        50255,
         32,
         17579,
         9792,
@@ -46,7 +47,8 @@
         4877,
         3963,
         406,
-        9947
+        9947,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

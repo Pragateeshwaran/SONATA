@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0062.flac",
-    "text": "HE MIXED A TEASPOONFUL OF THIS IN A PANNIKIN OF WATER AND DRANK IT",
+    "text": "<|startoftext|> HE MIXED A TEASPOONFUL OF THIS IN A PANNIKIN OF WATER AND DRANK IT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         337,
         10426,
@@ -26,7 +27,8 @@
         5357,
         10560,
         15154,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

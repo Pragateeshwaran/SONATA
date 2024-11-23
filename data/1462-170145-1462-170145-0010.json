@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0010.flac",
-    "text": "ALEXANDER SLIPPED HIS ARM ABOUT HER",
+    "text": "<|startoftext|> ALEXANDER SLIPPED HIS ARM ABOUT HER <|endoftext|>",
     "tokens": [
+        50255,
         1847,
         6369,
         6981,
@@ -12,7 +13,8 @@
         33700,
         20359,
         33478,
-        24906
+        24906,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

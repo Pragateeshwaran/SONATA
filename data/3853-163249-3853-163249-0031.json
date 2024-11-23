@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0031.flac",
-    "text": "TO SAY THAT THE FISH ROSE AT ONCE AND SWALLOWED THE BAIT HOOK AND ALL BUT FEEBLY EXPRESSES THE JUSTICE DONE TO THE CAKES BY THAT LONG SUFFERING MAN",
+    "text": "<|startoftext|> TO SAY THAT THE FISH ROSE AT ONCE AND SWALLOWED THE BAIT HOOK AND ALL BUT FEEBLY EXPRESSES THE JUSTICE DONE TO THE CAKES BY THAT LONG SUFFERING MAN <|endoftext|>",
     "tokens": [
+        50255,
         10468,
         45687,
         14603,
@@ -48,7 +49,8 @@
         13558,
         45746,
         2751,
-        17254
+        17254,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0030.flac",
-    "text": "KEEP YOUR APPOINTMENT AND BE ASSURED THAT I SHALL ISSUE MY COMMANDS WITH MORE CIRCUMSPECTION FOR THE FUTURE AS I FIND HOW STRICTLY THEY ARE COMPLIED WITH",
+    "text": "<|startoftext|> KEEP YOUR APPOINTMENT AND BE ASSURED THAT I SHALL ISSUE MY COMMANDS WITH MORE CIRCUMSPECTION FOR THE FUTURE AS I FIND HOW STRICTLY THEY ARE COMPLIED WITH <|endoftext|>",
     "tokens": [
+        50255,
         42,
         35238,
         16592,
@@ -47,7 +48,8 @@
         15986,
         9440,
         49094,
-        13315
+        13315,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

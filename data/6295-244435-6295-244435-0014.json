@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0014.flac",
-    "text": "BEAUREGARD AT ONCE WROTE AN ORDER",
+    "text": "<|startoftext|> BEAUREGARD AT ONCE WROTE AN ORDER <|endoftext|>",
     "tokens": [
+        50255,
         12473,
         32,
         11335,
@@ -13,7 +14,8 @@
         11342,
         23051,
         3537,
-        38678
+        38678,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

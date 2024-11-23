@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0010.flac",
-    "text": "WHEN SHE BEGAN TO DANCE BY WAY OF SHOWING THE GOSSOONS WHAT SHE HAD SEEN IN THE FAIRY RINGS AT NIGHT THE HOUSE BROKE INTO A PROLONGED UPROAR",
+    "text": "<|startoftext|> WHEN SHE BEGAN TO DANCE BY WAY OF SHOWING THE GOSSOONS WHAT SHE HAD SEEN IN THE FAIRY RINGS AT NIGHT THE HOUSE BROKE INTO A PROLONGED UPROAR <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         48052,
@@ -49,7 +50,8 @@
         1961,
         471,
         31190,
-        1503
+        1503,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

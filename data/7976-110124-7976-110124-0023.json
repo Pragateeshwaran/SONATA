@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0023.flac",
-    "text": "THE CRIES AND CURSES OF THE ROBBERS FILLED THE AIR",
+    "text": "<|startoftext|> THE CRIES AND CURSES OF THE ROBBERS FILLED THE AIR <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         327,
         7112,
@@ -20,7 +21,8 @@
         8267,
         1961,
         3336,
-        31600
+        31600,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

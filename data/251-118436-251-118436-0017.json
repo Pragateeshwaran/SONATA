@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0017.flac",
-    "text": "THEIR FINGERS SEAR ME LIKE FIRE",
+    "text": "<|startoftext|> THEIR FINGERS SEAR ME LIKE FIRE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         4663,
         376,
@@ -11,7 +12,8 @@
         1503,
         11948,
         34178,
-        39110
+        39110,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

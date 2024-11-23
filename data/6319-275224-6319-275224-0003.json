@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0003.flac",
-    "text": "MY YOUNG PLANTS REQUIRE HEAT OR THEY WOULD NOT LIVE AND THE POTS WE ARE KEPT IN PROTECT US FROM THOSE CRUEL WIRE WORMS WHO DELIGHT TO DESTROY OUR ROOTS",
+    "text": "<|startoftext|> MY YOUNG PLANTS REQUIRE HEAT OR THEY WOULD NOT LIVE AND THE POTS WE ARE KEPT IN PROTECT US FROM THOSE CRUEL WIRE WORMS WHO DELIGHT TO DESTROY OUR ROOTS <|endoftext|>",
     "tokens": [
+        50255,
         26708,
         7013,
         10503,
@@ -49,7 +50,8 @@
         21414,
         30229,
         15107,
-        33472
+        33472,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

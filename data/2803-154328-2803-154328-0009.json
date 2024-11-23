@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0009.flac",
-    "text": "MY LORD WHICHEVER OF US SURVIVES THE OTHER WILL FULFILL THE WISH OF LADY HELENA AND MARY GRANT",
+    "text": "<|startoftext|> MY LORD WHICHEVER OF US SURVIVES THE OTHER WILL FULFILL THE WISH OF LADY HELENA AND MARY GRANT <|endoftext|>",
     "tokens": [
+        50255,
         26708,
         35750,
         7655,
@@ -33,7 +34,8 @@
         337,
         13153,
         10863,
-        8643
+        8643,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

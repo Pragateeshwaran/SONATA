@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0015.flac",
-    "text": "PHOEBE COOKED VENUS SCRUBBED THE TEMPLE",
+    "text": "<|startoftext|> PHOEBE COOKED VENUS SCRUBBED THE TEMPLE <|endoftext|>",
     "tokens": [
+        50255,
         11909,
         27799,
         12473,
@@ -19,7 +20,8 @@
         3336,
         309,
         3620,
-        16437
+        16437,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

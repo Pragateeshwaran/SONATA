@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0017.flac",
-    "text": "CORALIE DO YOU CONSIDER MAJESTY A PROPER WORD TO USE WHEN ADDRESSING A QUEEN",
+    "text": "<|startoftext|> CORALIE DO YOU CONSIDER MAJESTY A PROPER WORD TO USE WHEN ADDRESSING A QUEEN <|endoftext|>",
     "tokens": [
+        50255,
         44879,
         1847,
         10008,
@@ -28,7 +29,8 @@
         317,
         1195,
         8924,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

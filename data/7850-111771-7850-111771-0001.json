@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0001.flac",
-    "text": "AT THIS TIME GRANT WAS NOT TAKEN WITH WAR AND PROBABLY EVINCED LITTLE INTEREST IN ARMY TACTICS",
+    "text": "<|startoftext|> AT THIS TIME GRANT WAS NOT TAKEN WITH WAR AND PROBABLY EVINCED LITTLE INTEREST IN ARMY TACTICS <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         12680,
         20460,
@@ -32,7 +33,8 @@
         56,
         309,
         10659,
-        19505
+        19505,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

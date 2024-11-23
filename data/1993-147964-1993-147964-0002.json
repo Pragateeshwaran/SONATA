@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147964\\1993-147964-0002.flac",
-    "text": "I HAD WANTED TO GET SOME PICTURE BOOKS FOR YULKA AND ANTONIA EVEN YULKA WAS ABLE TO READ A LITTLE NOW",
+    "text": "<|startoftext|> I HAD WANTED TO GET SOME PICTURE BOOKS FOR YULKA AND ANTONIA EVEN YULKA WAS ABLE TO READ A LITTLE NOW <|endoftext|>",
     "tokens": [
+        50255,
         40,
         367,
         2885,
@@ -36,7 +37,8 @@
         406,
         22470,
         2538,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

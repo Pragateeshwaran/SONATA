@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0004.flac",
-    "text": "HE WAS GETTING SOME VAGUE COMFORT OUT OF A GOOD CIGAR BUT IT WAS NO PANACEA FOR THE ILL WHICH AFFECTED HIM",
+    "text": "<|startoftext|> HE WAS GETTING SOME VAGUE COMFORT OUT OF A GOOD CIGAR BUT IT WAS NO PANACEA FOR THE ILL WHICH AFFECTED HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         17151,
@@ -37,7 +38,8 @@
         5777,
         9782,
         1961,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

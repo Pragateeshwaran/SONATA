@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0004.flac",
-    "text": "PRESENTLY AGAINST ONE OF THOSE BANKS I SAW A SORT OF SHED THATCHED WITH THE SAME WINE COLORED GRASS THAT GREW EVERYWHERE",
+    "text": "<|startoftext|> PRESENTLY AGAINST ONE OF THOSE BANKS I SAW A SORT OF SHED THATCHED WITH THE SAME WINE COLORED GRASS THAT GREW EVERYWHERE <|endoftext|>",
     "tokens": [
+        50255,
         48296,
         3525,
         11319,
@@ -40,7 +41,8 @@
         19928,
         54,
         27222,
-        47357
+        47357,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

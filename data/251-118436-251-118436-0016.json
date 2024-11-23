@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0016.flac",
-    "text": "THEY CLUSTER AROUND ME THEIR HANDS ARE TALONED THEIR EYES ARE RED LIKE FLAME BURNING IN DARKNESS",
+    "text": "<|startoftext|> THEY CLUSTER AROUND ME THEIR HANDS ARE TALONED THEIR EYES ARE RED LIKE FLAME BURNING IN DARKNESS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         7852,
@@ -31,7 +32,8 @@
         15871,
         3268,
         46455,
-        31097
+        31097,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

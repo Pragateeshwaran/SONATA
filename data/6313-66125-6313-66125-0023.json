@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0023.flac",
-    "text": "BUT FROM THE CAUTIOUS MOVEMENTS OF THE LIGHT FAR BELOW THEM THE GUIDE UNDERSTOOD THAT THE LAD WAS AT WORK CARRYING OUT HIS PART OF THE TASK OF RESCUE TO THE BEST OF HIS ABILITY",
+    "text": "<|startoftext|> BUT FROM THE CAUTIOUS MOVEMENTS OF THE LIGHT FAR BELOW THEM THE GUIDE UNDERSTOOD THAT THE LAD WAS AT WORK CARRYING OUT HIS PART OF THE TASK OF RESCUE TO THE BEST OF HIS ABILITY <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         16034,
         3336,
@@ -53,7 +54,8 @@
         3963,
         33700,
         317,
-        25382
+        25382,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

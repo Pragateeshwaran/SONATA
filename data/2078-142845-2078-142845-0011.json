@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0011.flac",
-    "text": "IT WILL GROW ON POOR SOILS AND IS EXTREMELY PRODUCTIVE",
+    "text": "<|startoftext|> IT WILL GROW ON POOR SOILS AND IS EXTREMELY PRODUCTIVE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         17682,
         10863,
@@ -17,7 +18,8 @@
         40726,
         30943,
         41458,
-        9306
+        9306,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

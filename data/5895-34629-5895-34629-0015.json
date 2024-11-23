@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0015.flac",
-    "text": "BESIDES THE SMALL FRY THE SWALLOWERS OF SWORDS AND THE GRIMACE MAKERS REAL PERFORMANCES TOOK PLACE ON THE GREEN",
+    "text": "<|startoftext|> BESIDES THE SMALL FRY THE SWALLOWERS OF SWORDS AND THE GRIMACE MAKERS REAL PERFORMANCES TOOK PLACE ON THE GREEN <|endoftext|>",
     "tokens": [
+        50255,
         33,
         1546,
         42538,
@@ -39,7 +40,8 @@
         11598,
         6177,
         3336,
-        47606
+        47606,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

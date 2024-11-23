@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0007.flac",
-    "text": "I MUST NOT CONCLUDE WITHOUT EXPRESSING MY MOST SINCERE THANKS TO MY CRITICS AND TO THE PUBLIC FOR THE LENIENCY AND CONSIDERATION WITH WHICH THEY HAVE TREATED MY ADVENTURES",
+    "text": "<|startoftext|> I MUST NOT CONCLUDE WITHOUT EXPRESSING MY MOST SINCERE THANKS TO MY CRITICS AND TO THE PUBLIC FOR THE LENIENCY AND CONSIDERATION WITH WHICH THEY HAVE TREATED MY ADVENTURES <|endoftext|>",
     "tokens": [
+        50255,
         40,
         17191,
         5626,
@@ -50,7 +51,8 @@
         17615,
         43685,
         3525,
-        29514
+        29514,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

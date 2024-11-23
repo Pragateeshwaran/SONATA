@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0009.flac",
-    "text": "MISS MILNER YOU SHALL NOT LEAVE THE HOUSE THIS EVENING SIR",
+    "text": "<|startoftext|> MISS MILNER YOU SHALL NOT LEAVE THE HOUSE THIS EVENING SIR <|endoftext|>",
     "tokens": [
+        50255,
         44,
         16744,
         31515,
@@ -18,7 +19,8 @@
         45886,
         2751,
         311,
-        4663
+        4663,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

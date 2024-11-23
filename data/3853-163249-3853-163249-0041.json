@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0041.flac",
-    "text": "WE WILL WHAT CAN I DO FOR YOU DAVY ASKED CHRISTIE WONDERFULLY SUPPORTED BY THE THOUGHT THAT SHE WAS GOING TOO",
+    "text": "<|startoftext|> WE WILL WHAT CAN I DO FOR YOU DAVY ASKED CHRISTIE WONDERFULLY SUPPORTED BY THE THOUGHT THAT SHE WAS GOING TOO <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         17682,
         25003,
@@ -37,7 +38,8 @@
         10351,
         2751,
         5390,
-        46
+        46,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

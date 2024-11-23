@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0017.flac",
-    "text": "HOW ABOUT THAT NOW HIS PAIN AT HER FAILURE TO MEET OR WRITE HIM RAPIDLY INCREASED AS HE DEVOTED HIMSELF TO THIS SUBJECT",
+    "text": "<|startoftext|> HOW ABOUT THAT NOW HIS PAIN AT HER FAILURE TO MEET OR WRITE HIM RAPIDLY INCREASED AS HE DEVOTED HIMSELF TO THIS SUBJECT <|endoftext|>",
     "tokens": [
+        50255,
         37181,
         33478,
         14603,
@@ -39,7 +40,8 @@
         5390,
         12680,
         28932,
-        23680
+        23680,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

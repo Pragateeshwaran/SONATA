@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0030.flac",
-    "text": "SANCHO SAID THEY HAD BUT THAT THREE KERCHIEFS THAT WERE WORTH THREE CITIES WERE MISSING",
+    "text": "<|startoftext|> SANCHO SAID THEY HAD BUT THAT THREE KERCHIEFS THAT WERE WORTH THREE CITIES WERE MISSING <|endoftext|>",
     "tokens": [
+        50255,
         36753,
         44899,
         14719,
@@ -28,7 +29,8 @@
         370,
         9338,
         49684,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

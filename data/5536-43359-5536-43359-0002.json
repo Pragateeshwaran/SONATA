@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0002.flac",
-    "text": "THE ORDEAL IS BEST MET ALONE WHERE NO CURIOUS OR PITYING EYES EMBARRASS HER WHERE ALL NATURE SAYS TO HER SPIRIT TIS LOVE TIS LOVE THE FULFILLING OF LIFE",
+    "text": "<|startoftext|> THE ORDEAL IS BEST MET ALONE WHERE NO CURIOUS OR PITYING EYES EMBARRASS HER WHERE ALL NATURE SAYS TO HER SPIRIT TIS LOVE TIS LOVE THE FULFILLING OF LIFE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         6375,
         7206,
@@ -51,7 +52,8 @@
         8267,
         2751,
         3963,
-        36821
+        36821,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

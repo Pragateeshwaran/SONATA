@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0002.flac",
-    "text": "IT WAS SILENT BECAUSE ALL SPEECH IS OF NECESSITY FEEBLE AND IMPERFECT THEREFORE THE SOULS OF MY ANCESTORS ASCENDED TO GOD IN WORDLESS ADORATION",
+    "text": "<|startoftext|> IT WAS SILENT BECAUSE ALL SPEECH IS OF NECESSITY FEEBLE AND IMPERFECT THEREFORE THE SOULS OF MY ANCESTORS ASCENDED TO GOD IN WORDLESS ADORATION <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         47551,
@@ -46,7 +47,8 @@
         48481,
         5984,
         1581,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

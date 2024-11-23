@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\422\\122949\\422-122949-0008.flac",
-    "text": "EVERYWHERE THAT SLAVE MORALITY GAINS THE ASCENDANCY LANGUAGE SHOWS A TENDENCY TO APPROXIMATE THE SIGNIFICATIONS OF THE WORDS GOOD AND STUPID",
+    "text": "<|startoftext|> EVERYWHERE THAT SLAVE MORALITY GAINS THE ASCENDANCY LANGUAGE SHOWS A TENDENCY TO APPROXIMATE THE SIGNIFICATIONS OF THE WORDS GOOD AND STUPID <|endoftext|>",
     "tokens": [
+        50255,
         36,
         5959,
         56,
@@ -48,7 +49,8 @@
         5357,
         3563,
         8577,
-        2389
+        2389,
+        50256
     ],
     "metadata": {
         "speaker_id": "422",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0045.flac",
-    "text": "THEY SHOULD BE KEPT IN A CLOSED TIN CANISTER IN A DRY PLACE TO PRESERVE THEIR CRISPNESS",
+    "text": "<|startoftext|> THEY SHOULD BE KEPT IN A CLOSED TIN CANISTER IN A DRY PLACE TO PRESERVE THEIR CRISPNESS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         40312,
@@ -31,7 +32,8 @@
         8740,
         1797,
         13137,
-        7597
+        7597,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

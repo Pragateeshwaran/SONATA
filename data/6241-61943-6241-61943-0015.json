@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0015.flac",
-    "text": "THE PROFESSOR KNEW WHOM HE HAD TO DEAL WITH",
+    "text": "<|startoftext|> THE PROFESSOR KNEW WHOM HE HAD TO DEAL WITH <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         4810,
         19238,
@@ -17,7 +18,8 @@
         5390,
         5550,
         1847,
-        13315
+        13315,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

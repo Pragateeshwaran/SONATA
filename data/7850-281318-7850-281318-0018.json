@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0018.flac",
-    "text": "CRISS CROSS CRISS CROSS SO INTERRUPTED THE WOOD PIGEON",
+    "text": "<|startoftext|> CRISS CROSS CRISS CROSS SO INTERRUPTED THE WOOD PIGEON <|endoftext|>",
     "tokens": [
+        50255,
         9419,
         16744,
         8740,
@@ -21,7 +22,8 @@
         350,
         3528,
         36,
-        1340
+        1340,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0022.flac",
-    "text": "BUT IF YOU REALLY LOVE GOOD MUSIC MUSIC THAT HAS MELODY AND RHYTHM AND SOOTHING CADENCES GO TO THE HEIDELBERG INN AND LISTEN TO THE CONCERT WHICH IS A FEATURE OF THE PLACE EVERY EVENING",
+    "text": "<|startoftext|> BUT IF YOU REALLY LOVE GOOD MUSIC MUSIC THAT HAS MELODY AND RHYTHM AND SOOTHING CADENCES GO TO THE HEIDELBERG INN AND LISTEN TO THE CONCERT WHICH IS A FEATURE OF THE PLACE EVERY EVENING <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         16876,
         7013,
@@ -58,7 +59,8 @@
         11598,
         27222,
         45886,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

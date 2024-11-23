@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0004.flac",
-    "text": "MONEY IS FALSE AND LIGHT UNLESS IT BE BOUGHT BY A MAN'S OWN WORTHY QUALITIES AND BLOOD IS SUCH THAT ITS CORRUPT DISEASE AND IGNORANT PRETENCE ARE FOUL TO SEE",
+    "text": "<|startoftext|> MONEY IS FALSE AND LIGHT UNLESS IT BE BOUGHT BY A MAN'S OWN WORTHY QUALITIES AND BLOOD IS SUCH THAT ITS CORRUPT DISEASE AND IGNORANT PRETENCE ARE FOUL TO SEE <|endoftext|>",
     "tokens": [
+        50255,
         44,
         48399,
         3180,
@@ -56,7 +57,8 @@
         2606,
         43,
         5390,
-        31107
+        31107,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

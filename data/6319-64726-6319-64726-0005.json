@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0005.flac",
-    "text": "SHE HAD NO SOONER TAKEN UP THE SPINDLE THAN BEING HASTY AND CARELESS SHE PIERCED HER HAND WITH THE POINT OF IT AND FAINTED AWAY",
+    "text": "<|startoftext|> SHE HAD NO SOONER TAKEN UP THE SPINDLE THAN BEING HASTY AND CARELESS SHE PIERCED HER HAND WITH THE POINT OF IT AND FAINTED AWAY <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         367,
@@ -46,7 +47,8 @@
         12394,
         1961,
         14356,
-        4792
+        4792,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

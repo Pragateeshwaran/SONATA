@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0017.flac",
-    "text": "I GET NOTHING BUT MISERY OUT OF EITHER",
+    "text": "<|startoftext|> I GET NOTHING BUT MISERY OUT OF EITHER <|endoftext|>",
     "tokens": [
+        50255,
         40,
         17151,
         5626,
@@ -14,7 +15,8 @@
         3963,
         412,
         10554,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

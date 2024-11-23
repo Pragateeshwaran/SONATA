@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24640\\5338-24640-0000.flac",
-    "text": "CHAPTER THIRTY THREE A CONFIDANT",
+    "text": "<|startoftext|> CHAPTER THIRTY THREE A CONFIDANT <|endoftext|>",
     "tokens": [
+        50255,
         41481,
         2320,
         4663,
@@ -11,7 +12,8 @@
         7102,
         37,
         2389,
-        8643
+        8643,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

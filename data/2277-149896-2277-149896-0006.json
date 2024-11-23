@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0006.flac",
-    "text": "HE COULD ARRANGE THAT SATISFACTORILY FOR CARRIE WOULD BE GLAD TO WAIT IF NECESSARY",
+    "text": "<|startoftext|> HE COULD ARRANGE THAT SATISFACTORILY FOR CARRIE WOULD BE GLAD TO WAIT IF NECESSARY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         327,
         24010,
@@ -30,7 +31,8 @@
         16876,
         41804,
         7597,
-        13153
+        13153,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

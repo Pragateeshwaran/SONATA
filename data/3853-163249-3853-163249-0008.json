@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0008.flac",
-    "text": "MOTHER SAYS I'VE GONE BACK TO THE TIME BEFORE WE LOST LETTY AND I SOMETIMES FEEL AS IF I HAD",
+    "text": "<|startoftext|> MOTHER SAYS I'VE GONE BACK TO THE TIME BEFORE WE LOST LETTY AND I SOMETIMES FEEL AS IF I HAD <|endoftext|>",
     "tokens": [
+        50255,
         44,
         31858,
         45687,
@@ -33,7 +34,8 @@
         16876,
         314,
         367,
-        2885
+        2885,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

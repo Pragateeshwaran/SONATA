@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0007.flac",
-    "text": "HE REALLY GRIEVED TO SEE IT",
+    "text": "<|startoftext|> HE REALLY GRIEVED TO SEE IT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         36413,
         402,
@@ -10,7 +11,8 @@
         1961,
         5390,
         31107,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

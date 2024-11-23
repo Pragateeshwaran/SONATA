@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0040.flac",
-    "text": "SUFFICIENT TO MAKE TWELVE BUNS SEASONABLE AT ANY TIME LIGHT BUNS",
+    "text": "<|startoftext|> SUFFICIENT TO MAKE TWELVE BUNS SEASONABLE AT ANY TIME LIGHT BUNS <|endoftext|>",
     "tokens": [
+        50255,
         12564,
         5777,
         2149,
@@ -24,7 +25,8 @@
         9947,
         347,
         4944,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

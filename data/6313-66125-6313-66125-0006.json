@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0006.flac",
-    "text": "NO I AM THE LIGHTER OF THE TWO URGED TAD",
+    "text": "<|startoftext|> NO I AM THE LIGHTER OF THE TWO URGED TAD <|endoftext|>",
     "tokens": [
+        50255,
         15285,
         314,
         3001,
@@ -16,7 +17,8 @@
         38,
         1961,
         309,
-        2885
+        2885,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

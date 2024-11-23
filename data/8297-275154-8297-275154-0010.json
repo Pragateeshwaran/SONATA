@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0010.flac",
-    "text": "WHATEVER REVIVING EFFECT IT MIGHT OTHERWISE HAVE PRODUCED ON HIM IT MADE NO CHANGE IN THE THREATENING GLOOM OF HIS MANNER",
+    "text": "<|startoftext|> WHATEVER REVIVING EFFECT IT MIGHT OTHERWISE HAVE PRODUCED ON HIM IT MADE NO CHANGE IN THE THREATENING GLOOM OF HIS MANNER <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         6158,
         5959,
@@ -43,7 +44,8 @@
         3963,
         33700,
         17254,
-        21479
+        21479,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

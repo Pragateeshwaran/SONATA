@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0005.flac",
-    "text": "SOME APPREHENSION KEEPS YOU MARVELLING BUT THE PSALM DELECTASTI GIVETH LIGHT WHICH HAS THE POWER TO UNCLOUD YOUR INTELLECT",
+    "text": "<|startoftext|> SOME APPREHENSION KEEPS YOU MARVELLING BUT THE PSALM DELECTASTI GIVETH LIGHT WHICH HAS THE POWER TO UNCLOUD YOUR INTELLECT <|endoftext|>",
     "tokens": [
+        50255,
         50,
         13649,
         43504,
@@ -44,7 +45,8 @@
         16592,
         17828,
         3698,
-        16779
+        16779,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

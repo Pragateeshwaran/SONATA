@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0022.flac",
-    "text": "FOUR MONTHS HAD MADE GREAT CHANGES HE BORE HIMSELF MORE LIKE A MAN HIS MANNER WAS MUCH MORE CONSIDERED AND GRAVE",
+    "text": "<|startoftext|> FOUR MONTHS HAD MADE GREAT CHANGES HE BORE HIMSELF MORE LIKE A MAN HIS MANNER WAS MUCH MORE CONSIDERED AND GRAVE <|endoftext|>",
     "tokens": [
+        50255,
         37,
         11698,
         25000,
@@ -37,7 +38,8 @@
         5357,
         402,
         3861,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

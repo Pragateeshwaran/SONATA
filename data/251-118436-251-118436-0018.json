@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0018.flac",
-    "text": "I KNOW NOW WHAT BRINGS ME TO THE PYRE",
+    "text": "<|startoftext|> I KNOW NOW WHAT BRINGS ME TO THE PYRE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         35876,
         20229,
@@ -13,7 +14,8 @@
         3336,
         350,
         56,
-        2200
+        2200,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

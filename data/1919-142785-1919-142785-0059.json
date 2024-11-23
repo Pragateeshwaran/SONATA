@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0059.flac",
-    "text": "WHEN QUITE CRISP DIP ONE SIDE OF THE SIPPET INTO THE BEATEN WHITE OF AN EGG MIXED WITH A LITTLE FLOUR AND PLACE IT ON THE EDGE OF THE DISH",
+    "text": "<|startoftext|> WHEN QUITE CRISP DIP ONE SIDE OF THE SIPPET INTO THE BEATEN WHITE OF AN EGG MIXED WITH A LITTLE FLOUR AND PLACE IT ON THE EDGE OF THE DISH <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         19604,
@@ -50,7 +51,8 @@
         3963,
         3336,
         13954,
-        39
+        39,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0003.flac",
-    "text": "HE ALSO THOUGHT OF HIS MANAGERIAL POSITION",
+    "text": "<|startoftext|> HE ALSO THOUGHT OF HIS MANAGERIAL POSITION <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         35912,
         2320,
@@ -15,7 +16,8 @@
         1137,
         12576,
         28069,
-        17941
+        17941,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

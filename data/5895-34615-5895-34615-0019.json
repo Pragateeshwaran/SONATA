@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0019.flac",
-    "text": "HIS HAIR HAVING PROBABLY BEEN DYED WITH SOME CORROSIVE PREPARATION HAD LEFT IT WOOLLY AND ROUGH TO THE TOUCH",
+    "text": "<|startoftext|> HIS HAIR HAVING PROBABLY BEEN DYED WITH SOME CORROSIVE PREPARATION HAD LEFT IT WOOLLY AND ROUGH TO THE TOUCH <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         14558,
@@ -43,7 +44,8 @@
         3336,
         309,
         2606,
-        3398
+        3398,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

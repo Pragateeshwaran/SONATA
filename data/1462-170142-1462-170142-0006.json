@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0006.flac",
-    "text": "SHE MERELY BRUSHED HIS CHEEK WITH HER LIPS AND PUT A HAND LIGHTLY AND JOYOUSLY ON EITHER SHOULDER",
+    "text": "<|startoftext|> SHE MERELY BRUSHED HIS CHEEK WITH HER LIPS AND PUT A HAND LIGHTLY AND JOYOUSLY ON EITHER SHOULDER <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         34482,
@@ -36,7 +37,8 @@
         10554,
         1137,
         40312,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

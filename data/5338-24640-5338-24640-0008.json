@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24640\\5338-24640-0008.flac",
-    "text": "THEY HELD CONVENTICLES IN THE OPEN FIELDS AND BEING TREATED WITH GREAT VIOLENCE AND CRUELTY BY THE SCOTTISH GOVERNMENT MORE THAN ONCE TOOK ARMS DURING THOSE REIGNS",
+    "text": "<|startoftext|> THEY HELD CONVENTICLES IN THE OPEN FIELDS AND BEING TREATED WITH GREAT VIOLENCE AND CRUELTY BY THE SCOTTISH GOVERNMENT MORE THAN ONCE TOOK ARMS DURING THOSE REIGNS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         367,
@@ -57,7 +58,8 @@
         14058,
         4526,
         3528,
-        8035
+        8035,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

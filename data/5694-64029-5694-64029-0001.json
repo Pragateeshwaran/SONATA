@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0001.flac",
-    "text": "THE FEDERAL ARMY WAS CONCENTRATING AT NASHVILLE THERE WAS NO REST FOR THE WEARY",
+    "text": "<|startoftext|> THE FEDERAL ARMY WAS CONCENTRATING AT NASHVILLE THERE WAS NO REST FOR THE WEARY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         376,
         1961,
@@ -24,7 +25,8 @@
         7473,
         3336,
         12887,
-        13153
+        13153,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

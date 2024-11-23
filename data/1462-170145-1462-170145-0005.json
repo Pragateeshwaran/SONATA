@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0005.flac",
-    "text": "LET ME TAKE OFF YOUR COAT AND YOUR BOOTS THEY'RE OOZING WATER",
+    "text": "<|startoftext|> LET ME TAKE OFF YOUR COAT AND YOUR BOOTS THEY'RE OOZING WATER <|endoftext|>",
     "tokens": [
+        50255,
         28882,
         11948,
         21664,
@@ -22,7 +23,8 @@
         57,
         2751,
         370,
-        23261
+        23261,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

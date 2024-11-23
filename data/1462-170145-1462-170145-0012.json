@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0012.flac",
-    "text": "HE BENT HIS FACE OVER HER HAIR",
+    "text": "<|startoftext|> HE BENT HIS FACE OVER HER HAIR <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         347,
         3525,
@@ -10,7 +11,8 @@
         28729,
         24906,
         14558,
-        4663
+        4663,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0019.flac",
-    "text": "STACY BROWN'S LEFT LEG SWUNG OVER THE SADDLE",
+    "text": "<|startoftext|> STACY BROWN'S LEFT LEG SWUNG OVER THE SADDLE <|endoftext|>",
     "tokens": [
+        50255,
         2257,
         43300,
         11177,
@@ -18,7 +19,8 @@
         3336,
         311,
         29266,
-        2538
+        2538,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

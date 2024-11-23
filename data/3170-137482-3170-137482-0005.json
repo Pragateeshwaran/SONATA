@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0005.flac",
-    "text": "WE WOULD VERY OFTEN SPEND THE WHOLE NIGHT RAMBLING ABOUT THE CITY INVENTING AND CARRYING INTO EXECUTION THE MOST IMPERTINENT PRACTICAL JOKES",
+    "text": "<|startoftext|> WE WOULD VERY OFTEN SPEND THE WHOLE NIGHT RAMBLING ABOUT THE CITY INVENTING AND CARRYING INTO EXECUTION THE MOST IMPERTINENT PRACTICAL JOKES <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         370,
         24010,
@@ -44,7 +45,8 @@
         20151,
         449,
         11380,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0010.flac",
-    "text": "THE KINGDOM OF NORTHUMBRIA AS THE NAME IMPLIES EMBRACED NEARLY ALL THE COUNTRY FROM THE HUMBER TO THE PICTISH BORDER",
+    "text": "<|startoftext|> THE KINGDOM OF NORTHUMBRIA AS THE NAME IMPLIES EMBRACED NEARLY ALL THE COUNTRY FROM THE HUMBER TO THE PICTISH BORDER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         32957,
         39170,
@@ -40,7 +41,8 @@
         18422,
         347,
         12532,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

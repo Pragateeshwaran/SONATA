@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0005.flac",
-    "text": "THIS GREEN COLOUR HAD SUCCEEDED IN DRAWING ATTENTION TO THE CARRIAGE WHICH WAS KNOWN IN ALL THE FAIR GROUNDS AS THE GREEN BOX",
+    "text": "<|startoftext|> THIS GREEN COLOUR HAD SUCCEEDED IN DRAWING ATTENTION TO THE CARRIAGE WHICH WAS KNOWN IN ALL THE FAIR GROUNDS AS THE GREEN BOX <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         47606,
         20444,
@@ -40,7 +41,8 @@
         7054,
         3336,
         47606,
-        45216
+        45216,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

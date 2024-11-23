@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0042.flac",
-    "text": "WE'VE LOST THE KEY OF THE CELLAR AND THERE'S NOTHING OUT EXCEPT WATER AND I DON'T THINK YOU'D CARE FOR THAT",
+    "text": "<|startoftext|> WE'VE LOST THE KEY OF THE CELLAR AND THERE'S NOTHING OUT EXCEPT WATER AND I DON'T THINK YOU'D CARE FOR THAT <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         6,
         6089,
@@ -38,7 +39,8 @@
         35,
         47342,
         7473,
-        14603
+        14603,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0019.flac",
-    "text": "YOU SEE THE TREATMENT IS A TRIFLE FANCIFUL",
+    "text": "<|startoftext|> YOU SEE THE TREATMENT IS A TRIFLE FANCIFUL <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         31107,
         3336,
@@ -16,7 +17,8 @@
         376,
         20940,
         5064,
-        6239
+        6239,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

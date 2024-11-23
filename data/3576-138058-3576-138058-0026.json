@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0026.flac",
-    "text": "O HUSBAND WHOSE UNHAPPY FATE IN BEING MINE HATH BORNE THEE FROM THE MARRIAGE BED TO THE GRAVE",
+    "text": "<|startoftext|> O HUSBAND WHOSE UNHAPPY FATE IN BEING MINE HATH BORNE THEE FROM THE MARRIAGE BED TO THE GRAVE <|endoftext|>",
     "tokens": [
+        50255,
         46,
         367,
         27155,
@@ -38,7 +39,8 @@
         3336,
         402,
         3861,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0006.flac",
-    "text": "WHATEVER HER SWEET EYES ARE TURNED UPON SPIRITS OF LOVE DO ISSUE THENCE IN FLAME WHICH THROUGH THEIR EYES WHO THEN MAY LOOK ON THEM PIERCE TO THE HEART'S DEEP CHAMBER EVERY ONE",
+    "text": "<|startoftext|> WHATEVER HER SWEET EYES ARE TURNED UPON SPIRITS OF LOVE DO ISSUE THENCE IN FLAME WHICH THROUGH THEIR EYES WHO THEN MAY LOOK ON THEM PIERCE TO THE HEART'S DEEP CHAMBER EVERY ONE <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         6158,
         5959,
@@ -58,7 +59,8 @@
         2390,
         13246,
         27222,
-        16329
+        16329,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

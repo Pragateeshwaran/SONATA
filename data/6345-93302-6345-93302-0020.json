@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0020.flac",
-    "text": "COULDN'T HELP IT THEN HOW CAN I EVER TRUST YOU",
+    "text": "<|startoftext|> COULDN'T HELP IT THEN HOW CAN I EVER TRUST YOU <|endoftext|>",
     "tokens": [
+        50255,
         34,
         24010,
         45,
@@ -16,7 +17,8 @@
         20498,
         7579,
         7759,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

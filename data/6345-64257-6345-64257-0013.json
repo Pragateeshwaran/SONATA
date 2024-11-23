@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0013.flac",
-    "text": "SHE HAD LOST HIM YEARS AND YEARS BEFORE AND NOW SHE SAW HIM HE WAS THERE AND SHE KNEW HIM",
+    "text": "<|startoftext|> SHE HAD LOST HIM YEARS AND YEARS BEFORE AND NOW SHE SAW HIM HE WAS THERE AND SHE KNEW HIM <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         367,
@@ -28,7 +29,8 @@
         48052,
         509,
         13965,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

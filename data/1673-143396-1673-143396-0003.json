@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143396\\1673-143396-0003.flac",
-    "text": "HIS PROGRESS FROM INFANCY TO YOUTH AND MANHOOD WAS MARKED BY A REGULAR INCREASE IN STATURE AND WISDOM AND AFTER A PAINFUL AGONY OF MIND AND BODY HE EXPIRED ON THE CROSS",
+    "text": "<|startoftext|> HIS PROGRESS FROM INFANCY TO YOUTH AND MANHOOD WAS MARKED BY A REGULAR INCREASE IN STATURE AND WISDOM AND AFTER A PAINFUL AGONY OF MIND AND BODY HE EXPIRED ON THE CROSS <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         38688,
@@ -55,7 +56,8 @@
         6177,
         3336,
         8740,
-        18420
+        18420,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

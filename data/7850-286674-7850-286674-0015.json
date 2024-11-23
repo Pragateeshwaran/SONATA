@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0015.flac",
-    "text": "THEY THOUGHT HE MIGHT BE GOING TO TAKE A NAP AFTER HIS DINNER",
+    "text": "<|startoftext|> THEY THOUGHT HE MIGHT BE GOING TO TAKE A NAP AFTER HIS DINNER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         2320,
@@ -24,7 +25,8 @@
         33700,
         360,
         1268,
-        21479
+        21479,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

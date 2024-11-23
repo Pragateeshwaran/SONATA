@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0017.flac",
-    "text": "MY FATHER HAS REVEALED THE CULPRIT'S NAME MY FATHER THIRSTS FOR REVENGE AS MUCH AS YOU DO YET EVEN HE CONJURES YOU AS I DO TO KEEP THIS SECRET DO YOU NOT FATHER",
+    "text": "<|startoftext|> MY FATHER HAS REVEALED THE CULPRIT'S NAME MY FATHER THIRSTS FOR REVENGE AS MUCH AS YOU DO YET EVEN HE CONJURES YOU AS I DO TO KEEP THIS SECRET DO YOU NOT FATHER <|endoftext|>",
     "tokens": [
+        50255,
         26708,
         376,
         45226,
@@ -55,7 +56,8 @@
         7013,
         5626,
         376,
-        45226
+        45226,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

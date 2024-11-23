@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0006.flac",
-    "text": "IT WAS THAT IDEA OF WASTE THAT DOMINATED MY MIND IN A STRANGE INTERVIEW I HAD WITH JUSTIN",
+    "text": "<|startoftext|> IT WAS THAT IDEA OF WASTE THAT DOMINATED MY MIND IN A STRANGE INTERVIEW I HAD WITH JUSTIN <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         14603,
@@ -28,7 +29,8 @@
         2885,
         13315,
         25848,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0016.flac",
-    "text": "HE MIGHT BE ENCHANTED BUT THAT WAS THE TALISMAN",
+    "text": "<|startoftext|> HE MIGHT BE ENCHANTED BUT THAT WAS THE TALISMAN <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         337,
         9947,
@@ -17,7 +18,8 @@
         309,
         1847,
         1797,
-        10725
+        10725,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0034.flac",
-    "text": "MUFFINS AND CRUMPETS SHOULD ALWAYS BE SERVED ON SEPARATE DISHES AND BOTH TOASTED AND SERVED AS EXPEDITIOUSLY AS POSSIBLE",
+    "text": "<|startoftext|> MUFFINS AND CRUMPETS SHOULD ALWAYS BE SERVED ON SEPARATE DISHES AND BOTH TOASTED AND SERVED AS EXPEDITIOUSLY AS POSSIBLE <|endoftext|>",
     "tokens": [
+        50255,
         42422,
         5777,
         20913,
@@ -40,7 +41,8 @@
         7054,
         350,
         18420,
-        34563
+        34563,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

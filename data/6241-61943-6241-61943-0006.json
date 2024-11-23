@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0006.flac",
-    "text": "NO MISTER HARDWIGG SAID THE CAPTAIN NO FEAR OF THAT",
+    "text": "<|startoftext|> NO MISTER HARDWIGG SAID THE CAPTAIN NO FEAR OF THAT <|endoftext|>",
     "tokens": [
+        50255,
         15285,
         337,
         41517,
@@ -19,7 +20,8 @@
         376,
         17133,
         3963,
-        14603
+        14603,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0006.flac",
-    "text": "YOU'LL GET FIXED UP COMFORTABLE AFTER WHILE MISSUS SHIMERDA MAKE GOOD HOUSE",
+    "text": "<|startoftext|> YOU'LL GET FIXED UP COMFORTABLE AFTER WHILE MISSUS SHIMERDA MAKE GOOD HOUSE <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         6,
         3069,
@@ -23,7 +24,8 @@
         5631,
         39134,
         21090,
-        46586
+        46586,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

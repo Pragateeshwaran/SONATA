@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0015.flac",
-    "text": "CAUTIOUSLY PLACING A HAND AGAINST THE ROCKS TO STEADY HIMSELF TAD WISELY CONCLUDED THAT HEREAFTER IT WOULD NOT PAY TO BE TOO CURIOUS",
+    "text": "<|startoftext|> CAUTIOUSLY PLACING A HAND AGAINST THE ROCKS TO STEADY HIMSELF TAD WISELY CONCLUDED THAT HEREAFTER IT WOULD NOT PAY TO BE TOO CURIOUS <|endoftext|>",
     "tokens": [
+        50255,
         8141,
         3843,
         40,
@@ -49,7 +50,8 @@
         46,
         327,
         47269,
-        20958
+        20958,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

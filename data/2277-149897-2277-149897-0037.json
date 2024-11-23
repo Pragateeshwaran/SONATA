@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0037.flac",
-    "text": "IF HE DIDN'T GO AND SEE THEM THEY WOULD SUE HIM PROMPTLY",
+    "text": "<|startoftext|> IF HE DIDN'T GO AND SEE THEM THEY WOULD SUE HIM PROMPTLY <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         11179,
         35697,
@@ -21,7 +22,8 @@
         4810,
         2662,
         11571,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

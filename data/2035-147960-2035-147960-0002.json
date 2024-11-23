@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0002.flac",
-    "text": "ONE DAY WHEN I RODE OVER TO THE SHIMERDAS I FOUND ANTONIA STARTING OFF ON FOOT FOR RUSSIAN PETER'S HOUSE TO BORROW A SPADE AMBROSCH NEEDED",
+    "text": "<|startoftext|> ONE DAY WHEN I RODE OVER TO THE SHIMERDAS I FOUND ANTONIA STARTING OFF ON FOOT FOR RUSSIAN PETER'S HOUSE TO BORROW A SPADE AMBROSCH NEEDED <|endoftext|>",
     "tokens": [
+        50255,
         11651,
         24644,
         42099,
@@ -51,7 +52,8 @@
         2640,
         3398,
         36465,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

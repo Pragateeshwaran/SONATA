@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0029.flac",
-    "text": "BUT I COULD NOT BEAR THE THOUGHT OF WEARING DEAD MEN'S SHOES",
+    "text": "<|startoftext|> BUT I COULD NOT BEAR THE THOUGHT OF WEARING DEAD MEN'S SHOES <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         314,
         327,
@@ -24,7 +25,8 @@
         50,
         6006,
         46,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

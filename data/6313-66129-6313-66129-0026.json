@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0026.flac",
-    "text": "THEY SAW HIS LONG HAIR ALMOST BRUSH THE GRASS ONE OF HIS HANDS SWEPT DOWN AND UP AND ONCE MORE TAD BUTLER ROSE STANDING IN HIS STIRRUPS UTTERING A COWBOY YELL AS HE WAVED THE SOMBRERO ON HIGH",
+    "text": "<|startoftext|> THEY SAW HIS LONG HAIR ALMOST BRUSH THE GRASS ONE OF HIS HANDS SWEPT DOWN AND UP AND ONCE MORE TAD BUTLER ROSE STANDING IN HIS STIRRUPS UTTERING A COWBOY YELL AS HE WAVED THE SOMBRERO ON HIGH <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         311,
@@ -69,7 +70,8 @@
         11473,
         34812,
         6177,
-        34677
+        34677,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

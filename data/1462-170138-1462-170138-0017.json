@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0017.flac",
-    "text": "SIR HARRY TOWNE BOWED AND SAID THAT HE HAD MET MISTER ALEXANDER AND HIS WIFE IN TOKYO",
+    "text": "<|startoftext|> SIR HARRY TOWNE BOWED AND SAID THAT HE HAD MET MISTER ALEXANDER AND HIS WIFE IN TOKYO <|endoftext|>",
     "tokens": [
+        50255,
         50,
         4663,
         43638,
@@ -33,7 +34,8 @@
         3268,
         5390,
         31159,
-        46
+        46,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

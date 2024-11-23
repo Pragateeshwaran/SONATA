@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0009.flac",
-    "text": "THE VOICE APPEARED TO BE OVERHEAD",
+    "text": "<|startoftext|> THE VOICE APPEARED TO BE OVERHEAD <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         30578,
         8476,
@@ -12,7 +13,8 @@
         5390,
         9348,
         28729,
-        37682
+        37682,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

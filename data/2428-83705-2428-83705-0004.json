@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0004.flac",
-    "text": "IT MIGHT JUST AS WELL BE SOME ONE ELSE'S WEDDING SO UNIMPORTANT IS THE PART WHICH I AM SET TO PLAY IN IT",
+    "text": "<|startoftext|> IT MIGHT JUST AS WELL BE SOME ONE ELSE'S WEDDING SO UNIMPORTANT IS THE PART WHICH I AM SET TO PLAY IN IT <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         337,
         9947,
@@ -36,7 +37,8 @@
         5390,
         28180,
         3268,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

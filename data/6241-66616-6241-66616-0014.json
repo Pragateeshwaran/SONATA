@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0014.flac",
-    "text": "AT LAST SO DARING DID HE BECOME THAT THE PROVINCIAL GOVERNMENT PLACED A PRICE UPON HIS HEAD AND UPON THOSE OF A NUMBER OF HIS MOST NOTORIOUS FOLLOWERS",
+    "text": "<|startoftext|> AT LAST SO DARING DID HE BECOME THAT THE PROVINCIAL GOVERNMENT PLACED A PRICE UPON HIS HEAD AND UPON THOSE OF A NUMBER OF HIS MOST NOTORIOUS FOLLOWERS <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         41894,
         12809,
@@ -50,7 +51,8 @@
         20958,
         11895,
         44765,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0013.flac",
-    "text": "HE CUTS OFF THE CHOICEST MORSEL OF THE MEAT AND CASTS IT INTO THE FIRE THE PUREST AND MOST ETHEREAL ELEMENT",
+    "text": "<|startoftext|> HE CUTS OFF THE CHOICEST MORSEL OF THE MEAT AND CASTS IT INTO THE FIRE THE PUREST AND MOST ETHEREAL ELEMENT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         327,
         3843,
@@ -35,7 +36,8 @@
         9338,
         1847,
         40342,
-        10979
+        10979,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

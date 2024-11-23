@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0077.flac",
-    "text": "MISS CLARKE STARTED AND HER SWEET FACE SHOWED A MOMENT'S PERPLEXITY DID I SHE QUERIED MUSINGLY",
+    "text": "<|startoftext|> MISS CLARKE STARTED AND HER SWEET FACE SHOWED A MOMENT'S PERPLEXITY DID I SHE QUERIED MUSINGLY <|endoftext|>",
     "tokens": [
+        50255,
         44,
         16744,
         7852,
@@ -35,7 +36,8 @@
         19767,
         39484,
         2751,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0028.flac",
-    "text": "HE CHECKED THE SILLY IMPULSE",
+    "text": "<|startoftext|> HE CHECKED THE SILLY IMPULSE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         5870,
         25171,
@@ -13,7 +14,8 @@
         8959,
         5105,
         43,
-        5188
+        5188,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

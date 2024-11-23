@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0041.flac",
-    "text": "THEY WERE NOT ONLY GOOD CHRISTIANS AND FAITHFUL TO THE CHURCH BUT EVEN REAL DEVOTEES AND FULL OF SCRUPLES",
+    "text": "<|startoftext|> THEY WERE NOT ONLY GOOD CHRISTIANS AND FAITHFUL TO THE CHURCH BUT EVEN REAL DEVOTEES AND FULL OF SCRUPLES <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         370,
@@ -35,7 +36,8 @@
         49,
         52,
         6489,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

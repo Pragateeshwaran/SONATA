@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0031.flac",
-    "text": "WHAT A PITY THAT HE SHOULD NOT BE A LORD",
+    "text": "<|startoftext|> WHAT A PITY THAT HE SHOULD NOT BE A LORD <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         317,
         350,
@@ -12,7 +13,8 @@
         5626,
         9348,
         317,
-        35750
+        35750,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

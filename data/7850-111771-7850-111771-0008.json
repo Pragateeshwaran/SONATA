@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0008.flac",
-    "text": "WHEN HIS PUBLIC SERVICES WERE FINISHED HE STARTED IN COMPANY WITH HIS WIFE SON JESSE AND A FEW FRIENDS",
+    "text": "<|startoftext|> WHEN HIS PUBLIC SERVICES WERE FINISHED HE STARTED IN COMPANY WITH HIS WIFE SON JESSE AND A FEW FRIENDS <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         33700,
@@ -33,7 +34,8 @@
         6217,
         48167,
         1677,
-        5258
+        5258,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0005.flac",
-    "text": "THE DAILY NEWSCASTS FROM TERRA SHOWED A CORRESPONDING SHIFT IN INTEREST AT HOME",
+    "text": "<|startoftext|> THE DAILY NEWSCASTS FROM TERRA SHOWED A CORRESPONDING SHIFT IN INTEREST AT HOME <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         17051,
         33340,
@@ -26,7 +27,8 @@
         23255,
         6465,
         5161,
-        41779
+        41779,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

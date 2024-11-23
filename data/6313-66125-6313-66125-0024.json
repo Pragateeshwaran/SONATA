@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0024.flac",
-    "text": "MEBBY YOU THINK HE'S HAVING SOME SORT OF A PICNIC DOWN THERE EH GLARED LIGE",
+    "text": "<|startoftext|> MEBBY YOU THINK HE'S HAVING SOME SORT OF A PICNIC DOWN THERE EH GLARED LIGE <|endoftext|>",
     "tokens": [
+        50255,
         11682,
         15199,
         56,
@@ -32,7 +33,8 @@
         1961,
         406,
         3528,
-        36
+        36,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

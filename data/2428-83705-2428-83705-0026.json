@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0026.flac",
-    "text": "OF COURSE THERE ARE SOME PEOPLE WITH WHOM YOU CAN'T BE PERFECTLY PLAIN BUT I SHALL BE AS PLAIN AS I CAN THERE'S A WAY AND A MANNER OF DOING THAT KIND OF THING",
+    "text": "<|startoftext|> OF COURSE THERE ARE SOME PEOPLE WITH WHOM YOU CAN'T BE PERFECTLY PLAIN BUT I SHALL BE AS PLAIN AS I CAN THERE'S A WAY AND A MANNER OF DOING THAT KIND OF THING <|endoftext|>",
     "tokens": [
+        50255,
         19238,
         37384,
         5188,
@@ -50,7 +51,8 @@
         12115,
         3963,
         2320,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

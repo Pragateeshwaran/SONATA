@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0009.flac",
-    "text": "I HAVE ALWAYS DELIGHTED IN AND REVERENCED BEAUTY BUT I FELT SIMPLY ABASHED IN THE PRESENCE OF SUCH A SPLENDID TYPE A COMPOUND OF ALL THAT IS BEST IN EGYPTIAN GREEK AND ITALIAN",
+    "text": "<|startoftext|> I HAVE ALWAYS DELIGHTED IN AND REVERENCED BEAUTY BUT I FELT SIMPLY ABASHED IN THE PRESENCE OF SUCH A SPLENDID TYPE A COMPOUND OF ALL THAT IS BEST IN EGYPTIAN GREEK AND ITALIAN <|endoftext|>",
     "tokens": [
+        50255,
         40,
         21515,
         49576,
@@ -59,7 +60,8 @@
         5357,
         7283,
         1847,
-        16868
+        16868,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

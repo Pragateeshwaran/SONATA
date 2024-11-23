@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0012.flac",
-    "text": "YES ONE OUGHTN'T TO LEAVE THE COLONY WITHOUT SEEING IT SAYS BURGESS IT'S WORTH SEEING",
+    "text": "<|startoftext|> YES ONE OUGHTN'T TO LEAVE THE COLONY WITHOUT SEEING IT SAYS BURGESS IT'S WORTH SEEING <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         16329,
         440,
@@ -32,7 +33,8 @@
         21881,
         4221,
         31107,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

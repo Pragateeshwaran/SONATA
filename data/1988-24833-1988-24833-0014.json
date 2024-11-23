@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0014.flac",
-    "text": "POP GOES RIGHT ON TUNING HIS CHANNEL",
+    "text": "<|startoftext|> POP GOES RIGHT ON TUNING HIS CHANNEL <|endoftext|>",
     "tokens": [
+        50255,
         47,
         3185,
         10351,
@@ -14,7 +15,8 @@
         33700,
         5870,
         22846,
-        3698
+        3698,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

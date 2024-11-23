@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0007.flac",
-    "text": "IT WAS GWYNPLAINE'S LAUGH WHICH CREATED THE LAUGHTER OF OTHERS YET HE DID NOT LAUGH HIMSELF",
+    "text": "<|startoftext|> IT WAS GWYNPLAINE'S LAUGH WHICH CREATED THE LAUGHTER OF OTHERS YET HE DID NOT LAUGH HIMSELF <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         27164,
@@ -33,7 +34,8 @@
         44004,
         45909,
         50,
-        37738
+        37738,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

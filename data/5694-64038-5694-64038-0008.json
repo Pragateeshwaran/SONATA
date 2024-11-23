@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0008.flac",
-    "text": "A MAN IN THE WELL",
+    "text": "<|startoftext|> A MAN IN THE WELL <|endoftext|>",
     "tokens": [
+        50255,
         32,
         17254,
         3268,
         3336,
         12887,
-        3069
+        3069,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0019.flac",
-    "text": "I PICKED IT UP AND COMING UP TO HIM JUST AS HE WAS GOING DOWN THE STEPS I HANDED IT TO HIM",
+    "text": "<|startoftext|> I PICKED IT UP AND COMING UP TO HIM JUST AS HE WAS GOING DOWN THE STEPS I HANDED IT TO HIM <|endoftext|>",
     "tokens": [
+        50255,
         40,
         350,
         11860,
@@ -30,7 +31,8 @@
         1961,
         7283,
         5390,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

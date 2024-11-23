@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0070.flac",
-    "text": "I'LL WAIT HERE TILL YOU'RE READY EXPLAIN YOURSELF TO THE LADY TELL HER I'M AN OLD AND RHEUMATIC INVALID WHO HAS BEEN USED TO ASKING HIS OWN QUESTIONS",
+    "text": "<|startoftext|> I'LL WAIT HERE TILL YOU'RE READY EXPLAIN YOURSELF TO THE LADY TELL HER I'M AN OLD AND RHEUMATIC INVALID WHO HAS BEEN USED TO ASKING HIS OWN QUESTIONS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         6,
         3069,
@@ -56,7 +57,8 @@
         33700,
         47672,
         43658,
-        11053
+        11053,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

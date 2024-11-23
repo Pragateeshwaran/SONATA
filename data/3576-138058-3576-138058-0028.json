@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0028.flac",
-    "text": "CLAUDIA TOLD HIM SHE MEANT TO GO TO A MONASTERY OF WHICH AN AUNT OF HERS WAS ABBESS WHERE SHE INTENDED TO PASS HER LIFE WITH A BETTER AND EVERLASTING SPOUSE",
+    "text": "<|startoftext|> CLAUDIA TOLD HIM SHE MEANT TO GO TO A MONASTERY OF WHICH AN AUNT OF HERS WAS ABBESS WHERE SHE INTENDED TO PASS HER LIFE WITH A BETTER AND EVERLASTING SPOUSE <|endoftext|>",
     "tokens": [
+        50255,
         16827,
         8322,
         3539,
@@ -52,7 +53,8 @@
         2751,
         6226,
         2606,
-        5188
+        5188,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

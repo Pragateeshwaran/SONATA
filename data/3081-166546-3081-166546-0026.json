@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0026.flac",
-    "text": "HE WAS LATE OF COURSE BUT WHEN HE DID APPEAR I ALMOST FORGOT OUR USUAL GREETING IN MY HURRY TO ASK HIM IF HE HAD SEEN THE EVENING PAPERS",
+    "text": "<|startoftext|> HE WAS LATE OF COURSE BUT WHEN HE DID APPEAR I ALMOST FORGOT OUR USUAL GREETING IN MY HURRY TO ASK HIM IF HE HAD SEEN THE EVENING PAPERS <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         406,
@@ -49,7 +50,8 @@
         2751,
         350,
         2969,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

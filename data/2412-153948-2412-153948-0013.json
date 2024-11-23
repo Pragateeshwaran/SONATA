@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0013.flac",
-    "text": "I HAD NO MONEY BUT IF I COULD ONLY FIND WORKABLE COUNTRY I MIGHT STOCK IT WITH BORROWED CAPITAL AND CONSIDER MYSELF A MADE MAN",
+    "text": "<|startoftext|> I HAD NO MONEY BUT IF I COULD ONLY FIND WORKABLE COUNTRY I MIGHT STOCK IT WITH BORROWED CAPITAL AND CONSIDER MYSELF A MADE MAN <|endoftext|>",
     "tokens": [
+        50255,
         40,
         367,
         2885,
@@ -43,7 +44,8 @@
         317,
         337,
         19266,
-        17254
+        17254,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0012.flac",
-    "text": "I FOLLOWED WITH THE SPADE OVER MY SHOULDER DRAGGING MY SNAKE",
+    "text": "<|startoftext|> I FOLLOWED WITH THE SPADE OVER MY SHOULDER DRAGGING MY SNAKE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         11895,
         44765,
@@ -21,7 +22,8 @@
         17615,
         311,
         4535,
-        7336
+        7336,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

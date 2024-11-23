@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0000.flac",
-    "text": "FERDINAND MEDITATES OVER HIS GOOD FORTUNE",
+    "text": "<|startoftext|> FERDINAND MEDITATES OVER HIS GOOD FORTUNE <|endoftext|>",
     "tokens": [
+        50255,
         24302,
         35,
         1268,
@@ -14,7 +15,8 @@
         21090,
         7473,
         51,
-        41884
+        41884,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

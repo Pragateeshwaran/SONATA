@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0020.flac",
-    "text": "MODE LET THE TARTARIC ACID AND SALT BE REDUCED TO THE FINEST POSSIBLE POWDER THEN MIX THEM WELL WITH THE FLOUR",
+    "text": "<|startoftext|> MODE LET THE TARTARIC ACID AND SALT BE REDUCED TO THE FINEST POSSIBLE POWDER THEN MIX THEM WELL WITH THE FLOUR <|endoftext|>",
     "tokens": [
+        50255,
         49058,
         37994,
         3336,
@@ -36,7 +37,8 @@
         13315,
         3336,
         9977,
-        11698
+        11698,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

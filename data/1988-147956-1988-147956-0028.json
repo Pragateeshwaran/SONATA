@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0028.flac",
-    "text": "WHEN I CAME UP HE TOUCHED MY SHOULDER AND LOOKED SEARCHINGLY DOWN INTO MY FACE FOR SEVERAL SECONDS",
+    "text": "<|startoftext|> WHEN I CAME UP HE TOUCHED MY SHOULDER AND LOOKED SEARCHINGLY DOWN INTO MY FACE FOR SEVERAL SECONDS <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         314,
@@ -33,7 +34,8 @@
         1847,
         10729,
         1340,
-        5258
+        5258,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

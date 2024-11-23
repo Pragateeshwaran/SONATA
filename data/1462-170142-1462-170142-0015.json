@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0015.flac",
-    "text": "IT'S UNBEARABLE IT TORTURES ME EVERY MINUTE",
+    "text": "<|startoftext|> IT'S UNBEARABLE IT TORTURES ME EVERY MINUTE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         6,
         50,
@@ -16,7 +17,8 @@
         11948,
         27222,
         20625,
-        37780
+        37780,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

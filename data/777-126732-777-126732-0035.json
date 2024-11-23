@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0035.flac",
-    "text": "HIS VISION OF TRUTH HAD GROWN SO INTENSE THAT THE SOUND OF A STRANGE VOICE FAILED TO ROUT IT THIS TIME",
+    "text": "<|startoftext|> HIS VISION OF TRUTH HAD GROWN SO INTENSE THAT THE SOUND OF A STRANGE VOICE FAILED TO ROUT IT THIS TIME <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         569,
@@ -34,7 +35,8 @@
         12425,
         7283,
         12680,
-        20460
+        20460,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

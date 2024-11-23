@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0030.flac",
-    "text": "WHAT EXTRAORDINARY THINGS WILL SOMETIMES OCCUR FROM MERE CHANCE OR FROM THE FORCE OF CIRCUMSTANCES",
+    "text": "<|startoftext|> WHAT EXTRAORDINARY THINGS WILL SOMETIMES OCCUR FROM MERE CHANCE OR FROM THE FORCE OF CIRCUMSTANCES <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         27489,
         3861,
@@ -34,7 +35,8 @@
         5883,
         2257,
         20940,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0056.flac",
-    "text": "WHO CAME NEXT ON THE SCENE SOME PEOPLE FROM THE LOBBY",
+    "text": "<|startoftext|> WHO CAME NEXT ON THE SCENE SOME PEOPLE FROM THE LOBBY <|endoftext|>",
     "tokens": [
+        50255,
         41856,
         327,
         10067,
@@ -16,7 +17,8 @@
         3336,
         406,
         9864,
-        17513
+        17513,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

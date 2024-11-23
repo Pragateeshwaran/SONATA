@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0006.flac",
-    "text": "LOOK AT IT FROM TIME TO TIME WHEN IT HAS BEEN LAID FOR NEARLY AN HOUR AND WHEN THE YEAST HAS RISEN AND BROKEN THROUGH THE FLOUR SO THAT BUBBLES APPEAR IN IT YOU WILL KNOW THAT IT IS READY TO BE MADE UP INTO DOUGH",
+    "text": "<|startoftext|> LOOK AT IT FROM TIME TO TIME WHEN IT HAS BEEN LAID FOR NEARLY AN HOUR AND WHEN THE YEAST HAS RISEN AND BROKEN THROUGH THE FLOUR SO THAT BUBBLES APPEAR IN IT YOU WILL KNOW THAT IT IS READY TO BE MADE UP INTO DOUGH <|endoftext|>",
     "tokens": [
+        50255,
         43,
         15308,
         5161,
@@ -68,7 +69,8 @@
         15958,
         39319,
         360,
-        32632
+        32632,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

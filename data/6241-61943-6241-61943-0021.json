@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0021.flac",
-    "text": "I SHALL BE GLAD TO CONSULT THEM",
+    "text": "<|startoftext|> I SHALL BE GLAD TO CONSULT THEM <|endoftext|>",
     "tokens": [
+        50255,
         40,
         50163,
         9348,
@@ -10,7 +11,8 @@
         5390,
         39537,
         16724,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

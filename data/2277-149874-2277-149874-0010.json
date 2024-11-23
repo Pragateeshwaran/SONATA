@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0010.flac",
-    "text": "NOW NOW HE SAID WALKING THERE THERE AND THERE WAS A CERTAIN SWEDISH ACCENT NOTICEABLE IN HIS VOICE",
+    "text": "<|startoftext|> NOW NOW HE SAID WALKING THERE THERE AND THERE WAS A CERTAIN SWEDISH ACCENT NOTICEABLE IN HIS VOICE <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         20229,
         11179,
@@ -29,7 +30,8 @@
         3268,
         33700,
         30578,
-        8476
+        8476,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

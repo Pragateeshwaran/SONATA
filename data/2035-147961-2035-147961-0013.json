@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0013.flac",
-    "text": "ANTONIA'S FATHER UNCOVERED ONE OF HIS LONG BONY LEGS AND RUBBED IT RHYTHMICALLY",
+    "text": "<|startoftext|> ANTONIA'S FATHER UNCOVERED ONE OF HIS LONG BONY LEGS AND RUBBED IT RHYTHMICALLY <|endoftext|>",
     "tokens": [
+        50255,
         8643,
         1340,
         3539,
@@ -31,7 +32,8 @@
         56,
         4221,
         49884,
-        19807
+        19807,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

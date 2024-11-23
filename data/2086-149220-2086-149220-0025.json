@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0025.flac",
-    "text": "WHILE WE GIVE IT CREDIT ONLY FOR DEPICTING THE MEREST SURFACE IT ACTUALLY BRINGS OUT THE SECRET CHARACTER WITH A TRUTH THAT NO PAINTER WOULD EVER VENTURE UPON EVEN COULD HE DETECT IT",
+    "text": "<|startoftext|> WHILE WE GIVE IT CREDIT ONLY FOR DEPICTING THE MEREST SURFACE IT ACTUALLY BRINGS OUT THE SECRET CHARACTER WITH A TRUTH THAT NO PAINTER WOULD EVER VENTURE UPON EVEN COULD HE DETECT IT <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         41119,
         12887,
@@ -56,7 +57,8 @@
         11179,
         38267,
         9782,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

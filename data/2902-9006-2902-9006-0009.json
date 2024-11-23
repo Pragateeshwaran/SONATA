@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0009.flac",
-    "text": "BUT THE HEALTH OF A CHURCH DEPENDS NOT MERELY ON THE CREED WHICH IT PROFESSES NOT EVEN ON THE WISDOM AND HOLINESS OF A FEW GREAT ECCLESIASTICS BUT ON THE FAITH AND VIRTUE OF ITS INDIVIDUAL MEMBERS",
+    "text": "<|startoftext|> BUT THE HEALTH OF A CHURCH DEPENDS NOT MERELY ON THE CREED WHICH IT PROFESSES NOT EVEN ON THE WISDOM AND HOLINESS OF A FEW GREAT ECCLESIASTICS BUT ON THE FAITH AND VIRTUE OF ITS INDIVIDUAL MEMBERS <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         3336,
         11179,
@@ -67,7 +68,8 @@
         25620,
         35153,
         33,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

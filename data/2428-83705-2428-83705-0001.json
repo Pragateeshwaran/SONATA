@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0001.flac",
-    "text": "BUT IT IS QUITE PLAIN TO ME THAT ALL THE ARRANGEMENTS FOR MY WEDDING ARE GOING TO BE MADE BY THE SNELLINGS",
+    "text": "<|startoftext|> BUT IT IS QUITE PLAIN TO ME THAT ALL THE ARRANGEMENTS FOR MY WEDDING ARE GOING TO BE MADE BY THE SNELLINGS <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         7283,
         3180,
@@ -36,7 +37,8 @@
         3336,
         11346,
         23304,
-        20754
+        20754,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

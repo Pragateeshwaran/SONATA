@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24615\\5338-24615-0001.flac",
-    "text": "THE HOUSES SEEMED MISERABLE IN THE EXTREME ESPECIALLY TO AN EYE ACCUSTOMED TO THE SMILING NEATNESS OF ENGLISH COTTAGES",
+    "text": "<|startoftext|> THE HOUSES SEEMED MISERABLE IN THE EXTREME ESPECIALLY TO AN EYE ACCUSTOMED TO THE SMILING NEATNESS OF ENGLISH COTTAGES <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         367,
         20958,
@@ -43,7 +44,8 @@
         18422,
         327,
         29089,
-        25552
+        25552,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

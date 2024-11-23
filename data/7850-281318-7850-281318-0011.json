@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0011.flac",
-    "text": "THE MAGPIE SAID SHE WOULD TEACH THEM IF THEY WOULD BE A PATIENT DILIGENT OBEDIENT CLASS OF LITTLE BIRDS",
+    "text": "<|startoftext|> THE MAGPIE SAID SHE WOULD TEACH THEM IF THEY WOULD BE A PATIENT DILIGENT OBEDIENT CLASS OF LITTLE BIRDS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         28263,
         47,
@@ -36,7 +37,8 @@
         2538,
         347,
         4663,
-        5258
+        5258,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

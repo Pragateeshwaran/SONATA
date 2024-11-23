@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0016.flac",
-    "text": "MISS HEPZIBAH I SUPPOSE WILL INTERWEAVE THE FACT WITH HER OTHER TRADITIONS AND SET IT DOWN THAT THE FOWLS KNOW YOU TO BE A PYNCHEON",
+    "text": "<|startoftext|> MISS HEPZIBAH I SUPPOSE WILL INTERWEAVE THE FACT WITH HER OTHER TRADITIONS AND SET IT DOWN THAT THE FOWLS KNOW YOU TO BE A PYNCHEON <|endoftext|>",
     "tokens": [
+        50255,
         44,
         16744,
         367,
@@ -45,7 +46,8 @@
         40760,
         3398,
         36,
-        1340
+        1340,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

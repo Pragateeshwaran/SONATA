@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0010.flac",
-    "text": "AY SHE ANSWERED HALF BITTERLY AND WOULD THAT WE COULD LIVE WITHOUT FOOD AND IMITATE PERFECTLY THE IMMORTAL GODS",
+    "text": "<|startoftext|> AY SHE ANSWERED HALF BITTERLY AND WOULD THAT WE COULD LIVE WITHOUT FOOD AND IMITATE PERFECTLY THE IMMORTAL GODS <|endoftext|>",
     "tokens": [
+        50255,
         4792,
         48052,
         3537,
@@ -38,7 +39,8 @@
         9863,
         1847,
         29562,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0005.flac",
-    "text": "HE WALKED UP AND SAYS HELLO BOYS WHAT IS IT BOSS",
+    "text": "<|startoftext|> HE WALKED UP AND SAYS HELLO BOYS WHAT IS IT BOSS <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         370,
         28082,
@@ -18,7 +19,8 @@
         3180,
         7283,
         347,
-        18420
+        18420,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

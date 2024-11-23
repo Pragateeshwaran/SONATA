@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0012.flac",
-    "text": "HE ENTERED THE GUARD ROOM THERE THE GUARDS STOOD DRAWN UP IN LINE WITH CARBINES AT THEIR SHOULDERS BUT THEY WERE SOUND ASLEEP",
+    "text": "<|startoftext|> HE ENTERED THE GUARD ROOM THERE THE GUARDS STOOD DRAWN UP IN LINE WITH CARBINES AT THEIR SHOULDERS BUT THEY WERE SOUND ASLEEP <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         46962,
         1961,
@@ -39,7 +40,8 @@
         15919,
         7054,
         2538,
-        8905
+        8905,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

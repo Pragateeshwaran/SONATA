@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0013.flac",
-    "text": "I WILL DO NEITHER THE ONE NOR THE OTHER",
+    "text": "<|startoftext|> I WILL DO NEITHER THE ONE NOR THE OTHER <|endoftext|>",
     "tokens": [
+        50255,
         40,
         17682,
         8410,
@@ -12,7 +13,8 @@
         16329,
         25273,
         3336,
-        25401
+        25401,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

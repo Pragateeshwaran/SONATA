@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0079.flac",
-    "text": "AND THE GLANCE SHE CAST HIM WHILE NOT MEETING HIS EYE SHOWED THAT SHE UNDERSTOOD THE IMPORTANCE OF THE ADMISSION",
+    "text": "<|startoftext|> AND THE GLANCE SHE CAST HIM WHILE NOT MEETING HIS EYE SHOWED THAT SHE UNDERSTOOD THE IMPORTANCE OF THE ADMISSION <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         3336,
         10188,
@@ -34,7 +35,8 @@
         3336,
         5984,
         44,
-        40373
+        40373,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

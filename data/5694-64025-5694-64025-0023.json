@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0023.flac",
-    "text": "ON MY TAKING THE ROPE OFF HE SHOOK HIMSELF AND SEEMED TO SAY YOU THINK THAT YOU ARE MIGHTY SMART FOLKS BUT YOU ARE A LEETLE TOO SMART",
+    "text": "<|startoftext|> ON MY TAKING THE ROPE OFF HE SHOOK HIMSELF AND SEEMED TO SAY YOU THINK THAT YOU ARE MIGHTY SMART FOLKS BUT YOU ARE A LEETLE TOO SMART <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         17615,
         309,
@@ -46,7 +47,8 @@
         5390,
         46,
         9447,
-        7227
+        7227,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

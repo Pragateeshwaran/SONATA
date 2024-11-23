@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0077.flac",
-    "text": "HE GETS A RED FACE PORING OVER THEM",
+    "text": "<|startoftext|> HE GETS A RED FACE PORING OVER THEM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         17151,
         50,
@@ -12,7 +13,8 @@
         1581,
         2751,
         28729,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

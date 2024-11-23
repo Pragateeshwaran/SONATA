@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147965\\1993-147965-0006.flac",
-    "text": "HE SAT STILL AND PASSIVE HIS HEAD RESTING AGAINST THE BACK OF THE WOODEN ROCKING CHAIR HIS HANDS RELAXED UPON THE ARMS",
+    "text": "<|startoftext|> HE SAT STILL AND PASSIVE HIS HEAD RESTING AGAINST THE BACK OF THE WOODEN ROCKING CHAIR HIS HANDS RELAXED UPON THE ARMS <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         29020,
         3563,
@@ -37,7 +38,8 @@
         1340,
         3336,
         5923,
-        5653
+        5653,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

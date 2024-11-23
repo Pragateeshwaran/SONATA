@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0016.flac",
-    "text": "I HAVEN'T COURAGE ENOUGH TO DO IT FOR MYSELF",
+    "text": "<|startoftext|> I HAVEN'T COURAGE ENOUGH TO DO IT FOR MYSELF <|endoftext|>",
     "tokens": [
+        50255,
         40,
         367,
         10116,
@@ -20,7 +21,8 @@
         7473,
         337,
         16309,
-        37738
+        37738,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0026.flac",
-    "text": "HE HAD LOVED HER EARNESTLY ENOUGH BUT NOW THAT THE POSSIBILITY OF LOSING HER STARED HIM IN THE FACE SHE SEEMED MUCH MORE ATTRACTIVE",
+    "text": "<|startoftext|> HE HAD LOVED HER EARNESTLY ENOUGH BUT NOW THAT THE POSSIBILITY OF LOSING HER STARED HIM IN THE FACE SHE SEEMED MUCH MORE ATTRACTIVE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         2885,
@@ -42,7 +43,8 @@
         5161,
         5446,
         10659,
-        9306
+        9306,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

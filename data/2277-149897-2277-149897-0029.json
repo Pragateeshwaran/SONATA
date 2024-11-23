@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0029.flac",
-    "text": "HE DID MANAGE TO BRING HIMSELF INTO THE MOOD TO GO OUT TO CARRIE BUT WHEN HE GOT IN OGDEN PLACE HE THOUGHT HE SAW A MAN WATCHING HIM AND WENT AWAY",
+    "text": "<|startoftext|> HE DID MANAGE TO BRING HIMSELF INTO THE MOOD TO GO OUT TO CARRIE BUT WHEN HE GOT IN OGDEN PLACE HE THOUGHT HE SAW A MAN WATCHING HIM AND WENT AWAY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         35697,
         17254,
@@ -49,7 +50,8 @@
         370,
         3525,
         14356,
-        4792
+        4792,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

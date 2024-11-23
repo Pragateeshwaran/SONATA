@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0008.flac",
-    "text": "FOR SOME REASON HE FELT AS IF SOMETHING MIGHT COME THAT WAY AND WAS RELIEVED WHEN ALL THE ENVELOPES HAD BEEN SCANNED AND NOTHING SUSPICIOUS NOTICED",
+    "text": "<|startoftext|> FOR SOME REASON HE FELT AS IF SOMETHING MIGHT COME THAT WAY AND WAS RELIEVED WHEN ALL THE ENVELOPES HAD BEEN SCANNED AND NOTHING SUSPICIOUS NOTICED <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         41670,
         4526,
@@ -53,7 +54,8 @@
         20958,
         5626,
         2149,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

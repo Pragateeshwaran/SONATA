@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0005.flac",
-    "text": "THERE IS A SEAT IN THE GARDEN AT THE SIDE OF THE HOUSE AGAIN SHE HESITATED",
+    "text": "<|startoftext|> THERE IS A SEAT IN THE GARDEN AT THE SIDE OF THE HOUSE AGAIN SHE HESITATED <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         3180,
@@ -26,7 +27,8 @@
         367,
         1546,
         2043,
-        11617
+        11617,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

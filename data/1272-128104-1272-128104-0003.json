@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0003.flac",
-    "text": "HE HAS GRAVE DOUBTS WHETHER SIR FREDERICK LEIGHTON'S WORK IS REALLY GREEK AFTER ALL AND CAN DISCOVER IN IT BUT LITTLE OF ROCKY ITHACA",
+    "text": "<|startoftext|> HE HAS GRAVE DOUBTS WHETHER SIR FREDERICK LEIGHTON'S WORK IS REALLY GREEK AFTER ALL AND CAN DISCOVER IN IT BUT LITTLE OF ROCKY ITHACA <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         33930,
         402,
@@ -49,7 +50,8 @@
         56,
         314,
         4221,
-        26576
+        26576,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

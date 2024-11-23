@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0008.flac",
-    "text": "WHAT DO I CARE FOR FOOD",
+    "text": "<|startoftext|> WHAT DO I CARE FOR FOOD <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         8410,
         314,
         47342,
         7473,
         11895,
-        3727
+        3727,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

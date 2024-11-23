@@ -1,12 +1,14 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0044.flac",
-    "text": "ITALIAN RUSKS",
+    "text": "<|startoftext|> ITALIAN RUSKS <|endoftext|>",
     "tokens": [
+        50255,
         40579,
         16868,
         371,
         2937,
-        27015
+        27015,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

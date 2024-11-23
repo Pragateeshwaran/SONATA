@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0009.flac",
-    "text": "BUT HERE THE ONLY THING THAT OCCURRED TO HER WAS TO STOP AND LOOK IN ONE OF THE SHOPS TILL HE SHOULD ASK HER WHAT SHE WAS LOOKING AT",
+    "text": "<|startoftext|> BUT HERE THE ONLY THING THAT OCCURRED TO HER WAS TO STOP AND LOOK IN ONE OF THE SHOPS TILL HE SHOULD ASK HER WHAT SHE WAS LOOKING AT <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         15698,
         3336,
@@ -38,7 +39,8 @@
         21725,
         48045,
         2751,
-        5161
+        5161,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

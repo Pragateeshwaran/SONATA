@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0016.flac",
-    "text": "BESIDES WE MUST REMEMBER THAT THEY HAD IN THOSE TIMES MEANS OF PUTTING PATIENTS TO SLEEP AND OF SUPPRESSING ALL SUFFERING ONLY THEN IT WAS CALLED MAGIC WHILE NOW IT IS CALLED ANAESTHESIA",
+    "text": "<|startoftext|> BESIDES WE MUST REMEMBER THAT THEY HAD IN THOSE TIMES MEANS OF PUTTING PATIENTS TO SLEEP AND OF SUPPRESSING ALL SUFFERING ONLY THEN IT WAS CALLED MAGIC WHILE NOW IT IS CALLED ANAESTHESIA <|endoftext|>",
     "tokens": [
+        50255,
         33,
         1546,
         42538,
@@ -60,7 +61,8 @@
         1546,
         4221,
         1546,
-        3539
+        3539,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

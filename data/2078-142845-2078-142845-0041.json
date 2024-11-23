@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0041.flac",
-    "text": "ILLUSTRATION BUNS",
+    "text": "<|startoftext|> ILLUSTRATION BUNS <|endoftext|>",
     "tokens": [
+        50255,
         8267,
         7759,
         49,
         6234,
         347,
         4944,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

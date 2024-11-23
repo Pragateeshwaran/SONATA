@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0016.flac",
-    "text": "ONCE MORE THE SINGER PLAYS AND THE LADIES DANCE BUT ONE BY ONE THEY FALL ASLEEP TO THE DROWSY MUSIC AND THEN THE SINGER STEPS INTO THE RING AND UNLOCKS THE TOWER AND KISSES THE EMPEROR'S DAUGHTER",
+    "text": "<|startoftext|> ONCE MORE THE SINGER PLAYS AND THE LADIES DANCE BUT ONE BY ONE THEY FALL ASLEEP TO THE DROWSY MUSIC AND THEN THE SINGER STEPS INTO THE RING AND UNLOCKS THE TOWER AND KISSES THE EMPEROR'S DAUGHTER <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         5222,
         12011,
@@ -66,7 +67,8 @@
         50,
         17051,
         44004,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0024.flac",
-    "text": "IT SEEMED AS IF HIS FAMILY TROUBLES WERE JUST BEGINNING",
+    "text": "<|startoftext|> IT SEEMED AS IF HIS FAMILY TROUBLES WERE JUST BEGINNING <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         7946,
         3620,
@@ -20,7 +21,8 @@
         25848,
         347,
         43312,
-        15871
+        15871,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

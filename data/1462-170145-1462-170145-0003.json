@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0003.flac",
-    "text": "OF COURSE I KNOW BARTLEY SHE SAID AT LAST THAT AFTER THIS YOU WON'T OWE ME THE LEAST CONSIDERATION BUT WE SAIL ON TUESDAY",
+    "text": "<|startoftext|> OF COURSE I KNOW BARTLEY SHE SAID AT LAST THAT AFTER THIS YOU WON'T OWE ME THE LEAST CONSIDERATION BUT WE SAIL ON TUESDAY <|endoftext|>",
     "tokens": [
+        50255,
         19238,
         37384,
         5188,
@@ -38,7 +39,8 @@
         6177,
         309,
         35409,
-        26442
+        26442,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

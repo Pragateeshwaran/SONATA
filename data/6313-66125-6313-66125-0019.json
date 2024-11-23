@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0019.flac",
-    "text": "I SEE HIM CALLED TAD HIS VOICE SOUNDING HOLLOW AND UNNATURAL TO THOSE ABOVE",
+    "text": "<|startoftext|> I SEE HIM CALLED TAD HIS VOICE SOUNDING HOLLOW AND UNNATURAL TO THOSE ABOVE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         31107,
         45909,
@@ -27,7 +28,8 @@
         14058,
         317,
         8202,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

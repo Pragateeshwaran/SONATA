@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0024.flac",
-    "text": "I SAW AND FELT THAT HE WAS NOT FIGHTING FOR GLORY BUT THAT HE WAS FIGHTING FOR HIS COUNTRY BECAUSE HE LOVED THAT COUNTRY AND HE WAS WILLING TO GIVE HIS LIFE FOR HIS COUNTRY AND THE SUCCESS OF OUR CAUSE",
+    "text": "<|startoftext|> I SAW AND FELT THAT HE WAS NOT FIGHTING FOR GLORY BUT THAT HE WAS FIGHTING FOR HIS COUNTRY BECAUSE HE LOVED THAT COUNTRY AND HE WAS WILLING TO GIVE HIS LIFE FOR HIS COUNTRY AND THE SUCCESS OF OUR CAUSE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         311,
         12298,
@@ -60,7 +61,8 @@
         3963,
         30229,
         7257,
-        19108
+        19108,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

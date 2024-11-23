@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0021.flac",
-    "text": "WE SHALL MAKE MORE MONEY UP HERE THIS WINTER THAN YOU COULD EARN IN DETROIT IN THREE YEARS",
+    "text": "<|startoftext|> WE SHALL MAKE MORE MONEY UP HERE THIS WINTER THAN YOU COULD EARN IN DETROIT IN THREE YEARS <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         50163,
         39134,
@@ -27,7 +28,8 @@
         3268,
         48697,
         32914,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0013.flac",
-    "text": "THEN WITHOUT FURTHER REMARK HE PUT HIS FINGER TO HIS LIPS FROWNED DARKLY AND DESCENDED INTO THE SMALL BOAT WHICH AWAITED US",
+    "text": "<|startoftext|> THEN WITHOUT FURTHER REMARK HE PUT HIS FINGER TO HIS LIPS FROWNED DARKLY AND DESCENDED INTO THE SMALL BOAT WHICH AWAITED US <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         42881,
@@ -41,7 +42,8 @@
         14356,
         32,
         22061,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

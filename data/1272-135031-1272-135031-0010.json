@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0010.flac",
-    "text": "IN FACT THERE IS NOTHING HE CAN DO IN THESE DOMINIONS AS WELL AS OUR NOMES WHOSE NUMBERS ARE SO GREAT THAT IT WORRIES US TO KEEP THEM ALL BUSY",
+    "text": "<|startoftext|> IN FACT THERE IS NOTHING HE CAN DO IN THESE DOMINIONS AS WELL AS OUR NOMES WHOSE NUMBERS ARE SO GREAT THAT IT WORRIES US TO KEEP THEM ALL BUSY <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         376,
         10659,
@@ -46,7 +47,8 @@
         44788,
         11096,
         43949,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

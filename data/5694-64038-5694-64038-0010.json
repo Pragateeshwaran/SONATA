@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0010.flac",
-    "text": "RIGHT BEFORE ME I SAW THE LONG DRY GRASS ALL BENDING TOWARD A COMMON CENTER AND I KNEW THAT IT WAS AN OLD WELL AND THAT MY COMRADE HAD FALLEN IN IT",
+    "text": "<|startoftext|> RIGHT BEFORE ME I SAW THE LONG DRY GRASS ALL BENDING TOWARD A COMMON CENTER AND I KNEW THAT IT WAS AN OLD WELL AND THAT MY COMRADE HAD FALLEN IN IT <|endoftext|>",
     "tokens": [
+        50255,
         49,
         9947,
         38331,
@@ -51,7 +52,8 @@
         7036,
         1677,
         3268,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

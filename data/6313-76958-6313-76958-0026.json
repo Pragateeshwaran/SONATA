@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0026.flac",
-    "text": "HE'S A FELLOW WHO'S ALL THE TIME MAKING TROUBLE ISN'T HE ASKED STACY INNOCENTLY",
+    "text": "<|startoftext|> HE'S A FELLOW WHO'S ALL THE TIME MAKING TROUBLE ISN'T HE ASKED STACY INNOCENTLY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         6,
         50,
@@ -33,7 +34,8 @@
         45,
         4503,
         3525,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0011.flac",
-    "text": "THE YOUNG INVENTOR HAD JUST NOTICED HIS FRIEND LYING PINNED BENEATH A HEAVY BEAM NEARBY",
+    "text": "<|startoftext|> THE YOUNG INVENTOR HAD JUST NOTICED HIS FRIEND LYING PINNED BENEATH A HEAVY BEAM NEARBY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         7013,
         10503,
@@ -33,7 +34,8 @@
         2390,
         10635,
         1503,
-        17513
+        17513,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

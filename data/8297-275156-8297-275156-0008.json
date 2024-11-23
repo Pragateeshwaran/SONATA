@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0008.flac",
-    "text": "BE THE RESULTS HOWEVER WHAT THEY MIGHT RANDAL COULD SEE BUT ONE PLAIN COURSE BEFORE HIM NOW",
+    "text": "<|startoftext|> BE THE RESULTS HOWEVER WHAT THEY MIGHT RANDAL COULD SEE BUT ONE PLAIN COURSE BEFORE HIM NOW <|endoftext|>",
     "tokens": [
+        50255,
         12473,
         3336,
         15731,
@@ -26,7 +27,8 @@
         5188,
         38331,
         45909,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0004.flac",
-    "text": "IN DUE TIME THE CHILD TAKES OF HIS OWN ACCORD THE ATTITUDE OF PRAYER AND SPEAKS REVERENTLY OF THE POWERS",
+    "text": "<|startoftext|> IN DUE TIME THE CHILD TAKES OF HIS OWN ACCORD THE ATTITUDE OF PRAYER AND SPEAKS REVERENTLY OF THE POWERS <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         360,
         8924,
@@ -38,7 +39,8 @@
         3963,
         3336,
         24148,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0014.flac",
-    "text": "FROM OUR BENCH WE COULD SEE WHAT A HOLLOW CASE HIS BODY WAS",
+    "text": "<|startoftext|> FROM OUR BENCH WE COULD SEE WHAT A HOLLOW CASE HIS BODY WAS <|endoftext|>",
     "tokens": [
+        50255,
         10913,
         2662,
         30229,
@@ -19,7 +20,8 @@
         33700,
         347,
         33076,
-        21725
+        21725,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

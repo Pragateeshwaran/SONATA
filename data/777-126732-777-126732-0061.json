@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0061.flac",
-    "text": "THE PROSPECT WAS AS BLACK AS THE WINDOW PANE AGAINST WHICH HE WAS LEANING HIS FOREHEAD",
+    "text": "<|startoftext|> THE PROSPECT WAS AS BLACK AS THE WINDOW PANE AGAINST WHICH HE WAS LEANING HIS FOREHEAD <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         4810,
         47053,
@@ -28,7 +29,8 @@
         33700,
         376,
         6965,
-        37682
+        37682,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

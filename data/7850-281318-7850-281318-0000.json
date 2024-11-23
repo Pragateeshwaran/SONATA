@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0000.flac",
-    "text": "SOME ARE WONDERFULLY WROUGHT PRETTY LITTLE HOMES FOR BIRDIKINS",
+    "text": "<|startoftext|> SOME ARE WONDERFULLY WROUGHT PRETTY LITTLE HOMES FOR BIRDIKINS <|endoftext|>",
     "tokens": [
+        50255,
         50,
         13649,
         15986,
@@ -29,7 +30,8 @@
         4663,
         17931,
         42,
-        20913
+        20913,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

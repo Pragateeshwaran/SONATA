@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0017.flac",
-    "text": "BESIDES THIS FACE THOSE WHO HAD BROUGHT HIM UP HAD GIVEN HIM THE RESOURCES OF A GYMNAST AND AN ATHLETE",
+    "text": "<|startoftext|> BESIDES THIS FACE THOSE WHO HAD BROUGHT HIM UP HAD GIVEN HIM THE RESOURCES OF A GYMNAST AND AN ATHLETE <|endoftext|>",
     "tokens": [
+        50255,
         33,
         1546,
         42538,
@@ -40,7 +41,8 @@
         317,
         4221,
         2538,
-        9328
+        9328,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

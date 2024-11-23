@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0021.flac",
-    "text": "SO THEY WENT ON TO THE VERANDAH AND LOOKED DOWN UPON THE LIGHTS OF THE PRISON AND LISTENED TO THE SEA LAPPING THE SHORE",
+    "text": "<|startoftext|> SO THEY WENT ON TO THE VERANDAH AND LOOKED DOWN UPON THE LIGHTS OF THE PRISON AND LISTENED TO THE SEA LAPPING THE SHORE <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         33302,
         370,
@@ -38,7 +39,8 @@
         2751,
         3336,
         6006,
-        6965
+        6965,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0010.flac",
-    "text": "SO LITTLE DID HE CONSIDER DROUET THAT IT NEVER ONCE OCCURRED TO HIM TO WORRY ABOUT HIS FINDING OUT",
+    "text": "<|startoftext|> SO LITTLE DID HE CONSIDER DROUET THAT IT NEVER ONCE OCCURRED TO HIM TO WORRY ABOUT HIS FINDING OUT <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         406,
         22470,
@@ -32,7 +33,8 @@
         376,
         12115,
         2751,
-        16289
+        16289,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

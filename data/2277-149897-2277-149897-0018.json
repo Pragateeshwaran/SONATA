@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0018.flac",
-    "text": "HE DECIDED TO WRITE HER CARE OF THE WEST SIDE POST OFFICE AND ASK FOR AN EXPLANATION AS WELL AS TO HAVE HER MEET HIM",
+    "text": "<|startoftext|> HE DECIDED TO WRITE HER CARE OF THE WEST SIDE POST OFFICE AND ASK FOR AN EXPLANATION AS WELL AS TO HAVE HER MEET HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         27196,
         2389,
@@ -37,7 +38,8 @@
         24906,
         11948,
         2767,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

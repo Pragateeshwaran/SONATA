@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0005.flac",
-    "text": "I BEGGED RUGGEDO LONG AGO TO SEND HIM AWAY BUT HE WOULD NOT DO SO",
+    "text": "<|startoftext|> I BEGGED RUGGEDO LONG AGO TO SEND HIM AWAY BUT HE WOULD NOT DO SO <|endoftext|>",
     "tokens": [
+        50255,
         40,
         347,
         7156,
@@ -27,7 +28,8 @@
         24010,
         5626,
         8410,
-        12809
+        12809,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

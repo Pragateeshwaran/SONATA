@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0023.flac",
-    "text": "IN THE HALF LIGHT HE LOOKED ABOUT AT THE STALLS AND BOXES AND SMILED A LITTLE CONSCIOUSLY RECALLING WITH AMUSEMENT SIR HARRY'S JUDICIAL FROWN",
+    "text": "<|startoftext|> IN THE HALF LIGHT HE LOOKED ABOUT AT THE STALLS AND BOXES AND SMILED A LITTLE CONSCIOUSLY RECALLING WITH AMUSEMENT SIR HARRY'S JUDICIAL FROWN <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         3336,
         42968,
@@ -52,7 +53,8 @@
         2149,
         12576,
         8782,
-        14165
+        14165,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

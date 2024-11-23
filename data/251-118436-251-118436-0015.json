@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0015.flac",
-    "text": "THEY SEEK TO SNAP THE SILVER CORD THAT BINDS ME TO MY DYING BODY",
+    "text": "<|startoftext|> THEY SEEK TO SNAP THE SILVER CORD THAT BINDS ME TO MY DYING BODY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         31107,
@@ -23,7 +24,8 @@
         360,
         45761,
         347,
-        33076
+        33076,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

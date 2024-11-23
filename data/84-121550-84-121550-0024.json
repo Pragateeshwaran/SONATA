@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0024.flac",
-    "text": "TO SAY UNTO VIRGILIUS NOT A DRACHM OF BLOOD REMAINS IN ME THAT DOES NOT TREMBLE I KNOW THE TRACES OF THE ANCIENT FLAME",
+    "text": "<|startoftext|> TO SAY UNTO VIRGILIUS NOT A DRACHM OF BLOOD REMAINS IN ME THAT DOES NOT TREMBLE I KNOW THE TRACES OF THE ANCIENT FLAME <|endoftext|>",
     "tokens": [
+        50255,
         10468,
         45687,
         4725,
@@ -43,7 +44,8 @@
         25690,
         3525,
         9977,
-        10067
+        10067,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

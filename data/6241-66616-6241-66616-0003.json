@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0003.flac",
-    "text": "A COUNTER ATTACK WAS MADE UPON WOONGA AND HE WAS DRIVEN DEEP INTO THE WILDERNESS WITH GREAT LOSS",
+    "text": "<|startoftext|> A COUNTER ATTACK WAS MADE UPON WOONGA AND HE WAS DRIVEN DEEP INTO THE WILDERNESS WITH GREAT LOSS <|endoftext|>",
     "tokens": [
+        50255,
         32,
         31404,
         5781,
@@ -33,7 +34,8 @@
         13315,
         37853,
         406,
-        18420
+        18420,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

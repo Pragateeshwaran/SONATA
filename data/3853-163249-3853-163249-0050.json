@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0050.flac",
-    "text": "MISTER POWER IS WAITING ARE YOU READY LOVE QUITE READY",
+    "text": "<|startoftext|> MISTER POWER IS WAITING ARE YOU READY LOVE QUITE READY <|endoftext|>",
     "tokens": [
+        50255,
         44,
         41517,
         40295,
@@ -17,7 +18,8 @@
         19604,
         12709,
         20832,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

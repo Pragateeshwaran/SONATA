@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0004.flac",
-    "text": "WE TOOK OUR WAY THROUGH POOR AND SPARSE MEADOWS WHICH MADE A DESPERATE EFFORT EVERY YEAR TO SHOW A LITTLE GREEN",
+    "text": "<|startoftext|> WE TOOK OUR WAY THROUGH POOR AND SPARSE MEADOWS WHICH MADE A DESPERATE EFFORT EVERY YEAR TO SHOW A LITTLE GREEN <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         5390,
         11380,
@@ -36,7 +37,8 @@
         406,
         22470,
         2538,
-        47606
+        47606,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

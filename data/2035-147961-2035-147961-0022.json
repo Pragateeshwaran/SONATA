@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0022.flac",
-    "text": "THE SHRIEKS THAT FOLLOWED MADE EVERYBODY SOBER",
+    "text": "<|startoftext|> THE SHRIEKS THAT FOLLOWED MADE EVERYBODY SOBER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         6006,
         7112,
@@ -18,7 +19,8 @@
         33076,
         311,
         9864,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

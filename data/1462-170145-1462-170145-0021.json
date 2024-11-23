@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0021.flac",
-    "text": "ALEXANDER FLUSHED ANGRILY",
+    "text": "<|startoftext|> ALEXANDER FLUSHED ANGRILY <|endoftext|>",
     "tokens": [
+        50255,
         1847,
         6369,
         6981,
@@ -11,7 +12,8 @@
         1961,
         3537,
         10761,
-        33340
+        33340,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

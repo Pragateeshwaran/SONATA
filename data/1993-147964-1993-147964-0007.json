@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147964\\1993-147964-0007.flac",
-    "text": "HE USED TO HELP MY FATHER CUT CHRISTMAS TREES FOR ME IN VIRGINIA AND HE HAD NOT FORGOTTEN HOW MUCH I LIKED THEM",
+    "text": "<|startoftext|> HE USED TO HELP MY FATHER CUT CHRISTMAS TREES FOR ME IN VIRGINIA AND HE HAD NOT FORGOTTEN HOW MUCH I LIKED THEM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         1294,
         1961,
@@ -39,7 +40,8 @@
         406,
         18694,
         1961,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

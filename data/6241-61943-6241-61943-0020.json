@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0020.flac",
-    "text": "VERY LIKELY I MAY FIND THERE SOME MANUSCRIPTS FROM THE HAND OF SAKNUSSEMM",
+    "text": "<|startoftext|> VERY LIKELY I MAY FIND THERE SOME MANUSCRIPTS FROM THE HAND OF SAKNUSSEMM <|endoftext|>",
     "tokens": [
+        50255,
         5959,
         56,
         406,
@@ -27,7 +28,8 @@
         45,
         32835,
         3620,
-        44
+        44,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

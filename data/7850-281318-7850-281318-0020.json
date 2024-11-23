@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0020.flac",
-    "text": "MUCH LUCK MAY YOU HAVE",
+    "text": "<|startoftext|> MUCH LUCK MAY YOU HAVE <|endoftext|>",
     "tokens": [
+        50255,
         42422,
         3398,
         406,
         16696,
         26720,
         7013,
-        21515
+        21515,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

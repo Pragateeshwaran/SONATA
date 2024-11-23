@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0021.flac",
-    "text": "EVERY MAN WHO ENTERED THE TWENTIES HAD HIS OWN TRAINING TRICKS",
+    "text": "<|startoftext|> EVERY MAN WHO ENTERED THE TWENTIES HAD HIS OWN TRAINING TRICKS <|endoftext|>",
     "tokens": [
+        50255,
         36,
         5959,
         56,
@@ -22,7 +23,8 @@
         2751,
         7579,
         11860,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

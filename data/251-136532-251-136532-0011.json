@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0011.flac",
-    "text": "NOW IT WAS BURNED AWAY AT BOTH SIDES AND LAY STILL HOT ALONG THE EDGES ON THE FLOOR OF THE BIG OFFICE ROOM IN FRONT",
+    "text": "<|startoftext|> NOW IT WAS BURNED AWAY AT BOTH SIDES AND LAY STILL HOT ALONG THE EDGES ON THE FLOOR OF THE BIG OFFICE ROOM IN FRONT <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         7283,
         21725,
@@ -40,7 +41,8 @@
         2662,
         3268,
         8782,
-        35830
+        35830,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

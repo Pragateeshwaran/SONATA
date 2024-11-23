@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0026.flac",
-    "text": "AS HE WENT ABOUT HIS EYES WERE EVER CAST DOWNWARDS AND HE WALKED WITH A QUICK SHUFFLING GAIT AND HE SUSPECTED OTHERS FEELING THAT HE HIMSELF WAS SUSPECTED",
+    "text": "<|startoftext|> AS HE WENT ABOUT HIS EYES WERE EVER CAST DOWNWARDS AND HE WALKED WITH A QUICK SHUFFLING GAIT AND HE SUSPECTED OTHERS FEELING THAT HE HIMSELF WAS SUSPECTED <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         11179,
         370,
@@ -56,7 +57,8 @@
         2937,
         47,
         9782,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

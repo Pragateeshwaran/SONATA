@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0009.flac",
-    "text": "SOMETIMES SCHOOLS DO LET KIDS TAKE A LOT OF SOFT COURSES AND THEN THEY'RE OUT ON A LIMB LATER HUH",
+    "text": "<|startoftext|> SOMETIMES SCHOOLS DO LET KIDS TAKE A LOT OF SOFT COURSES AND THEN THEY'RE OUT ON A LIMB LATER HUH <|endoftext|>",
     "tokens": [
+        50255,
         50,
         2662,
         2767,
@@ -38,7 +39,8 @@
         23261,
         367,
         52,
-        39
+        39,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

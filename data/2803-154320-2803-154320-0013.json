@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0013.flac",
-    "text": "SO THAT ON THAT SCORE THERE IS LITTLE OR NO DANGER",
+    "text": "<|startoftext|> SO THAT ON THAT SCORE THERE IS LITTLE OR NO DANGER <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         14603,
         6177,
@@ -17,7 +18,8 @@
         8005,
         360,
         15567,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

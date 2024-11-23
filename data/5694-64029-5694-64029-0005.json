@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0005.flac",
-    "text": "I AM A VIDET YOU KNOW THE RESPONSIBILITY RESTING ON ME",
+    "text": "<|startoftext|> I AM A VIDET YOU KNOW THE RESPONSIBILITY RESTING ON ME <|endoftext|>",
     "tokens": [
+        50255,
         40,
         3001,
         317,
@@ -17,7 +18,8 @@
         30617,
         2751,
         6177,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

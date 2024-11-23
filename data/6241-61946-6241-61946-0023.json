@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0023.flac",
-    "text": "ACCUSTOMED AS I HAD BEEN TO THE STEAM FERRY BOATS OF THE ELBE I FOUND THE LONG OARS OF THE BOATMEN BUT SORRY MEANS OF LOCOMOTION",
+    "text": "<|startoftext|> ACCUSTOMED AS I HAD BEEN TO THE STEAM FERRY BOATS OF THE ELBE I FOUND THE LONG OARS OF THE BOATMEN BUT SORRY MEANS OF LOCOMOTION <|endoftext|>",
     "tokens": [
+        50255,
         26861,
         7759,
         2662,
@@ -47,7 +48,8 @@
         37347,
         2662,
         2394,
-        2849
+        2849,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

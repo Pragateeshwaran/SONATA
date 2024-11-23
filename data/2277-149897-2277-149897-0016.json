@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0016.flac",
-    "text": "HE FANCIED AS HE SAT AT HIS DESK THAT NOTHING WOULD BE DONE FOR A WEEK OR TWO MEANWHILE HE WOULD HAVE TIME TO THINK",
+    "text": "<|startoftext|> HE FANCIED AS HE SAT AT HIS DESK THAT NOTHING WOULD BE DONE FOR A WEEK OR TWO MEANWHILE HE WOULD HAVE TIME TO THINK <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         376,
         20940,
@@ -38,7 +39,8 @@
         20460,
         5390,
         2320,
-        17248
+        17248,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0035.flac",
-    "text": "SUFFICIENT ALLOW TWO CRUMPETS TO EACH PERSON",
+    "text": "<|startoftext|> SUFFICIENT ALLOW TWO CRUMPETS TO EACH PERSON <|endoftext|>",
     "tokens": [
+        50255,
         12564,
         5777,
         2149,
@@ -15,7 +16,8 @@
         5390,
         412,
         16219,
-        46740
+        46740,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

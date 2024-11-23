@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0027.flac",
-    "text": "THE BOYS HOWLED WITH DELIGHT THAT IS ALL DID SAVE STACY BROWN",
+    "text": "<|startoftext|> THE BOYS HOWLED WITH DELIGHT THAT IS ALL DID SAVE STACY BROWN <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         16494,
         16309,
@@ -19,7 +20,8 @@
         3563,
         43300,
         11177,
-        14165
+        14165,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

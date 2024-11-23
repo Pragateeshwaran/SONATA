@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0021.flac",
-    "text": "MISTER SWIFT CAME INTO THE LIVING ROOM JUST THEN AND TOLD TOM HOW WORRIED MISSUS SWIFT AND SANDY HAD BEEN",
+    "text": "<|startoftext|> MISTER SWIFT CAME INTO THE LIVING ROOM JUST THEN AND TOLD TOM HOW WORRIED MISSUS SWIFT AND SANDY HAD BEEN <|endoftext|>",
     "tokens": [
+        50255,
         44,
         41517,
         12672,
@@ -36,7 +37,8 @@
         367,
         2885,
         9348,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

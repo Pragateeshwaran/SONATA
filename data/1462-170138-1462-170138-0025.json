@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0025.flac",
-    "text": "ALL THE SAME HE LIFTED HIS GLASS HERE'S TO YOU LITTLE HILDA",
+    "text": "<|startoftext|> ALL THE SAME HE LIFTED HIS GLASS HERE'S TO YOU LITTLE HILDA <|endoftext|>",
     "tokens": [
+        50255,
         7036,
         3336,
         311,
@@ -23,7 +24,8 @@
         2538,
         367,
         4146,
-        5631
+        5631,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

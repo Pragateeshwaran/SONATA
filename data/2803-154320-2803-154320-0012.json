@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0012.flac",
-    "text": "WILL HALLEY IS A BRUTE BUT I AM KEEPING MY EYES OPEN AND IF THE COAST LOOKS DANGEROUS I WILL PUT THE SHIP'S HEAD TO SEA AGAIN",
+    "text": "<|startoftext|> WILL HALLEY IS A BRUTE BUT I AM KEEPING MY EYES OPEN AND IF THE COAST LOOKS DANGEROUS I WILL PUT THE SHIP'S HEAD TO SEA AGAIN <|endoftext|>",
     "tokens": [
+        50255,
         54,
         8267,
         42968,
@@ -44,7 +45,8 @@
         5390,
         41067,
         36218,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

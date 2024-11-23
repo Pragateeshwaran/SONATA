@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0032.flac",
-    "text": "YOU WANT ME TO SAY IT SHE WHISPERED",
+    "text": "<|startoftext|> YOU WANT ME TO SAY IT SHE WHISPERED <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         41300,
         11948,
@@ -12,7 +13,8 @@
         7655,
         1797,
         18973,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

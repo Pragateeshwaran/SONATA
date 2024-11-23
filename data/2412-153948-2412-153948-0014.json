@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0014.flac",
-    "text": "THERE WAS NO ONE IN THE WHOLE WORLD WHO HAD THE SMALLEST IDEA SAVE THOSE WHO WERE THEMSELVES ON THE OTHER SIDE OF IT IF INDEED THERE WAS ANY ONE AT ALL COULD I HOPE TO CROSS IT",
+    "text": "<|startoftext|> THERE WAS NO ONE IN THE WHOLE WORLD WHO HAD THE SMALLEST IDEA SAVE THOSE WHO WERE THEMSELVES ON THE OTHER SIDE OF IT IF INDEED THERE WAS ANY ONE AT ALL COULD I HOPE TO CROSS IT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         21725,
@@ -58,7 +59,8 @@
         5390,
         8740,
         18420,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

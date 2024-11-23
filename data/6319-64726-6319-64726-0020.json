@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0020.flac",
-    "text": "HE TURNED TO SHOW THEM THE CASTLE BUT BEHOLD",
+    "text": "<|startoftext|> HE TURNED TO SHOW THEM THE CASTLE BUT BEHOLD <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         309,
         27064,
@@ -16,7 +17,8 @@
         21728,
         9348,
         39,
-        15173
+        15173,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

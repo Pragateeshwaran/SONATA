@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0019.flac",
-    "text": "IS PAPA ALONE ENQUIRED MISS TEMPLE",
+    "text": "<|startoftext|> IS PAPA ALONE ENQUIRED MISS TEMPLE <|endoftext|>",
     "tokens": [
+        50255,
         1797,
         350,
         2969,
@@ -14,7 +15,8 @@
         49684,
         309,
         3620,
-        16437
+        16437,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

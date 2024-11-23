@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0033.flac",
-    "text": "AT THAT HOUR THERE WAS NO ONE IN THE FAIR GROUND EXCEPT PERHAPS SOME REELING DRUNKARD MAKING STAGGERING SHADOWS IN DARK CORNERS",
+    "text": "<|startoftext|> AT THAT HOUR THERE WAS NO ONE IN THE FAIR GROUND EXCEPT PERHAPS SOME REELING DRUNKARD MAKING STAGGERING SHADOWS IN DARK CORNERS <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         14603,
         367,
@@ -42,7 +43,8 @@
         46455,
         23929,
         45,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0000.flac",
-    "text": "ARDENT IN THE PROSECUTION OF HERESY CYRIL AUSPICIOUSLY OPENED HIS REIGN BY OPPRESSING THE NOVATIANS THE MOST INNOCENT AND HARMLESS OF THE SECTARIES",
+    "text": "<|startoftext|> ARDENT IN THE PROSECUTION OF HERESY CYRIL AUSPICIOUSLY OPENED HIS REIGN BY OPPRESSING THE NOVATIANS THE MOST INNOCENT AND HARMLESS OF THE SECTARIES <|endoftext|>",
     "tokens": [
+        50255,
         9795,
         3525,
         3268,
@@ -56,7 +57,8 @@
         311,
         9782,
         1503,
-        11015
+        11015,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

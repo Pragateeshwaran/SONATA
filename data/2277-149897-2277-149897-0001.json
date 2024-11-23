@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0001.flac",
-    "text": "HE COULD HARDLY REALISE HOW IT HAD ALL COME ABOUT",
+    "text": "<|startoftext|> HE COULD HARDLY REALISE HOW IT HAD ALL COME ABOUT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         327,
         24010,
@@ -17,7 +18,8 @@
         11096,
         9440,
         36,
-        33478
+        33478,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

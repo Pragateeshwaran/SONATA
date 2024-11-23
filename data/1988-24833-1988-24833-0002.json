@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0002.flac",
-    "text": "SHE DOESN'T PICK THEM UP BUT JUST HAVING THEM IN THE ROOM SURE DOESN'T GIVE HER ASTHMA",
+    "text": "<|startoftext|> SHE DOESN'T PICK THEM UP BUT JUST HAVING THEM IN THE ROOM SURE DOESN'T GIVE HER ASTHMA <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         38359,
@@ -33,7 +34,8 @@
         24906,
         29273,
         39,
-        5673
+        5673,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0036.flac",
-    "text": "SO HERE IT WAS SPREAD OUT CLEAR BEFORE HIM AND NOW HE KNEW WHAT TO EXPECT",
+    "text": "<|startoftext|> SO HERE IT WAS SPREAD OUT CLEAR BEFORE HIM AND NOW HE KNEW WHAT TO EXPECT <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         15698,
         7283,
@@ -21,7 +22,8 @@
         25003,
         5390,
         25703,
-        9782
+        9782,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

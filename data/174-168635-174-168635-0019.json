@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0019.flac",
-    "text": "WHO KNOWS WHETHER JEAN VALJEAN HAD NOT BEEN ON THE EVE OF GROWING DISCOURAGED AND OF FALLING ONCE MORE",
+    "text": "<|startoftext|> WHO KNOWS WHETHER JEAN VALJEAN HAD NOT BEEN ON THE EVE OF GROWING DISCOURAGED AND OF FALLING ONCE MORE <|endoftext|>",
     "tokens": [
+        50255,
         41856,
         22466,
         22845,
@@ -39,7 +40,8 @@
         2751,
         6177,
         5222,
-        12011
+        12011,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0010.flac",
-    "text": "FOR WHEN I WAS A LITTLE GIRL WE ALWAYS HAD LOGS OF WOOD BLAZING IN AN OPEN FIREPLACE AND SO DID MANY OTHER PEOPLE AND COAL WAS JUST COMING INTO USE FOR FUEL",
+    "text": "<|startoftext|> FOR WHEN I WAS A LITTLE GIRL WE ALWAYS HAD LOGS OF WOOD BLAZING IN AN OPEN FIREPLACE AND SO DID MANY OTHER PEOPLE AND COAL WAS JUST COMING INTO USE FOR FUEL <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         42099,
         314,
@@ -50,7 +51,8 @@
         7473,
         376,
         52,
-        3698
+        3698,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

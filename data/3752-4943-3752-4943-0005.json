@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0005.flac",
-    "text": "A PRISONER REFRACTORY YOUR REVERENCE SAID THE WATCHMAN",
+    "text": "<|startoftext|> A PRISONER REFRACTORY YOUR REVERENCE SAID THE WATCHMAN <|endoftext|>",
     "tokens": [
+        50255,
         32,
         4810,
         39960,
@@ -18,7 +19,8 @@
         2389,
         3336,
         16518,
-        10725
+        10725,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

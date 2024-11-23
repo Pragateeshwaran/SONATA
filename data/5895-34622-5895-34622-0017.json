@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0017.flac",
-    "text": "THIS HUT IN A CORNER AT THE BACK TO THE RIGHT OF THE DOOR SERVED AS BEDCHAMBER AND DRESSING ROOM TO URSUS AND GWYNPLAINE",
+    "text": "<|startoftext|> THIS HUT IN A CORNER AT THE BACK TO THE RIGHT OF THE DOOR SERVED AS BEDCHAMBER AND DRESSING ROOM TO URSUS AND GWYNPLAINE <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         367,
         3843,
@@ -41,7 +42,8 @@
         27164,
         40760,
         45710,
-        8881
+        8881,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

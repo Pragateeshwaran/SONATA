@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0013.flac",
-    "text": "THEN THE HILLS WERE PILED UP ON TOP OF IT ALL BUT HERE AND THERE SOME EDGE OF A COAL BED WAS TILTED UP AND APPEARED ABOVE THE GROUND",
+    "text": "<|startoftext|> THEN THE HILLS WERE PILED UP ON TOP OF IT ALL BUT HERE AND THERE SOME EDGE OF A COAL BED WAS TILTED UP AND APPEARED ABOVE THE GROUND <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         3336,
@@ -47,7 +48,8 @@
         6089,
         3336,
         10863,
-        15919
+        15919,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0011.flac",
-    "text": "I EXPRESSED BY SIGNS MY ADMIRATION AND PLEASURE TO MY GUIDES AND THEY WERE GREATLY PLEASED",
+    "text": "<|startoftext|> I EXPRESSED BY SIGNS MY ADMIRATION AND PLEASURE TO MY GUIDES AND THEY WERE GREATLY PLEASED <|endoftext|>",
     "tokens": [
+        50255,
         40,
         7788,
         32761,
@@ -31,7 +32,8 @@
         11319,
         350,
         2538,
-        42827
+        42827,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

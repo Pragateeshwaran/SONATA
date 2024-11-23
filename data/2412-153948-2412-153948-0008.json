@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0008.flac",
-    "text": "IT IS SURPRISING HOW SOON THE EYE BECOMES ACCUSTOMED TO MISSING TWENTY SHEEP OUT OF TWO OR THREE HUNDRED",
+    "text": "<|startoftext|> IT IS SURPRISING HOW SOON THE EYE BECOMES ACCUSTOMED TO MISSING TWENTY SHEEP OUT OF TWO OR THREE HUNDRED <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         41016,
@@ -37,7 +38,8 @@
         48697,
         41041,
         7707,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0006.flac",
-    "text": "WE DID THE SAME WITH PHYSICIANS WHOM WE OFTEN SENT HALF DRESSED TO SOME NOBLEMAN WHO WAS ENJOYING EXCELLENT HEALTH",
+    "text": "<|startoftext|> WE DID THE SAME WITH PHYSICIANS WHOM WE OFTEN SENT HALF DRESSED TO SOME NOBLEMAN WHO WAS ENJOYING EXCELLENT HEALTH <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         35697,
         3336,
@@ -42,7 +43,8 @@
         3069,
         3525,
         11179,
-        40818
+        40818,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

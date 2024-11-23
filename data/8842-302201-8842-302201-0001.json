@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0001.flac",
-    "text": "WHICH THING BEING THUS THERE CAME A DAY WHEN CERTAIN LADIES TO WHOM IT WAS WELL KNOWN THEY HAVING BEEN WITH ME AT DIVERS TIMES IN MY TROUBLE WERE MET TOGETHER FOR THE PLEASURE OF GENTLE COMPANY",
+    "text": "<|startoftext|> WHICH THING BEING THUS THERE CAME A DAY WHEN CERTAIN LADIES TO WHOM IT WAS WELL KNOWN THEY HAVING BEEN WITH ME AT DIVERS TIMES IN MY TROUBLE WERE MET TOGETHER FOR THE PLEASURE OF GENTLE COMPANY <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         20739,
         2320,
@@ -66,7 +67,8 @@
         3525,
         2538,
         24301,
-        31827
+        31827,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

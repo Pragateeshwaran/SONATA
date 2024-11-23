@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0027.flac",
-    "text": "I'LL HAVE TO CHECK SOME MORE SAYS TOM",
+    "text": "<|startoftext|> I'LL HAVE TO CHECK SOME MORE SAYS TOM <|endoftext|>",
     "tokens": [
+        50255,
         40,
         6,
         3069,
@@ -13,7 +14,8 @@
         12011,
         45687,
         50,
-        41526
+        41526,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0001.flac",
-    "text": "THEN WHY INDULGE IN PROPHETIC PHANTASIES",
+    "text": "<|startoftext|> THEN WHY INDULGE IN PROPHETIC PHANTASIES <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         44463,
@@ -17,7 +18,8 @@
         9370,
         8643,
         1921,
-        11015
+        11015,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

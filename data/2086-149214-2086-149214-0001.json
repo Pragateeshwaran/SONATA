@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149214\\2086-149214-0001.flac",
-    "text": "IN GOOD FAITH HOWEVER HE IS NOT SUFFICIENTLY IMAGINATIVE TO FLATTER HIMSELF WITH THE SLIGHTEST HOPE OF THIS KIND",
+    "text": "<|startoftext|> IN GOOD FAITH HOWEVER HE IS NOT SUFFICIENTLY IMAGINATIVE TO FLATTER HIMSELF WITH THE SLIGHTEST HOPE OF THIS KIND <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         21090,
         9677,
@@ -38,7 +39,8 @@
         3963,
         12680,
         509,
-        12115
+        12115,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

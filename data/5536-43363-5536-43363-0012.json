@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0012.flac",
-    "text": "THIS WAS ONLY ONE OF HIS REMARKABLE PROPHECIES",
+    "text": "<|startoftext|> THIS WAS ONLY ONE OF HIS REMARKABLE PROPHECIES <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         21725,
         22224,
@@ -15,7 +16,8 @@
         3185,
         39,
         2943,
-        11015
+        11015,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

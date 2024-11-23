@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0004.flac",
-    "text": "ONLY AS HE WAS FIVE AND FIFTY AND COSETTE EIGHT YEARS OF AGE ALL THAT MIGHT HAVE BEEN LOVE IN THE WHOLE COURSE OF HIS LIFE FLOWED TOGETHER INTO A SORT OF INEFFABLE LIGHT",
+    "text": "<|startoftext|> ONLY AS HE WAS FIVE AND FIFTY AND COSETTE EIGHT YEARS OF AGE ALL THAT MIGHT HAVE BEEN LOVE IN THE WHOLE COURSE OF HIS LIFE FLOWED TOGETHER INTO A SORT OF INEFFABLE LIGHT <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         11319,
         7054,
@@ -57,7 +58,8 @@
         37267,
         17534,
         406,
-        9947
+        9947,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

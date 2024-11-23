@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0058.flac",
-    "text": "YES MISS CLARKE THE MIDDLE AGED LADY WITH THE PARRISHES",
+    "text": "<|startoftext|> YES MISS CLARKE THE MIDDLE AGED LADY WITH THE PARRISHES <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         49684,
         7852,
@@ -21,7 +22,8 @@
         350,
         26465,
         18422,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0009.flac",
-    "text": "IT'S DELIGHTFUL TO HEAR IT IN A LONDON THEATRE",
+    "text": "<|startoftext|> IT'S DELIGHTFUL TO HEAR IT IN A LONDON THEATRE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         6,
         50,
@@ -18,7 +19,8 @@
         47383,
         3336,
         1404,
-        2200
+        2200,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

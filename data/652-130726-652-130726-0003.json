@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0003.flac",
-    "text": "HERE AS WELL AS IN A NUMBER OF OTHER PLACES ONE CAN WELL APPRECIATE THE COLLOQUIAL DEFINITION OF CABARET",
+    "text": "<|startoftext|> HERE AS WELL AS IN A NUMBER OF OTHER PLACES ONE CAN WELL APPRECIATE THE COLLOQUIAL DEFINITION OF CABARET <|endoftext|>",
     "tokens": [
+        50255,
         39,
         9338,
         7054,
@@ -38,7 +39,8 @@
         327,
         6242,
         1503,
-        2767
+        2767,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

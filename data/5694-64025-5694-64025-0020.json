@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0020.flac",
-    "text": "MULE DID NOT DESIRE TO CROSS WHILE I WAS TRYING TO PERSUADE HIM WITH A BIG STICK A ROCK IN HIS EAR AND A TWISTER ON HIS NOSE",
+    "text": "<|startoftext|> MULE DID NOT DESIRE TO CROSS WHILE I WAS TRYING TO PERSUADE HIM WITH A BIG STICK A ROCK IN HIS EAR AND A TWISTER ON HIS NOSE <|endoftext|>",
     "tokens": [
+        50255,
         44,
         24212,
         35697,
@@ -40,7 +41,8 @@
         6177,
         33700,
         399,
-        14058
+        14058,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

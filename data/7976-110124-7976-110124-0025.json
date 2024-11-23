@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0025.flac",
-    "text": "ALL MY WORRIES ABOUT YOU WERE FOOLISH",
+    "text": "<|startoftext|> ALL MY WORRIES ABOUT YOU WERE FOOLISH <|endoftext|>",
     "tokens": [
+        50255,
         7036,
         17615,
         21881,
@@ -13,7 +14,8 @@
         9338,
         11895,
         3535,
-        18422
+        18422,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

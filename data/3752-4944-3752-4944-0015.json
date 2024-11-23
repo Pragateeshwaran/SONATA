@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0015.flac",
-    "text": "WELL NOW SAID MEEKIN WITH ASPERITY I DON'T AGREE WITH YOU",
+    "text": "<|startoftext|> WELL NOW SAID MEEKIN WITH ASPERITY I DON'T AGREE WITH YOU <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         3069,
         20229,
@@ -21,7 +22,8 @@
         13077,
         11587,
         13315,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

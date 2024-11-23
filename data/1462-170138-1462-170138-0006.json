@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0006.flac",
-    "text": "WHEN THEY ENTERED THE STAGE BOX ON THE LEFT THE FIRST ACT WAS WELL UNDER WAY THE SCENE BEING THE INTERIOR OF A CABIN IN THE SOUTH OF IRELAND",
+    "text": "<|startoftext|> WHEN THEY ENTERED THE STAGE BOX ON THE LEFT THE FIRST ACT WAS WELL UNDER WAY THE SCENE BEING THE INTERIOR OF A CABIN IN THE SOUTH OF IRELAND <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         33302,
@@ -43,7 +44,8 @@
         3963,
         314,
         16448,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

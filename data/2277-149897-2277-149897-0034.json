@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0034.flac",
-    "text": "DEAR SIR WE BEG TO INFORM YOU THAT WE ARE INSTRUCTED TO WAIT UNTIL TO MORROW THURSDAY AT ONE O'CLOCK BEFORE FILING SUIT AGAINST YOU ON BEHALF OF MISSUS JULIA HURSTWOOD FOR DIVORCE AND ALIMONY",
+    "text": "<|startoftext|> DEAR SIR WE BEG TO INFORM YOU THAT WE ARE INSTRUCTED TO WAIT UNTIL TO MORROW THURSDAY AT ONE O'CLOCK BEFORE FILING SUIT AGAINST YOU ON BEHALF OF MISSUS JULIA HURSTWOOD FOR DIVORCE AND ALIMONY <|endoftext|>",
     "tokens": [
+        50255,
         7206,
         1503,
         311,
@@ -69,7 +70,8 @@
         5357,
         8355,
         3955,
-        40508
+        40508,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

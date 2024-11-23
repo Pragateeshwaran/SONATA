@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0014.flac",
-    "text": "THE HONEYSUCKLE ESCAPED NO BETTER AND THE CARNATION WAS READY TO DIE OF VEXATION AT FINDING THAT HER COVETED FREEDOM HAD LEVELLED HER TO THE DIRT",
+    "text": "<|startoftext|> THE HONEYSUCKLE ESCAPED NO BETTER AND THE CARNATION WAS READY TO DIE OF VEXATION AT FINDING THAT HER COVETED FREEDOM HAD LEVELLED HER TO THE DIRT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         367,
         11651,
@@ -52,7 +53,8 @@
         5390,
         3336,
         360,
-        48771
+        48771,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

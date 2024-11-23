@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0008.flac",
-    "text": "AT THE END OF IT SHE WAS IN A PLACE OF TOMBS",
+    "text": "<|startoftext|> AT THE END OF IT SHE WAS IN A PLACE OF TOMBS <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         3336,
         23578,
@@ -15,7 +16,8 @@
         11598,
         3963,
         41526,
-        4462
+        4462,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

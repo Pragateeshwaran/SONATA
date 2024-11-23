@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0006.flac",
-    "text": "NOW IT IS A REMARKABLE THING THAT I HAVE ALWAYS HAD AN EXTRAORDINARY PREDILECTION FOR THE NAME MADGE I DO NOT KNOW WHY",
+    "text": "<|startoftext|> NOW IT IS A REMARKABLE THING THAT I HAVE ALWAYS HAD AN EXTRAORDINARY PREDILECTION FOR THE NAME MADGE I DO NOT KNOW WHY <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         7283,
         3180,
@@ -37,7 +38,8 @@
         8410,
         5626,
         35876,
-        44463
+        44463,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

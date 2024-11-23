@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0010.flac",
-    "text": "NO DOUBT MANY PREDICTIONS HAVE BEEN COLORED TO SUIT THE NEW AGE AND UNQUESTIONABLY FALSE PROPHETS FAKIRS AND CONJURERS HAVE BECOME THE PEST OF THE TRIBES DURING THE TRANSITION PERIOD",
+    "text": "<|startoftext|> NO DOUBT MANY PREDICTIONS HAVE BEEN COLORED TO SUIT THE NEW AGE AND UNQUESTIONABLY FALSE PROPHETS FAKIRS AND CONJURERS HAVE BECOME THE PEST OF THE TRIBES DURING THE TRANSITION PERIOD <|endoftext|>",
     "tokens": [
+        50255,
         15285,
         360,
         2606,
@@ -64,7 +65,8 @@
         17941,
         19878,
         40,
-        3727
+        3727,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

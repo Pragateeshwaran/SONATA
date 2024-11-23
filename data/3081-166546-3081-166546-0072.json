@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0072.flac",
-    "text": "THERE WAS NO DOUBTING THEM IN THIS INSTANCE",
+    "text": "<|startoftext|> THERE WAS NO DOUBTING THEM IN THIS INSTANCE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         21725,
@@ -14,7 +15,8 @@
         3268,
         12680,
         40589,
-        19240
+        19240,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

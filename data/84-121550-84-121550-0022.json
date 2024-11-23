@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0022.flac",
-    "text": "AS SOON AS ON MY VISION SMOTE THE POWER SUBLIME THAT HAD ALREADY PIERCED ME THROUGH ERE FROM MY BOYHOOD I HAD YET COME FORTH",
+    "text": "<|startoftext|> AS SOON AS ON MY VISION SMOTE THE POWER SUBLIME THAT HAD ALREADY PIERCED ME THROUGH ERE FROM MY BOYHOOD I HAD YET COME FORTH <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         12809,
         1340,
@@ -45,7 +46,8 @@
         9440,
         36,
         7473,
-        4221
+        4221,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

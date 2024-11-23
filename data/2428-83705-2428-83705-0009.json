@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0009.flac",
-    "text": "THAT'S IT ON YOUR ACCOUNT",
+    "text": "<|startoftext|> THAT'S IT ON YOUR ACCOUNT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         6,
@@ -10,7 +11,8 @@
         6177,
         16592,
         15859,
-        28270
+        28270,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

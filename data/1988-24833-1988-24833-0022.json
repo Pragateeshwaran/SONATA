@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0022.flac",
-    "text": "I TOLD TOM WE SHOULDN'T COME SO LATE SAYS HILDA",
+    "text": "<|startoftext|> I TOLD TOM WE SHOULDN'T COME SO LATE SAYS HILDA <|endoftext|>",
     "tokens": [
+        50255,
         40,
         309,
         15173,
@@ -20,7 +21,8 @@
         50,
         367,
         4146,
-        5631
+        5631,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

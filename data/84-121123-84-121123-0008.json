@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0008.flac",
-    "text": "OH YOU RAVE SIR EXCLAIMED VILLEFORT IN VAIN ENDEAVORING TO ESCAPE THE NET IN WHICH HE WAS TAKEN I RAVE",
+    "text": "<|startoftext|> OH YOU RAVE SIR EXCLAIMED VILLEFORT IN VAIN ENDEAVORING TO ESCAPE THE NET IN WHICH HE WAS TAKEN I RAVE <|endoftext|>",
     "tokens": [
+        50255,
         12096,
         7013,
         17926,
@@ -38,7 +39,8 @@
         1677,
         314,
         17926,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

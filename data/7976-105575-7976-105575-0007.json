@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0007.flac",
-    "text": "THAT NIGHT THE ENEMY SLIPPED AWAY LEAVING HUNDREDS AND HUNDREDS OF HIS DEAD AND WOUNDED ON THE FIELD",
+    "text": "<|startoftext|> THAT NIGHT THE ENEMY SLIPPED AWAY LEAVING HUNDREDS AND HUNDREDS OF HIS DEAD AND WOUNDED ON THE FIELD <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         37707,
@@ -36,7 +37,8 @@
         6177,
         3336,
         18930,
-        24639
+        24639,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

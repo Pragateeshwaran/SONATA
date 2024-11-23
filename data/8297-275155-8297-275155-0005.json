@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0005.flac",
-    "text": "MISSUS NORMAN AND HER LITTLE DAUGHTER WERE OUT DRIVING WITH A FRIEND AND WERE EXPECTED TO RETURN IN GOOD TIME FOR DINNER",
+    "text": "<|startoftext|> MISSUS NORMAN AND HER LITTLE DAUGHTER WERE OUT DRIVING WITH A FRIEND AND WERE EXPECTED TO RETURN IN GOOD TIME FOR DINNER <|endoftext|>",
     "tokens": [
+        50255,
         44,
         16744,
         2937,
@@ -40,7 +41,8 @@
         7473,
         360,
         1268,
-        21479
+        21479,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

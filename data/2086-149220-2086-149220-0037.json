@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0037.flac",
-    "text": "SINCE YOU ARE A FRIEND OF MY COUSIN HEPZIBAH'S YOU SHOULD ASK HER TO SHOW YOU THE PICTURE",
+    "text": "<|startoftext|> SINCE YOU ARE A FRIEND OF MY COUSIN HEPZIBAH'S YOU SHOULD ASK HER TO SHOW YOU THE PICTURE <|endoftext|>",
     "tokens": [
+        50255,
         50,
         1268,
         5222,
@@ -33,7 +34,8 @@
         3336,
         350,
         18379,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

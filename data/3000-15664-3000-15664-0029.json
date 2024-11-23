@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0029.flac",
-    "text": "THEN FELL THE GLOAMING MAKING EVERYTHING STILL MORE FORBIDDING AND MYSTERIOUS",
+    "text": "<|startoftext|> THEN FELL THE GLOAMING MAKING EVERYTHING STILL MORE FORBIDDING AND MYSTERIOUS <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         18630,
@@ -27,7 +28,8 @@
         17615,
         41809,
         40,
-        20958
+        20958,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

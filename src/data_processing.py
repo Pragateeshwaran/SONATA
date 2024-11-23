@@ -9,6 +9,14 @@ storage_dir = r'./data'
 # Initialize tiktoken encoder
 encoder = tiktoken.get_encoding("gpt2")  # Using OpenAI's GPT-2 encoding
 
+# Define SOS and EOS tokens with different characters to ensure different IDs
+SOS_TOKEN = "<|startoftext|>"  # This is a common token ID in GPT-2
+EOS_TOKEN = "<|endoftext|>"    # This is a common token ID in GPT-2
+
+# Get the token IDs for SOS and EOS tokens
+SOS_TOKENS = [50255]  # Common special token ID for start
+EOS_TOKENS = [50256]  # Common special token ID for end
+
 def process_folder(folder_path):
     """Process a folder containing .flac and .txt files."""
     try:
@@ -46,11 +54,13 @@ def process_folder(folder_path):
                 parts = line.strip().split(' ', 1)
                 if len(parts) == 2:
                     file_id, text = parts
+                    # Add SOS and EOS tokens to the text
+                    full_text = f"{SOS_TOKEN} {text} {EOS_TOKEN}"
                     # Encode the text using tiktoken
                     encoded_text = encoder.encode(text)
                     transcripts[file_id] = {
-                        "text": text,
-                        "tokens": list(encoded_text)
+                        "text": full_text,  # Store the text with tokens
+                        "tokens": SOS_TOKENS + list(encoded_text) + EOS_TOKENS  # Add distinct token IDs
                     }
 
         # Process each .flac file and create individual JSON files
@@ -83,6 +93,9 @@ def process_folder(folder_path):
                 print(f"Created: {json_filename}")
                 print(f"        Text: {mapping['text'][:50]}...")
                 print(f"        Tokens: {mapping['tokens'][:10]}... (total tokens: {len(mapping['tokens'])})")
+                # Print the first few and last few tokens to verify SOS and EOS
+                print(f"        First tokens: {mapping['tokens'][:3]}")
+                print(f"        Last tokens: {mapping['tokens'][-3:]}")
             else:
                 print(f"Warning: No transcript found for {flac_file}")
         

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0019.flac",
-    "text": "IN THE MEANTIME THERE IS NOT AN HOUR TO LOSE",
+    "text": "<|startoftext|> IN THE MEANTIME THERE IS NOT AN HOUR TO LOSE <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         3336,
         11948,
@@ -15,7 +16,8 @@
         11698,
         5390,
         406,
-        14058
+        14058,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

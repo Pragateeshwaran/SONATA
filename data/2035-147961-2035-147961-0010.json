@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0010.flac",
-    "text": "HE SEEMED TO BE CURSING PEOPLE WHO HAD WRONGED HIM",
+    "text": "<|startoftext|> HE SEEMED TO BE CURSING PEOPLE WHO HAD WRONGED HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         7946,
         3620,
@@ -19,7 +20,8 @@
         11342,
         18494,
         1961,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

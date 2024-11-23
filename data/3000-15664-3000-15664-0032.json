@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0032.flac",
-    "text": "THE DUCKS LESS WARY KEPT THEIR PLACES MERELY SWIMMING IN AND OUT THROUGH OPENINGS IN THE RUSHES RIPPLING THE GLASSY WATER AND RAISING SPANGLES IN THEIR WAKE",
+    "text": "<|startoftext|> THE DUCKS LESS WARY KEPT THEIR PLACES MERELY SWIMMING IN AND OUT THROUGH OPENINGS IN THE RUSHES RIPPLING THE GLASSY WATER AND RAISING SPANGLES IN THEIR WAKE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         360,
         16696,
@@ -55,7 +56,8 @@
         3268,
         47278,
         16400,
-        7336
+        7336,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

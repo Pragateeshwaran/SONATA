@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0010.flac",
-    "text": "HE WAS BEATEN FOR TO NIGHT AND HE MIGHT JUST AS WELL MAKE THE BEST OF IT",
+    "text": "<|startoftext|> HE WAS BEATEN FOR TO NIGHT AND HE MIGHT JUST AS WELL MAKE THE BEST OF IT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         9348,
@@ -22,7 +23,8 @@
         3336,
         38502,
         3963,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

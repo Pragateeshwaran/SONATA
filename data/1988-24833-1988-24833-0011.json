@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0011.flac",
-    "text": "BESIDES SAYS TOM HALF THE REASON YOU AND YOUR FATHER ARE ALWAYS BICKERING IS THAT YOU'RE SO MUCH ALIKE ME LIKE HIM SURE",
+    "text": "<|startoftext|> BESIDES SAYS TOM HALF THE REASON YOU AND YOUR FATHER ARE ALWAYS BICKERING IS THAT YOU'RE SO MUCH ALIKE ME LIKE HIM SURE <|endoftext|>",
     "tokens": [
+        50255,
         33,
         1546,
         42538,
@@ -38,7 +39,8 @@
         34178,
         45909,
         311,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

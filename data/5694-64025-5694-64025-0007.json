@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0007.flac",
-    "text": "THAT'S RIGHT MY BRAVE FIRST TENNESSEE GIVE EM HAIL COLUMBIA",
+    "text": "<|startoftext|> THAT'S RIGHT MY BRAVE FIRST TENNESSEE GIVE EM HAIL COLUMBIA <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         6,
@@ -23,7 +24,8 @@
         20444,
         5883,
         3483,
-        32
+        32,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0007.flac",
-    "text": "THE FLOORS WERE COVERED WITH MATTING AND THE HALL LAID WITH A THIN RAG CARPET",
+    "text": "<|startoftext|> THE FLOORS WERE COVERED WITH MATTING AND THE HALL LAID WITH A THIN RAG CARPET <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         9977,
         46,
@@ -27,7 +28,8 @@
         371,
         4760,
         17368,
-        47731
+        47731,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

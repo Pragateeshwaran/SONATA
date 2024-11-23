@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0019.flac",
-    "text": "THE FIRST HOWLS WERE TAKEN UP AND ECHOED AND WITH QUICKENING REPETITIONS",
+    "text": "<|startoftext|> THE FIRST HOWLS WERE TAKEN UP AND ECHOED AND WITH QUICKENING REPETITIONS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         31328,
         29630,
@@ -25,7 +26,8 @@
         4526,
         47731,
         2043,
-        11053
+        11053,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0004.flac",
-    "text": "THE WHOLE THING WAS A TRIFLE ODD",
+    "text": "<|startoftext|> THE WHOLE THING WAS A TRIFLE ODD <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         19494,
         2538,
@@ -13,7 +14,8 @@
         5064,
         2538,
         440,
-        16458
+        16458,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

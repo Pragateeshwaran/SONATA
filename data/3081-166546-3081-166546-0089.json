@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0089.flac",
-    "text": "IT DID NOT FALL UPON THE FLOOR AROUND HER THEREFORE IT FLEW THROUGH ONE OF THOSE OPENINGS INTO THE LOBBY AND THERE IT EITHER WILL BE OR HAS BEEN FOUND",
+    "text": "<|startoftext|> IT DID NOT FALL UPON THE FLOOR AROUND HER THEREFORE IT FLEW THROUGH ONE OF THOSE OPENINGS INTO THE LOBBY AND THERE IT EITHER WILL BE OR HAS BEEN FOUND <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         35697,
         5626,
@@ -48,7 +49,8 @@
         9348,
         1677,
         376,
-        15919
+        15919,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0001.flac",
-    "text": "SOMEHOW OR OTHER CAT HAS TAUGHT THEM THAT HE'S IN CHARGE HERE AND HE JUST CHASES THEM FOR FUN NOW AND AGAIN WHEN HE'S NOT BUSY SLEEPING",
+    "text": "<|startoftext|> SOMEHOW OR OTHER CAT HAS TAUGHT THEM THAT HE'S IN CHARGE HERE AND HE JUST CHASES THEM FOR FUN NOW AND AGAIN WHEN HE'S NOT BUSY SLEEPING <|endoftext|>",
     "tokens": [
+        50255,
         50,
         13649,
         37181,
@@ -44,7 +45,8 @@
         311,
         2538,
         8905,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

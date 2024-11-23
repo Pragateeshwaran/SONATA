@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0007.flac",
-    "text": "OF COURSE IT AIN'T SAID MISSUS BOZZLE",
+    "text": "<|startoftext|> OF COURSE IT AIN'T SAID MISSUS BOZZLE <|endoftext|>",
     "tokens": [
+        50255,
         19238,
         37384,
         5188,
@@ -16,7 +17,8 @@
         2937,
         16494,
         30148,
-        2538
+        2538,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

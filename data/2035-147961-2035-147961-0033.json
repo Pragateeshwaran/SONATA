@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0033.flac",
-    "text": "THEY WERE RUN OUT OF THEIR VILLAGE",
+    "text": "<|startoftext|> THEY WERE RUN OUT OF THEIR VILLAGE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         370,
@@ -12,7 +13,8 @@
         47278,
         569,
         8267,
-        11879
+        11879,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

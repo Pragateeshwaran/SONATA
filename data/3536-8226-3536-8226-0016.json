@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0016.flac",
-    "text": "DOES ONE MISTER SAMUEL BOZZLE LIVE HERE ASKED TREVELYAN",
+    "text": "<|startoftext|> DOES ONE MISTER SAMUEL BOZZLE LIVE HERE ASKED TREVELYAN <|endoftext|>",
     "tokens": [
+        50255,
         18227,
         1546,
         16329,
@@ -21,7 +22,8 @@
         43236,
         18697,
         56,
-        1565
+        1565,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

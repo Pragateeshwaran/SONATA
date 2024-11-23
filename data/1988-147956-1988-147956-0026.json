@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0026.flac",
-    "text": "WE WERE SO DEEP IN THE GRASS THAT WE COULD SEE NOTHING BUT THE BLUE SKY OVER US AND THE GOLD TREE IN FRONT OF US",
+    "text": "<|startoftext|> WE WERE SO DEEP IN THE GRASS THAT WE COULD SEE NOTHING BUT THE BLUE SKY OVER US AND THE GOLD TREE IN FRONT OF US <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         370,
         9338,
@@ -37,7 +38,8 @@
         8782,
         35830,
         3963,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0011.flac",
-    "text": "BUT NOW IT DOESN'T SEEM TO MATTER VERY MUCH",
+    "text": "<|startoftext|> BUT NOW IT DOESN'T SEEM TO MATTER VERY MUCH <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         20229,
         7283,
@@ -15,7 +16,8 @@
         36775,
         5781,
         29550,
-        45859
+        45859,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

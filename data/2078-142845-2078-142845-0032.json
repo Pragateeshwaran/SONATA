@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0032.flac",
-    "text": "SOYER RECOMMENDS THAT EACH SLICE SHOULD BE CUT INTO PIECES AS SOON AS IT IS BUTTERED AND WHEN ALL ARE READY THAT THEY SHOULD BE PILED LIGHTLY ON THE DISH THEY ARE INTENDED TO BE SERVED ON",
+    "text": "<|startoftext|> SOYER RECOMMENDS THAT EACH SLICE SHOULD BE CUT INTO PIECES AS SOON AS IT IS BUTTERED AND WHEN ALL ARE READY THAT THEY SHOULD BE PILED LIGHTLY ON THE DISH THEY ARE INTENDED TO BE SERVED ON <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         56,
         1137,
@@ -59,7 +60,8 @@
         9348,
         42887,
         1961,
-        6177
+        6177,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

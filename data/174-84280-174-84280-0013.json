@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0013.flac",
-    "text": "IN MARY IT SEEMS TO ME I FOUND BOTH WOMANHOOD AND FELLOWSHIP I FOUND WHAT MANY HAVE DREAMT OF LOVE AND FRIENDSHIP FREELY GIVEN AND I COULD DO NOTHING BUT CLUTCH AT HER TO MAKE HER MY POSSESSION",
+    "text": "<|startoftext|> IN MARY IT SEEMS TO ME I FOUND BOTH WOMANHOOD AND FELLOWSHIP I FOUND WHAT MANY HAVE DREAMT OF LOVE AND FRIENDSHIP FREELY GIVEN AND I COULD DO NOTHING BUT CLUTCH AT HER TO MAKE HER MY POSSESSION <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         337,
         13153,
@@ -66,7 +67,8 @@
         17615,
         350,
         18420,
-        47621
+        47621,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

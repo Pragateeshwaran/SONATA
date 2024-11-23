@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0008.flac",
-    "text": "HE BURIED HIS BISCUIT UNDER A LAYER OF JAM OVER WHICH HE SPREAD A THICK COATING OF HONEY",
+    "text": "<|startoftext|> HE BURIED HIS BISCUIT UNDER A LAYER OF JAM OVER WHICH HE SPREAD A THICK COATING OF HONEY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         45604,
         19767,
@@ -31,7 +32,8 @@
         33881,
         3963,
         367,
-        48399
+        48399,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

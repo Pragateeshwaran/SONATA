@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0000.flac",
-    "text": "I BEGAN TO ENJOY THE EXHILARATING DELIGHT OF TRAVELING A LIFE OF DESIRE GRATIFICATION AND LIBERTY",
+    "text": "<|startoftext|> I BEGAN TO ENJOY THE EXHILARATING DELIGHT OF TRAVELING A LIFE OF DESIRE GRATIFICATION AND LIBERTY <|endoftext|>",
     "tokens": [
+        50255,
         40,
         347,
         7156,
@@ -34,7 +35,8 @@
         5357,
         45651,
         1137,
-        9936
+        9936,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0008.flac",
-    "text": "HERE IS SOMETHING DIFFERENT ROUNDED LIKE A NUT SHELL YOU CAN SPLIT OFF ONE SIDE AND BEHOLD THERE IS THE NUT LYING SNUGLY AS DOES ANY CHESTNUT IN ITS BUR",
+    "text": "<|startoftext|> HERE IS SOMETHING DIFFERENT ROUNDED LIKE A NUT SHELL YOU CAN SPLIT OFF ONE SIDE AND BEHOLD THERE IS THE NUT LYING SNUGLY AS DOES ANY CHESTNUT IN ITS BUR <|endoftext|>",
     "tokens": [
+        50255,
         39,
         9338,
         3180,
@@ -52,7 +53,8 @@
         3843,
         3268,
         42437,
-        45604
+        45604,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0016.flac",
-    "text": "FORTUNATELY THERE WAS NOTHING FROM HIS WIFE EITHER",
+    "text": "<|startoftext|> FORTUNATELY THERE WAS NOTHING FROM HIS WIFE EITHER <|endoftext|>",
     "tokens": [
+        50255,
         37,
         9863,
         4944,
@@ -18,7 +19,8 @@
         29150,
         412,
         10554,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0029.flac",
-    "text": "THEY HAD A GREAT FRIEND IN THIS UNKNOWN VISITOR",
+    "text": "<|startoftext|> THEY HAD A GREAT FRIEND IN THIS UNKNOWN VISITOR <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         367,
@@ -16,7 +17,8 @@
         44706,
         50035,
         2043,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0001.flac",
-    "text": "IT IS DISGRACEFUL",
+    "text": "<|startoftext|> IT IS DISGRACEFUL <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         13954,
         10761,
         11598,
-        46476
+        46476,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

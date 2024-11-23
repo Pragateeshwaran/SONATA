@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0010.flac",
-    "text": "THE SKY WAS VISIBLE THROUGH SEVERAL GAPING HOLES IN THE ROOF WHICH WAS SAGGING DANGEROUSLY ON ITS SUPPORTING TRUSSES",
+    "text": "<|startoftext|> THE SKY WAS VISIBLE THROUGH SEVERAL GAPING HOLES IN THE ROOF WHICH WAS SAGGING DANGEROUSLY ON ITS SUPPORTING TRUSSES <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         14277,
         56,
@@ -42,7 +43,8 @@
         2751,
         7579,
         32835,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0008.flac",
-    "text": "MASTER TAD IS RIGHT DECIDED THE GUIDE GAZING AT THE TWO BOYS APPROVINGLY",
+    "text": "<|startoftext|> MASTER TAD IS RIGHT DECIDED THE GUIDE GAZING AT THE TWO BOYS APPROVINGLY <|endoftext|>",
     "tokens": [
+        50255,
         31180,
         5781,
         309,
@@ -25,7 +26,8 @@
         3486,
         41283,
         2751,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0007.flac",
-    "text": "WELL OUR LOWER LIPS ANYWAY ANSWERED THE NYMPH",
+    "text": "<|startoftext|> WELL OUR LOWER LIPS ANYWAY ANSWERED THE NYMPH <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         3069,
         30229,
@@ -18,7 +19,8 @@
         3336,
         6645,
         7378,
-        39
+        39,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0058.flac",
-    "text": "THERE IS NO OCCUPATION THAT FAILS A MAN MORE COMPLETELY THAN THAT OF A SECRET AGENT OF POLICE",
+    "text": "<|startoftext|> THERE IS NO OCCUPATION THAT FAILS A MAN MORE COMPLETELY THAN THAT OF A SECRET AGENT OF POLICE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         3180,
@@ -30,7 +31,8 @@
         3525,
         3963,
         20634,
-        8476
+        8476,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

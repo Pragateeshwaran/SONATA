@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0015.flac",
-    "text": "HERE THE HOLY PRELATE OF FERNS MET HIM AND RELATED A VISION IN WHICH HE HAD BEEN INSTRUCTED TO DEMAND THE ABOLITION OF THE IMPOST",
+    "text": "<|startoftext|> HERE THE HOLY PRELATE OF FERNS MET HIM AND RELATED A VISION IN WHICH HE HAD BEEN INSTRUCTED TO DEMAND THE ABOLITION OF THE IMPOST <|endoftext|>",
     "tokens": [
+        50255,
         39,
         9338,
         3336,
@@ -43,7 +44,8 @@
         3963,
         3336,
         30023,
-        10892
+        10892,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

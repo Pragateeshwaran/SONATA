@@ -1,11 +1,13 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0018.flac",
-    "text": "WHAT DOES HE WANT",
+    "text": "<|startoftext|> WHAT DOES HE WANT <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         38359,
         11179,
-        41300
+        41300,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

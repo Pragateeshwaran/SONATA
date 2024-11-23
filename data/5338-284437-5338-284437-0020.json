@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0020.flac",
-    "text": "THEREFORE I AM A MERE AGENT TO DIRECT THE LAWS WHICH ARE THE WILL OF THE PEOPLE AND AM ONLY A PUBLIC SERVANT OBLIGED CONSTANTLY TO GUARD THE WELFARE OF MY SUBJECTS",
+    "text": "<|startoftext|> THEREFORE I AM A MERE AGENT TO DIRECT THE LAWS WHICH ARE THE WILL OF THE PEOPLE AND AM ONLY A PUBLIC SERVANT OBLIGED CONSTANTLY TO GUARD THE WELFARE OF MY SUBJECTS <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         30818,
@@ -52,7 +53,8 @@
         28932,
         41,
         2943,
-        4694
+        4694,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

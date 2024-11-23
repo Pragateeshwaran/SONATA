@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0019.flac",
-    "text": "GIVE ME MY HORSE AND ARMS AND WAIT FOR ME HERE I WILL GO IN QUEST OF THIS KNIGHT AND DEAD OR ALIVE I WILL MAKE HIM KEEP HIS WORD PLIGHTED TO SO GREAT BEAUTY",
+    "text": "<|startoftext|> GIVE ME MY HORSE AND ARMS AND WAIT FOR ME HERE I WILL GO IN QUEST OF THIS KNIGHT AND DEAD OR ALIVE I WILL MAKE HIM KEEP HIS WORD PLIGHTED TO SO GREAT BEAUTY <|endoftext|>",
     "tokens": [
+        50255,
         38,
         9306,
         11948,
@@ -48,7 +49,8 @@
         37853,
         9348,
         39371,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

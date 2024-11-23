@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0004.flac",
-    "text": "I REGRET THAT REVIEWERS HAVE IN SOME CASES BEEN INCLINED TO TREAT THE CHAPTERS ON MACHINES AS AN ATTEMPT TO REDUCE MISTER DARWIN'S THEORY TO AN ABSURDITY",
+    "text": "<|startoftext|> I REGRET THAT REVIEWERS HAVE IN SOME CASES BEEN INCLINED TO TREAT THE CHAPTERS ON MACHINES AS AN ATTEMPT TO REDUCE MISTER DARWIN'S THEORY TO AN ABSURDITY <|endoftext|>",
     "tokens": [
+        50255,
         40,
         23337,
         26087,
@@ -55,7 +56,8 @@
         29950,
         4261,
         35,
-        9050
+        9050,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

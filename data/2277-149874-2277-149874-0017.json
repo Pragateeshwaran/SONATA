@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0017.flac",
-    "text": "A SHOP GIRL WAS THE DESTINY PREFIGURED FOR THE NEWCOMER",
+    "text": "<|startoftext|> A SHOP GIRL WAS THE DESTINY PREFIGURED FOR THE NEWCOMER <|endoftext|>",
     "tokens": [
+        50255,
         32,
         6006,
         3185,
@@ -22,7 +23,8 @@
         3336,
         12682,
         9858,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

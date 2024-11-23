@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0031.flac",
-    "text": "HE WOULD GO IN AND SEE ANYHOW HE WOULD HAVE NO ROW",
+    "text": "<|startoftext|> HE WOULD GO IN AND SEE ANYHOW HE WOULD HAVE NO ROW <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         370,
         24010,
@@ -17,7 +18,8 @@
         21515,
         8005,
         371,
-        3913
+        3913,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

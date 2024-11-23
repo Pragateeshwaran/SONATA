@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0008.flac",
-    "text": "HIS ENUNCIATION WOULD HAVE BEEN ALMOST TOTALLY UNINTELLIGIBLE TO A STRANGER",
+    "text": "<|startoftext|> HIS ENUNCIATION WOULD HAVE BEEN ALMOST TOTALLY UNINTELLIGIBLE TO A STRANGER <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         12964,
@@ -29,7 +30,8 @@
         317,
         19269,
         15567,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

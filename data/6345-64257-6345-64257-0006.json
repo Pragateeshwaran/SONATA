@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0006.flac",
-    "text": "IT WAS A SUMMER NIGHT AND THE GUESTS WERE WANDERING IN AND OUT AT WILL AND THROUGH HOUSE AND GARDEN AMID LOVELY THINGS OF ALL COLORS AND ODORS",
+    "text": "<|startoftext|> IT WAS A SUMMER NIGHT AND THE GUESTS WERE WANDERING IN AND OUT AT WILL AND THROUGH HOUSE AND GARDEN AMID LOVELY THINGS OF ALL COLORS AND ODORS <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         317,
@@ -45,7 +46,8 @@
         20673,
         5357,
         31245,
-        20673
+        20673,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

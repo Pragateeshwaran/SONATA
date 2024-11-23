@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0032.flac",
-    "text": "IT'S JUST LIKE HIM HE MURMURED",
+    "text": "<|startoftext|> IT'S JUST LIKE HIM HE MURMURED <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         6,
         50,
@@ -13,7 +14,8 @@
         4261,
         44,
         4261,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

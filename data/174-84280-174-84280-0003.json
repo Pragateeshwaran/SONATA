@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0003.flac",
-    "text": "WE RANGE WIDER LAST LONGER AND ESCAPE MORE AND MORE FROM INTENSITY TOWARDS UNDERSTANDING",
+    "text": "<|startoftext|> WE RANGE WIDER LAST LONGER AND ESCAPE MORE AND MORE FROM INTENSITY TOWARDS UNDERSTANDING <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         371,
         27746,
@@ -26,7 +27,8 @@
         35219,
         2257,
         6981,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

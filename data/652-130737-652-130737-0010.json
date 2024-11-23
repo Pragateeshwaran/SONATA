@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0010.flac",
-    "text": "SAUTERNE IS A WHITE BORDEAUX A STRONG LUSCIOUS WINE THE BEST KNOWN VARIETIES BEING",
+    "text": "<|startoftext|> SAUTERNE IS A WHITE BORDEAUX A STRONG LUSCIOUS WINE THE BEST KNOWN VARIETIES BEING <|endoftext|>",
     "tokens": [
+        50255,
         4090,
         3843,
         1137,
@@ -32,7 +33,8 @@
         2767,
         11015,
         9348,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

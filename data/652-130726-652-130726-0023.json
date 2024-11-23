@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0023.flac",
-    "text": "WE FINALLY GOT HIM TO SELECT THE ONE PRIZED ABOVE ALL OTHERS AND THIS IS WHAT CHEF SCHEILER GAVE US",
+    "text": "<|startoftext|> WE FINALLY GOT HIM TO SELECT THE ONE PRIZED ABOVE ALL OTHERS AND THIS IS WHAT CHEF SCHEILER GAVE US <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         33642,
         19807,
@@ -33,7 +34,8 @@
         1137,
         14545,
         6089,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

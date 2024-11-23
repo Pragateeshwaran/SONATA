@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0012.flac",
-    "text": "THEN BACK I TURNED MY FACE TO THOSE HIGH THINGS WHICH MOVED THEMSELVES TOWARDS US SO SEDATELY THEY HAD BEEN DISTANCED BY NEW WEDDED BRIDES",
+    "text": "<|startoftext|> THEN BACK I TURNED MY FACE TO THOSE HIGH THINGS WHICH MOVED THEMSELVES TOWARDS US SO SEDATELY THEY HAD BEEN DISTANCED BY NEW WEDDED BRIDES <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         28767,
@@ -51,7 +52,8 @@
         35,
         1961,
         11177,
-        42538
+        42538,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

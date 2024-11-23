@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0020.flac",
-    "text": "BUT AFTER AWHILE JIM SAYS GENTLEMEN AY GANNY THE LAW",
+    "text": "<|startoftext|> BUT AFTER AWHILE JIM SAYS GENTLEMEN AY GANNY THE LAW <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         36050,
         317,
@@ -21,7 +22,8 @@
         1565,
         12805,
         3336,
-        38675
+        38675,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

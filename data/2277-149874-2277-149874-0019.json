@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0019.flac",
-    "text": "NARROW BOARD WALKS EXTENDED OUT PASSING HERE A HOUSE AND THERE A STORE AT FAR INTERVALS EVENTUALLY ENDING ON THE OPEN PRAIRIE",
+    "text": "<|startoftext|> NARROW BOARD WALKS EXTENDED OUT PASSING HERE A HOUSE AND THERE A STORE AT FAR INTERVALS EVENTUALLY ENDING ON THE OPEN PRAIRIE <|endoftext|>",
     "tokens": [
+        50255,
         45,
         26465,
         3913,
@@ -39,7 +40,8 @@
         350,
         3861,
         4663,
-        10008
+        10008,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

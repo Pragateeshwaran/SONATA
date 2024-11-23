@@ -1,12 +1,14 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0002.flac",
-    "text": "THE MEAL ENDED",
+    "text": "<|startoftext|> THE MEAL ENDED <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         11948,
         1847,
         23578,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

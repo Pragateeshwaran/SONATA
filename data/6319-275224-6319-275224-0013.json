@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0013.flac",
-    "text": "OH THAT SHE WERE ONCE MORE CLIMBING UP THE FRIENDLY FIR POLE",
+    "text": "<|startoftext|> OH THAT SHE WERE ONCE MORE CLIMBING UP THE FRIENDLY FIR POLE <|endoftext|>",
     "tokens": [
+        50255,
         12096,
         14603,
         48052,
@@ -21,7 +22,8 @@
         11319,
         23703,
         19922,
-        2538
+        2538,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

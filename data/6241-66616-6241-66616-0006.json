@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0006.flac",
-    "text": "MEANWHILE TWO CHILDREN CAME TO BLESS THE HAPPY UNION OF NEWSOME AND HIS LOVELY INDIAN WIFE",
+    "text": "<|startoftext|> MEANWHILE TWO CHILDREN CAME TO BLESS THE HAPPY UNION OF NEWSOME AND HIS LOVELY INDIAN WIFE <|endoftext|>",
     "tokens": [
+        50255,
         11682,
         1565,
         12418,
@@ -33,7 +34,8 @@
         24413,
         16868,
         370,
-        29150
+        29150,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

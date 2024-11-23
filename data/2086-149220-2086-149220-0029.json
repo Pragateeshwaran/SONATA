@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0029.flac",
-    "text": "I CAN ASSURE YOU THAT THIS IS A MODERN FACE AND ONE WHICH YOU WILL VERY PROBABLY MEET",
+    "text": "<|startoftext|> I CAN ASSURE YOU THAT THIS IS A MODERN FACE AND ONE WHICH YOU WILL VERY PROBABLY MEET <|endoftext|>",
     "tokens": [
+        50255,
         40,
         15628,
         24994,
@@ -26,7 +27,8 @@
         9148,
         56,
         11948,
-        2767
+        2767,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0009.flac",
-    "text": "IT WAS NOT A QUESTION WHO WAS DEAD OR WOUNDED BUT WHO WAS NOT",
+    "text": "<|startoftext|> IT WAS NOT A QUESTION WHO WAS DEAD OR WOUNDED BUT WHO WAS NOT <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         5626,
@@ -18,7 +19,8 @@
         21728,
         19494,
         21725,
-        5626
+        5626,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

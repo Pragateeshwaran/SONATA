@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0009.flac",
-    "text": "HE DOESN'T WORK AT ALL",
+    "text": "<|startoftext|> HE DOESN'T WORK AT ALL <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         38359,
         45,
@@ -9,7 +10,8 @@
         51,
         30936,
         5161,
-        11096
+        11096,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

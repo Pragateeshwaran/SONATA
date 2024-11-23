@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0007.flac",
-    "text": "THE PEOPLE MUST WAIT OUTSIDE FOR THERE IS NO ROOM FOR THEM IN THE PALACE",
+    "text": "<|startoftext|> THE PEOPLE MUST WAIT OUTSIDE FOR THERE IS NO ROOM FOR THEM IN THE PALACE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         36388,
         17191,
@@ -21,7 +22,8 @@
         3268,
         3336,
         40795,
-        11598
+        11598,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

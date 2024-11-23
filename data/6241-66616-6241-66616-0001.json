@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0001.flac",
-    "text": "ONE DARK NIGHT AT THE HEAD OF A SCORE OF HIS TRIBE HE FELL UPON WABIGOON'S CAMP HIS OBJECT BEING THE ABDUCTION OF THE PRINCESS",
+    "text": "<|startoftext|> ONE DARK NIGHT AT THE HEAD OF A SCORE OF HIS TRIBE HE FELL UPON WABIGOON'S CAMP HIS OBJECT BEING THE ABDUCTION OF THE PRINCESS <|endoftext|>",
     "tokens": [
+        50255,
         11651,
         46455,
         37707,
@@ -43,7 +44,8 @@
         3336,
         4810,
         30158,
-        7597
+        7597,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

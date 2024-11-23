@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0032.flac",
-    "text": "THE SPECIALTY OF THE HOF BRAU IS ABALONE'S AND THEY HAVE AS A FEATURE THIS SHELL FISH COOKED IN SEVERAL WAYS",
+    "text": "<|startoftext|> THE SPECIALTY OF THE HOF BRAU IS ABALONE'S AND THEY HAVE AS A FEATURE THIS SHELL FISH COOKED IN SEVERAL WAYS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         38846,
         9936,
@@ -37,7 +38,8 @@
         5959,
         1847,
         34882,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

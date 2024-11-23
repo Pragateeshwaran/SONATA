@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0014.flac",
-    "text": "IT CONSISTS SIMPLY OF A FEW HOUSES NOT WHAT IN ENGLAND OR GERMANY WE SHOULD CALL A HAMLET",
+    "text": "<|startoftext|> IT CONSISTS SIMPLY OF A FEW HOUSES NOT WHAT IN ENGLAND OR GERMANY WE SHOULD CALL A HAMLET <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         39537,
         1797,
@@ -31,7 +32,8 @@
         42815,
         317,
         48079,
-        28882
+        28882,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147964\\1993-147964-0003.flac",
-    "text": "SHE CUT SQUARES OF COTTON CLOTH AND WE SEWED THEM TOGETHER INTO A BOOK",
+    "text": "<|startoftext|> SHE CUT SQUARES OF COTTON CLOTH AND WE SEWED THEM TOGETHER INTO A BOOK <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         327,
@@ -26,7 +27,8 @@
         16879,
         39319,
         317,
-        39633
+        39633,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

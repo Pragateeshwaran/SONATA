@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0016.flac",
-    "text": "I CALLED LIEUTENANT COLONEL FRIERSON'S ATTENTION TO THE YANKEES AND HE REMARKED WELL I DON'T KNOW WHETHER THEY ARE YANKEES OR NOT BUT IF THEY ARE THEY WILL COME OUT OF THERE MIGHTY QUICK",
+    "text": "<|startoftext|> I CALLED LIEUTENANT COLONEL FRIERSON'S ATTENTION TO THE YANKEES AND HE REMARKED WELL I DON'T KNOW WHETHER THEY ARE YANKEES OR NOT BUT IF THEY ARE THEY WILL COME OUT OF THERE MIGHTY QUICK <|endoftext|>",
     "tokens": [
+        50255,
         40,
         42815,
         1961,
@@ -63,7 +64,8 @@
         9947,
         56,
         19604,
-        11860
+        11860,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0024.flac",
-    "text": "THE QUEEN HAS NOTHING BUT THE POWER TO EXECUTE THE LAWS TO ADJUST GRIEVANCES AND TO COMPEL ORDER",
+    "text": "<|startoftext|> THE QUEEN HAS NOTHING BUT THE POWER TO EXECUTE THE LAWS TO ADJUST GRIEVANCES AND TO COMPEL ORDER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         1195,
         8924,
@@ -32,7 +33,8 @@
         5390,
         24301,
         3698,
-        38678
+        38678,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

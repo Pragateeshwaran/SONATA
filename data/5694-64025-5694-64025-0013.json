@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0013.flac",
-    "text": "ON MONDAY THE TIDE WAS REVERSED",
+    "text": "<|startoftext|> ON MONDAY THE TIDE WAS REVERSED <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         337,
         18672,
@@ -12,7 +13,8 @@
         21725,
         4526,
         28884,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

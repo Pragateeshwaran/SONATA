@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0015.flac",
-    "text": "IT IS AN IDEA THAT IS WORTH WHILE BUT UNFORTUNATELY THE PROPRIETORS DEPEND TOO MUCH ON THE DECORATIVE FEATURE AND TOO LITTLE ON THE FOOD AND HOW THEY SERVE IT",
+    "text": "<|startoftext|> IT IS AN IDEA THAT IS WORTH WHILE BUT UNFORTUNATELY THE PROPRIETORS DEPEND TOO MUCH ON THE DECORATIVE FEATURE AND TOO LITTLE ON THE FOOD AND HOW THEY SERVE IT <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         3537,
@@ -54,7 +55,8 @@
         33302,
         18871,
         6089,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

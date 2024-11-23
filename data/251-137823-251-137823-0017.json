@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0017.flac",
-    "text": "ANYHOW WE WANT TO HELP GOT A JOB FOR US",
+    "text": "<|startoftext|> ANYHOW WE WANT TO HELP GOT A JOB FOR US <|endoftext|>",
     "tokens": [
+        50255,
         31827,
         37181,
         12887,
@@ -13,7 +14,8 @@
         449,
         9864,
         7473,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

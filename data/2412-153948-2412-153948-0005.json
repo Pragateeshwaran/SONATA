@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0005.flac",
-    "text": "I WAS DELIGHTED WITH THE COUNTRY AND THE MANNER OF LIFE",
+    "text": "<|startoftext|> I WAS DELIGHTED WITH THE COUNTRY AND THE MANNER OF LIFE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         21725,
         28163,
@@ -16,7 +17,8 @@
         17254,
         21479,
         3963,
-        36821
+        36821,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0016.flac",
-    "text": "ILLUSTRATION MAIZE PLANT",
+    "text": "<|startoftext|> ILLUSTRATION MAIZE PLANT <|endoftext|>",
     "tokens": [
+        50255,
         8267,
         7759,
         49,
@@ -9,7 +10,8 @@
         8779,
         35400,
         9297,
-        8643
+        8643,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

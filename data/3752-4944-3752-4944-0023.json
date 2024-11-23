@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0023.flac",
-    "text": "DEAD SAID DOCTOR MACKLEWAIN",
+    "text": "<|startoftext|> DEAD SAID DOCTOR MACKLEWAIN <|endoftext|>",
     "tokens": [
+        50255,
         7206,
         2885,
         14719,
@@ -13,7 +14,8 @@
         8120,
         2538,
         15543,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

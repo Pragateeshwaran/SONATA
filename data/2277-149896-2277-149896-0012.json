@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0012.flac",
-    "text": "SHE HAD NOT BEEN ABLE TO GET AWAY THIS MORNING",
+    "text": "<|startoftext|> SHE HAD NOT BEEN ABLE TO GET AWAY THIS MORNING <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         367,
@@ -17,7 +18,8 @@
         4792,
         12680,
         35208,
-        15871
+        15871,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

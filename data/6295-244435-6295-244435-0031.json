@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0031.flac",
-    "text": "THE AIR TOO WAS UNLIKE THAT OF SOUTH CAROLINA THERE WAS A SHARPER TANG TO IT",
+    "text": "<|startoftext|> THE AIR TOO WAS UNLIKE THAT OF SOUTH CAROLINA THERE WAS A SHARPER TANG TO IT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         31600,
         5390,
@@ -25,7 +26,8 @@
         309,
         15567,
         5390,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

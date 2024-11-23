@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0007.flac",
-    "text": "ON JANUARY TWENTY FIFTH HE WROTE MANY AND MANY THANKS FOR A MOST ESSENTIAL SERVICE MOST THOROUGHLY PERFORMED",
+    "text": "<|startoftext|> ON JANUARY TWENTY FIFTH HE WROTE MANY AND MANY THANKS FOR A MOST ESSENTIAL SERVICE MOST THOROUGHLY PERFORMED <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         449,
         1565,
@@ -42,7 +43,8 @@
         56,
         19878,
         21389,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0011.flac",
-    "text": "I ATTRIBUTE ITS UNLOOKED FOR SUCCESS MAINLY TO TWO EARLY FAVOURABLE REVIEWS THE FIRST IN THE PALL MALL GAZETTE OF APRIL TWELFTH AND THE SECOND IN THE SPECTATOR OF APRIL TWENTIETH",
+    "text": "<|startoftext|> I ATTRIBUTE ITS UNLOOKED FOR SUCCESS MAINLY TO TWO EARLY FAVOURABLE REVIEWS THE FIRST IN THE PALL MALL GAZETTE OF APRIL TWELFTH AND THE SECOND IN THE SPECTATOR OF APRIL TWENTIETH <|endoftext|>",
     "tokens": [
+        50255,
         40,
         5161,
         5446,
@@ -64,7 +65,8 @@
         17306,
         3525,
         40,
-        20702
+        20702,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

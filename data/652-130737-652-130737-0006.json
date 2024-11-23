@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0006.flac",
-    "text": "GERMAN WINES ARE OF LIGHTER CHARACTER AND ARE GENERALLY TERMED RHEIN WINES",
+    "text": "<|startoftext|> GERMAN WINES ARE OF LIGHTER CHARACTER AND ARE GENERALLY TERMED RHEIN WINES <|endoftext|>",
     "tokens": [
+        50255,
         30373,
         10725,
         25779,
@@ -25,7 +26,8 @@
         13909,
         1268,
         25779,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

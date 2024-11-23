@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0015.flac",
-    "text": "UNDER THE SAME QUIET MOONLIGHT AND ONLY SIX HUNDRED YARDS AWAY FROM US ALSO LAY THE VICTORIOUS REBEL ARMY",
+    "text": "<|startoftext|> UNDER THE SAME QUIET MOONLIGHT AND ONLY SIX HUNDRED YARDS AWAY FROM US ALSO LAY THE VICTORIOUS REBEL ARMY <|endoftext|>",
     "tokens": [
+        50255,
         4944,
         14418,
         3336,
@@ -40,7 +41,8 @@
         33,
         3698,
         20359,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

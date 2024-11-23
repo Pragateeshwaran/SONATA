@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0010.flac",
-    "text": "INDEED THE LOWER LIP OF A DRAGON FLY CHILD MIGHT WELL FRIGHTEN PEOPLE FOR IT IS FASTENED ON A LONG JOINTED ARM LIKE THING AND HAS PINCERS ON IT WITH WHICH IT CATCHES AND HOLDS ITS FOOD",
+    "text": "<|startoftext|> INDEED THE LOWER LIP OF A DRAGON FLY CHILD MIGHT WELL FRIGHTEN PEOPLE FOR IT IS FASTENED ON A LONG JOINTED ARM LIKE THING AND HAS PINCERS ON IT WITH WHICH IT CATCHES AND HOLDS ITS FOOD <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         7206,
         1961,
@@ -61,7 +62,8 @@
         5258,
         42437,
         11895,
-        3727
+        3727,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0012.flac",
-    "text": "A FLOODLIGHT WAS ON IN THE ROOM INSIDE AND LATTIMER WAS GOING AROUND LOOKING AT THINGS WHILE A SPACE FORCE OFFICER STOOD BY THE DOOR",
+    "text": "<|startoftext|> A FLOODLIGHT WAS ON IN THE ROOM INSIDE AND LATTIMER WAS GOING AROUND LOOKING AT THINGS WHILE A SPACE FORCE OFFICER STOOD BY THE DOOR <|endoftext|>",
     "tokens": [
+        50255,
         32,
         9977,
         22808,
@@ -43,7 +44,8 @@
         11050,
         3336,
         8410,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

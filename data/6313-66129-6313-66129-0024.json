@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0024.flac",
-    "text": "THEN BIDDING THE BOYS RIDE UP NEAR THE SPOT TO WATCH HIM HE DREW OFF SOME TEN RODS AND WHEELING SPURRED HIS PONY TO A RUN",
+    "text": "<|startoftext|> THEN BIDDING THE BOYS RIDE UP NEAR THE SPOT TO WATCH HIM HE DREW OFF SOME TEN RODS AND WHEELING SPURRED HIS PONY TO A RUN <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         347,
@@ -46,7 +47,8 @@
         40508,
         5390,
         317,
-        32494
+        32494,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

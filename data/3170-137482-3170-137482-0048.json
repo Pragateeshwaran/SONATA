@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0048.flac",
-    "text": "I THREW MYSELF AT HIS FEET TO ASSURE HIM OF MY GRATITUDE AND EMBRACED HIM CALLING HIM MY FATHER",
+    "text": "<|startoftext|> I THREW MYSELF AT HIS FEET TO ASSURE HIM OF MY GRATITUDE AND EMBRACED HIM CALLING HIM MY FATHER <|endoftext|>",
     "tokens": [
+        50255,
         40,
         2320,
         2200,
@@ -36,7 +37,8 @@
         45909,
         17615,
         376,
-        45226
+        45226,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

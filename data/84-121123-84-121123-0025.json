@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0025.flac",
-    "text": "THE NEAREST SAID THE DISTRICT DOCTOR IS A GOOD ITALIAN ABBE WHO LIVES NEXT DOOR TO YOU SHALL I CALL ON HIM AS I PASS",
+    "text": "<|startoftext|> THE NEAREST SAID THE DISTRICT DOCTOR IS A GOOD ITALIAN ABBE WHO LIVES NEXT DOOR TO YOU SHALL I CALL ON HIM AS I PASS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         10635,
         1503,
@@ -36,7 +37,8 @@
         45909,
         7054,
         314,
-        41752
+        41752,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

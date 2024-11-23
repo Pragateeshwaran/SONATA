@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0003.flac",
-    "text": "IN MAKING THIS HE HAD EXPECTED NO SUCCESS THOUGH FROM THE ENERGETIC NATURE OF HIS DISPOSITION HE HAD MADE THE ATTEMPT WITH SOME ZEAL",
+    "text": "<|startoftext|> IN MAKING THIS HE HAD EXPECTED NO SUCCESS THOUGH FROM THE ENERGETIC NATURE OF HIS DISPOSITION HE HAD MADE THE ATTEMPT WITH SOME ZEAL <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         8779,
         37286,
@@ -44,7 +45,8 @@
         41670,
         1168,
         36,
-        1847
+        1847,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

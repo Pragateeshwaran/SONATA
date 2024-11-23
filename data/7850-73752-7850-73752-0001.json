@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0001.flac",
-    "text": "IN MOMENTS OF DEEP FEELING ALIKE SUDDEN BURSTS OF PROSPERITY AS IN DARKER HOURS MAN MUST BE ALONE",
+    "text": "<|startoftext|> IN MOMENTS OF DEEP FEELING ALIKE SUDDEN BURSTS OF PROSPERITY AS IN DARKER HOURS MAN MUST BE ALONE <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         337,
         2662,
@@ -36,7 +37,8 @@
         17191,
         9348,
         8355,
-        11651
+        11651,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

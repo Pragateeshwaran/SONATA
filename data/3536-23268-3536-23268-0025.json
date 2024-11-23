@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0025.flac",
-    "text": "IT IS OFTEN THE UNGRATEFUL TASK OF A FRIEND TO BE TROUBLESOME SOMETIMES UNMANNERLY",
+    "text": "<|startoftext|> IT IS OFTEN THE UNGRATEFUL TASK OF A FRIEND TO BE TROUBLESOME SOMETIMES UNMANNERLY <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         3963,
@@ -33,7 +34,8 @@
         4725,
         10725,
         21479,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

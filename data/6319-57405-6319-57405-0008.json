@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0008.flac",
-    "text": "WE SHOULD LIKE ABOVE ALL THINGS SAID DEUCALION TO SEE THIS LAND FULL OF PEOPLE ONCE MORE FOR WITHOUT NEIGHBORS AND FRIENDS THE WORLD IS A VERY LONELY PLACE INDEED",
+    "text": "<|startoftext|> WE SHOULD LIKE ABOVE ALL THINGS SAID DEUCALION TO SEE THIS LAND FULL OF PEOPLE ONCE MORE FOR WITHOUT NEIGHBORS AND FRIENDS THE WORLD IS A VERY LONELY PLACE INDEED <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         40312,
         34178,
@@ -50,7 +51,8 @@
         11598,
         3268,
         7206,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

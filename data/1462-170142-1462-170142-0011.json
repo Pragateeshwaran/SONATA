@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0011.flac",
-    "text": "HE PULLED UP A WINDOW AS IF THE AIR WERE HEAVY",
+    "text": "<|startoftext|> HE PULLED UP A WINDOW AS IF THE AIR WERE HEAVY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         350,
         9994,
@@ -19,7 +20,8 @@
         9338,
         11179,
         10116,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

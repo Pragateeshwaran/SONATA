@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0016.flac",
-    "text": "THIS MODEST SCHOLAR SPOKE NO LANGUAGES SAVE ICELANDIC AND LATIN",
+    "text": "<|startoftext|> THIS MODEST SCHOLAR SPOKE NO LANGUAGES SAVE ICELANDIC AND LATIN <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         19164,
         6465,
@@ -24,7 +25,8 @@
         2149,
         5357,
         42355,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

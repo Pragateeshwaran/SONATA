@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0019.flac",
-    "text": "HARRY GAVE HIS FAREWELLS WITH DEEP AND GENUINE REGRET",
+    "text": "<|startoftext|> HARRY GAVE HIS FAREWELLS WITH DEEP AND GENUINE REGRET <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1503,
         18276,
@@ -20,7 +21,8 @@
         52,
         8881,
         23337,
-        26087
+        26087,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

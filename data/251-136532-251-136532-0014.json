@@ -1,11 +1,13 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0014.flac",
-    "text": "YES CHARCOAL",
+    "text": "<|startoftext|> YES CHARCOAL <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         28521,
         8220,
-        1847
+        1847,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

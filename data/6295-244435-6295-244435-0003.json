@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0003.flac",
-    "text": "BOATS PUT OUT BOTH FROM THE FORT AND THE SHORE",
+    "text": "<|startoftext|> BOATS PUT OUT BOTH FROM THE FORT AND THE SHORE <|endoftext|>",
     "tokens": [
+        50255,
         8202,
         33586,
         350,
@@ -16,7 +17,8 @@
         5357,
         3336,
         6006,
-        6965
+        6965,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

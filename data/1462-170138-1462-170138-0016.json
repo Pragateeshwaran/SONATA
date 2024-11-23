@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0016.flac",
-    "text": "HE'S ANOTHER WHO'S AWFULLY KEEN ABOUT HER LET ME INTRODUCE YOU",
+    "text": "<|startoftext|> HE'S ANOTHER WHO'S AWFULLY KEEN ABOUT HER LET ME INTRODUCE YOU <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         6,
         50,
@@ -25,7 +26,8 @@
         3727,
         52,
         5222,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

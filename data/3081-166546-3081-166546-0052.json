@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0052.flac",
-    "text": "ONE OR TWO OF THE MUSICIANS FROM THE END OF THE HALL",
+    "text": "<|startoftext|> ONE OR TWO OF THE MUSICIANS FROM THE END OF THE HALL <|endoftext|>",
     "tokens": [
+        50255,
         11651,
         6375,
         35288,
@@ -17,7 +18,8 @@
         3963,
         3336,
         367,
-        7036
+        7036,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

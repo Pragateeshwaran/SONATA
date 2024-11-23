@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0017.flac",
-    "text": "BUT IN THIS AWFUL MOMENT OF THE DANGER OF THE CHURCH THEIR VOW WAS SUPERSEDED BY A MORE SUBLIME AND INDISPENSABLE DUTY",
+    "text": "<|startoftext|> BUT IN THIS AWFUL MOMENT OF THE DANGER OF THE CHURCH THEIR VOW WAS SUPERSEDED BY A MORE SUBLIME AND INDISPENSABLE DUTY <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         3268,
         12680,
@@ -43,7 +44,8 @@
         19146,
         360,
         3843,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

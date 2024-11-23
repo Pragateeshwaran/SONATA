@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0008.flac",
-    "text": "WHEN SHE FELL THE WHOLE RACE FELL WITH HER",
+    "text": "<|startoftext|> WHEN SHE FELL THE WHOLE RACE FELL WITH HER <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         48052,
@@ -15,7 +16,8 @@
         18630,
         3069,
         13315,
-        24906
+        24906,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0018.flac",
-    "text": "BOTH SERVE GOOD SPANISH DINNERS AT REASONABLE PRICES",
+    "text": "<|startoftext|> BOTH SERVE GOOD SPANISH DINNERS AT REASONABLE PRICES <|endoftext|>",
     "tokens": [
+        50255,
         33,
         26946,
         18871,
@@ -19,7 +20,8 @@
         36033,
         17534,
         4810,
-        34444
+        34444,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

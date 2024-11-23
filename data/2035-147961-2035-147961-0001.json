@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0001.flac",
-    "text": "PETER COULD GIVE NO VERY CLEAR ACCOUNT OF HIS TRANSACTIONS WITH CUTTER",
+    "text": "<|startoftext|> PETER COULD GIVE NO VERY CLEAR ACCOUNT OF HIS TRANSACTIONS WITH CUTTER <|endoftext|>",
     "tokens": [
+        50255,
         47731,
         1137,
         327,
@@ -22,7 +23,8 @@
         13315,
         327,
         3843,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

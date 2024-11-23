@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0021.flac",
-    "text": "AND AWAY SHE FLEW TO HER OWN COSY NEST IN THE ELM TREE WHERE SHE WAS SOON FAST ASLEEP FORGETTING ALL ABOUT THE MATTER",
+    "text": "<|startoftext|> AND AWAY SHE FLEW TO HER OWN COSY NEST IN THE ELM TREE WHERE SHE WAS SOON FAST ASLEEP FORGETTING ALL ABOUT THE MATTER <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         14356,
         4792,
@@ -40,7 +41,8 @@
         33478,
         3336,
         36775,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

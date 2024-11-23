@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0001.flac",
-    "text": "WITH SOUP AND FISH SERVE WHITE WINES SUCH AS RHEIN WINE SAUTERNE OR WHITE BURGUNDY",
+    "text": "<|startoftext|> WITH SOUP AND FISH SERVE WHITE WINES SUCH AS RHEIN WINE SAUTERNE OR WHITE BURGUNDY <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         311,
@@ -32,7 +33,8 @@
         38,
         4944,
         35,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0047.flac",
-    "text": "LOAFING WAS ALL VERY WELL FOR THESE FELLOWS WHO KNEW NOT MISTER VLADIMIR AND HAD WOMEN TO FALL BACK UPON WHEREAS HE HAD A WOMAN TO PROVIDE FOR",
+    "text": "<|startoftext|> LOAFING WAS ALL VERY WELL FOR THESE FELLOWS WHO KNEW NOT MISTER VLADIMIR AND HAD WOMEN TO FALL BACK UPON WHEREAS HE HAD A WOMAN TO PROVIDE FOR <|endoftext|>",
     "tokens": [
+        50255,
         21982,
         8579,
         2751,
@@ -48,7 +49,8 @@
         5390,
         36592,
         14114,
-        7473
+        7473,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

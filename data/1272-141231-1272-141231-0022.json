@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0022.flac",
-    "text": "THERE APPEARED TO BE AN IMMEDIATE ASSOCIATION WITH THE DEATH TRAUMA AS IF THE TWO WERE INEXTRICABLY LINKED INTO ONE",
+    "text": "<|startoftext|> THERE APPEARED TO BE AN IMMEDIATE ASSOCIATION WITH THE DEATH TRAUMA AS IF THE TWO WERE INEXTRICABLY LINKED INTO ONE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         3486,
@@ -41,7 +42,8 @@
         34426,
         1961,
         39319,
-        16329
+        16329,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

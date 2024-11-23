@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0007.flac",
-    "text": "THE SHARP SMELL OF SPIRITS WENT THROUGH THE ROOM",
+    "text": "<|startoftext|> THE SHARP SMELL OF SPIRITS WENT THROUGH THE ROOM <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         6006,
         36035,
@@ -17,7 +18,8 @@
         32632,
         3336,
         15107,
-        2662
+        2662,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

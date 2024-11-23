@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0014.flac",
-    "text": "BUT BY AND BY THE WISE MEN THOUGHT ABOUT IT AND SAID TO THEMSELVES WE MUST FIND OUT WHAT USEFUL PURPOSE GOD MADE THE GAS FOR WE KNOW THAT HE DOES NOT MAKE ANY THING FOR HARM ONLY",
+    "text": "<|startoftext|> BUT BY AND BY THE WISE MEN THOUGHT ABOUT IT AND SAID TO THEMSELVES WE MUST FIND OUT WHAT USEFUL PURPOSE GOD MADE THE GAS FOR WE KNOW THAT HE DOES NOT MAKE ANY THING FOR HARM ONLY <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         11050,
         5357,
@@ -55,7 +56,8 @@
         7473,
         367,
         33456,
-        22224
+        22224,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

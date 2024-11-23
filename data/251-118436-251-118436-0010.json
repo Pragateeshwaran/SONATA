@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0010.flac",
-    "text": "POINT OF CONTACT INQUIRED THE OTHER",
+    "text": "<|startoftext|> POINT OF CONTACT INQUIRED THE OTHER <|endoftext|>",
     "tokens": [
+        50255,
         16402,
         12394,
         3963,
@@ -11,7 +12,8 @@
         10917,
         37819,
         3336,
-        25401
+        25401,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0017.flac",
-    "text": "BUT TO HAVE A FRIEND AND TO BE TRUE UNDER ANY AND ALL TRIALS IS THE MARK OF A MAN",
+    "text": "<|startoftext|> BUT TO HAVE A FRIEND AND TO BE TRUE UNDER ANY AND ALL TRIALS IS THE MARK OF A MAN <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         5390,
         21515,
@@ -23,7 +24,8 @@
         39641,
         3963,
         317,
-        17254
+        17254,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

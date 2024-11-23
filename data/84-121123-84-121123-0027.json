@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0027.flac",
-    "text": "I ONLY WISH TO BE ALONE YOU WILL EXCUSE ME WILL YOU NOT",
+    "text": "<|startoftext|> I ONLY WISH TO BE ALONE YOU WILL EXCUSE ME WILL YOU NOT <|endoftext|>",
     "tokens": [
+        50255,
         40,
         22224,
         370,
@@ -18,7 +19,8 @@
         11948,
         17682,
         7013,
-        5626
+        5626,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

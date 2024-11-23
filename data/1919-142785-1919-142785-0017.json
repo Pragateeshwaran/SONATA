@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0017.flac",
-    "text": "THE LEMON THIS FRUIT IS A NATIVE OF ASIA AND IS MENTIONED BY VIRGIL AS AN ANTIDOTE TO POISON",
+    "text": "<|startoftext|> THE LEMON THIS FRUIT IS A NATIVE OF ASIA AND IS MENTIONED BY VIRGIL AS AN ANTIDOTE TO POISON <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         406,
         3620,
@@ -35,7 +36,8 @@
         23051,
         5390,
         19922,
-        39960
+        39960,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

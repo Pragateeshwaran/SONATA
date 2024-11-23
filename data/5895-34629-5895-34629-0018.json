@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0018.flac",
-    "text": "IT TOOK A HUNDRED AND THIRTY YEARS FOR THE NAME OF SHAKESPEARE TO PENETRATE FROM ENGLAND INTO FRANCE",
+    "text": "<|startoftext|> IT TOOK A HUNDRED AND THIRTY YEARS FOR THE NAME OF SHAKESPEARE TO PENETRATE FROM ENGLAND INTO FRANCE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         5390,
         11380,
@@ -36,7 +37,8 @@
         6981,
         39319,
         8782,
-        19240
+        19240,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0036.flac",
-    "text": "IT'S A CASE IN A THOUSAND GRYCE",
+    "text": "<|startoftext|> IT'S A CASE IN A THOUSAND GRYCE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         6,
         50,
@@ -14,7 +15,8 @@
         6981,
         10863,
         56,
-        5222
+        5222,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

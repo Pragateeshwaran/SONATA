@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0012.flac",
-    "text": "HER LITTLE FOOT TAPPED THE GRAVEL IMPATIENTLY",
+    "text": "<|startoftext|> HER LITTLE FOOT TAPPED THE GRAVEL IMPATIENTLY <|endoftext|>",
     "tokens": [
+        50255,
         16879,
         406,
         22470,
@@ -18,7 +19,8 @@
         30023,
         1404,
         28495,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

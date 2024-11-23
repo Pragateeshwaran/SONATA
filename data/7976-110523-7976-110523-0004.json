@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0004.flac",
-    "text": "AND AS SOON AS THEIR PARENTS HAD GONE TO SLEEP HE GOT UP PUT ON HIS COAT AND UNBARRING THE BACK DOOR WENT OUT",
+    "text": "<|startoftext|> AND AS SOON AS THEIR PARENTS HAD GONE TO SLEEP HE GOT UP PUT ON HIS COAT AND UNBARRING THE BACK DOOR WENT OUT <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         7054,
         12809,
@@ -38,7 +39,8 @@
         1581,
         370,
         3525,
-        16289
+        16289,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

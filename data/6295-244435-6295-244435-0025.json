@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0025.flac",
-    "text": "BUT HE LOOKED BACK AT CHARLESTON THE GAY THE VOLATILE AND THE BEAUTIFUL WITH REAL AFFECTION",
+    "text": "<|startoftext|> BUT HE LOOKED BACK AT CHARLESTON THE GAY THE VOLATILE AND THE BEAUTIFUL WITH REAL AFFECTION <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         11179,
         48045,
@@ -29,7 +30,8 @@
         32744,
         317,
         5777,
-        24565
+        24565,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0011.flac",
-    "text": "SLIGHT RAINSTORMS ARE LIKELY TO BE ENCOUNTERED IN A TRIP ROUND THE MOUNTAIN BUT ONE MAY EASILY FIND SHELTER BENEATH WELL THATCHED TREES THAT SHED THE RAIN LIKE A ROOF",
+    "text": "<|startoftext|> SLIGHT RAINSTORMS ARE LIKELY TO BE ENCOUNTERED IN A TRIP ROUND THE MOUNTAIN BUT ONE MAY EASILY FIND SHELTER BENEATH WELL THATCHED TREES THAT SHED THE RAIN LIKE A ROOF <|endoftext|>",
     "tokens": [
+        50255,
         8634,
         9947,
         17926,
@@ -60,7 +61,8 @@
         317,
         371,
         6684,
-        37
+        37,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

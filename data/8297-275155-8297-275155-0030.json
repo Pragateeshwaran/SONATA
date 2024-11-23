@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0030.flac",
-    "text": "GOOD BY DEAR RANDAL",
+    "text": "<|startoftext|> GOOD BY DEAR RANDAL <|endoftext|>",
     "tokens": [
+        50255,
         11230,
         3727,
         11050,
         5550,
         1503,
         46920,
-        1847
+        1847,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

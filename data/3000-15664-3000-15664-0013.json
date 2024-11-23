@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0013.flac",
-    "text": "A THOUSAND THOUSAND VOICES ARE HEARD BUT SO FINELY BLENDED THEY SEEM A PART OF THE NIGHT ITSELF AND MAKE A DEEPER SILENCE",
+    "text": "<|startoftext|> A THOUSAND THOUSAND VOICES ARE HEARD BUT SO FINELY BLENDED THEY SEEM A PART OF THE NIGHT ITSELF AND MAKE A DEEPER SILENCE <|endoftext|>",
     "tokens": [
+        50255,
         32,
         2320,
         20958,
@@ -37,7 +38,8 @@
         8905,
         1137,
         47551,
-        18310
+        18310,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

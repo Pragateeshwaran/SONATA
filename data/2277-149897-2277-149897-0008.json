@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0008.flac",
-    "text": "ANY ANSWER I GUESS NOT",
+    "text": "<|startoftext|> ANY ANSWER I GUESS NOT <|endoftext|>",
     "tokens": [
+        50255,
         31827,
         3537,
         17887,
@@ -9,7 +10,8 @@
         314,
         19348,
         7597,
-        5626
+        5626,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

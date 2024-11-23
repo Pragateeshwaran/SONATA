@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0020.flac",
-    "text": "AND WHEN THE CAR WAS OPPOSITE TO ME THUNDER WAS HEARD AND ALL THAT FOLK AUGUST SEEMED TO HAVE FURTHER PROGRESS INTERDICTED",
+    "text": "<|startoftext|> AND WHEN THE CAR WAS OPPOSITE TO ME THUNDER WAS HEARD AND ALL THAT FOLK AUGUST SEEMED TO HAVE FURTHER PROGRESS INTERDICTED <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         42099,
         3336,
@@ -42,7 +43,8 @@
         23255,
         35,
         18379,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0002.flac",
-    "text": "THEN THERE WAS SILENCE THEN A SIGH AND THE SOUND OF LIGHT MOVING FEET ON THE GRAVEL",
+    "text": "<|startoftext|> THEN THERE WAS SILENCE THEN A SIGH AND THE SOUND OF LIGHT MOVING FEET ON THE GRAVEL <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         34702,
@@ -27,7 +28,8 @@
         3336,
         402,
         3861,
-        18697
+        18697,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0005.flac",
-    "text": "THERE WAS NOTHING SAID ABOUT THE SORT OF ACCOMMODATION WHICH WOULD BE PROVIDED NOTHING ABOUT THE KIND OF ESTABLISHMENT WHICH WAS MAINTAINED OR THE TABLE WHICH WAS KEPT",
+    "text": "<|startoftext|> THERE WAS NOTHING SAID ABOUT THE SORT OF ACCOMMODATION WHICH WOULD BE PROVIDED NOTHING ABOUT THE KIND OF ESTABLISHMENT WHICH WAS MAINTAINED OR THE TABLE WHICH WAS KEPT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         21725,
@@ -55,7 +56,8 @@
         21725,
         509,
         8905,
-        51
+        51,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0015.flac",
-    "text": "NOW YOU MAY PLAY A SERENA SINGER A DREAM OF NIGHT FOR AN APPLE GOLD LADY FOR THE FRUIT IS NOW ON THE APPLE BOUGH AND THE MOON IS UP AND THE LAWN IS SHADY SINGER SINGER WANDERING SINGER O MY HONEY SWEET SINGER",
+    "text": "<|startoftext|> NOW YOU MAY PLAY A SERENA SINGER A DREAM OF NIGHT FOR AN APPLE GOLD LADY FOR THE FRUIT IS NOW ON THE APPLE BOUGH AND THE MOON IS UP AND THE LAWN IS SHADY SINGER SINGER WANDERING SINGER O MY HONEY SWEET SINGER <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         7013,
         26720,
@@ -74,7 +75,8 @@
         2767,
         311,
         2751,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

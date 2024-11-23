@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0019.flac",
-    "text": "I PROMISE YOU I WILL DO YOU NO HARM",
+    "text": "<|startoftext|> I PROMISE YOU I WILL DO YOU NO HARM <|endoftext|>",
     "tokens": [
+        50255,
         40,
         4810,
         2662,
@@ -13,7 +14,8 @@
         7013,
         8005,
         367,
-        33456
+        33456,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

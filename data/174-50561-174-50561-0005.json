@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0005.flac",
-    "text": "LADY LADY MY ROSE WHITE LADY BUT WILL YOU NOT HEAR A ROUNDEL LADY",
+    "text": "<|startoftext|> LADY LADY MY ROSE WHITE LADY BUT WILL YOU NOT HEAR A ROUNDEL LADY <|endoftext|>",
     "tokens": [
+        50255,
         43,
         2885,
         56,
@@ -27,7 +28,8 @@
         3698,
         406,
         2885,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

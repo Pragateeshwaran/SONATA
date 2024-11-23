@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0003.flac",
-    "text": "AUSTRIAN BURGUNDY IS ONE OF THE FINEST WINES POSSESSING RICH FLAVOR AND FINE PERFUME OTHER BURGUNDIES ARE",
+    "text": "<|startoftext|> AUSTRIAN BURGUNDY IS ONE OF THE FINEST WINES POSSESSING RICH FLAVOR AND FINE PERFUME OTHER BURGUNDIES ARE <|endoftext|>",
     "tokens": [
+        50255,
         32,
         7759,
         7112,
@@ -40,7 +41,8 @@
         4944,
         35,
         11015,
-        15986
+        15986,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

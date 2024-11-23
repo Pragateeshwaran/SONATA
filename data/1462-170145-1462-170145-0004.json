@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0004.flac",
-    "text": "I SAW THAT INTERVIEW IN THE PAPER YESTERDAY TELLING WHERE YOU WERE AND I THOUGHT I HAD TO SEE YOU THAT'S ALL GOOD NIGHT I'M GOING NOW",
+    "text": "<|startoftext|> I SAW THAT INTERVIEW IN THE PAPER YESTERDAY TELLING WHERE YOU WERE AND I THOUGHT I HAD TO SEE YOU THAT'S ALL GOOD NIGHT I'M GOING NOW <|endoftext|>",
     "tokens": [
+        50255,
         40,
         311,
         12298,
@@ -46,7 +47,8 @@
         44,
         10351,
         2751,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

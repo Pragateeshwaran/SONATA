@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0003.flac",
-    "text": "FROM SIXTEEN EIGHTY TO SEVENTEEN O FOUR A GREAT CHANGE HAD TAKEN PLACE",
+    "text": "<|startoftext|> FROM SIXTEEN EIGHTY TO SEVENTEEN O FOUR A GREAT CHANGE HAD TAKEN PLACE <|endoftext|>",
     "tokens": [
+        50255,
         10913,
         2662,
         311,
@@ -30,7 +31,8 @@
         10206,
         1677,
         9297,
-        11598
+        11598,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0011.flac",
-    "text": "LETTY FINDING HERSELF NOT QUITE EQUAL TO THE EMERGENCY CAME IN HER TURN TO CALL MARY SHE WENT AS QUIETLY AS IF SHE WERE LEAVING A TIRESOME VISITOR",
+    "text": "<|startoftext|> LETTY FINDING HERSELF NOT QUITE EQUAL TO THE EMERGENCY CAME IN HER TURN TO CALL MARY SHE WENT AS QUIETLY AS IF SHE WERE LEAVING A TIRESOME VISITOR <|endoftext|>",
     "tokens": [
+        50255,
         28882,
         9936,
         376,
@@ -53,7 +54,8 @@
         13649,
         50035,
         2043,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0002.flac",
-    "text": "NOT ON THE RANGE WHY NOT DEMANDED THE BOY",
+    "text": "<|startoftext|> NOT ON THE RANGE WHY NOT DEMANDED THE BOY <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         6177,
         3336,
@@ -14,7 +15,8 @@
         1961,
         3336,
         16494,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

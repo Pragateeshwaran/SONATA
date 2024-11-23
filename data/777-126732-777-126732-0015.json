@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0015.flac",
-    "text": "A HARSH LAUGH FROM COMRADE OSSIPON CUT THE TIRADE DEAD SHORT IN A SUDDEN FALTERING OF THE TONGUE AND A BEWILDERED UNSTEADINESS OF THE APOSTLE'S MILDLY EXALTED EYES",
+    "text": "<|startoftext|> A HARSH LAUGH FROM COMRADE OSSIPON CUT THE TIRADE DEAD SHORT IN A SUDDEN FALTERING OF THE TONGUE AND A BEWILDERED UNSTEADINESS OF THE APOSTLE'S MILDLY EXALTED EYES <|endoftext|>",
     "tokens": [
+        50255,
         32,
         43638,
         9693,
@@ -63,7 +64,8 @@
         31429,
         1961,
         412,
-        43335
+        43335,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

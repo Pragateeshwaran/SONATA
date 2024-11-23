@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0011.flac",
-    "text": "HER SKIN WAS BROWN TOO AND IN HER CHEEKS SHE HAD A GLOW OF RICH DARK COLOR",
+    "text": "<|startoftext|> HER SKIN WAS BROWN TOO AND IN HER CHEEKS SHE HAD A GLOW OF RICH DARK COLOR <|endoftext|>",
     "tokens": [
+        50255,
         16879,
         14277,
         1268,
@@ -27,7 +28,8 @@
         20739,
         46455,
         20444,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

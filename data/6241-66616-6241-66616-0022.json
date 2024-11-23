@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0022.flac",
-    "text": "WE WILL HUNT WOLVES THE COUNTRY IS ALIVE WITH THEM AND THE GOVERNMENT GIVES A BOUNTY OF FIFTEEN DOLLARS FOR EVERY SCALP TAKEN",
+    "text": "<|startoftext|> WE WILL HUNT WOLVES THE COUNTRY IS ALIVE WITH THEM AND THE GOVERNMENT GIVES A BOUNTY OF FIFTEEN DOLLARS FOR EVERY SCALP TAKEN <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         17682,
         41041,
@@ -45,7 +46,8 @@
         47,
         309,
         10206,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

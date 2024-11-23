@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0005.flac",
-    "text": "FOR A TIME THE DEATH OF MARY OBSCURED HER LIFE FOR ME BUT NOW HER LIVING PRESENCE IS MORE IN MY MIND AGAIN",
+    "text": "<|startoftext|> FOR A TIME THE DEATH OF MARY OBSCURED HER LIFE FOR ME BUT NOW HER LIVING PRESENCE IS MORE IN MY MIND AGAIN <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         317,
         20460,
@@ -35,7 +36,8 @@
         337,
         12115,
         36218,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

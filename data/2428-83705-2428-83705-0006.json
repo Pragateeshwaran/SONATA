@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0006.flac",
-    "text": "THE ACCIDENT IN QUESTION OCCURRED UPON THE SUNDAY EVENING",
+    "text": "<|startoftext|> THE ACCIDENT IN QUESTION OCCURRED UPON THE SUNDAY EVENING <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         15859,
         25256,
@@ -18,7 +19,8 @@
         35329,
         26442,
         45886,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

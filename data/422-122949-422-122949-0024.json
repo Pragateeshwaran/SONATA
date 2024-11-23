@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\422\\122949\\422-122949-0024.flac",
-    "text": "A MAN'S ESTIMATES OF VALUE BETRAY SOMETHING OF THE STRUCTURE OF HIS SOUL AND WHEREIN IT SEES ITS CONDITIONS OF LIFE ITS INTRINSIC NEEDS",
+    "text": "<|startoftext|> A MAN'S ESTIMATES OF VALUE BETRAY SOMETHING OF THE STRUCTURE OF HIS SOUL AND WHEREIN IT SEES ITS CONDITIONS OF LIFE ITS INTRINSIC NEEDS <|endoftext|>",
     "tokens": [
+        50255,
         32,
         17254,
         6,
@@ -44,7 +45,8 @@
         20913,
         2149,
         36465,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "422",

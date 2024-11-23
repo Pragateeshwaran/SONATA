@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0042.flac",
-    "text": "DON'T CRY DON'T CRY HE WHISPERED",
+    "text": "<|startoftext|> DON'T CRY DON'T CRY HE WHISPERED <|endoftext|>",
     "tokens": [
+        50255,
         41173,
         6,
         51,
@@ -16,7 +17,8 @@
         7655,
         1797,
         18973,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

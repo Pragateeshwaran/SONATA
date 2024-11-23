@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0014.flac",
-    "text": "GARNISH DISH THAT DRESSING IS MADE IN WITH A LITTLE GARLIC",
+    "text": "<|startoftext|> GARNISH DISH THAT DRESSING IS MADE IN WITH A LITTLE GARLIC <|endoftext|>",
     "tokens": [
+        50255,
         38,
         1503,
         45,
@@ -24,7 +25,8 @@
         402,
         1503,
         43,
-        2149
+        2149,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

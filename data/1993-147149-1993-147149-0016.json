@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0016.flac",
-    "text": "BUT HE STAYED LONG THERE AND AT LAST HIS STURDY FRAME SHOOK WITH HIS STRONG AGONY",
+    "text": "<|startoftext|> BUT HE STAYED LONG THERE AND AT LAST HIS STURDY FRAME SHOOK WITH HIS STRONG AGONY <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         11179,
         3563,
@@ -26,7 +27,8 @@
         19269,
         18494,
         13077,
-        40508
+        40508,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

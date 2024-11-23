@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0034.flac",
-    "text": "WHENCE SHE TO ME IN THOSE DESIRES OF MINE WHICH LED THEE TO THE LOVING OF THAT GOOD BEYOND WHICH THERE IS NOTHING TO ASPIRE TO",
+    "text": "<|startoftext|> WHENCE SHE TO ME IN THOSE DESIRES OF MINE WHICH LED THEE TO THE LOVING OF THAT GOOD BEYOND WHICH THERE IS NOTHING TO ASPIRE TO <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         18310,
         48052,
@@ -42,7 +43,8 @@
         5390,
         34658,
         41736,
-        5390
+        5390,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0019.flac",
-    "text": "THE HISTORIANS OF THE WHITE RACE ADMIT THAT THE INDIAN WAS NEVER THE FIRST TO REPUDIATE HIS OATH",
+    "text": "<|startoftext|> THE HISTORIANS OF THE WHITE RACE ADMIT THAT THE INDIAN WAS NEVER THE FIRST TO REPUDIATE HIS OATH <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         367,
         8808,
@@ -30,7 +31,8 @@
         6158,
         33700,
         440,
-        12599
+        12599,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

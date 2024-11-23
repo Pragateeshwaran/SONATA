@@ -1,11 +1,13 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0021.flac",
-    "text": "HONESTLY",
+    "text": "<|startoftext|> HONESTLY <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1340,
         6465,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

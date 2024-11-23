@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0027.flac",
-    "text": "HURSTWOOD ALMOST EXCLAIMED OUT LOUD AT THE INSISTENCY OF THIS THING",
+    "text": "<|startoftext|> HURSTWOOD ALMOST EXCLAIMED OUT LOUD AT THE INSISTENCY OF THIS THING <|endoftext|>",
     "tokens": [
+        50255,
         39,
         4261,
         2257,
@@ -24,7 +25,8 @@
         3963,
         12680,
         2320,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

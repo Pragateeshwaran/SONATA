@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0025.flac",
-    "text": "GRASPING THE POMMEL WITH THE LEFT HAND HE APPEARED TO DIVE HEAD FIRST TOWARD THE GROUND",
+    "text": "<|startoftext|> GRASPING THE POMMEL WITH THE LEFT HAND HE APPEARED TO DIVE HEAD FIRST TOWARD THE GROUND <|endoftext|>",
     "tokens": [
+        50255,
         10761,
         1921,
         47,
@@ -32,7 +33,8 @@
         9795,
         3336,
         10863,
-        15919
+        15919,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

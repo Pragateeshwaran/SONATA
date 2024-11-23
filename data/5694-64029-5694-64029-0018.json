@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0018.flac",
-    "text": "WE WERE ORDERED FORWARD TO THE ATTACK",
+    "text": "<|startoftext|> WE WERE ORDERED FORWARD TO THE ATTACK <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         370,
         9338,
@@ -12,7 +13,8 @@
         5390,
         3336,
         26195,
-        8120
+        8120,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

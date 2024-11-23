@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147965\\1993-147965-0005.flac",
-    "text": "AT ABOUT FOUR O'CLOCK A VISITOR APPEARED MISTER SHIMERDA WEARING HIS RABBIT SKIN CAP AND COLLAR AND NEW MITTENS HIS WIFE HAD KNITTED",
+    "text": "<|startoftext|> AT ABOUT FOUR O'CLOCK A VISITOR APPEARED MISTER SHIMERDA WEARING HIS RABBIT SKIN CAP AND COLLAR AND NEW MITTENS HIS WIFE HAD KNITTED <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         33478,
         376,
@@ -50,7 +51,8 @@
         2885,
         22466,
         22470,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

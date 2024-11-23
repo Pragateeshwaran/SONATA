@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0001.flac",
-    "text": "ABANDONED INDEED BY GOD AND MAN ALMOST",
+    "text": "<|startoftext|> ABANDONED INDEED BY GOD AND MAN ALMOST <|endoftext|>",
     "tokens": [
+        50255,
         6242,
         6981,
         1340,
@@ -15,7 +16,8 @@
         17254,
         8355,
         44,
-        10892
+        10892,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

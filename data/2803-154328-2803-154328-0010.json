@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0010.flac",
-    "text": "AT LAST THE MAJOR SAID MY FRIENDS KEEP THAT TO THE LAST MOMENT",
+    "text": "<|startoftext|> AT LAST THE MAJOR SAID MY FRIENDS KEEP THAT TO THE LAST MOMENT <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         41894,
         3336,
@@ -22,7 +23,8 @@
         41894,
         337,
         2662,
-        3525
+        3525,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

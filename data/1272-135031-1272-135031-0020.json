@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0020.flac",
-    "text": "I DON'T BELIEVE ANN KNEW ANY MAGIC OR SHE'D HAVE WORKED IT BEFORE",
+    "text": "<|startoftext|> I DON'T BELIEVE ANN KNEW ANY MAGIC OR SHE'D HAVE WORKED IT BEFORE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         23917,
         6,
@@ -23,7 +24,8 @@
         30936,
         1961,
         7283,
-        38331
+        38331,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

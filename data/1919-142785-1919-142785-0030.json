@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0030.flac",
-    "text": "MODE PUT THE WHOLE OF THE INGREDIENTS INTO A BOTTLE AND LET IT REMAIN FOR A FORTNIGHT IN A WARM PLACE OCCASIONALLY SHAKING UP THE CONTENTS",
+    "text": "<|startoftext|> MODE PUT THE WHOLE OF THE INGREDIENTS INTO A BOTTLE AND LET IT REMAIN FOR A FORTNIGHT IN A WARM PLACE OCCASIONALLY SHAKING UP THE CONTENTS <|endoftext|>",
     "tokens": [
+        50255,
         49058,
         350,
         3843,
@@ -46,7 +47,8 @@
         15958,
         3336,
         22904,
-        15365
+        15365,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0005.flac",
-    "text": "IT IS OBVIOUSLY UNNECESSARY FOR US TO POINT OUT HOW LUMINOUS THESE CRITICISMS ARE HOW DELICATE IN EXPRESSION",
+    "text": "<|startoftext|> IT IS OBVIOUSLY UNNECESSARY FOR US TO POINT OUT HOW LUMINOUS THESE CRITICISMS ARE HOW DELICATE IN EXPRESSION <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         25334,
@@ -39,7 +40,8 @@
         3268,
         7788,
         32761,
-        2849
+        2849,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

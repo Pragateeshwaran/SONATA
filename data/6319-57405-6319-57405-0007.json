@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0007.flac",
-    "text": "IS THERE ANYTHING THAT YOU WISH HE ASKED",
+    "text": "<|startoftext|> IS THERE ANYTHING THAT YOU WISH HE ASKED <|endoftext|>",
     "tokens": [
+        50255,
         1797,
         34702,
         15529,
@@ -13,7 +14,8 @@
         11179,
         7054,
         42,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0000.flac",
-    "text": "THROUGHOUT THIS CENTURY THE POWER OF THE CHURCH WAS CONSTANTLY ON THE INCREASE AND IS VISIBLE IN MANY IMPORTANT CHANGES",
+    "text": "<|startoftext|> THROUGHOUT THIS CENTURY THE POWER OF THE CHURCH WAS CONSTANTLY ON THE INCREASE AND IS VISIBLE IN MANY IMPORTANT CHANGES <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         49,
         32632,
@@ -39,7 +40,8 @@
         8643,
         5870,
         15567,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

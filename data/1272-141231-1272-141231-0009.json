@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0009.flac",
-    "text": "THE CONTESTANTS IN THE TWENTIES NEEDED UNDISTURBED REST THEREFORE NIGHTS IN THE DORMITORIES WERE AS QUIET AS DEATH",
+    "text": "<|startoftext|> THE CONTESTANTS IN THE TWENTIES NEEDED UNDISTURBED REST THEREFORE NIGHTS IN THE DORMITORIES WERE AS QUIET AS DEATH <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         22904,
         6465,
@@ -40,7 +41,8 @@
         2767,
         7054,
         5550,
-        12599
+        12599,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

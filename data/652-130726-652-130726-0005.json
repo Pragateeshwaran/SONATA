@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0005.flac",
-    "text": "THIS GARISH DISPLAY OF MIRRORS AND ELABORATE DECORATION OF CEILING AND PILLARS GIVES IT THE APPEARANCE OF THE ABODE OF SATURNALIA BUT DECORUM IS THE RULE AMONG THE PATRONS",
+    "text": "<|startoftext|> THIS GARISH DISPLAY OF MIRRORS AND ELABORATE DECORATION OF CEILING AND PILLARS GIVES IT THE APPEARANCE OF THE ABODE OF SATURNALIA BUT DECORUM IS THE RULE AMONG THE PATRONS <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         402,
         1503,
@@ -59,7 +60,8 @@
         3336,
         28748,
         49,
-        19213
+        19213,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

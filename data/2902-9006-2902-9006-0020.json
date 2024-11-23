@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0020.flac",
-    "text": "I CANNOT HOPE THAT THESE PAGES WILL BE ALTOGETHER FREE FROM ANACHRONISMS AND ERRORS",
+    "text": "<|startoftext|> I CANNOT HOPE THAT THESE PAGES WILL BE ALTOGETHER FREE FROM ANACHRONISMS AND ERRORS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         15628,
         11929,
@@ -27,7 +28,8 @@
         5653,
         5357,
         33854,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

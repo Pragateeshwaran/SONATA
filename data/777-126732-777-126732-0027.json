@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0027.flac",
-    "text": "HIS OWN SKIN HAD SIZZLED UNDER THE RED HOT BRAND HE MURMURED SOFTLY",
+    "text": "<|startoftext|> HIS OWN SKIN HAD SIZZLED UNDER THE RED HOT BRAND HE MURMURED SOFTLY <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         47672,
@@ -27,7 +28,8 @@
         1961,
         12809,
         9792,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

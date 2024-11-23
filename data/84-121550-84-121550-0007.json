@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0007.flac",
-    "text": "BY HIS DEFAULT SHORT WHILE HE SOJOURNED HERE BY HIS DEFAULT TO WEEPING AND TO TOIL HE CHANGED HIS INNOCENT LAUGHTER AND SWEET PLAY",
+    "text": "<|startoftext|> BY HIS DEFAULT SHORT WHILE HE SOJOURNED HERE BY HIS DEFAULT TO WEEPING AND TO TOIL HE CHANGED HIS INNOCENT LAUGHTER AND SWEET PLAY <|endoftext|>",
     "tokens": [
+        50255,
         17513,
         33700,
         5550,
@@ -45,7 +46,8 @@
         311,
         8845,
         2767,
-        28180
+        28180,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0003.flac",
-    "text": "THIS WORLD'S THICK VAPOURS WHELM YOUR EYES UNWORTHY OF THAT GLORIOUS SHOW BLIND TO HIS SPLENDOUR BENT UPON HIS SHAME",
+    "text": "<|startoftext|> THIS WORLD'S THICK VAPOURS WHELM YOUR EYES UNWORTHY OF THAT GLORIOUS SHOW BLIND TO HIS SPLENDOUR BENT UPON HIS SHAME <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         29564,
         6,
@@ -42,7 +43,8 @@
         1340,
         33700,
         6006,
-        10067
+        10067,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

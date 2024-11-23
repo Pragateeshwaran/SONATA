@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0018.flac",
-    "text": "THE SECOND WAS AS IF HER FLESH AND BONES HAD ALL BEEN FASHIONED OUT OF EMERALD THE THIRD APPEARED AS SNOW BUT NEWLY FALLEN",
+    "text": "<|startoftext|> THE SECOND WAS AS IF HER FLESH AND BONES HAD ALL BEEN FASHIONED OUT OF EMERALD THE THIRD APPEARED AS SNOW BUT NEWLY FALLEN <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         10729,
         18672,
@@ -43,7 +44,8 @@
         11319,
         376,
         7036,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

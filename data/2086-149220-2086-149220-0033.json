@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0033.flac",
-    "text": "WELL I DON'T WISH TO SEE IT ANY MORE OBSERVED PHOEBE TURNING AWAY HER EYES IT IS CERTAINLY VERY LIKE THE OLD PORTRAIT",
+    "text": "<|startoftext|> WELL I DON'T WISH TO SEE IT ANY MORE OBSERVED PHOEBE TURNING AWAY HER EYES IT IS CERTAINLY VERY LIKE THE OLD PORTRAIT <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         3069,
         314,
@@ -45,7 +46,8 @@
         350,
         9863,
         3861,
-        2043
+        2043,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

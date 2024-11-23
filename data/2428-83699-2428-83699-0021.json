@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0021.flac",
-    "text": "IN IT I WAS DEPOSITED WITH MY LUGGAGE",
+    "text": "<|startoftext|> IN IT I WAS DEPOSITED WITH MY LUGGAGE <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         7283,
         314,
@@ -14,7 +15,8 @@
         406,
         7340,
         38,
-        11879
+        11879,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

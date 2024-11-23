@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0012.flac",
-    "text": "EACH MUST CRY LOUDER AND WANDER FARTHER YET MAY LUCK BE WITH THEM BOTH THAT THEY MAY FIND THEIR OWN AT NIGHTFALL",
+    "text": "<|startoftext|> EACH MUST CRY LOUDER AND WANDER FARTHER YET MAY LUCK BE WITH THEM BOTH THAT THEY MAY FIND THEIR OWN AT NIGHTFALL <|endoftext|>",
     "tokens": [
+        50255,
         36,
         16219,
         17191,
@@ -36,7 +37,8 @@
         5161,
         37707,
         37,
-        7036
+        7036,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

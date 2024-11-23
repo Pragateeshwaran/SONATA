@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0012.flac",
-    "text": "IT WAS NOT FROM ANY REAL CAUSE OF GRIEF THAT SHE WEPT BUT THERE WAS A MAGNETIC QUALITY IN TEARS WHICH ALWAYS ATTRACTED HER'S",
+    "text": "<|startoftext|> IT WAS NOT FROM ANY REAL CAUSE OF GRIEF THAT SHE WEPT BUT THERE WAS A MAGNETIC QUALITY IN TEARS WHICH ALWAYS ATTRACTED HER'S <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         5626,
@@ -40,7 +41,8 @@
         38542,
         24906,
         6,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

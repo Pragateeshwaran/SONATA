@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0006.flac",
-    "text": "THE GOOD SUPREME SOLE IN ITSELF DELIGHTING CREATED MAN GOOD AND THIS GOODLY PLACE GAVE HIM AS HANSEL OF ETERNAL PEACE",
+    "text": "<|startoftext|> THE GOOD SUPREME SOLE IN ITSELF DELIGHTING CREATED MAN GOOD AND THIS GOODLY PLACE GAVE HIM AS HANSEL OF ETERNAL PEACE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         21090,
         19549,
@@ -37,7 +38,8 @@
         31800,
         1847,
         18468,
-        11598
+        11598,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0000.flac",
-    "text": "WHEN AT LAST THE QUEEN GAVE BIRTH TO A DAUGHTER THE KING WAS SO OVERJOYED THAT HE GAVE A GREAT CHRISTENING FEAST THE LIKE OF WHICH HAD NEVER BEFORE BEEN KNOWN",
+    "text": "<|startoftext|> WHEN AT LAST THE QUEEN GAVE BIRTH TO A DAUGHTER THE KING WAS SO OVERJOYED THAT HE GAVE A GREAT CHRISTENING FEAST THE LIKE OF WHICH HAD NEVER BEFORE BEEN KNOWN <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         5161,
@@ -51,7 +52,8 @@
         9348,
         1677,
         22466,
-        14165
+        14165,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

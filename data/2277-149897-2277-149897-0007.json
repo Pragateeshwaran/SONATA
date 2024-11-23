@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0007.flac",
-    "text": "YOU TAKE THIS TO THIS ADDRESS HE SAID HANDING HIM THE ENVELOPE AND GIVE IT TO MISSUS HURSTWOOD YES SIR SAID THE BOY",
+    "text": "<|startoftext|> YOU TAKE THIS TO THIS ADDRESS HE SAID HANDING HIM THE ENVELOPE AND GIVE IT TO MISSUS HURSTWOOD YES SIR SAID THE BOY <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         21664,
         7336,
@@ -40,7 +41,8 @@
         2389,
         3336,
         16494,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

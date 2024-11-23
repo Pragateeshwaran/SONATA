@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0000.flac",
-    "text": "REINCARNATION AND THE CONVERSE OF SPIRITS",
+    "text": "<|startoftext|> REINCARNATION AND THE CONVERSE OF SPIRITS <|endoftext|>",
     "tokens": [
+        50255,
         2200,
         1268,
         20034,
@@ -15,7 +16,8 @@
         3963,
         6226,
         4663,
-        29722
+        29722,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

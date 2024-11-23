@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0017.flac",
-    "text": "FOLLOWING THE TINGLE OF RELIEF CAME A SHARP SICKENING PINCH OF JEALOUSY AND MORTIFICATION THESE INSPIRED HER",
+    "text": "<|startoftext|> FOLLOWING THE TINGLE OF RELIEF CAME A SHARP SICKENING PINCH OF JEALOUSY AND MORTIFICATION THESE INSPIRED HER <|endoftext|>",
     "tokens": [
+        50255,
         6080,
         44765,
         2751,
@@ -39,7 +40,8 @@
         3268,
         4303,
         37819,
-        24906
+        24906,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

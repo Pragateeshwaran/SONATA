@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0001.flac",
-    "text": "INSTANTLY THEY ABSORBED ALL MY ATTENTION THOUGH I DARED NOT GIVE THEM A DIRECT LOOK AND CONTINUED TO OBSERVE THEM ONLY IN THE GLASS",
+    "text": "<|startoftext|> INSTANTLY THEY ABSORBED ALL MY ATTENTION THOUGH I DARED NOT GIVE THEM A DIRECT LOOK AND CONTINUED TO OBSERVE THEM ONLY IN THE GLASS <|endoftext|>",
     "tokens": [
+        50255,
         38604,
         8643,
         11319,
@@ -40,7 +41,8 @@
         3268,
         3336,
         10188,
-        10705
+        10705,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

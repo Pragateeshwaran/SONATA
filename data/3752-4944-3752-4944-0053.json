@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0053.flac",
-    "text": "SHOW MISTER NORTH OUT HE SAID AND GO DOWN TO THE BARRACKS AND TELL TROKE THAT KIRKLAND IS TO HAVE A HUNDRED LASHES TO MORROW",
+    "text": "<|startoftext|> SHOW MISTER NORTH OUT HE SAID AND GO DOWN TO THE BARRACKS AND TELL TROKE THAT KIRKLAND IS TO HAVE A HUNDRED LASHES TO MORROW <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         3913,
         337,
@@ -45,7 +46,8 @@
         5390,
         35208,
         49,
-        3913
+        3913,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

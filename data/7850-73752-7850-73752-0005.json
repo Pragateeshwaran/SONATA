@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0005.flac",
-    "text": "IT WAS INDEED HER HANDWRITING",
+    "text": "<|startoftext|> IT WAS INDEED HER HANDWRITING <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         3268,
@@ -12,7 +13,8 @@
         6981,
         18564,
         2043,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

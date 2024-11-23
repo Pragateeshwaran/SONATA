@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0011.flac",
-    "text": "SET INTO A COLD PLACE TO CHILL AND BECOME FIRM",
+    "text": "<|startoftext|> SET INTO A COLD PLACE TO CHILL AND BECOME FIRM <|endoftext|>",
     "tokens": [
+        50255,
         28480,
         39319,
         317,
@@ -17,7 +18,8 @@
         2943,
         13649,
         23703,
-        44
+        44,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

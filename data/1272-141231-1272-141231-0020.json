@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0020.flac",
-    "text": "JUST THRUST AND PARRY AND VICTORY TO THE STRONGER",
+    "text": "<|startoftext|> JUST THRUST AND PARRY AND VICTORY TO THE STRONGER <|endoftext|>",
     "tokens": [
+        50255,
         25008,
         35383,
         7759,
@@ -16,7 +17,8 @@
         3336,
         19269,
         18494,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

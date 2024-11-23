@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0017.flac",
-    "text": "IT WAS SO LONG THAT IT BUSHED OUT BEHIND HIS EARS AND MADE HIM LOOK LIKE THE OLD PORTRAITS I REMEMBERED IN VIRGINIA",
+    "text": "<|startoftext|> IT WAS SO LONG THAT IT BUSHED OUT BEHIND HIS EARS AND MADE HIM LOOK LIKE THE OLD PORTRAITS I REMEMBERED IN VIRGINIA <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         12809,
@@ -40,7 +41,8 @@
         4663,
         38,
         1268,
-        3539
+        3539,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

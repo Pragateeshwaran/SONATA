@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0019.flac",
-    "text": "THE TELEPHONE LINE WAS SOON REPAIRED AND A STEADY STREAM OF RESCUE VEHICLES BEGAN ARRIVING FROM HARKNESS FIRE TRUCKS THREE AMBULANCES AND PRIVATE CARS DRIVEN BY VOLUNTEERS",
+    "text": "<|startoftext|> THE TELEPHONE LINE WAS SOON REPAIRED AND A STEADY STREAM OF RESCUE VEHICLES BEGAN ARRIVING FROM HARKNESS FIRE TRUCKS THREE AMBULANCES AND PRIVATE CARS DRIVEN BY VOLUNTEERS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         13368,
         2538,
@@ -63,7 +64,8 @@
         38570,
         4944,
         9328,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

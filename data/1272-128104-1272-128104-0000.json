@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0000.flac",
-    "text": "MISTER QUILTER IS THE APOSTLE OF THE MIDDLE CLASSES AND WE ARE GLAD TO WELCOME HIS GOSPEL",
+    "text": "<|startoftext|> MISTER QUILTER IS THE APOSTLE OF THE MIDDLE CLASSES AND WE ARE GLAD TO WELCOME HIS GOSPEL <|endoftext|>",
     "tokens": [
+        50255,
         44,
         41517,
         19604,
@@ -32,7 +33,8 @@
         33700,
         402,
         47053,
-        3698
+        3698,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

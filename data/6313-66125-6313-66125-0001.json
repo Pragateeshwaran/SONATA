@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0001.flac",
-    "text": "LOOKS LIKE A CLUMP OF BUSHES DOWN THERE BUT I AIN'T SURE CAN YOU MAKE IT OUT",
+    "text": "<|startoftext|> LOOKS LIKE A CLUMP OF BUSHES DOWN THERE BUT I AIN'T SURE CAN YOU MAKE IT OUT <|endoftext|>",
     "tokens": [
+        50255,
         43,
         15308,
         50,
@@ -27,7 +28,8 @@
         7013,
         39134,
         7283,
-        16289
+        16289,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147964\\1993-147964-0008.flac",
-    "text": "BY THE TIME WE HAD PLACED THE COLD FRESH SMELLING LITTLE TREE IN A CORNER OF THE SITTING ROOM IT WAS ALREADY CHRISTMAS EVE",
+    "text": "<|startoftext|> BY THE TIME WE HAD PLACED THE COLD FRESH SMELLING LITTLE TREE IN A CORNER OF THE SITTING ROOM IT WAS ALREADY CHRISTMAS EVE <|endoftext|>",
     "tokens": [
+        50255,
         17513,
         3336,
         20460,
@@ -42,7 +43,8 @@
         56,
         48354,
         31180,
-        32356
+        32356,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

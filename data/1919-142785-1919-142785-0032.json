@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0032.flac",
-    "text": "ADD THE WINE AND IF NECESSARY A SEASONING OF CAYENNE WHEN IT WILL BE READY TO SERVE",
+    "text": "<|startoftext|> ADD THE WINE AND IF NECESSARY A SEASONING OF CAYENNE WHEN IT WILL BE READY TO SERVE <|endoftext|>",
     "tokens": [
+        50255,
         29266,
         3336,
         370,
@@ -28,7 +29,8 @@
         56,
         5390,
         18871,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

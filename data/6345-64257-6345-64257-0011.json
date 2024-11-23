@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0011.flac",
-    "text": "SHE KNEW NOTHING OF THE PLACE HAD NOWHERE TO GO NOWHERE SHE WANTED TO GO HAD NOT A THOUGHT TO TELL HER WHAT QUESTION TO ASK IF SHE MET A LIVING SOUL",
+    "text": "<|startoftext|> SHE KNEW NOTHING OF THE PLACE HAD NOWHERE TO GO NOWHERE SHE WANTED TO GO HAD NOT A THOUGHT TO TELL HER WHAT QUESTION TO ASK IF SHE MET A LIVING SOUL <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         509,
@@ -54,7 +55,8 @@
         3824,
         2751,
         30065,
-        43
+        43,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

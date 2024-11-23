@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0002.flac",
-    "text": "HOW DO YOU KNOW ASKED THEIR FATHER I AM OLDER AND WISER THAN YOU ARE AND I KNOW THAT THERE ARE MANY EVILS WHICH MIGHT COME UPON YOU",
+    "text": "<|startoftext|> HOW DO YOU KNOW ASKED THEIR FATHER I AM OLDER AND WISER THAN YOU ARE AND I KNOW THAT THERE ARE MANY EVILS WHICH MIGHT COME UPON YOU <|endoftext|>",
     "tokens": [
+        50255,
         37181,
         8410,
         7013,
@@ -43,7 +44,8 @@
         36,
         15958,
         1340,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

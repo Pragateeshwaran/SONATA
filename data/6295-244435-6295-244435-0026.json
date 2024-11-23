@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0026.flac",
-    "text": "IT WAS ALMOST BURIED NOW IN FLOWERS AND FOLIAGE",
+    "text": "<|startoftext|> IT WAS ALMOST BURIED NOW IN FLOWERS AND FOLIAGE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         8355,
@@ -18,7 +19,8 @@
         376,
         3535,
         3539,
-        8264
+        8264,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

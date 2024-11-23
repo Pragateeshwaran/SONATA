@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0012.flac",
-    "text": "NOW EVERY MISSIONARY THAT EVER WENT OUT FROM IONA HAD TAUGHT THAT TO REDUCE CHRISTIANS TO SLAVERY WAS WHOLLY INCONSISTENT WITH A BELIEF IN THE DOCTRINES OF THE GOSPEL",
+    "text": "<|startoftext|> NOW EVERY MISSIONARY THAT EVER WENT OUT FROM IONA HAD TAUGHT THAT TO REDUCE CHRISTIANS TO SLAVERY WAS WHOLLY INCONSISTENT WITH A BELIEF IN THE DOCTRINES OF THE GOSPEL <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         27222,
         337,
@@ -59,7 +60,8 @@
         3336,
         402,
         47053,
-        3698
+        3698,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

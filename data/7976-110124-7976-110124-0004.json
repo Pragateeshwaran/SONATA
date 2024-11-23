@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0004.flac",
-    "text": "HAVE PITY UPON A POOR UNFORTUNATE ONE HE CALLED OUT",
+    "text": "<|startoftext|> HAVE PITY UPON A POOR UNFORTUNATE ONE HE CALLED OUT <|endoftext|>",
     "tokens": [
+        50255,
         7801,
         6089,
         350,
@@ -20,7 +21,8 @@
         11179,
         42815,
         1961,
-        16289
+        16289,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

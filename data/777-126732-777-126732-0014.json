@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0014.flac",
-    "text": "DON'T YOU THINK THAT IF I HAD NOT BEEN THE OPTIMIST I AM I COULD NOT HAVE FOUND IN FIFTEEN YEARS SOME MEANS TO CUT MY THROAT",
+    "text": "<|startoftext|> DON'T YOU THINK THAT IF I HAD NOT BEEN THE OPTIMIST I AM I COULD NOT HAVE FOUND IN FIFTEEN YEARS SOME MEANS TO CUT MY THROAT <|endoftext|>",
     "tokens": [
+        50255,
         41173,
         6,
         51,
@@ -45,7 +46,8 @@
         17615,
         2320,
         13252,
-        1404
+        1404,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

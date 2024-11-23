@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0003.flac",
-    "text": "THE POETS OF SUCCEEDING AGES HAVE DWELT MUCH IN DETAIL ON THE OCCURRENCES OF THIS MEMORABLE DAY",
+    "text": "<|startoftext|> THE POETS OF SUCCEEDING AGES HAVE DWELT MUCH IN DETAIL ON THE OCCURRENCES OF THIS MEMORABLE DAY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         19922,
         32716,
@@ -33,7 +34,8 @@
         35153,
         1581,
         17534,
-        24644
+        24644,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0003.flac",
-    "text": "RANDAL WAITED A WHILE IN LONDON ON THE CHANCE THAT BENNYDECK MIGHT PAY HIM A VISIT",
+    "text": "<|startoftext|> RANDAL WAITED A WHILE IN LONDON ON THE CHANCE THAT BENNYDECK MIGHT PAY HIM A VISIT <|endoftext|>",
     "tokens": [
+        50255,
         49,
         6981,
         1847,
@@ -28,7 +29,8 @@
         45909,
         317,
         50035,
-        2043
+        2043,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

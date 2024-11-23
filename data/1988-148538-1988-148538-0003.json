@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\148538\\1988-148538-0003.flac",
-    "text": "THIS IS MORE ESPECIALLY THE CASE AMONGST THOSE FREE NATIONS WHICH FORM DEMOCRATIC COMMUNITIES",
+    "text": "<|startoftext|> THIS IS MORE ESPECIALLY THE CASE AMONGST THOSE FREE NATIONS WHICH FORM DEMOCRATIC COMMUNITIES <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         3180,
         12011,
@@ -28,7 +29,8 @@
         1404,
         2149,
         48811,
-        30383
+        30383,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

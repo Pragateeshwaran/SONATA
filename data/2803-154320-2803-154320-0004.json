@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0004.flac",
-    "text": "MUCH AS THEY HAD BEEN INTERESTED IN HIS DISSERTATION ON THE PAMPAS OR AUSTRALIA HIS LECTURES ON NEW ZEALAND FELL ON COLD AND INDIFFERENT EARS",
+    "text": "<|startoftext|> MUCH AS THEY HAD BEEN INTERESTED IN HIS DISSERTATION ON THE PAMPAS OR AUSTRALIA HIS LECTURES ON NEW ZEALAND FELL ON COLD AND INDIFFERENT EARS <|endoftext|>",
     "tokens": [
+        50255,
         42422,
         3398,
         7054,
@@ -50,7 +51,8 @@
         24302,
         3525,
         412,
-        27415
+        27415,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

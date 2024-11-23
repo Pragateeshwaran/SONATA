@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0001.flac",
-    "text": "HOW CAN WE FEED OUR CHILDREN WHEN WE HAVE NO MORE THAN WE CAN EAT OURSELVES",
+    "text": "<|startoftext|> HOW CAN WE FEED OUR CHILDREN WHEN WE HAVE NO MORE THAN WE CAN EAT OURSELVES <|endoftext|>",
     "tokens": [
+        50255,
         37181,
         15628,
         12887,
@@ -27,7 +28,8 @@
         50,
         3698,
         53,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

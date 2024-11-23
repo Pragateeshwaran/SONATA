@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0040.flac",
-    "text": "BUT HE SAW NOTHING THAT MOVED THERE NO SIGNAL LIGHTS TWINKLED",
+    "text": "<|startoftext|> BUT HE SAW NOTHING THAT MOVED THERE NO SIGNAL LIGHTS TWINKLED <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         11179,
         311,
@@ -20,7 +21,8 @@
         34874,
         17306,
         17248,
-        30465
+        30465,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

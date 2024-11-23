@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0001.flac",
-    "text": "YANK SAYS WHAT YOU DOING JOHNNY",
+    "text": "<|startoftext|> YANK SAYS WHAT YOU DOING JOHNNY <|endoftext|>",
     "tokens": [
+        50255,
         56,
         15154,
         45687,
@@ -13,7 +14,8 @@
         449,
         12096,
         6144,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

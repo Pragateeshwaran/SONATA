@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0021.flac",
-    "text": "OAKLEY COLOR BEARER OF THE FOURTH TENNESSEE REGIMENT RAN RIGHT UP IN THE MIDST OF THE YANKEE LINE WITH HIS COLORS BEGGING HIS MEN TO FOLLOW",
+    "text": "<|startoftext|> OAKLEY COLOR BEARER OF THE FOURTH TENNESSEE REGIMENT RAN RIGHT UP IN THE MIDST OF THE YANKEE LINE WITH HIS COLORS BEGGING HIS MEN TO FOLLOW <|endoftext|>",
     "tokens": [
+        50255,
         46,
         10206,
         25173,
@@ -48,7 +49,8 @@
         41597,
         5390,
         11895,
-        44765
+        44765,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

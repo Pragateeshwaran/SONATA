@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0030.flac",
-    "text": "NO ANSWER THOUGH I ALLOWED A MORE THAN DECENT INTERVAL",
+    "text": "<|startoftext|> NO ANSWER THOUGH I ALLOWED A MORE THAN DECENT INTERVAL <|endoftext|>",
     "tokens": [
+        50255,
         15285,
         3537,
         17887,
@@ -19,7 +20,8 @@
         27196,
         3525,
         23255,
-        23428
+        23428,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

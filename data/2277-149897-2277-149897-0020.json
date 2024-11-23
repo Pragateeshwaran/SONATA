@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0020.flac",
-    "text": "THE HELPLESS MANAGER PACED THE FLOOR AND GRIMLY ENDURED THE GLOOM OF DEFEAT",
+    "text": "<|startoftext|> THE HELPLESS MANAGER PACED THE FLOOR AND GRIMLY ENDURED THE GLOOM OF DEFEAT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         36255,
         6489,
@@ -29,7 +30,8 @@
         3963,
         5550,
         15112,
-        1404
+        1404,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

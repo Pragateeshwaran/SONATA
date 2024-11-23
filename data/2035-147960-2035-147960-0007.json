@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0007.flac",
-    "text": "I NEVER KNOW YOU WAS SO BRAVE JIM SHE WENT ON COMFORTINGLY",
+    "text": "<|startoftext|> I NEVER KNOW YOU WAS SO BRAVE JIM SHE WENT ON COMFORTINGLY <|endoftext|>",
     "tokens": [
+        50255,
         40,
         33602,
         35876,
@@ -20,7 +21,8 @@
         37,
         9863,
         2751,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

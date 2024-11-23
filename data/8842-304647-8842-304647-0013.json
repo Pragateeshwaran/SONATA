@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0013.flac",
-    "text": "THOU LIKE ARCTURUS STEADFAST IN THE SKIES WITH TARDY SENSE GUIDEST THY KINGDOM FAIR BEARING ALONE THE LOAD OF LIBERTY",
+    "text": "<|startoftext|> THOU LIKE ARCTURUS STEADFAST IN THE SKIES WITH TARDY SENSE GUIDEST THY KINGDOM FAIR BEARING ALONE THE LOAD OF LIBERTY <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         2606,
         34178,
@@ -43,7 +44,8 @@
         3963,
         45651,
         1137,
-        9936
+        9936,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

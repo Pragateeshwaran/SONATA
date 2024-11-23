@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0016.flac",
-    "text": "LET ME THINK HE SAID OH HOW GLAD I AM THAT YOU HAPPENED TO COME THIS WAY",
+    "text": "<|startoftext|> LET ME THINK HE SAID OH HOW GLAD I AM THAT YOU HAPPENED TO COME THIS WAY <|endoftext|>",
     "tokens": [
+        50255,
         28882,
         11948,
         2320,
@@ -25,7 +26,8 @@
         9440,
         36,
         12680,
-        34882
+        34882,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

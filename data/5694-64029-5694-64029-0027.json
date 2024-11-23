@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0027.flac",
-    "text": "I LOOKED AT IT PRETTY CLOSE AND I SAID GREAT GOD",
+    "text": "<|startoftext|> I LOOKED AT IT PRETTY CLOSE AND I SAID GREAT GOD <|endoftext|>",
     "tokens": [
+        50255,
         40,
         48045,
         1961,
@@ -17,7 +18,8 @@
         14719,
         2389,
         37853,
-        29562
+        29562,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

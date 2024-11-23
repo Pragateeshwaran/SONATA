@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0031.flac",
-    "text": "HERE WE HAVE THE MAN SLY SUBTLE HARD IMPERIOUS AND WITHAL COLD AS ICE LOOK AT THAT EYE",
+    "text": "<|startoftext|> HERE WE HAVE THE MAN SLY SUBTLE HARD IMPERIOUS AND WITHAL COLD AS ICE LOOK AT THAT EYE <|endoftext|>",
     "tokens": [
+        50255,
         39,
         9338,
         12887,
@@ -30,7 +31,8 @@
         5161,
         14603,
         412,
-        48743
+        48743,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

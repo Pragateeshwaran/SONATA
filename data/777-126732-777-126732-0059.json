@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0059.flac",
-    "text": "IT'S LIKE YOUR HORSE SUDDENLY FALLING DEAD UNDER YOU IN THE MIDST OF AN UNINHABITED AND THIRSTY PLAIN",
+    "text": "<|startoftext|> IT'S LIKE YOUR HORSE SUDDENLY FALLING DEAD UNDER YOU IN THE MIDST OF AN UNINHABITED AND THIRSTY PLAIN <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         6,
         50,
@@ -36,7 +37,8 @@
         2257,
         56,
         9297,
-        29833
+        29833,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

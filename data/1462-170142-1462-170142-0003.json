@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0003.flac",
-    "text": "THE ROOM WAS EMPTY WHEN HE ENTERED",
+    "text": "<|startoftext|> THE ROOM WAS EMPTY WHEN HE ENTERED <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         15107,
         2662,
@@ -11,7 +12,8 @@
         42099,
         11179,
         46962,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

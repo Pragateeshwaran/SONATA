@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0012.flac",
-    "text": "AND IT IS UPON THIS EFFECT OF SWEET AND BEAUTIFUL POSSIBILITIES CAUGHT IN THE NET OF ANIMAL JEALOUSIES AND THOUGHTLESS MOTIVES AND ANCIENT RIGID INSTITUTIONS THAT I WOULD END THIS WRITING",
+    "text": "<|startoftext|> AND IT IS UPON THIS EFFECT OF SWEET AND BEAUTIFUL POSSIBILITIES CAUGHT IN THE NET OF ANIMAL JEALOUSIES AND THOUGHTLESS MOTIVES AND ANCIENT RIGID INSTITUTIONS THAT I WOULD END THIS WRITING <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         7283,
         3180,
@@ -64,7 +65,8 @@
         12680,
         11342,
         2043,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

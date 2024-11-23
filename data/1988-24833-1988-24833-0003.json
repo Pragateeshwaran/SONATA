@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0003.flac",
-    "text": "WHEN ARE YOU GETTING RID OF THESE CATS I'M NOT FIXING TO START AN ANNEX TO KATE'S CAT HOME",
+    "text": "<|startoftext|> WHEN ARE YOU GETTING RID OF THESE CATS I'M NOT FIXING TO START AN ANNEX TO KATE'S CAT HOME <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         15986,
@@ -31,7 +32,8 @@
         6,
         50,
         38348,
-        41779
+        41779,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

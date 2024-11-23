@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0016.flac",
-    "text": "KALIKO HESITATED",
+    "text": "<|startoftext|> KALIKO HESITATED <|endoftext|>",
     "tokens": [
+        50255,
         42,
         1847,
         18694,
@@ -9,7 +10,8 @@
         367,
         1546,
         2043,
-        11617
+        11617,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

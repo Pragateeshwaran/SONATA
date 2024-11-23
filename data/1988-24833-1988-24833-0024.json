@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0024.flac",
-    "text": "TOM DRINKS A LITTLE MORE COFFEE AND THEN HE GOES ON THE TROUBLE IS I CAN'T GET MARRIED ON THIS FLOWER SHOP JOB",
+    "text": "<|startoftext|> TOM DRINKS A LITTLE MORE COFFEE AND THEN HE GOES ON THE TROUBLE IS I CAN'T GET MARRIED ON THIS FLOWER SHOP JOB <|endoftext|>",
     "tokens": [
+        50255,
         51,
         2662,
         10560,
@@ -41,7 +42,8 @@
         6006,
         3185,
         449,
-        9864
+        9864,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

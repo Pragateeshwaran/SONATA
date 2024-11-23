@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0003.flac",
-    "text": "HE WAS OF A CLEAN SAVING DISPOSITION AND HAD ALREADY PAID A NUMBER OF MONTHLY INSTALMENTS ON TWO LOTS FAR OUT ON THE WEST SIDE",
+    "text": "<|startoftext|> HE WAS OF A CLEAN SAVING DISPOSITION AND HAD ALREADY PAID A NUMBER OF MONTHLY INSTALMENTS ON TWO LOTS FAR OUT ON THE WEST SIDE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         3963,
@@ -43,7 +44,8 @@
         370,
         6465,
         311,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

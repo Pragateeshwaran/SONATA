@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0003.flac",
-    "text": "NOT SATISFIED WITH GOSSIP IN PRIVATE THE GREEDY PUBLIC APPETITE DEVOURS GOSSIP IN PRINT AND WANTS MORE OF IT THAN ANY ONE EDITOR CAN SUPPLY",
+    "text": "<|startoftext|> NOT SATISFIED WITH GOSSIP IN PRIVATE THE GREEDY PUBLIC APPETITE DEVOURS GOSSIP IN PRINT AND WANTS MORE OF IT THAN ANY ONE EDITOR CAN SUPPLY <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         29020,
         1797,
@@ -49,7 +50,8 @@
         15628,
         19549,
         6489,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

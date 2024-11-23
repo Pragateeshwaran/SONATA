@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0026.flac",
-    "text": "AS I WENT BACK TO THE FIELD HOSPITAL I OVERTOOK ANOTHER MAN WALKING ALONG",
+    "text": "<|startoftext|> AS I WENT BACK TO THE FIELD HOSPITAL I OVERTOOK ANOTHER MAN WALKING ALONG <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         314,
         370,
@@ -25,7 +26,8 @@
         28082,
         2751,
         8355,
-        18494
+        18494,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

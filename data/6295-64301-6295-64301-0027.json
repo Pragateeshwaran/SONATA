@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0027.flac",
-    "text": "HE STARTED TO CONSCIOUS CONFUSION ONLY NEITHER KNOWING WHERE HE WAS NOR WHAT HE DID",
+    "text": "<|startoftext|> HE STARTED TO CONSCIOUS CONFUSION ONLY NEITHER KNOWING WHERE HE WAS NOR WHAT HE DID <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         33303,
         1961,
@@ -26,7 +27,8 @@
         25273,
         25003,
         11179,
-        35697
+        35697,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

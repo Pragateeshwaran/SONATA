@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0012.flac",
-    "text": "DUE TO THEE THEIR PRAISE OF MAIDEN PURE OF TEEMING MOTHERHOOD",
+    "text": "<|startoftext|> DUE TO THEE THEIR PRAISE OF MAIDEN PURE OF TEEMING MOTHERHOOD <|endoftext|>",
     "tokens": [
+        50255,
         35,
         8924,
         5390,
@@ -24,7 +25,8 @@
         337,
         31858,
         39,
-        22808
+        22808,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

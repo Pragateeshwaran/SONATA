@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0024.flac",
-    "text": "I CANNOT THINK WHAT POSSESSES ME THAT I MUST ALWAYS BE WANTING TO COMFORT HIM WHEN HE'S DOWNCAST AND THAT I MUST GO MEDDLING WI HIM TO NIGHT WHEN SURE ENOUGH IT WAS HIS AUNT'S PLACE TO SPEAK TO HIM",
+    "text": "<|startoftext|> I CANNOT THINK WHAT POSSESSES ME THAT I MUST ALWAYS BE WANTING TO COMFORT HIM WHEN HE'S DOWNCAST AND THAT I MUST GO MEDDLING WI HIM TO NIGHT WHEN SURE ENOUGH IT WAS HIS AUNT'S PLACE TO SPEAK TO HIM <|endoftext|>",
     "tokens": [
+        50255,
         40,
         15628,
         11929,
@@ -65,7 +66,8 @@
         36,
         10206,
         5390,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

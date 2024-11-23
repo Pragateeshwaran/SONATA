@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0012.flac",
-    "text": "RANDAL HE SAID YOU KNOW WHERE SYDNEY IS",
+    "text": "<|startoftext|> RANDAL HE SAID YOU KNOW WHERE SYDNEY IS <|endoftext|>",
     "tokens": [
+        50255,
         49,
         6981,
         1847,
@@ -14,7 +15,8 @@
         19704,
         35,
         36231,
-        3180
+        3180,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

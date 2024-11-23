@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0009.flac",
-    "text": "SHE WAS A BEAUTIFUL GIRL OF ABOUT SEVENTEEN YEARS OF AGE NOT FAT LIKE ALL THE REST OF THE PINKIES BUT SLENDER AND WELL FORMED ACCORDING TO OUR OWN IDEAS OF BEAUTY",
+    "text": "<|startoftext|> SHE WAS A BEAUTIFUL GIRL OF ABOUT SEVENTEEN YEARS OF AGE NOT FAT LIKE ALL THE REST OF THE PINKIES BUT SLENDER AND WELL FORMED ACCORDING TO OUR OWN IDEAS OF BEAUTY <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         21725,
@@ -56,7 +57,8 @@
         3963,
         9348,
         39371,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0018.flac",
-    "text": "BED TIME CHILDREN",
+    "text": "<|startoftext|> BED TIME CHILDREN <|endoftext|>",
     "tokens": [
+        50255,
         33,
         1961,
         20460,
         5870,
         4146,
         7707,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

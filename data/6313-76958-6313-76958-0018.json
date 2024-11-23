@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0018.flac",
-    "text": "HI THERE HISSED LUMPY FILLED WITH INDIGNATION THAT ANYONE SHOULD ATTEMPT TO MOUNT A PONY FROM THE RIGHT SIDE",
+    "text": "<|startoftext|> HI THERE HISSED LUMPY FILLED WITH INDIGNATION THAT ANYONE SHOULD ATTEMPT TO MOUNT A PONY FROM THE RIGHT SIDE <|endoftext|>",
     "tokens": [
+        50255,
         25374,
         34702,
         367,
@@ -34,7 +35,8 @@
         3336,
         33621,
         311,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

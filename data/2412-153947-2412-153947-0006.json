@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0006.flac",
-    "text": "BUT THIS HAD AN EFFECT OF WHICH I HAVE LITTLE REASON TO COMPLAIN FOR I WAS ALLOWED ALMOST TO CALL THEM LIFE LONG SELF DECEIVERS TO THEIR FACES AND THEY SAID IT WAS QUITE TRUE BUT THAT IT DID NOT MATTER",
+    "text": "<|startoftext|> BUT THIS HAD AN EFFECT OF WHICH I HAVE LITTLE REASON TO COMPLAIN FOR I WAS ALLOWED ALMOST TO CALL THEM LIFE LONG SELF DECEIVERS TO THEIR FACES AND THEY SAID IT WAS QUITE TRUE BUT THAT IT DID NOT MATTER <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         12680,
         367,
@@ -61,7 +62,8 @@
         35697,
         5626,
         36775,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

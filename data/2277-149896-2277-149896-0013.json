@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0013.flac",
-    "text": "HE WOULD GET ONE TO DAY IT WOULD PROBABLY BE ON HIS DESK WHEN HE GOT BACK HE WOULD LOOK FOR IT AT ONCE",
+    "text": "<|startoftext|> HE WOULD GET ONE TO DAY IT WOULD PROBABLY BE ON HIS DESK WHEN HE GOT BACK HE WOULD LOOK FOR IT AT ONCE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         370,
         24010,
@@ -33,7 +34,8 @@
         7283,
         5161,
         6177,
-        5222
+        5222,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

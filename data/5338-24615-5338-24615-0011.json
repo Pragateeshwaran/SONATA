@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24615\\5338-24615-0011.flac",
-    "text": "TWO BATTLEMENTED WALLS ONE OF WHICH FACED THE AVENUE AND THE OTHER DIVIDED THE COURT FROM THE GARDEN COMPLETED THE INCLOSURE",
+    "text": "<|startoftext|> TWO BATTLEMENTED WALLS ONE OF WHICH FACED THE AVENUE AND THE OTHER DIVIDED THE COURT FROM THE GARDEN COMPLETED THE INCLOSURE <|endoftext|>",
     "tokens": [
+        50255,
         34551,
         46,
         347,
@@ -41,7 +42,8 @@
         3268,
         5097,
         2640,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

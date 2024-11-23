@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0015.flac",
-    "text": "PUT THE PULP INTO A BASIN WITH TWO OUNCES OF MELTED BUTTER TWO TABLESPOONFULS OF LEMON JUICE HALF A POUND OF CHESTNUTS BOILED AND GRATED AND SEASONING OF SALT AND WHITE PEPPER TO TASTE",
+    "text": "<|startoftext|> PUT THE PULP INTO A BASIN WITH TWO OUNCES OF MELTED BUTTER TWO TABLESPOONFULS OF LEMON JUICE HALF A POUND OF CHESTNUTS BOILED AND GRATED AND SEASONING OF SALT AND WHITE PEPPER TO TASTE <|endoftext|>",
     "tokens": [
+        50255,
         30076,
         3336,
         350,
@@ -70,7 +71,8 @@
         5390,
         309,
         1921,
-        9328
+        9328,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

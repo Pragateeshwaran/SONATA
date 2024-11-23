@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0012.flac",
-    "text": "I FELT QUITE LIVELY MYSELF AS I MINGLED WITH THE CHRISTMAS CROWD LOOKING FOR THINGS WHICH MIGHT NOT TURN OUT TO BE ABSOLUTELY PREPOSTEROUS",
+    "text": "<|startoftext|> I FELT QUITE LIVELY MYSELF AS I MINGLED WITH THE CHRISTMAS CROWD LOOKING FOR THINGS WHICH MIGHT NOT TURN OUT TO BE ABSOLUTELY PREPOSTEROUS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         376,
         3698,
@@ -48,7 +49,8 @@
         22814,
         32782,
         1137,
-        20958
+        20958,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0017.flac",
-    "text": "DID THEY KNOW OF THE EXISTENCE OF THE PRISONERS OR WAS IT SOME PRIVATE ENTERPRISE THAT LED TO THE UNDERTAKING",
+    "text": "<|startoftext|> DID THEY KNOW OF THE EXISTENCE OF THE PRISONERS OR WAS IT SOME PRIVATE ENTERPRISE THAT LED TO THE UNDERTAKING <|endoftext|>",
     "tokens": [
+        50255,
         35,
         2389,
         33302,
@@ -32,7 +33,8 @@
         3336,
         35219,
         5603,
-        37286
+        37286,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

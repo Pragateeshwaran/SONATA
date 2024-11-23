@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0020.flac",
-    "text": "BEFORE I CONSENTED TO ANSWER THE CHILD'S INQUIRIES I CAME TO AN UNDERSTANDING WITH HER MOTHER",
+    "text": "<|startoftext|> BEFORE I CONSENTED TO ANSWER THE CHILD'S INQUIRIES I CAME TO AN UNDERSTANDING WITH HER MOTHER <|endoftext|>",
     "tokens": [
+        50255,
         12473,
         30818,
         314,
@@ -33,7 +34,8 @@
         13315,
         24906,
         337,
-        31858
+        31858,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

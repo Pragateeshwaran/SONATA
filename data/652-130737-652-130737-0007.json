@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0007.flac",
-    "text": "HOCHHEIMER A LIGHT PLEASING AND WHOLESOME WINE",
+    "text": "<|startoftext|> HOCHHEIMER A LIGHT PLEASING AND WHOLESOME WINE <|endoftext|>",
     "tokens": [
+        50255,
         32298,
         3398,
         13909,
@@ -20,7 +21,8 @@
         1546,
         13649,
         370,
-        8881
+        8881,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0036.flac",
-    "text": "IT IS NONSENSE SAID PHOEBE A LITTLE IMPATIENTLY FOR US TO TALK ABOUT A PICTURE WHICH YOU HAVE NEVER SEEN",
+    "text": "<|startoftext|> IT IS NONSENSE SAID PHOEBE A LITTLE IMPATIENTLY FOR US TO TALK ABOUT A PICTURE WHICH YOU HAVE NEVER SEEN <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         399,
@@ -36,7 +37,8 @@
         21515,
         33602,
         7946,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0028.flac",
-    "text": "SHE WAS GOING TO REPLY BUT FOUND SHE COULD NOT WITHOUT ACCOMPANYING HER WORDS WITH TEARS THEREFORE AFTER THE FIRST ATTEMPT SHE DESISTED",
+    "text": "<|startoftext|> SHE WAS GOING TO REPLY BUT FOUND SHE COULD NOT WITHOUT ACCOMPANYING HER WORDS WITH TEARS THEREFORE AFTER THE FIRST ATTEMPT SHE DESISTED <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         21725,
@@ -40,7 +41,8 @@
         48052,
         22196,
         8808,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

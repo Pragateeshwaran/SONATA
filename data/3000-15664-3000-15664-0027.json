@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0027.flac",
-    "text": "THEIR LONG MASSIVE EARS GIVE THEM A VERY STRIKING APPEARANCE",
+    "text": "<|startoftext|> THEIR LONG MASSIVE EARS GIVE THEM A VERY STRIKING APPEARANCE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         4663,
         44533,
@@ -21,7 +22,8 @@
         3486,
         11401,
         1503,
-        19240
+        19240,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

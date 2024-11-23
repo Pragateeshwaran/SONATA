@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0011.flac",
-    "text": "HIS CONSTANCY TO HER WAS NOW REWARDED",
+    "text": "<|startoftext|> HIS CONSTANCY TO HER WAS NOW REWARDED <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         7102,
@@ -14,7 +15,8 @@
         20229,
         4526,
         39743,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

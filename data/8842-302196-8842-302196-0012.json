@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0012.flac",
-    "text": "THIS HAS INDUCED SOME EDITORS OF THE VITA NUOVA TO EXPLAIN THE TITLE AS MEANING EARLY LIFE",
+    "text": "<|startoftext|> THIS HAS INDUCED SOME EDITORS OF THE VITA NUOVA TO EXPLAIN THE TITLE AS MEANING EARLY LIFE <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         33930,
         24413,
@@ -31,7 +32,8 @@
         2751,
         31834,
         11319,
-        36821
+        36821,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

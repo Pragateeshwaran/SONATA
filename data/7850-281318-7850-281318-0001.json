@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0001.flac",
-    "text": "INDEED IT IS NOT A NEST AT ALL ONLY THE BEGINNING OF ONE",
+    "text": "<|startoftext|> INDEED IT IS NOT A NEST AT ALL ONLY THE BEGINNING OF ONE <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         7206,
         1961,
@@ -19,7 +20,8 @@
         43312,
         15871,
         3963,
-        16329
+        16329,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

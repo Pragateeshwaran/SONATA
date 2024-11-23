@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0080.flac",
-    "text": "I KNOW SHE SAID WHAT YOU ARE GOING TO ASK ME NOW",
+    "text": "<|startoftext|> I KNOW SHE SAID WHAT YOU ARE GOING TO ASK ME NOW <|endoftext|>",
     "tokens": [
+        50255,
         40,
         35876,
         48052,
@@ -16,7 +17,8 @@
         7054,
         42,
         11948,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

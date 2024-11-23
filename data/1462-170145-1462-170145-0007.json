@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0007.flac",
-    "text": "I TOLD MYSELF THAT IF I WERE REALLY THINKING OF YOU AND NOT OF MYSELF A LETTER WOULD BE BETTER THAN NOTHING",
+    "text": "<|startoftext|> I TOLD MYSELF THAT IF I WERE REALLY THINKING OF YOU AND NOT OF MYSELF A LETTER WOULD BE BETTER THAN NOTHING <|endoftext|>",
     "tokens": [
+        50255,
         40,
         309,
         15173,
@@ -37,7 +38,8 @@
         1565,
         5626,
         39,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

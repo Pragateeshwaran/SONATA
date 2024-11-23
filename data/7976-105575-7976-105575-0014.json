@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0014.flac",
-    "text": "THAT EVENING AN ORDER CAME FOR US HAMILTON'S DIVISION TO ASSAULT THE ENEMY'S LEFT FLANK AT MIDNIGHT",
+    "text": "<|startoftext|> THAT EVENING AN ORDER CAME FOR US HAMILTON'S DIVISION TO ASSAULT THE ENEMY'S LEFT FLANK AT MIDNIGHT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         45886,
@@ -37,7 +38,8 @@
         5161,
         25269,
         45,
-        9947
+        9947,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

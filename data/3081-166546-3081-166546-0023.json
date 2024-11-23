@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0023.flac",
-    "text": "HE GAVE UP WORK SOME TIME AGO I HAVE BEEN TOLD MY HUSBAND WENT ON BUT EVIDENTLY A GREAT CASE STILL HAS ITS ALLUREMENT FOR HIM",
+    "text": "<|startoftext|> HE GAVE UP WORK SOME TIME AGO I HAVE BEEN TOLD MY HUSBAND WENT ON BUT EVIDENTLY A GREAT CASE STILL HAS ITS ALLUREMENT FOR HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         14545,
         6089,
@@ -39,7 +40,8 @@
         11335,
         10979,
         7473,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

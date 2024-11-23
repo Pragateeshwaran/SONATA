@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0011.flac",
-    "text": "WHAT SHOULD WE HAVE DONE IF EVERYBODY HAD KEPT ON BURNING WOOD TO THIS DAY",
+    "text": "<|startoftext|> WHAT SHOULD WE HAVE DONE IF EVERYBODY HAD KEPT ON BURNING WOOD TO THIS DAY <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         40312,
         12887,
@@ -24,7 +25,8 @@
         22808,
         5390,
         12680,
-        24644
+        24644,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

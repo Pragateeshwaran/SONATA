@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0008.flac",
-    "text": "MY GUN WAS AT MY FEET AND ONE STEP WOULD GET IT",
+    "text": "<|startoftext|> MY GUN WAS AT MY FEET AND ONE STEP WOULD GET IT <|endoftext|>",
     "tokens": [
+        50255,
         26708,
         43794,
         21725,
@@ -15,7 +16,8 @@
         370,
         24010,
         17151,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0038.flac",
-    "text": "HARRY THANKED HIM THREW HIS SADDLE BAGS ACROSS THE HORSE A POWERFUL BAY AND GIVING A FINAL WAVE OF HIS HAND TO THE SYMPATHETIC LIVERYMAN RODE AWAY",
+    "text": "<|startoftext|> HARRY THANKED HIM THREW HIS SADDLE BAGS ACROSS THE HORSE A POWERFUL BAY AND GIVING A FINAL WAVE OF HIS HAND TO THE SYMPATHETIC LIVERYMAN RODE AWAY <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1503,
         18276,
@@ -55,7 +56,8 @@
         371,
         16820,
         14356,
-        4792
+        4792,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

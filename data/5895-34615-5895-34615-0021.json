@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0021.flac",
-    "text": "THE OPERATION WHATEVER IT HAD BEEN WHICH HAD DEPRIVED HIS FEATURES OF HARMONY AND PUT ALL THEIR FLESH INTO DISORDER HAD HAD NO EFFECT ON THE BONY STRUCTURE OF HIS HEAD",
+    "text": "<|startoftext|> THE OPERATION WHATEVER IT HAD BEEN WHICH HAD DEPRIVED HIS FEATURES OF HARMONY AND PUT ALL THEIR FLESH INTO DISORDER HAD HAD NO EFFECT ON THE BONY STRUCTURE OF HIS HEAD <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         43521,
         6234,
@@ -55,7 +56,8 @@
         11335,
         3963,
         33700,
-        39837
+        39837,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0000.flac",
-    "text": "HE NO DOUBT WOULD BRING FOOD OF SOME KIND WITH HIM",
+    "text": "<|startoftext|> HE NO DOUBT WOULD BRING FOOD OF SOME KIND WITH HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         8005,
         360,
@@ -18,7 +19,8 @@
         509,
         12115,
         13315,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

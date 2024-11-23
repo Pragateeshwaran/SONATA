@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0004.flac",
-    "text": "HE IS STAYING AT THIS HOTEL TO TRY THE AIR OF SYDENHAM AND HE FINDS THAT IT AGREES WITH HIM",
+    "text": "<|startoftext|> HE IS STAYING AT THIS HOTEL TO TRY THE AIR OF SYDENHAM AND HE FINDS THAT IT AGREES WITH HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         3180,
         3563,
@@ -30,7 +31,8 @@
         2200,
         1546,
         13315,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

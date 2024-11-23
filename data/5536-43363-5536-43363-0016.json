@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0016.flac",
-    "text": "THERE ARE MANY TRUSTWORTHY MEN AND MEN OF CHRISTIAN FAITH TO VOUCH FOR THESE AND SIMILAR EVENTS OCCURRING AS FORETOLD",
+    "text": "<|startoftext|> THERE ARE MANY TRUSTWORTHY MEN AND MEN OF CHRISTIAN FAITH TO VOUCH FOR THESE AND SIMILAR EVENTS OCCURRING AS FORETOLD <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         15986,
@@ -38,7 +39,8 @@
         7054,
         7473,
         2767,
-        15173
+        15173,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0025.flac",
-    "text": "RANDAL PASSED THIS OVER WITHOUT NOTICE",
+    "text": "<|startoftext|> RANDAL PASSED THIS OVER WITHOUT NOTICE <|endoftext|>",
     "tokens": [
+        50255,
         49,
         6981,
         1847,
@@ -10,7 +11,8 @@
         12680,
         28729,
         42881,
-        28536
+        28536,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

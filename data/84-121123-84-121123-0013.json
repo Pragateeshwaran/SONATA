@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0013.flac",
-    "text": "ASKED MORREL YES",
+    "text": "<|startoftext|> ASKED MORREL YES <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         42,
         1961,
         35208,
         16448,
-        21560
+        21560,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

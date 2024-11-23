@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0011.flac",
-    "text": "YES THE COUNTRY IS FULL OF CAVES",
+    "text": "<|startoftext|> YES THE COUNTRY IS FULL OF CAVES <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         3336,
         31404,
@@ -11,7 +12,8 @@
         3963,
         7257,
         53,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

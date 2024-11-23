@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0026.flac",
-    "text": "FORGIVE THE DUTIES OF MY OFFICE AND BELIEVE THAT NO ONE IS HALF SO MUCH CONCERNED IF IT ROBS YOU OF ANY DEGREE OF HAPPINESS AS I MYSELF AM",
+    "text": "<|startoftext|> FORGIVE THE DUTIES OF MY OFFICE AND BELIEVE THAT NO ONE IS HALF SO MUCH CONCERNED IF IT ROBS YOU OF ANY DEGREE OF HAPPINESS AS I MYSELF AM <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         38,
         9306,
@@ -47,7 +48,8 @@
         337,
         16309,
         37738,
-        3001
+        3001,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0019.flac",
-    "text": "BUT MY UNCLE WAS IN NO HUMOR TO WAIT",
+    "text": "<|startoftext|> BUT MY UNCLE WAS IN NO HUMOR TO WAIT <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         17615,
         4725,
@@ -13,7 +14,8 @@
         1581,
         5390,
         16400,
-        2043
+        2043,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

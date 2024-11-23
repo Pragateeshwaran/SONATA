@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0006.flac",
-    "text": "A DISTINCT PROMISE OF A HUNDRED POUNDS WAS MADE TO HIM IF HE WOULD HAVE THE CHILD READY TO HAND OVER TO TREVELYAN ON TREVELYAN'S ARRIVAL IN ENGLAND",
+    "text": "<|startoftext|> A DISTINCT PROMISE OF A HUNDRED POUNDS WAS MADE TO HIM IF HE WOULD HAVE THE CHILD READY TO HAND OVER TO TREVELYAN ON TREVELYAN'S ARRIVAL IN ENGLAND <|endoftext|>",
     "tokens": [
+        50255,
         32,
         360,
         8808,
@@ -56,7 +57,8 @@
         3268,
         12964,
         8763,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

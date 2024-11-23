@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0025.flac",
-    "text": "HE WAS QUITE CERTAIN NOW THAT SHE KNEW HE WAS MARRIED AND WAS ANGERED AT HIS PERFIDY",
+    "text": "<|startoftext|> HE WAS QUITE CERTAIN NOW THAT SHE KNEW HE WAS MARRIED AND WAS ANGERED AT HIS PERFIDY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         19604,
@@ -29,7 +30,8 @@
         19878,
         37,
         2389,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0005.flac",
-    "text": "NO BATTERY IN THE WHOLE FOUR YEARS WAR LOST SO MANY MEN IN SO SHORT A TIME",
+    "text": "<|startoftext|> NO BATTERY IN THE WHOLE FOUR YEARS WAR LOST SO MANY MEN IN SO SHORT A TIME <|endoftext|>",
     "tokens": [
+        50255,
         15285,
         37421,
         5781,
@@ -26,7 +27,8 @@
         6006,
         9863,
         317,
-        20460
+        20460,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0011.flac",
-    "text": "NOT EXACTLY RETURNED KALIKO",
+    "text": "<|startoftext|> NOT EXACTLY RETURNED KALIKO <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         7788,
         10659,
@@ -12,7 +13,8 @@
         509,
         1847,
         18694,
-        46
+        46,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0011.flac",
-    "text": "VINTAGE YEARS HAVE MUCH TO DO WITH THE QUALITY OF WINES",
+    "text": "<|startoftext|> VINTAGE YEARS HAVE MUCH TO DO WITH THE QUALITY OF WINES <|endoftext|>",
     "tokens": [
+        50255,
         53,
         12394,
         11879,
@@ -18,7 +19,8 @@
         9050,
         3963,
         25779,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

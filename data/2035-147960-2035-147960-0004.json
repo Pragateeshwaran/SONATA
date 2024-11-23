@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0004.flac",
-    "text": "IT WAS ON ONE OF THESE GRAVEL BEDS THAT I MET MY ADVENTURE",
+    "text": "<|startoftext|> IT WAS ON ONE OF THESE GRAVEL BEDS THAT I MET MY ADVENTURE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         6177,
@@ -20,7 +21,8 @@
         17615,
         43685,
         3525,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

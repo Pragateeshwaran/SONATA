@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0027.flac",
-    "text": "A MISFORTUNE OF BIRTH PLACED ME HERE AND I CANNOT ESCAPE MY FATE",
+    "text": "<|startoftext|> A MISFORTUNE OF BIRTH PLACED ME HERE AND I CANNOT ESCAPE MY FATE <|endoftext|>",
     "tokens": [
+        50255,
         32,
         50029,
         37,
@@ -24,7 +25,8 @@
         45721,
         17615,
         376,
-        6158
+        6158,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

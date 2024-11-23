@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0015.flac",
-    "text": "NOTHING OF THE MARVELOUS COULD ASTONISH HIM AS THAT A BEAST SHOULD SPEAK OR THE SUN STAND STILL",
+    "text": "<|startoftext|> NOTHING OF THE MARVELOUS COULD ASTONISH HIM AS THAT A BEAST SHOULD SPEAK OR THE SUN STAND STILL <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         39,
         2751,
@@ -30,7 +31,8 @@
         35329,
         49053,
         3563,
-        8267
+        8267,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

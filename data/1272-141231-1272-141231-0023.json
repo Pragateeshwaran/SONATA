@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0023.flac",
-    "text": "THE STRENGTH THAT ENABLES SOMEONE IN A TRANCE TO HOLD HIS BODY STIFF AND UNSUPPORTED EXCEPT AT TWO POINTS THE HEAD AND HEELS",
+    "text": "<|startoftext|> THE STRENGTH THAT ENABLES SOMEONE IN A TRANCE TO HOLD HIS BODY STIFF AND UNSUPPORTED EXCEPT AT TWO POINTS THE HEAD AND HEELS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         19269,
         49494,
@@ -40,7 +41,8 @@
         39837,
         5357,
         11179,
-        37142
+        37142,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

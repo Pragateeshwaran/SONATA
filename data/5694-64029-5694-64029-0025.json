@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0025.flac",
-    "text": "I THOUGHT IT HAD BEEN TORN FROM MY SHOULDER",
+    "text": "<|startoftext|> I THOUGHT IT HAD BEEN TORN FROM MY SHOULDER <|endoftext|>",
     "tokens": [
+        50255,
         40,
         2320,
         2606,
@@ -17,7 +18,8 @@
         16034,
         17615,
         40312,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

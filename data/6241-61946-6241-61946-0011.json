@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0011.flac",
-    "text": "HERE AND THERE COULD BE SEEN AN ISOLATED FARM SOME SOLITARY BUR OR ICELANDIC HOUSE BUILT OF WOOD EARTH FRAGMENTS OF LAVA LOOKING LIKE BEGGARS ON THE HIGHWAY OF LIFE",
+    "text": "<|startoftext|> HERE AND THERE COULD BE SEEN AN ISOLATED FARM SOME SOLITARY BUR OR ICELANDIC HOUSE BUILT OF WOOD EARTH FRAGMENTS OF LAVA LOOKING LIKE BEGGARS ON THE HIGHWAY OF LIFE <|endoftext|>",
     "tokens": [
+        50255,
         39,
         9338,
         5357,
@@ -54,7 +55,8 @@
         34677,
         27285,
         3963,
-        36821
+        36821,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

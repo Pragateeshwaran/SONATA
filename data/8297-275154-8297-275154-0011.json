@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0011.flac",
-    "text": "HE PUT DOWN THE EMPTY GLASS TAKING NO NOTICE OF HIS BROTHER'S QUESTION",
+    "text": "<|startoftext|> HE PUT DOWN THE EMPTY GLASS TAKING NO NOTICE OF HIS BROTHER'S QUESTION <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         350,
         3843,
@@ -22,7 +23,8 @@
         6,
         50,
         43658,
-        2849
+        2849,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

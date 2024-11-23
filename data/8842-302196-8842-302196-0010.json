@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302196\\8842-302196-0010.flac",
-    "text": "THROUGHOUT THE VITA NUOVA THERE IS A STRAIN LIKE THE FIRST FALLING MURMUR WHICH REACHES THE EAR IN SOME REMOTE MEADOW AND PREPARES US TO LOOK UPON THE SEA",
+    "text": "<|startoftext|> THROUGHOUT THE VITA NUOVA THERE IS A STRAIN LIKE THE FIRST FALLING MURMUR WHICH REACHES THE EAR IN SOME REMOTE MEADOW AND PREPARES US TO LOOK UPON THE SEA <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         49,
         32632,
@@ -53,7 +54,8 @@
         15958,
         1340,
         3336,
-        41067
+        41067,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

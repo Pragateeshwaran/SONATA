@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0004.flac",
-    "text": "AND MY HUE WAS SUCH THAT THEY LOOK'D AT EACH OTHER AND THOUGHT OF DEATH SAYING UNDER THEIR BREATH MOST TENDERLY O LET US COMFORT HIM THEN UNTO ME WHAT DREAM WAS THINE THAT IT HATH SHAKEN THEE SO MUCH",
+    "text": "<|startoftext|> AND MY HUE WAS SUCH THAT THEY LOOK'D AT EACH OTHER AND THOUGHT OF DEATH SAYING UNDER THEIR BREATH MOST TENDERLY O LET US COMFORT HIM THEN UNTO ME WHAT DREAM WAS THINE THAT IT HATH SHAKEN THEE SO MUCH <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         17615,
         367,
@@ -65,7 +66,8 @@
         3336,
         36,
         12809,
-        45859
+        45859,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

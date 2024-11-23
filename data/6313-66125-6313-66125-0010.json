@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0010.flac",
-    "text": "YOU'D HAVE BOTH OF US AT THE BOTTOM IF I LEFT IT TO YOU TO TAKE CARE OF THIS END",
+    "text": "<|startoftext|> YOU'D HAVE BOTH OF US AT THE BOTTOM IF I LEFT IT TO YOU TO TAKE CARE OF THIS END <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         6,
         35,
@@ -28,7 +29,8 @@
         47342,
         3963,
         12680,
-        23578
+        23578,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

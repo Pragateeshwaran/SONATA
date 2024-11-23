@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0030.flac",
-    "text": "HE WAS STONE DEAD BUT I DROPPED THAT FOOT QUICK",
+    "text": "<|startoftext|> HE WAS STONE DEAD BUT I DROPPED THAT FOOT QUICK <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         3563,
@@ -17,7 +18,8 @@
         11895,
         2394,
         19604,
-        11860
+        11860,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

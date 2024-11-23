@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0010.flac",
-    "text": "NOR EVEN THUS OUR WAY CONTINUED FAR BEFORE THE LADY WHOLLY TURNED HERSELF UNTO ME SAYING BROTHER LOOK AND LISTEN",
+    "text": "<|startoftext|> NOR EVEN THUS OUR WAY CONTINUED FAR BEFORE THE LADY WHOLLY TURNED HERSELF UNTO ME SAYING BROTHER LOOK AND LISTEN <|endoftext|>",
     "tokens": [
+        50255,
         35510,
         45886,
         2320,
@@ -36,7 +37,8 @@
         48045,
         5357,
         39498,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

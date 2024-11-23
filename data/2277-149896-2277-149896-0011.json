@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0011.flac",
-    "text": "HE GREW RESTLESS AS HE RUMINATED AND THEN DECIDED THAT PERHAPS IT WAS NOTHING",
+    "text": "<|startoftext|> HE GREW RESTLESS AS HE RUMINATED AND THEN DECIDED THAT PERHAPS IT WAS NOTHING <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         19928,
         54,
@@ -26,7 +27,8 @@
         21725,
         5626,
         39,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0010.flac",
-    "text": "THE MENS SANA MUST HAVE A CORPUS SANUM TO INHABIT",
+    "text": "<|startoftext|> THE MENS SANA MUST HAVE A CORPUS SANUM TO INHABIT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         337,
         16938,
@@ -19,7 +20,8 @@
         3268,
         39,
         6242,
-        2043
+        2043,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

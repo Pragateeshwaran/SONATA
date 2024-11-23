@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0003.flac",
-    "text": "GO QUIETLY ALONE NO HARM WILL BEFALL YOU",
+    "text": "<|startoftext|> GO QUIETLY ALONE NO HARM WILL BEFALL YOU <|endoftext|>",
     "tokens": [
+        50255,
         11230,
         1195,
         10080,
@@ -16,7 +17,8 @@
         9348,
         37,
         7036,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0019.flac",
-    "text": "IN REAR OF ALL THE GROUP HERE TREATED OF TWO OLD MEN I BEHELD UNLIKE IN HABIT BUT LIKE IN GAIT EACH DIGNIFIED AND GRAVE",
+    "text": "<|startoftext|> IN REAR OF ALL THE GROUP HERE TREATED OF TWO OLD MEN I BEHELD UNLIKE IN HABIT BUT LIKE IN GAIT EACH DIGNIFIED AND GRAVE <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         4526,
         1503,
@@ -41,7 +42,8 @@
         5357,
         402,
         3861,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0057.flac",
-    "text": "THEY SHALL NOT FLOG THAT BOY HE SAID",
+    "text": "<|startoftext|> THEY SHALL NOT FLOG THAT BOY HE SAID <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         50163,
@@ -13,7 +14,8 @@
         56,
         11179,
         14719,
-        2389
+        2389,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

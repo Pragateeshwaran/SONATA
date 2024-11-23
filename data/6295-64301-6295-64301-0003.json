@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0003.flac",
-    "text": "HE PRESSED HIS VIOLIN CASE TO HIS HEART AS IF IT WERE A LIVING THING THAT COULD KNOW THAT HE LOVED IT",
+    "text": "<|startoftext|> HE PRESSED HIS VIOLIN CASE TO HIS HEART AS IF IT WERE A LIVING THING THAT COULD KNOW THAT HE LOVED IT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         44310,
         1961,
@@ -34,7 +35,8 @@
         406,
         8874,
         1961,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

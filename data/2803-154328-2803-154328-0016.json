@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0016.flac",
-    "text": "WHAT COULD BE THE OBJECT",
+    "text": "<|startoftext|> WHAT COULD BE THE OBJECT <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         327,
         24010,
         9348,
         3336,
         25334,
-        23680
+        23680,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

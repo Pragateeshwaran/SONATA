@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0007.flac",
-    "text": "THE GIRL IS FRETTING BUT YOU DON'T SEEM TO NOTICE IT",
+    "text": "<|startoftext|> THE GIRL IS FRETTING BUT YOU DON'T SEEM TO NOTICE IT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         402,
         4663,
@@ -19,7 +20,8 @@
         3620,
         5390,
         28536,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

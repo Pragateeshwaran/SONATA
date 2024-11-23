@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0004.flac",
-    "text": "EVEN ON THIS LEDGE OF HUMAN SOCIETY THERE WAS A STUNTED GROWTH OF SHOPLETS WHICH HAD TAKEN ROOT AND VEGETATED SOMEHOW THOUGH AS IN AN AIR MERCANTILE OF THE BLEAKEST",
+    "text": "<|startoftext|> EVEN ON THIS LEDGE OF HUMAN SOCIETY THERE WAS A STUNTED GROWTH OF SHOPLETS WHICH HAD TAKEN ROOT AND VEGETATED SOMEHOW THOUGH AS IN AN AIR MERCANTILE OF THE BLEAKEST <|endoftext|>",
     "tokens": [
+        50255,
         20114,
         1677,
         6177,
@@ -59,7 +60,8 @@
         347,
         2538,
         10206,
-        6465
+        6465,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

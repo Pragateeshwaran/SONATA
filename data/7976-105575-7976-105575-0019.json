@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0019.flac",
-    "text": "MY FRIEND WITH MANY OTHERS WAS BEING CARRIED OUT TO DIE ELSEWHERE",
+    "text": "<|startoftext|> MY FRIEND WITH MANY OTHERS WAS BEING CARRIED OUT TO DIE ELSEWHERE <|endoftext|>",
     "tokens": [
+        50255,
         26708,
         48167,
         10619,
@@ -23,7 +24,8 @@
         10008,
         17852,
         5188,
-        47357
+        47357,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

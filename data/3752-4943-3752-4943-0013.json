@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0013.flac",
-    "text": "THERE'S MORE TROUBLE WITH YOU BLOODY ARISTOCRATS THAN ENOUGH LIE QUIET",
+    "text": "<|startoftext|> THERE'S MORE TROUBLE WITH YOU BLOODY ARISTOCRATS THAN ENOUGH LIE QUIET <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         6,
@@ -28,7 +29,8 @@
         10008,
         1195,
         10080,
-        2767
+        2767,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

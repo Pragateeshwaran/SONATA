@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0030.flac",
-    "text": "THE FACT OF HAVING GIVEN MARY ANN A WEDDING PRESENT SEEMS TO FILL THEM WITH A FEELING OF RANCOROUS ACIDITY WHICH TO ME IS INEXPLICABLE",
+    "text": "<|startoftext|> THE FACT OF HAVING GIVEN MARY ANN A WEDDING PRESENT SEEMS TO FILL THEM WITH A FEELING OF RANCOROUS ACIDITY WHICH TO ME IS INEXPLICABLE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         376,
         10659,
@@ -49,7 +50,8 @@
         3268,
         6369,
         31484,
-        17534
+        17534,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

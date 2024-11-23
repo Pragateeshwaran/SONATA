@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0009.flac",
-    "text": "TO MEET WAS TO FIND EACH OTHER",
+    "text": "<|startoftext|> TO MEET WAS TO FIND EACH OTHER <|endoftext|>",
     "tokens": [
+        50255,
         10468,
         11948,
         2767,
@@ -11,7 +12,8 @@
         12115,
         412,
         16219,
-        25401
+        25401,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

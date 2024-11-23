@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0014.flac",
-    "text": "WITH THIS EXCEPTION GWYNPLAINE'S LAUGH WAS EVERLASTING",
+    "text": "<|startoftext|> WITH THIS EXCEPTION GWYNPLAINE'S LAUGH WAS EVERLASTING <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         12680,
@@ -20,7 +21,8 @@
         20498,
         43,
         11262,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

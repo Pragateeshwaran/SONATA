@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0003.flac",
-    "text": "NOTHING CAN SURPRISE ME NOW I'M PREPARED FOR ANY THING EVEN THE SIGHT OF MY QUAKERISH LOVER DANCING A JIG",
+    "text": "<|startoftext|> NOTHING CAN SURPRISE ME NOW I'M PREPARED FOR ANY THING EVEN THE SIGHT OF MY QUAKERISH LOVER DANCING A JIG <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         39,
         2751,
@@ -38,7 +39,8 @@
         2751,
         317,
         449,
-        3528
+        3528,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

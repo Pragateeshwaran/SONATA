@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0022.flac",
-    "text": "SEASONABLE THIS SHOULD BE MADE ABOUT EASTER AS AT THIS TIME EGGS ARE PLENTIFUL AND CHEAP",
+    "text": "<|startoftext|> SEASONABLE THIS SHOULD BE MADE ABOUT EASTER AS AT THIS TIME EGGS ARE PLENTIFUL AND CHEAP <|endoftext|>",
     "tokens": [
+        50255,
         5188,
         36033,
         17534,
@@ -29,7 +30,8 @@
         5357,
         5870,
         36,
-        2969
+        2969,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

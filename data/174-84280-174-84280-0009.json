@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0009.flac",
-    "text": "WE NEVER PLANNED TO MEET AND WHEN WE MET",
+    "text": "<|startoftext|> WE NEVER PLANNED TO MEET AND WHEN WE MET <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         33602,
         9297,
@@ -13,7 +14,8 @@
         5357,
         42099,
         12887,
-        31243
+        31243,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

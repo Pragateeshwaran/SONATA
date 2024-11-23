@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0011.flac",
-    "text": "SHE WOULD TAKE THE ENVELOPE AND KNOW THAT SHE HAD TRIUMPHED",
+    "text": "<|startoftext|> SHE WOULD TAKE THE ENVELOPE AND KNOW THAT SHE HAD TRIUMPHED <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         370,
@@ -21,7 +22,8 @@
         37679,
         5883,
         11909,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

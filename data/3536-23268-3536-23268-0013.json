@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0013.flac",
-    "text": "DO YOU THINK I WOULD GO ANSWERED MISS MILNER WITH AN EAGERNESS THAT FOR A TIME SUPPRESSED HER TEARS IN CONTRADICTION TO HIS WILL",
+    "text": "<|startoftext|> DO YOU THINK I WOULD GO ANSWERED MISS MILNER WITH AN EAGERNESS THAT FOR A TIME SUPPRESSED HER TEARS IN CONTRADICTION TO HIS WILL <|endoftext|>",
     "tokens": [
+        50255,
         18227,
         7013,
         2320,
@@ -40,7 +41,8 @@
         2849,
         5390,
         33700,
-        17682
+        17682,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

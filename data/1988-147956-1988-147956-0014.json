@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0014.flac",
-    "text": "AMBROSCH HE MAKE GOOD FARMER",
+    "text": "<|startoftext|> AMBROSCH HE MAKE GOOD FARMER <|endoftext|>",
     "tokens": [
+        50255,
         2390,
         11473,
         2640,
@@ -10,7 +11,8 @@
         39134,
         21090,
         39024,
-        29296
+        29296,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

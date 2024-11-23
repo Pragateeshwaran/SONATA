@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147966\\1993-147966-0000.flac",
-    "text": "THE WEEK FOLLOWING CHRISTMAS BROUGHT IN A THAW AND BY NEW YEAR'S DAY ALL THE WORLD ABOUT US WAS A BROTH OF GRAY SLUSH AND THE GUTTERED SLOPE BETWEEN THE WINDMILL AND THE BARN WAS RUNNING BLACK WATER",
+    "text": "<|startoftext|> THE WEEK FOLLOWING CHRISTMAS BROUGHT IN A THAW AND BY NEW YEAR'S DAY ALL THE WORLD ABOUT US WAS A BROTH OF GRAY SLUSH AND THE GUTTERED SLOPE BETWEEN THE WINDMILL AND THE BARN WAS RUNNING BLACK WATER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         43765,
         11895,
@@ -63,7 +64,8 @@
         15871,
         31963,
         370,
-        23261
+        23261,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

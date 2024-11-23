@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0018.flac",
-    "text": "THIS DRESSING SHOULD STAND IN THE ICE BOX FOUR OR FIVE HOURS TO BECOME SEASONED",
+    "text": "<|startoftext|> THIS DRESSING SHOULD STAND IN THE ICE BOX FOUR OR FIVE HOURS TO BECOME SEASONED <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         10560,
         7597,
@@ -25,7 +26,8 @@
         13649,
         7946,
         36033,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

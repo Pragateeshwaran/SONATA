@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0014.flac",
-    "text": "THESE STANDARDS TO THE REARWARD LONGER WERE THAN WAS MY SIGHT AND AS IT SEEMED TO ME TEN PACES WERE THE OUTERMOST APART",
+    "text": "<|startoftext|> THESE STANDARDS TO THE REARWARD LONGER WERE THAN WAS MY SIGHT AND AS IT SEEMED TO ME TEN PACES WERE THE OUTERMOST APART <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         33635,
         49053,
@@ -41,7 +42,8 @@
         44,
         10892,
         3486,
-        7227
+        7227,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

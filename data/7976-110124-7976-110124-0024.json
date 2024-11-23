@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0024.flac",
-    "text": "THEY TRIED IN VAIN TO BREAK DOWN THE GREAT DOORS",
+    "text": "<|startoftext|> THEY TRIED IN VAIN TO BREAK DOWN THE GREAT DOORS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         37679,
@@ -16,7 +17,8 @@
         3336,
         37853,
         8410,
-        20673
+        20673,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

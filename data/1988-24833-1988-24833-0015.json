@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0015.flac",
-    "text": "YOU'RE GETTING ALTOGETHER TOO UPSET ABOUT THESE PROGRAMS STOP IT AND BEHAVE YOURSELF",
+    "text": "<|startoftext|> YOU'RE GETTING ALTOGETHER TOO UPSET ABOUT THESE PROGRAMS STOP IT AND BEHAVE YOURSELF <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         6,
         2200,
@@ -28,7 +29,8 @@
         6089,
         7013,
         6998,
-        37738
+        37738,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

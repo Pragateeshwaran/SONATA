@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0000.flac",
-    "text": "THEREAFTER THIS SONNET BRED IN ME DESIRE TO WRITE DOWN IN VERSE FOUR OTHER THINGS TOUCHING MY CONDITION THE WHICH THINGS IT SEEMED TO ME THAT I HAD NOT YET MADE MANIFEST",
+    "text": "<|startoftext|> THEREAFTER THIS SONNET BRED IN ME DESIRE TO WRITE DOWN IN VERSE FOUR OTHER THINGS TOUCHING MY CONDITION THE WHICH THINGS IT SEEMED TO ME THAT I HAD NOT YET MADE MANIFEST <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         8579,
@@ -57,7 +58,8 @@
         19266,
         17254,
         5064,
-        6465
+        6465,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

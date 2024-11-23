@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0025.flac",
-    "text": "KIRKLAND JUMPED FOR THE JETTY MISSED HIS FOOTING AND FELL INTO THE ARMS OF THE CHAPLAIN",
+    "text": "<|startoftext|> KIRKLAND JUMPED FOR THE JETTY MISSED HIS FOOTING AND FELL INTO THE ARMS OF THE CHAPLAIN <|endoftext|>",
     "tokens": [
+        50255,
         42,
         4663,
         42,
@@ -32,7 +33,8 @@
         5870,
         2969,
         13534,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

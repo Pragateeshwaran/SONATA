@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0023.flac",
-    "text": "BUT KIRKLAND KEPT STEADILY ON FOR THE RIVER",
+    "text": "<|startoftext|> BUT KIRKLAND KEPT STEADILY ON FOR THE RIVER <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         509,
         4663,
@@ -17,7 +18,8 @@
         7473,
         3336,
         371,
-        38757
+        38757,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

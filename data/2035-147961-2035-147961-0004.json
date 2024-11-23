@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0004.flac",
-    "text": "THE LITTLE HOUSE ON THE HILLSIDE WAS SO MUCH THE COLOR OF THE NIGHT THAT WE COULD NOT SEE IT AS WE CAME UP THE DRAW",
+    "text": "<|startoftext|> THE LITTLE HOUSE ON THE HILLSIDE WAS SO MUCH THE COLOR OF THE NIGHT THAT WE COULD NOT SEE IT AS WE CAME UP THE DRAW <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         406,
         22470,
@@ -36,7 +37,8 @@
         15958,
         3336,
         360,
-        20530
+        20530,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

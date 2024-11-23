@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0052.flac",
-    "text": "NORTH KNEW WELL THAT HE WOULD NEVER DARE TO ATTEMPT ANY SUCH ACT OF VIOLENCE BUT THE INSULT STUNG HIM LIKE THE CUT OF A WHIP",
+    "text": "<|startoftext|> NORTH KNEW WELL THAT HE WOULD NEVER DARE TO ATTEMPT ANY SUCH ACT OF VIOLENCE BUT THE INSULT STUNG HIM LIKE THE CUT OF A WHIP <|endoftext|>",
     "tokens": [
+        50255,
         35510,
         4221,
         509,
@@ -42,7 +43,8 @@
         3963,
         317,
         7655,
-        4061
+        4061,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

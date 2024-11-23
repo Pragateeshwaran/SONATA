@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0020.flac",
-    "text": "A LITTLE ATTACK OF NERVES POSSIBLY",
+    "text": "<|startoftext|> A LITTLE ATTACK OF NERVES POSSIBLY <|endoftext|>",
     "tokens": [
+        50255,
         32,
         406,
         22470,
@@ -16,7 +17,8 @@
         28069,
         11584,
         9148,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0030.flac",
-    "text": "BRION SAW SOMETHING CLOSE TO PANIC ON HIS OPPONENT'S FACE WHEN THE MAN FINALLY RECOGNIZED HIS ERROR",
+    "text": "<|startoftext|> BRION SAW SOMETHING CLOSE TO PANIC ON HIS OPPONENT'S FACE WHEN THE MAN FINALLY RECOGNIZED HIS ERROR <|endoftext|>",
     "tokens": [
+        50255,
         11473,
         2849,
         311,
@@ -34,7 +35,8 @@
         14887,
         1961,
         33700,
-        33854
+        33854,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

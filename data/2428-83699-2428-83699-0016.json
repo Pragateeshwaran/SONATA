@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0016.flac",
-    "text": "IT IS SOME SATISFACTION FOR ME TO BE ABLE TO REFLECT THAT I MADE IT WARM FOR THE OFFICIALS HOWEVER COLD I MIGHT HAVE BEEN MYSELF",
+    "text": "<|startoftext|> IT IS SOME SATISFACTION FOR ME TO BE ABLE TO REFLECT THAT I MADE IT WARM FOR THE OFFICIALS HOWEVER COLD I MIGHT HAVE BEEN MYSELF <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         41670,
@@ -44,7 +45,8 @@
         1677,
         337,
         16309,
-        37738
+        37738,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0003.flac",
-    "text": "HE SAW THAT IN THE EXCITEMENT OF RECENT EVENTS HE HAD NOT FORMULATED A PLAN UPON THAT SCORE",
+    "text": "<|startoftext|> HE SAW THAT IN THE EXCITEMENT OF RECENT EVENTS HE HAD NOT FORMULATED A PLAN UPON THAT SCORE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         311,
         12298,
@@ -29,7 +30,8 @@
         1340,
         14603,
         6374,
-        6965
+        6965,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

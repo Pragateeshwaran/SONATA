@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0004.flac",
-    "text": "YE ARE NEW COMERS AND BECAUSE I SMILE BEGAN SHE PERADVENTURE IN THIS PLACE ELECT TO HUMAN NATURE FOR ITS NEST",
+    "text": "<|startoftext|> YE ARE NEW COMERS AND BECAUSE I SMILE BEGAN SHE PERADVENTURE IN THIS PLACE ELECT TO HUMAN NATURE FOR ITS NEST <|endoftext|>",
     "tokens": [
+        50255,
         48743,
         15986,
         12682,
@@ -37,7 +38,8 @@
         7473,
         42437,
         399,
-        6465
+        6465,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0003.flac",
-    "text": "THEY ALWAYS ATE PLAIN FOOD AND PLENTY OF IT AND THEY NEVER ATE BETWEEN MEALS",
+    "text": "<|startoftext|> THEY ALWAYS ATE PLAIN FOOD AND PLENTY OF IT AND THEY NEVER ATE BETWEEN MEALS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         49576,
@@ -26,7 +27,8 @@
         8845,
         1677,
         11948,
-        23333
+        23333,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

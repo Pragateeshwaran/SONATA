@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0054.flac",
-    "text": "IF THE QUENELLES ARE NOT FIRM ENOUGH ADD THE YOLK OF ANOTHER EGG BUT OMIT THE WHITE WHICH ONLY MAKES THEM HOLLOW AND PUFFY INSIDE",
+    "text": "<|startoftext|> IF THE QUENELLES ARE NOT FIRM ENOUGH ADD THE YOLK OF ANOTHER EGG BUT OMIT THE WHITE WHICH ONLY MAKES THEM HOLLOW AND PUFFY INSIDE <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         3336,
         19604,
@@ -43,7 +44,8 @@
         5777,
         56,
         29194,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

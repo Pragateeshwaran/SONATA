@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0008.flac",
-    "text": "HE PAUSED THEY NEVER DID TO ME",
+    "text": "<|startoftext|> HE PAUSED THEY NEVER DID TO ME <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         8147,
         2937,
@@ -10,7 +11,8 @@
         33602,
         35697,
         5390,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0012.flac",
-    "text": "ON THAT SIDE DESCENT WAS IMPOSSIBLE AND HAD IT BEEN POSSIBLE THE BOTTOM WAS SHUT IN BY THE ENORMOUS ROCK",
+    "text": "<|startoftext|> ON THAT SIDE DESCENT WAS IMPOSSIBLE AND HAD IT BEEN POSSIBLE THE BOTTOM WAS SHUT IN BY THE ENORMOUS ROCK <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         14603,
         311,
@@ -35,7 +36,8 @@
         1581,
         44,
         20958,
-        41320
+        41320,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

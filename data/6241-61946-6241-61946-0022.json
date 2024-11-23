@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0022.flac",
-    "text": "I THOROUGHLY UNDERSTOOD AND APPRECIATED THE NECESSITY FOR WAITING BEFORE CROSSING THE FJORD FOR THAT MOMENT WHEN THE SEA AT ITS HIGHEST POINT IS IN A STATE OF SLACK WATER",
+    "text": "<|startoftext|> I THOROUGHLY UNDERSTOOD AND APPRECIATED THE NECESSITY FOR WAITING BEFORE CROSSING THE FJORD FOR THAT MOMENT WHEN THE SEA AT ITS HIGHEST POINT IS IN A STATE OF SLACK WATER <|endoftext|>",
     "tokens": [
+        50255,
         40,
         2320,
         1581,
@@ -55,7 +56,8 @@
         12419,
         8120,
         370,
-        23261
+        23261,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0005.flac",
-    "text": "VERY GLAD VERY GLAD SHE EJACULATED",
+    "text": "<|startoftext|> VERY GLAD VERY GLAD SHE EJACULATED <|endoftext|>",
     "tokens": [
+        50255,
         5959,
         56,
         10188,
@@ -14,7 +15,8 @@
         41,
         2246,
         6239,
-        11617
+        11617,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

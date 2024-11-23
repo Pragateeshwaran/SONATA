@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0055.flac",
-    "text": "ANY ONE WITH THE SLIGHTEST PRETENSIONS TO REFINED COOKERY MUST IN THIS PARTICULAR IMPLICITLY FOLLOW THE EXAMPLE OF OUR FRIENDS ACROSS THE CHANNEL",
+    "text": "<|startoftext|> ANY ONE WITH THE SLIGHTEST PRETENSIONS TO REFINED COOKERY MUST IN THIS PARTICULAR IMPLICITLY FOLLOW THE EXAMPLE OF OUR FRIENDS ACROSS THE CHANNEL <|endoftext|>",
     "tokens": [
+        50255,
         31827,
         16329,
         13315,
@@ -47,7 +48,8 @@
         3336,
         5870,
         22846,
-        3698
+        3698,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

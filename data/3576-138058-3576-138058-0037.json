@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0037.flac",
-    "text": "THE CAPTAINS SHOWED PLAINLY THE CONCERN THEY FELT THE REGENT'S LADY WAS DOWNCAST AND THE PILGRIMS DID NOT AT ALL ENJOY SEEING THEIR PROPERTY CONFISCATED",
+    "text": "<|startoftext|> THE CAPTAINS SHOWED PLAINLY THE CONCERN THEY FELT THE REGENT'S LADY WAS DOWNCAST AND THE PILGRIMS DID NOT AT ALL ENJOY SEEING THEIR PROPERTY CONFISCATED <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         20176,
         5603,
@@ -54,7 +55,8 @@
         7102,
         37,
         37719,
-        11617
+        11617,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

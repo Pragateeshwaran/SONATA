@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0019.flac",
-    "text": "THERE THEY STROVE TO BREAK THE SILVER CORD OF LIFE AND THRUST MY SOUL INTO THE BODY OF A FOUL NIGHT WEIRD THEIR SORCERY SUMMONED UP FROM HELL AH",
+    "text": "<|startoftext|> THERE THEY STROVE TO BREAK THE SILVER CORD OF LIFE AND THRUST MY SOUL INTO THE BODY OF A FOUL NIGHT WEIRD THEIR SORCERY SUMMONED UP FROM HELL AH <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         33302,
@@ -47,7 +48,8 @@
         15958,
         16034,
         47899,
-        28159
+        28159,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0000.flac",
-    "text": "LONG AGO THERE LIVED A MERCHANT WHO HAD THREE DAUGHTERS",
+    "text": "<|startoftext|> LONG AGO THERE LIVED A MERCHANT WHO HAD THREE DAUGHTERS <|endoftext|>",
     "tokens": [
+        50255,
         43,
         18494,
         317,
@@ -21,7 +22,8 @@
         17051,
         7340,
         6535,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

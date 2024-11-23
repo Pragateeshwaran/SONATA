@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0002.flac",
-    "text": "IN THE VALLEY OF THE SHADOW OF DEATH HE IS WITH US",
+    "text": "<|startoftext|> IN THE VALLEY OF THE SHADOW OF DEATH HE IS WITH US <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         3336,
         26173,
@@ -17,7 +18,8 @@
         11179,
         3180,
         13315,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0015.flac",
-    "text": "THIS SECOND PART IS DIVIDED INTO TWO FOR IN THE ONE I SPEAK OF THE EYES WHICH ARE THE BEGINNING OF LOVE IN THE SECOND I SPEAK OF THE MOUTH WHICH IS THE END OF LOVE",
+    "text": "<|startoftext|> THIS SECOND PART IS DIVIDED INTO TWO FOR IN THE ONE I SPEAK OF THE EYES WHICH ARE THE BEGINNING OF LOVE IN THE SECOND I SPEAK OF THE MOUTH WHICH IS THE END OF LOVE <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         10729,
         18672,
@@ -53,7 +54,8 @@
         3336,
         23578,
         3963,
-        27889
+        27889,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

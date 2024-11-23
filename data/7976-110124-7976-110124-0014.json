@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0014.flac",
-    "text": "SHE DID NOT STIR AND HE KNEW THAT THE SLEEPING POWDER HAD THOROUGHLY DONE ITS WORK",
+    "text": "<|startoftext|> SHE DID NOT STIR AND HE KNEW THAT THE SLEEPING POWDER HAD THOROUGHLY DONE ITS WORK <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         35697,
@@ -31,7 +32,8 @@
         360,
         11651,
         42437,
-        30936
+        30936,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

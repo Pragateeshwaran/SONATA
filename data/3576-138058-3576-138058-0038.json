@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0038.flac",
-    "text": "THE REGENT'S LADY ORDERED ONE OF HER SERVANTS TO GIVE THE EIGHTY CROWNS THAT HAD BEEN ASSESSED AS HER SHARE AT ONCE FOR THE CAPTAINS HAD ALREADY PAID DOWN THEIR SIXTY",
+    "text": "<|startoftext|> THE REGENT'S LADY ORDERED ONE OF HER SERVANTS TO GIVE THE EIGHTY CROWNS THAT HAD BEEN ASSESSED AS HER SHARE AT ONCE FOR THE CAPTAINS HAD ALREADY PAID DOWN THEIR SIXTY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         23337,
         3525,
@@ -59,7 +60,8 @@
         47278,
         311,
         10426,
-        9936
+        9936,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

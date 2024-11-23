@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0003.flac",
-    "text": "FROM TIME TO TIME DIFFERENT REGIMENTS WERE SENT FORWARD TO DO PICKET DUTY",
+    "text": "<|startoftext|> FROM TIME TO TIME DIFFERENT REGIMENTS WERE SENT FORWARD TO DO PICKET DUTY <|endoftext|>",
     "tokens": [
+        50255,
         10913,
         2662,
         20460,
@@ -27,7 +28,8 @@
         2767,
         360,
         3843,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

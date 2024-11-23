@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0001.flac",
-    "text": "IN GWYNPLAINE EVIL THOUGHTS NEVER RIPENED AND HE HAD THEREFORE NO REMORSE",
+    "text": "<|startoftext|> IN GWYNPLAINE EVIL THOUGHTS NEVER RIPENED AND HE HAD THEREFORE NO REMORSE <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         27164,
         40760,
@@ -25,7 +26,8 @@
         8005,
         22657,
         1581,
-        5188
+        5188,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

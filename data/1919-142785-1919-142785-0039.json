@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0039.flac",
-    "text": "ILLUSTRATION MARJORAM",
+    "text": "<|startoftext|> ILLUSTRATION MARJORAM <|endoftext|>",
     "tokens": [
+        50255,
         8267,
         7759,
         49,
@@ -9,7 +10,8 @@
         18805,
         41,
         1581,
-        2390
+        2390,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

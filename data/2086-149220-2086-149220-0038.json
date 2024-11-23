@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0038.flac",
-    "text": "SO WE WILL BE FELLOW LABORERS SOMEWHAT ON THE COMMUNITY SYSTEM",
+    "text": "<|startoftext|> SO WE WILL BE FELLOW LABORERS SOMEWHAT ON THE COMMUNITY SYSTEM <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         12887,
         17682,
@@ -20,7 +21,8 @@
         3336,
         48811,
         9050,
-        36230
+        36230,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

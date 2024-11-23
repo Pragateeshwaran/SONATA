@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0002.flac",
-    "text": "THE STREETS WERE NARROW AND UNPAVED BUT VERY FAIRLY CLEAN",
+    "text": "<|startoftext|> THE STREETS WERE NARROW AND UNPAVED BUT VERY FAIRLY CLEAN <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         3563,
         2200,
@@ -22,7 +23,8 @@
         4663,
         11319,
         30301,
-        1565
+        1565,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

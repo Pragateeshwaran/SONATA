@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0001.flac",
-    "text": "LONG PEPPER THIS IS THE PRODUCE OF A DIFFERENT PLANT FROM THAT WHICH PRODUCES THE BLACK IT CONSISTING OF THE HALF RIPE FLOWER HEADS OF WHAT NATURALISTS CALL PIPER LONGUM AND CHABA",
+    "text": "<|startoftext|> LONG PEPPER THIS IS THE PRODUCE OF A DIFFERENT PLANT FROM THAT WHICH PRODUCES THE BLACK IT CONSISTING OF THE HALF RIPE FLOWER HEADS OF WHAT NATURALISTS CALL PIPER LONGUM AND CHABA <|endoftext|>",
     "tokens": [
+        50255,
         43,
         18494,
         350,
@@ -62,7 +63,8 @@
         5357,
         5870,
         32,
-        4339
+        4339,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

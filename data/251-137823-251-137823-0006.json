@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0006.flac",
-    "text": "BUD THREW UP HIS ARMS TO PROTECT HIMSELF BUT TOO LATE",
+    "text": "<|startoftext|> BUD THREW UP HIS ARMS TO PROTECT HIMSELF BUT TOO LATE <|endoftext|>",
     "tokens": [
+        50255,
         33,
         8322,
         2320,
@@ -21,7 +22,8 @@
         5390,
         46,
         406,
-        6158
+        6158,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

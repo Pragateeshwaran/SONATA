@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0010.flac",
-    "text": "SO HE CARES HUH",
+    "text": "<|startoftext|> SO HE CARES HUH <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         11179,
         17368,
         1546,
         367,
         52,
-        39
+        39,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

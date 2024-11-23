@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0018.flac",
-    "text": "AND THE CAPTAIN OF COURSE CONCLUDED AFTER HAVING BEEN INTRODUCED TO KITTY THAT MISSUS NORMAN WAS A WIDOW",
+    "text": "<|startoftext|> AND THE CAPTAIN OF COURSE CONCLUDED AFTER HAVING BEEN INTRODUCED TO KITTY THAT MISSUS NORMAN WAS A WIDOW <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         3336,
         20176,
@@ -36,7 +37,8 @@
         317,
         370,
         2389,
-        3913
+        3913,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0031.flac",
-    "text": "ARRIVED AT THE STATION RANDAL FOUND THAT HE MUST WAIT FOR THE TRAIN",
+    "text": "<|startoftext|> ARRIVED AT THE STATION RANDAL FOUND THAT HE MUST WAIT FOR THE TRAIN <|endoftext|>",
     "tokens": [
+        50255,
         26465,
         3824,
         1961,
@@ -21,7 +22,8 @@
         7473,
         3336,
         29125,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0003.flac",
-    "text": "AND THE CRY ISSUED FROM HIS PORES IF WE MAY THUS SPEAK A CRY FRIGHTFUL IN ITS SILENCE",
+    "text": "<|startoftext|> AND THE CRY ISSUED FROM HIS PORES IF WE MAY THUS SPEAK A CRY FRIGHTFUL IN ITS SILENCE <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         3336,
         8740,
@@ -31,7 +32,8 @@
         3268,
         42437,
         47551,
-        18310
+        18310,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

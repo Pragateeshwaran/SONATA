@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0019.flac",
-    "text": "I TRIED IT YESTERDAY IT SET MY BRAINS ON FIRE I'M FEELING THAT GLASS I TOOK JUST NOW",
+    "text": "<|startoftext|> I TRIED IT YESTERDAY IT SET MY BRAINS ON FIRE I'M FEELING THAT GLASS I TOOK JUST NOW <|endoftext|>",
     "tokens": [
+        50255,
         40,
         37679,
         1961,
@@ -29,7 +30,8 @@
         5390,
         11380,
         25848,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

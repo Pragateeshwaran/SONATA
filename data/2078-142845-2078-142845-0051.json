@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0051.flac",
-    "text": "WHEN COLD THEY SHOULD BE PUT INTO TIN CANISTERS TO KEEP THEM DRY AND IF INTENDED FOR THE CHEESE COURSE THE SIFTED SUGAR SHOULD BE OMITTED",
+    "text": "<|startoftext|> WHEN COLD THEY SHOULD BE PUT INTO TIN CANISTERS TO KEEP THEM DRY AND IF INTENDED FOR THE CHEESE COURSE THE SIFTED SUGAR SHOULD BE OMITTED <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         327,
@@ -45,7 +46,8 @@
         9348,
         32468,
         22470,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

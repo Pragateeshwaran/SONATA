@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0016.flac",
-    "text": "THE TERRAN PUBLIC WANTED TO HEAR ABOUT MARTIANS AND IF LIVE MARTIANS COULDN'T BE FOUND A ROOM FULL OF DEAD ONES WAS THE NEXT BEST THING",
+    "text": "<|startoftext|> THE TERRAN PUBLIC WANTED TO HEAR ABOUT MARTIANS AND IF LIVE MARTIANS COULDN'T BE FOUND A ROOM FULL OF DEAD ONES WAS THE NEXT BEST THING <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         28994,
         49,
@@ -45,7 +46,8 @@
         39726,
         38502,
         2320,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

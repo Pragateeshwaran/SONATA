@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0026.flac",
-    "text": "THE MULE DEER ARE NEARLY AS HEAVY",
+    "text": "<|startoftext|> THE MULE DEER ARE NEARLY AS HEAVY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         337,
         24212,
@@ -14,7 +15,8 @@
         7054,
         11179,
         10116,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0004.flac",
-    "text": "IF IT IS DECREED THAT WE DIE TO MORROW LET US DIE BRAVELY LIKE CHRISTIAN MEN READY TO APPEAR WITHOUT TERROR BEFORE THE SUPREME JUDGE",
+    "text": "<|startoftext|> IF IT IS DECREED THAT WE DIE TO MORROW LET US DIE BRAVELY LIKE CHRISTIAN MEN READY TO APPEAR WITHOUT TERROR BEFORE THE SUPREME JUDGE <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         7283,
         3180,
@@ -43,7 +44,8 @@
         11682,
         449,
         8322,
-        8264
+        8264,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

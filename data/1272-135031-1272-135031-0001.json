@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0001.flac",
-    "text": "HE HAS GONE AND GONE FOR GOOD ANSWERED POLYCHROME WHO HAD MANAGED TO SQUEEZE INTO THE ROOM BESIDE THE DRAGON AND HAD WITNESSED THE OCCURRENCES WITH MUCH INTEREST",
+    "text": "<|startoftext|> HE HAS GONE AND GONE FOR GOOD ANSWERED POLYCHROME WHO HAD MANAGED TO SQUEEZE INTO THE ROOM BESIDE THE DRAGON AND HAD WITNESSED THE OCCURRENCES WITH MUCH INTEREST <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         33930,
         402,
@@ -53,7 +54,8 @@
         13315,
         45859,
         23255,
-        6465
+        6465,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

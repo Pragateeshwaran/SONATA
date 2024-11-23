@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170145\\1462-170145-0014.flac",
-    "text": "BUT WHEN I CAME I THOUGHT I HAD BEEN MISTAKEN",
+    "text": "<|startoftext|> BUT WHEN I CAME I THOUGHT I HAD BEEN MISTAKEN <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         42099,
         314,
@@ -19,7 +20,8 @@
         1677,
         50029,
         5603,
-        43959
+        43959,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

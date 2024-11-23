@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0015.flac",
-    "text": "THERE WAS SILENCE THEN AND STILL WONDERING BRION WAS ONCE MORE ASLEEP",
+    "text": "<|startoftext|> THERE WAS SILENCE THEN AND STILL WONDERING BRION WAS ONCE MORE ASLEEP <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         21725,
@@ -23,7 +24,8 @@
         12011,
         7054,
         2538,
-        8905
+        8905,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

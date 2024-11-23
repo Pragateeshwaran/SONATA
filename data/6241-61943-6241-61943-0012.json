@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0012.flac",
-    "text": "THE FACT WAS THAT SCARCELY ANY ONE OF THEM BUT EXPECTED SOME GOODS BY THE PERIODICAL VESSEL",
+    "text": "<|startoftext|> THE FACT WAS THAT SCARCELY ANY ONE OF THEM BUT EXPECTED SOME GOODS BY THE PERIODICAL VESSEL <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         376,
         10659,
@@ -29,7 +30,8 @@
         20151,
         569,
         7597,
-        3698
+        3698,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

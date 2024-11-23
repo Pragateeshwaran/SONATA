@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0016.flac",
-    "text": "DON'T YOU SEE HOW MANY USES WE HAVE FOUND FOR THIS REFUSE COAL TAR",
+    "text": "<|startoftext|> DON'T YOU SEE HOW MANY USES WE HAVE FOUND FOR THIS REFUSE COAL TAR <|endoftext|>",
     "tokens": [
+        50255,
         41173,
         6,
         51,
@@ -24,7 +25,8 @@
         7375,
         1847,
         309,
-        1503
+        1503,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

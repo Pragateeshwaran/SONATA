@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0012.flac",
-    "text": "HER CRIES BROUGHT HER HUSBAND DOWN TO TRY WITH HIS ACHING HEART TO COMFORT HERS",
+    "text": "<|startoftext|> HER CRIES BROUGHT HER HUSBAND DOWN TO TRY WITH HIS ACHING HEART TO COMFORT HERS <|endoftext|>",
     "tokens": [
+        50255,
         16879,
         327,
         7112,
@@ -30,7 +31,8 @@
         37,
         9863,
         367,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

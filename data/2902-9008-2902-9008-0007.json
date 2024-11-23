@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0007.flac",
-    "text": "I TO BELIEVE AGAINST THE AUTHORITY OF PORPHYRY HIMSELF TOO IN EVIL EYES AND MAGIC",
+    "text": "<|startoftext|> I TO BELIEVE AGAINST THE AUTHORITY OF PORPHYRY HIMSELF TOO IN EVIL EYES AND MAGIC <|endoftext|>",
     "tokens": [
+        50255,
         40,
         5390,
         29991,
@@ -30,7 +31,8 @@
         43335,
         5357,
         28263,
-        2149
+        2149,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

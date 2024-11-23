@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0014.flac",
-    "text": "ANOTHER ADVANTAGE THE RED WHEATS POSSESS IS THEIR COMPARATIVE IMMUNITY FROM THE ATTACKS OF MILDEW AND FLY",
+    "text": "<|startoftext|> ANOTHER ADVANTAGE THE RED WHEATS POSSESS IS THEIR COMPARATIVE IMMUNITY FROM THE ATTACKS OF MILDEW AND FLY <|endoftext|>",
     "tokens": [
+        50255,
         1565,
         31858,
         43685,
@@ -35,7 +36,8 @@
         6217,
         5357,
         9977,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

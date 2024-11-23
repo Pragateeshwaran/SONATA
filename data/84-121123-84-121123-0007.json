@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0007.flac",
-    "text": "WHAT DO YOU MEAN SIR",
+    "text": "<|startoftext|> WHAT DO YOU MEAN SIR <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         8410,
         7013,
         11948,
         1565,
         311,
-        4663
+        4663,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

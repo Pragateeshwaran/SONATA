@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0007.flac",
-    "text": "JOHN YOU HAVE PROMISED MARY WHAT I PROMISED LADY HELENA WHAT IS YOUR PLAN",
+    "text": "<|startoftext|> JOHN YOU HAVE PROMISED MARY WHAT I PROMISED LADY HELENA WHAT IS YOUR PLAN <|endoftext|>",
     "tokens": [
+        50255,
         47118,
         7013,
         21515,
@@ -25,7 +26,8 @@
         25003,
         3180,
         16592,
-        45650
+        45650,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

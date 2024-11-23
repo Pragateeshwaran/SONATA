@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0017.flac",
-    "text": "AT ONE THIRTY HE WENT TO RECTOR'S FOR LUNCH AND WHEN HE RETURNED A MESSENGER WAS WAITING FOR HIM",
+    "text": "<|startoftext|> AT ONE THIRTY HE WENT TO RECTOR'S FOR LUNCH AND WHEN HE RETURNED A MESSENGER WAS WAITING FOR HIM <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         16329,
         2320,
@@ -35,7 +36,8 @@
         2043,
         2751,
         7473,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

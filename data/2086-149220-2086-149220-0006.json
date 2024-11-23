@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0006.flac",
-    "text": "THIS WAS A FOUNTAIN SET ROUND WITH A RIM OF OLD MOSSY STONES AND PAVED IN ITS BED WITH WHAT APPEARED TO BE A SORT OF MOSAIC WORK OF VARIOUSLY COLORED PEBBLES",
+    "text": "<|startoftext|> THIS WAS A FOUNTAIN SET ROUND WITH A RIM OF OLD MOSSY STONES AND PAVED IN ITS BED WITH WHAT APPEARED TO BE A SORT OF MOSAIC WORK OF VARIOUSLY COLORED PEBBLES <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         21725,
         317,
@@ -59,7 +60,8 @@
         18468,
         33,
         9148,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

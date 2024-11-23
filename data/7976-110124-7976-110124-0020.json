@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0020.flac",
-    "text": "YOU SHALL NOT COME INTO MY FATHER'S HOUSE",
+    "text": "<|startoftext|> YOU SHALL NOT COME INTO MY FATHER'S HOUSE <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         50163,
         5626,
@@ -13,7 +14,8 @@
         45226,
         6,
         50,
-        46586
+        46586,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

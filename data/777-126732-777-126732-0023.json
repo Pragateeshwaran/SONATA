@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0023.flac",
-    "text": "THE FAMOUS TERRORIST HAD NEVER IN HIS LIFE RAISED PERSONALLY AS MUCH AS HIS LITTLE FINGER AGAINST THE SOCIAL EDIFICE",
+    "text": "<|startoftext|> THE FAMOUS TERRORIST HAD NEVER IN HIS LIFE RAISED PERSONALLY AS MUCH AS HIS LITTLE FINGER AGAINST THE SOCIAL EDIFICE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         42129,
         20958,
@@ -36,7 +37,8 @@
         12576,
         8392,
         5064,
-        8476
+        8476,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

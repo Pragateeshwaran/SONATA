@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0008.flac",
-    "text": "I GASPED POSITIVELY GASPED",
+    "text": "<|startoftext|> I GASPED POSITIVELY GASPED <|endoftext|>",
     "tokens": [
+        50255,
         40,
         402,
         1921,
@@ -14,7 +15,8 @@
         402,
         1921,
         47,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

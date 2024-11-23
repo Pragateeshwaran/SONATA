@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0043.flac",
-    "text": "THE LOFTY ICY SHASTA TOWERING HIGH ABOVE ALL SEEMS BUT AN HOUR'S WALK FROM YOU THOUGH THE DISTANCE IN AN AIR LINE IS ABOUT SIXTY MILES",
+    "text": "<|startoftext|> THE LOFTY ICY SHASTA TOWERING HIGH ABOVE ALL SEEMS BUT AN HOUR'S WALK FROM YOU THOUGH THE DISTANCE IN AN AIR LINE IS ABOUT SIXTY MILES <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         17579,
         9792,
@@ -47,7 +48,8 @@
         10426,
         9936,
         31515,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

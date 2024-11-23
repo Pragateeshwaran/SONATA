@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0020.flac",
-    "text": "WHETHER THEIR MANNER WAS GRAVE OR FRIVOLOUS HE KNEW THAT THESE WERE GOOD FRIENDS OF HIS AND HE SINCERELY HOPED THAT HE WOULD MEET THEM AGAIN",
+    "text": "<|startoftext|> WHETHER THEIR MANNER WAS GRAVE OR FRIVOLOUS HE KNEW THAT THESE WERE GOOD FRIENDS OF HIS AND HE SINCERELY HOPED THAT HE WOULD MEET THEM AGAIN <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         2767,
         16879,
@@ -47,7 +48,8 @@
         2767,
         44788,
         36218,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

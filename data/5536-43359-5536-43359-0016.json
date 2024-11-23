@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0016.flac",
-    "text": "LOVE BETWEEN MAN AND WOMAN IS FOUNDED ON THE MATING INSTINCT AND IS NOT FREE FROM DESIRE AND SELF SEEKING",
+    "text": "<|startoftext|> LOVE BETWEEN MAN AND WOMAN IS FOUNDED ON THE MATING INSTINCT AND IS NOT FREE FROM DESIRE AND SELF SEEKING <|endoftext|>",
     "tokens": [
+        50255,
         21982,
         6089,
         38651,
@@ -33,7 +34,8 @@
         311,
         37738,
         31107,
-        37286
+        37286,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

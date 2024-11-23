@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0038.flac",
-    "text": "HILDA SAT ON THE ARM OF IT AND PUT HER HANDS LIGHTLY ON HIS SHOULDERS",
+    "text": "<|startoftext|> HILDA SAT ON THE ARM OF IT AND PUT HER HANDS LIGHTLY ON HIS SHOULDERS <|endoftext|>",
     "tokens": [
+        50255,
         39,
         4146,
         5631,
@@ -24,7 +25,8 @@
         6177,
         33700,
         40312,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

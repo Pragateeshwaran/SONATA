@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0027.flac",
-    "text": "HAVE YOU ANY MESSAGE FOR CAPTAIN BENNYDECK",
+    "text": "<|startoftext|> HAVE YOU ANY MESSAGE FOR CAPTAIN BENNYDECK <|endoftext|>",
     "tokens": [
+        50255,
         7801,
         6089,
         7013,
@@ -16,7 +17,8 @@
         44849,
         12805,
         35,
-        25171
+        25171,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

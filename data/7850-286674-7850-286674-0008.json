@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0008.flac",
-    "text": "OUR UPPER LIPS ARE SO SMALL THEY DON'T MATTER",
+    "text": "<|startoftext|> OUR UPPER LIPS ARE SO SMALL THEY DON'T MATTER <|endoftext|>",
     "tokens": [
+        50255,
         11698,
         471,
         10246,
@@ -17,7 +18,8 @@
         6,
         51,
         36775,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

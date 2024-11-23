@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0051.flac",
-    "text": "YOU YOUNG FOLKS TAKE A WEDDING TRIP TO THE GREEN HOUSE WHILE WE SEE HOW WELL WE CAN GET ON WITHOUT YOU",
+    "text": "<|startoftext|> YOU YOUNG FOLKS TAKE A WEDDING TRIP TO THE GREEN HOUSE WHILE WE SEE HOW WELL WE CAN GET ON WITHOUT YOU <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         7013,
         10503,
@@ -33,7 +34,8 @@
         17151,
         6177,
         42881,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

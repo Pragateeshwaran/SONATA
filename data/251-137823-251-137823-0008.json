@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0008.flac",
-    "text": "THEN TOM WHO HAD BEEN STUNNED BY SOME FALLING DEBRIS RAISED HIMSELF TO A SITTING POSITION",
+    "text": "<|startoftext|> THEN TOM WHO HAD BEEN STUNNED BY SOME FALLING DEBRIS RAISED HIMSELF TO A SITTING POSITION <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         41526,
@@ -34,7 +35,8 @@
         22470,
         2751,
         28069,
-        17941
+        17941,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

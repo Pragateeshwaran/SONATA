@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0033.flac",
-    "text": "CONFUSION AND DISMAY TOGETHER MINGLED FORCED SUCH A YES FROM OUT MY MOUTH THAT SIGHT WAS NEEDFUL TO THE UNDERSTANDING OF IT",
+    "text": "<|startoftext|> CONFUSION AND DISMAY TOGETHER MINGLED FORCED SUCH A YES FROM OUT MY MOUTH THAT SIGHT WAS NEEDFUL TO THE UNDERSTANDING OF IT <|endoftext|>",
     "tokens": [
+        50255,
         10943,
         37,
         2937,
@@ -42,7 +43,8 @@
         6981,
         2751,
         3963,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0005.flac",
-    "text": "A RUMOR WAS SPREAD AMONG THE CHRISTIANS THAT THE DAUGHTER OF THEON WAS THE ONLY OBSTACLE TO THE RECONCILIATION OF THE PRAEFECT AND THE ARCHBISHOP AND THAT OBSTACLE WAS SPEEDILY REMOVED",
+    "text": "<|startoftext|> A RUMOR WAS SPREAD AMONG THE CHRISTIANS THAT THE DAUGHTER OF THEON WAS THE ONLY OBSTACLE TO THE RECONCILIATION OF THE PRAEFECT AND THE ARCHBISHOP AND THAT OBSTACLE WAS SPEEDILY REMOVED <|endoftext|>",
     "tokens": [
+        50255,
         32,
         371,
         5883,
@@ -63,7 +64,8 @@
         33340,
         22657,
         8874,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

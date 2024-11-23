@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0013.flac",
-    "text": "A YELLOW VARIETY CALLED GOLDEN MILLET IS SOLD IN THE GROCERS SHOPS FOR MAKING PUDDINGS AND IS VERY DELICATE AND WHOLESOME",
+    "text": "<|startoftext|> A YELLOW VARIETY CALLED GOLDEN MILLET IS SOLD IN THE GROCERS SHOPS FOR MAKING PUDDINGS AND IS VERY DELICATE AND WHOLESOME <|endoftext|>",
     "tokens": [
+        50255,
         32,
         575,
         23304,
@@ -42,7 +43,8 @@
         7655,
         3535,
         1546,
-        13649
+        13649,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

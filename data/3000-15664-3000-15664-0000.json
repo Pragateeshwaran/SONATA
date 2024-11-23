@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0000.flac",
-    "text": "SHASTA RAMBLES AND MODOC MEMORIES",
+    "text": "<|startoftext|> SHASTA RAMBLES AND MODOC MEMORIES <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         1921,
         5603,
@@ -13,7 +14,8 @@
         4503,
         35153,
         1581,
-        11015
+        11015,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

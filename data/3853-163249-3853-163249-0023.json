@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0023.flac",
-    "text": "YOU'VE SOMETHING TO TELL ME I SEE IT IN YOUR FACE DEAR I MUST GO",
+    "text": "<|startoftext|> YOU'VE SOMETHING TO TELL ME I SEE IT IN YOUR FACE DEAR I MUST GO <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         6,
         6089,
@@ -22,7 +23,8 @@
         1503,
         314,
         17191,
-        10351
+        10351,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

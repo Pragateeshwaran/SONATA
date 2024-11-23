@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0024.flac",
-    "text": "HE GAZED UPON A WORLD FULL OF RESPONSIBILITIES AND PERILS",
+    "text": "<|startoftext|> HE GAZED UPON A WORLD FULL OF RESPONSIBILITIES AND PERILS <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         14545,
         57,
@@ -18,7 +19,8 @@
         49516,
         5357,
         19878,
-        45484
+        45484,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

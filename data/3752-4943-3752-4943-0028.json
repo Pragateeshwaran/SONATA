@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0028.flac",
-    "text": "THAT LAST FELLOW YOU HAD OUGHT TO HAVE BEEN TIED UP HIMSELF",
+    "text": "<|startoftext|> THAT LAST FELLOW YOU HAD OUGHT TO HAVE BEEN TIED UP HIMSELF <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         41894,
@@ -22,7 +23,8 @@
         15958,
         45909,
         50,
-        37738
+        37738,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

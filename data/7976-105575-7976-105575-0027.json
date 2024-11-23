@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0027.flac",
-    "text": "IT REQUIRED MONTHS AND GREAT EVENTS TO MAKE GRANT THE HERO OF THE ARMY WHICH HE AFTERWARD BECAME",
+    "text": "<|startoftext|> IT REQUIRED MONTHS AND GREAT EVENTS TO MAKE GRANT THE HERO OF THE ARMY WHICH HE AFTERWARD BECAME <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         4526,
         10917,
@@ -29,7 +30,8 @@
         39743,
         347,
         2943,
-        10067
+        10067,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

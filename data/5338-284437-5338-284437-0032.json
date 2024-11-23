@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0032.flac",
-    "text": "WE DO NOT HATE YOU AS YOU SAY THE BLUESKINS DO NOR ARE WE SAVAGE OR CRUEL BUT WE DO NOT WANT YOU HERE AND I AM REALLY PUZZLED WHAT TO DO WITH YOU",
+    "text": "<|startoftext|> WE DO NOT HATE YOU AS YOU SAY THE BLUESKINS DO NOR ARE WE SAVAGE OR CRUEL BUT WE DO NOT WANT YOU HERE AND I AM REALLY PUZZLED WHAT TO DO WITH YOU <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         8410,
         5626,
@@ -45,7 +46,8 @@
         5390,
         8410,
         13315,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

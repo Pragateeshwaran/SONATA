@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0005.flac",
-    "text": "BEES TOO STRANGE TO SAY HAD THOUGHT IT WORTH THEIR WHILE TO COME HITHER POSSIBLY FROM THE RANGE OF HIVES BESIDE SOME FARM HOUSE MILES AWAY",
+    "text": "<|startoftext|> BEES TOO STRANGE TO SAY HAD THOUGHT IT WORTH THEIR WHILE TO COME HITHER POSSIBLY FROM THE RANGE OF HIVES BESIDE SOME FARM HOUSE MILES AWAY <|endoftext|>",
     "tokens": [
+        50255,
         12473,
         1546,
         5390,
@@ -49,7 +50,8 @@
         31515,
         1546,
         14356,
-        4792
+        4792,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

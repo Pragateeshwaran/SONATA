@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0017.flac",
-    "text": "WEEDS MEANWHILE SPRANG UP AND A DREARY CONFUSION REIGNED IN THE ONCE ORDERLY AND BRILLIANT LITTLE GARDEN",
+    "text": "<|startoftext|> WEEDS MEANWHILE SPRANG UP AND A DREARY CONFUSION REIGNED IN THE ONCE ORDERLY AND BRILLIANT LITTLE GARDEN <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         1961,
         50,
@@ -41,7 +42,8 @@
         2538,
         402,
         9795,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

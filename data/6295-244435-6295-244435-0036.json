@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0036.flac",
-    "text": "HE DID NOT SAY THE LAST AS A BOAST BUT MERELY AS AN ASSURANCE TO THE LIVERYMAN WHO HE SAW WAS ANXIOUS ON HIS ACCOUNT",
+    "text": "<|startoftext|> HE DID NOT SAY THE LAST AS A BOAST BUT MERELY AS AN ASSURANCE TO THE LIVERYMAN WHO HE SAW WAS ANXIOUS ON HIS ACCOUNT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         35697,
         5626,
@@ -38,7 +39,8 @@
         6177,
         33700,
         15859,
-        28270
+        28270,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

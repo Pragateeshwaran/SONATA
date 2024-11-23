@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0061.flac",
-    "text": "NOT TILL THE DOCTOR CAME HER DOCTOR WHO WAS HAPPILY IN HIS OFFICE IN THIS VERY BUILDING",
+    "text": "<|startoftext|> NOT TILL THE DOCTOR CAME HER DOCTOR WHO WAS HAPPILY IN HIS OFFICE IN THIS VERY BUILDING <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         309,
         8267,
@@ -29,7 +30,8 @@
         29550,
         20571,
         26761,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

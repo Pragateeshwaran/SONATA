@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0012.flac",
-    "text": "A FEW STRAY COWS AND SHEEP WERE ONLY SEEN OCCASIONALLY",
+    "text": "<|startoftext|> A FEW STRAY COWS AND SHEEP WERE ONLY SEEN OCCASIONALLY <|endoftext|>",
     "tokens": [
+        50255,
         32,
         376,
         6217,
@@ -21,7 +22,8 @@
         4093,
         1921,
         2849,
-        19807
+        19807,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

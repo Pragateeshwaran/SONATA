@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0026.flac",
-    "text": "TO MAKE DRY TOAST",
+    "text": "<|startoftext|> TO MAKE DRY TOAST <|endoftext|>",
     "tokens": [
+        50255,
         10468,
         39134,
         10560,
         56,
         5390,
-        11262
+        11262,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0008.flac",
-    "text": "AT THE END OF A YEAR FROM THE TIME OF DEATH THE RELATIVES MADE A PUBLIC FEAST AND GAVE AWAY THE CLOTHING AND OTHER GIFTS WHILE THE LOCK OF HAIR WAS INTERRED WITH APPROPRIATE CEREMONIES",
+    "text": "<|startoftext|> AT THE END OF A YEAR FROM THE TIME OF DEATH THE RELATIVES MADE A PUBLIC FEAST AND GAVE AWAY THE CLOTHING AND OTHER GIFTS WHILE THE LOCK OF HAIR WAS INTERRED WITH APPROPRIATE CEREMONIES <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         3336,
         23578,
@@ -58,7 +59,8 @@
         1137,
         3620,
         1340,
-        11015
+        11015,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

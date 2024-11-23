@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0041.flac",
-    "text": "SHE SLID TO THE FLOOR BESIDE HIM AS IF SHE WERE TOO TIRED TO SIT UP ANY LONGER",
+    "text": "<|startoftext|> SHE SLID TO THE FLOOR BESIDE HIM AS IF SHE WERE TOO TIRED TO SIT UP ANY LONGER <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         12419,
@@ -30,7 +31,8 @@
         15958,
         15529,
         44533,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

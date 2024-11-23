@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0000.flac",
-    "text": "YOU'LL ALL BE OVER IF YOU DON'T HAVE A CARE",
+    "text": "<|startoftext|> YOU'LL ALL BE OVER IF YOU DON'T HAVE A CARE <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         6,
         3069,
@@ -15,7 +16,8 @@
         51,
         21515,
         317,
-        47342
+        47342,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

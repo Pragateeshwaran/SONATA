@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0001.flac",
-    "text": "BIRDS NEST SALAD HAVE READY AS MANY CRISP LEAVES OF LETTUCE AS MAY BE REQUIRED TO MAKE A DAINTY LITTLE NEST FOR EACH PERSON",
+    "text": "<|startoftext|> BIRDS NEST SALAD HAVE READY AS MANY CRISP LEAVES OF LETTUCE AS MAY BE REQUIRED TO MAKE A DAINTY LITTLE NEST FOR EACH PERSON <|endoftext|>",
     "tokens": [
+        50255,
         3483,
         49,
         5258,
@@ -46,7 +47,8 @@
         7473,
         412,
         16219,
-        46740
+        46740,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

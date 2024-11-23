@@ -1,12 +1,14 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0012.flac",
-    "text": "ARE YOU READY YES",
+    "text": "<|startoftext|> ARE YOU READY YES <|endoftext|>",
     "tokens": [
+        50255,
         12203,
         7013,
         20832,
         56,
-        21560
+        21560,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

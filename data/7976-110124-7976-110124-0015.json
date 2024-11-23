@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0015.flac",
-    "text": "THEN SHE HEARD HIM GO DOWN THE STAIRWAY AND UNBOLT THE HEAVY DOORS WHICH LED INTO THE STORE",
+    "text": "<|startoftext|> THEN SHE HEARD HIM GO DOWN THE STAIRWAY AND UNBOLT THE HEAVY DOORS WHICH LED INTO THE STORE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         48052,
@@ -31,7 +32,8 @@
         39319,
         3336,
         3563,
-        6965
+        6965,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0011.flac",
-    "text": "WE DECIDED THAT ANTONIA SHOULD RIDE DUDE HOME AND I WOULD WALK",
+    "text": "<|startoftext|> WE DECIDED THAT ANTONIA SHOULD RIDE DUDE HOME AND I WOULD WALK <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         27196,
         2389,
@@ -21,7 +22,8 @@
         370,
         24010,
         370,
-        28082
+        28082,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

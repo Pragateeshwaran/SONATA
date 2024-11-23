@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0068.flac",
-    "text": "BUT THEY'LL PUT A MAN ON FOR YOU",
+    "text": "<|startoftext|> BUT THEY'LL PUT A MAN ON FOR YOU <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         33302,
         6,
@@ -12,7 +13,8 @@
         17254,
         6177,
         7473,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

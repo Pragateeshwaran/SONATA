@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0018.flac",
-    "text": "THE MISTRESS HAD RETURNED AND THE YOUNG LADY WAS WITH HER AND HURRIED AT ONCE TO HER FAVOURITE GARDEN",
+    "text": "<|startoftext|> THE MISTRESS HAD RETURNED AND THE YOUNG LADY WAS WITH HER AND HURRIED AT ONCE TO HER FAVOURITE GARDEN <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         50029,
         5446,
@@ -37,7 +38,8 @@
         12709,
         402,
         9795,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

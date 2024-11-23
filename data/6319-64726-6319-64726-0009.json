@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0009.flac",
-    "text": "SCARCELY HAD HE COME TO THE WOOD WHEN ALL THE TREES AND THORNS WHICH HAD MADE SUCH AN IMPENETRABLE THICKET OPENED ON ONE SIDE AND THE OTHER TO OFFER HIM A PATH",
+    "text": "<|startoftext|> SCARCELY HAD HE COME TO THE WOOD WHEN ALL THE TREES AND THORNS WHICH HAD MADE SUCH AN IMPENETRABLE THICKET OPENED ON ONE SIDE AND THE OTHER TO OFFER HIM A PATH <|endoftext|>",
     "tokens": [
+        50255,
         6173,
         25793,
         30943,
@@ -54,7 +55,8 @@
         1137,
         45909,
         317,
-        46490
+        46490,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

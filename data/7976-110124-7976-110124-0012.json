@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0012.flac",
-    "text": "WHILE THEY WERE TALKING THE BEGGAR HAD TAKEN THE APPLES WHICH THE GIRLS WERE TO EAT FOR DESSERT AND HAD SPRINKLED A SLEEPING POWDER OVER THEM",
+    "text": "<|startoftext|> WHILE THEY WERE TALKING THE BEGGAR HAD TAKEN THE APPLES WHICH THE GIRLS WERE TO EAT FOR DESSERT AND HAD SPRINKLED A SLEEPING POWDER OVER THEM <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         41119,
         33302,
@@ -53,7 +54,8 @@
         24148,
         14418,
         28729,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0025.flac",
-    "text": "THE GINGER PLANT KNOWN TO NATURALISTS AS ZINGIBER OFFICINALE IS A NATIVE OF THE EAST AND WEST INDIES",
+    "text": "<|startoftext|> THE GINGER PLANT KNOWN TO NATURALISTS AS ZINGIBER OFFICINALE IS A NATIVE OF THE EAST AND WEST INDIES <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         402,
         2751,
@@ -36,7 +37,8 @@
         370,
         6465,
         24413,
-        11015
+        11015,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

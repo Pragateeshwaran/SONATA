@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0019.flac",
-    "text": "AND OF COURSE I HAD MY EXPECTATIONS AND SHE HAD HERS",
+    "text": "<|startoftext|> AND OF COURSE I HAD MY EXPECTATIONS AND SHE HAD HERS <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         3963,
         37384,
@@ -18,7 +19,8 @@
         367,
         2885,
         367,
-        4877
+        4877,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

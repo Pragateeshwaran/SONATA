@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0030.flac",
-    "text": "PEOPLE WERE COOLER HERE AND THEY WERE MORE PRONE TO LOOK AT THE TWO SIDES OF A QUESTION",
+    "text": "<|startoftext|> PEOPLE WERE COOLER HERE AND THEY WERE MORE PRONE TO LOOK AT THE TWO SIDES OF A QUESTION <|endoftext|>",
     "tokens": [
+        50255,
         11401,
         34354,
         370,
@@ -27,7 +28,8 @@
         3963,
         317,
         43658,
-        2849
+        2849,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

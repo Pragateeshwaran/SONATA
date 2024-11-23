@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0026.flac",
-    "text": "THAT ENCHANTMENT HAD POSSESSED HIM USURPING AS IT WERE THE THRONE OF HIS LIFE AND DISPLACING IT WHEN IT CEASED HE WAS NOT HIS OWN MASTER",
+    "text": "<|startoftext|> THAT ENCHANTMENT HAD POSSESSED HIM USURPING AS IT WERE THE THRONE OF HIS LIFE AND DISPLACING IT WHEN IT CEASED HE WAS NOT HIS OWN MASTER <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         12964,
@@ -45,7 +46,8 @@
         33700,
         47672,
         32337,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0009.flac",
-    "text": "LACRIMA CHRISTI A STILL WINE OF EXCELLENT FLAVOR AND BOUQUET",
+    "text": "<|startoftext|> LACRIMA CHRISTI A STILL WINE OF EXCELLENT FLAVOR AND BOUQUET <|endoftext|>",
     "tokens": [
+        50255,
         43,
         2246,
         49,
@@ -26,7 +27,8 @@
         347,
         2606,
         10917,
-        2767
+        2767,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

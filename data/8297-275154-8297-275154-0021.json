@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0021.flac",
-    "text": "WAS HIS MIND WANDERING INTO SOME OTHER TRAIN OF THOUGHT",
+    "text": "<|startoftext|> WAS HIS MIND WANDERING INTO SOME OTHER TRAIN OF THOUGHT <|endoftext|>",
     "tokens": [
+        50255,
         54,
         1921,
         33700,
@@ -20,7 +21,8 @@
         2320,
         2606,
         38,
-        6535
+        6535,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

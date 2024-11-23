@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0015.flac",
-    "text": "THEY HAVE KNOWN ME MUCH LONGER BUT NEVER HONOR ME WITH ANY FAMILIARITY THOUGH HARDLY A DAY PASSES WITHOUT MY BRINGING THEM FOOD",
+    "text": "<|startoftext|> THEY HAVE KNOWN ME MUCH LONGER BUT NEVER HONOR ME WITH ANY FAMILIARITY THOUGH HARDLY A DAY PASSES WITHOUT MY BRINGING THEM FOOD <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         21515,
@@ -40,7 +41,8 @@
         2751,
         44788,
         11895,
-        3727
+        3727,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

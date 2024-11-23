@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0006.flac",
-    "text": "IT'S SURELY A TERRIBLE STORM OUTSIDE SAID THE MERCHANT'S ELDEST DAUGHTER AS THE WIND RATTLED THE TILES OF THE ROOF AND THE RAIN BEAT IN TORRENTS AGAINST THE DOORS AND WINDOWS",
+    "text": "<|startoftext|> IT'S SURELY A TERRIBLE STORM OUTSIDE SAID THE MERCHANT'S ELDEST DAUGHTER AS THE WIND RATTLED THE TILES OF THE ROOF AND THE RAIN BEAT IN TORRENTS AGAINST THE DOORS AND WINDOWS <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         6,
         50,
@@ -66,7 +67,8 @@
         5357,
         370,
         12115,
-        22845
+        22845,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

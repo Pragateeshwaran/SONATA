@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0023.flac",
-    "text": "BOZZLE AWAY FROM HIS OWN HOME OUT ON BUSINESS WITH HIS COAT BUTTONED OVER HIS BREAST AND HIS BEST HAT IN HIS HAND WAS AWARE THAT HE COMMANDED RESPECT AND HE COULD CARRY HIMSELF ACCORDINGLY",
+    "text": "<|startoftext|> BOZZLE AWAY FROM HIS OWN HOME OUT ON BUSINESS WITH HIS COAT BUTTONED OVER HIS BREAST AND HIS BEST HAT IN HIS HAND WAS AWARE THAT HE COMMANDED RESPECT AND HE COULD CARRY HIMSELF ACCORDINGLY <|endoftext|>",
     "tokens": [
+        50255,
         8202,
         30148,
         2538,
@@ -57,7 +58,8 @@
         15859,
         12532,
         2751,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

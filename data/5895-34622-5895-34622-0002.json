@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0002.flac",
-    "text": "WHAT WAS THIS NOTHING",
+    "text": "<|startoftext|> WHAT WAS THIS NOTHING <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         21725,
         12680,
         5626,
         39,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

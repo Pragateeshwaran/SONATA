@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0009.flac",
-    "text": "HE HURRIEDLY CUT CAKE AND PRESSED IT UPON HER",
+    "text": "<|startoftext|> HE HURRIEDLY CUT CAKE AND PRESSED IT UPON HER <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         4261,
@@ -18,7 +19,8 @@
         7283,
         15958,
         1340,
-        24906
+        24906,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0057.flac",
-    "text": "ANYBODY BEFORE THE FATHER CAME IN",
+    "text": "<|startoftext|> ANYBODY BEFORE THE FATHER CAME IN <|endoftext|>",
     "tokens": [
+        50255,
         31827,
         33,
         33076,
@@ -11,7 +12,8 @@
         45226,
         327,
         10067,
-        3268
+        3268,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

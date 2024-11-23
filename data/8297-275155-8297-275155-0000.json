@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0000.flac",
-    "text": "ON THE NEXT DAY BUT ONE RANDAL ARRANGED HIS DEPARTURE FOR SYDENHAM SO AS TO ARRIVE AT THE HOTEL AN HOUR BEFORE THE TIME APPOINTED FOR THE DINNER",
+    "text": "<|startoftext|> ON THE NEXT DAY BUT ONE RANDAL ARRANGED HIS DEPARTURE FOR SYDENHAM SO AS TO ARRIVE AT THE HOTEL AN HOUR BEFORE THE TIME APPOINTED FOR THE DINNER <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         3336,
         39726,
@@ -46,7 +47,8 @@
         3336,
         360,
         1268,
-        21479
+        21479,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0000.flac",
-    "text": "THE SAVAGE PHILOSOPHER THE DUAL MIND",
+    "text": "<|startoftext|> THE SAVAGE PHILOSOPHER THE DUAL MIND <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         311,
         10116,
@@ -15,7 +16,8 @@
         360,
         25620,
         337,
-        12115
+        12115,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

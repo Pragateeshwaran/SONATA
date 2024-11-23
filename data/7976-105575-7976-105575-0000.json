@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0000.flac",
-    "text": "GRANT WAS ONLY A FEW MILES AWAY BUT ALTHOUGH COMMANDER IN CHIEF HE KNEW NOTHING OF THE HARDEST FOUGHT BATTLE OF THE CIVIL WAR UNTIL IT WAS OVER",
+    "text": "<|startoftext|> GRANT WAS ONLY A FEW MILES AWAY BUT ALTHOUGH COMMANDER IN CHIEF HE KNEW NOTHING OF THE HARDEST FOUGHT BATTLE OF THE CIVIL WAR UNTIL IT WAS OVER <|endoftext|>",
     "tokens": [
+        50255,
         10761,
         8643,
         21725,
@@ -52,7 +53,8 @@
         4146,
         7283,
         21725,
-        28729
+        28729,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

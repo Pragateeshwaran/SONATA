@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0018.flac",
-    "text": "IF CARRIED ANY DISTANCE IT SHOULD BE STORED AWAY IN AIR TIGHT VESSELS",
+    "text": "<|startoftext|> IF CARRIED ANY DISTANCE IT SHOULD BE STORED AWAY IN AIR TIGHT VESSELS <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         17368,
         7112,
@@ -23,7 +24,8 @@
         9947,
         569,
         7597,
-        37142
+        37142,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

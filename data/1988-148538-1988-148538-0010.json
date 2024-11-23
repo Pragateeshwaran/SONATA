@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\148538\\1988-148538-0010.flac",
-    "text": "IF I APPLAUD THE FREEDOM WHICH ITS INHABITANTS ENJOY HE ANSWERS FREEDOM IS A FINE THING BUT FEW NATIONS ARE WORTHY TO ENJOY IT",
+    "text": "<|startoftext|> IF I APPLAUD THE FREEDOM WHICH ITS INHABITANTS ENJOY HE ANSWERS FREEDOM IS A FINE THING BUT FEW NATIONS ARE WORTHY TO ENJOY IT <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         314,
         3486,
@@ -49,7 +50,8 @@
         12964,
         41,
         21414,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

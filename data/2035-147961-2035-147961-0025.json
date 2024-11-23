@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0025.flac",
-    "text": "AND THE WOLVES PAVEL ASKED ENOUGH ENOUGH FOR ALL OF US",
+    "text": "<|startoftext|> AND THE WOLVES PAVEL ASKED ENOUGH ENOUGH FOR ALL OF US <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         3336,
         370,
@@ -20,7 +21,8 @@
         7473,
         11096,
         3963,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

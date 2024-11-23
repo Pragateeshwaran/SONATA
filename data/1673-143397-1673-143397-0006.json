@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0006.flac",
-    "text": "WHICH OPPRESSED THE METROPOLITANS OF EUROPE AND ASIA INVADED THE PROVINCES OF ANTIOCH AND ALEXANDRIA AND MEASURED THEIR DIOCESE BY THE LIMITS OF THE EMPIRE",
+    "text": "<|startoftext|> WHICH OPPRESSED THE METROPOLITANS OF EUROPE AND ASIA INVADED THE PROVINCES OF ANTIOCH AND ALEXANDRIA AND MEASURED THEIR DIOCESE BY THE LIMITS OF THE EMPIRE <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         20739,
         13349,
@@ -54,7 +55,8 @@
         3963,
         3336,
         38144,
-        41736
+        41736,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0000.flac",
-    "text": "ONE WHO WRITES OF SUCH AN ERA LABOURS UNDER A TROUBLESOME DISADVANTAGE",
+    "text": "<|startoftext|> ONE WHO WRITES OF SUCH AN ERA LABOURS UNDER A TROUBLESOME DISADVANTAGE <|endoftext|>",
     "tokens": [
+        50255,
         11651,
         19494,
         11342,
@@ -27,7 +28,8 @@
         2885,
         53,
         8643,
-        11879
+        11879,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

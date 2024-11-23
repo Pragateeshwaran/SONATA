@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0040.flac",
-    "text": "THIS CABIN WAS HIS HERMITAGE UNTIL THE WINTER SNOWS PENNED HIM IN HIS CAVE",
+    "text": "<|startoftext|> THIS CABIN WAS HIS HERMITAGE UNTIL THE WINTER SNOWS PENNED HIM IN HIS CAVE <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         327,
         6242,
@@ -26,7 +27,8 @@
         3268,
         33700,
         7257,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

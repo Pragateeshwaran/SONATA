@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0000.flac",
-    "text": "HOW WE MUST SIMPLIFY",
+    "text": "<|startoftext|> HOW WE MUST SIMPLIFY <|endoftext|>",
     "tokens": [
+        50255,
         37181,
         12887,
         17191,
         23749,
         6489,
         5064,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0016.flac",
-    "text": "MEANWHILE ALL THE REST OF THE PEOPLE IN THE CASTLE HAD BEEN WAKENED AT THE SAME MOMENT AS THE PRINCESS AND THEY WERE NOW EXTREMELY HUNGRY",
+    "text": "<|startoftext|> MEANWHILE ALL THE REST OF THE PEOPLE IN THE CASTLE HAD BEEN WAKENED AT THE SAME MOMENT AS THE PRINCESS AND THEY WERE NOW EXTREMELY HUNGRY <|endoftext|>",
     "tokens": [
+        50255,
         11682,
         1565,
         12418,
@@ -47,7 +48,8 @@
         30943,
         41041,
         10761,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

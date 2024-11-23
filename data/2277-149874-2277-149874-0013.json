@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0013.flac",
-    "text": "YOU COULD GET HOME EASY TOO IT ISN'T VERY FAR",
+    "text": "<|startoftext|> YOU COULD GET HOME EASY TOO IT ISN'T VERY FAR <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         327,
         24010,
@@ -17,7 +18,8 @@
         6,
         51,
         29550,
-        39024
+        39024,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

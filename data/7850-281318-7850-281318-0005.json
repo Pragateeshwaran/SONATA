@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0005.flac",
-    "text": "SHE WAS INDEED A CLEVER BIRD",
+    "text": "<|startoftext|> SHE WAS INDEED A CLEVER BIRD <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         21725,
@@ -12,7 +13,8 @@
         30301,
         5959,
         347,
-        46833
+        46833,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

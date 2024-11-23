@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0031.flac",
-    "text": "HIS TREASURE TAKEN TYPE OF HIS SELF AND A WOMAN GIVEN HIM INSTEAD",
+    "text": "<|startoftext|> HIS TREASURE TAKEN TYPE OF HIS SELF AND A WOMAN GIVEN HIM INSTEAD <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         43236,
@@ -25,7 +26,8 @@
         45909,
         3268,
         30516,
-        2885
+        2885,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

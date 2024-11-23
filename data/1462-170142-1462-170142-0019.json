@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0019.flac",
-    "text": "AT THAT WORD DECEPTION SPOKEN WITH SUCH SELF CONTEMPT THE COLOR FLASHED BACK INTO HILDA'S FACE AS SUDDENLY AS IF SHE HAD BEEN STRUCK BY A WHIPLASH",
+    "text": "<|startoftext|> AT THAT WORD DECEPTION SPOKEN WITH SUCH SELF CONTEMPT THE COLOR FLASHED BACK INTO HILDA'S FACE AS SUDDENLY AS IF SHE HAD BEEN STRUCK BY A WHIPLASH <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         14603,
         370,
@@ -53,7 +54,8 @@
         7655,
         4061,
         43,
-        11211
+        11211,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

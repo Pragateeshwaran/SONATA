@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0017.flac",
-    "text": "HANDLES OF WATERCRESS MAY BE ATTACHED TO THESE BASKETS",
+    "text": "<|startoftext|> HANDLES OF WATERCRESS MAY BE ATTACHED TO THESE BASKETS <|endoftext|>",
     "tokens": [
+        50255,
         39,
         6981,
         28378,
@@ -19,7 +20,8 @@
         48947,
         29809,
         42,
-        32716
+        32716,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

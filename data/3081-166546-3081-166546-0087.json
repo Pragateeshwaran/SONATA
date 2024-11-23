@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0087.flac",
-    "text": "NO WEAPON PROTRUDED FROM THE WOUND NOR WAS ANY FOUND ON OR NEAR HER IN THE MEZZANINE WHAT FOLLOWS",
+    "text": "<|startoftext|> NO WEAPON PROTRUDED FROM THE WOUND NOR WAS ANY FOUND ON OR NEAR HER IN THE MEZZANINE WHAT FOLLOWS <|endoftext|>",
     "tokens": [
+        50255,
         15285,
         12887,
         2969,
@@ -33,7 +34,8 @@
         25003,
         11895,
         3069,
-        22845
+        22845,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

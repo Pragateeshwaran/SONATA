@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0007.flac",
-    "text": "AT ALL EVENTS WE SHALL GET THERE SOME DAY",
+    "text": "<|startoftext|> AT ALL EVENTS WE SHALL GET THERE SOME DAY <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         11096,
         22399,
@@ -10,7 +11,8 @@
         17151,
         34702,
         41670,
-        24644
+        24644,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0000.flac",
-    "text": "FORTUNATELY WILL HALLEY WAS NOT A MAN IN A HURRY AND DID NOT USE A PRESS OF CANVAS OR HIS MASTS WOULD INEVITABLY HAVE COME DOWN",
+    "text": "<|startoftext|> FORTUNATELY WILL HALLEY WAS NOT A MAN IN A HURRY AND DID NOT USE A PRESS OF CANVAS OR HIS MASTS WOULD INEVITABLY HAVE COME DOWN <|endoftext|>",
     "tokens": [
+        50255,
         37,
         9863,
         4944,
@@ -43,7 +44,8 @@
         21515,
         9440,
         36,
-        30320
+        30320,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

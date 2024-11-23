@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0022.flac",
-    "text": "A BIRD IN THE HAND IS WORTH TWO IN A BUSH' AND IT WILL BE SOMETHING TO HAVE BY US",
+    "text": "<|startoftext|> A BIRD IN THE HAND IS WORTH TWO IN A BUSH' AND IT WILL BE SOMETHING TO HAVE BY US <|endoftext|>",
     "tokens": [
+        50255,
         32,
         347,
         46833,
@@ -28,7 +29,8 @@
         5390,
         21515,
         11050,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0006.flac",
-    "text": "THE FAMILY WAS NOT ONLY THE SOCIAL UNIT BUT ALSO THE UNIT OF GOVERNMENT",
+    "text": "<|startoftext|> THE FAMILY WAS NOT ONLY THE SOCIAL UNIT BUT ALSO THE UNIT OF GOVERNMENT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         42129,
         33340,
@@ -22,7 +23,8 @@
         10351,
         5959,
         45,
-        10979
+        10979,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

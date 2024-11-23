@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0056.flac",
-    "text": "THE GOVERNMENT MAY GO TO AND YOU TOO ROARED BURGESS GET OUT",
+    "text": "<|startoftext|> THE GOVERNMENT MAY GO TO AND YOU TOO ROARED BURGESS GET OUT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         10351,
         5959,
@@ -21,7 +22,8 @@
         38,
         7597,
         17151,
-        16289
+        16289,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

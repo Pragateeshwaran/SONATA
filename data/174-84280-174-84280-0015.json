@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0015.flac",
-    "text": "SHE WAS DESTROYED NOT MERELY BY THE UNCONSIDERED UNDISCIPLINED PASSIONS OF HER HUSBAND AND HER LOVER BUT BY THE VAST TRADITION THAT SUSTAINS AND ENFORCES THE SUBJUGATION OF HER SEX",
+    "text": "<|startoftext|> SHE WAS DESTROYED NOT MERELY BY THE UNCONSIDERED UNDISCIPLINED PASSIONS OF HER HUSBAND AND HER LOVER BUT BY THE VAST TRADITION THAT SUSTAINS AND ENFORCES THE SUBJUGATION OF HER SEX <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         21725,
@@ -62,7 +63,8 @@
         3963,
         24906,
         311,
-        6369
+        6369,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

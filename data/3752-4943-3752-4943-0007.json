@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0007.flac",
-    "text": "KIRKLAND GHASTLY PALE BLEEDING WITH HIS WOOLLEN SHIRT TORN AND HIS BLUE EYES WIDE OPEN WITH TERROR WAS CLINGING TO THE BARS",
+    "text": "<|startoftext|> KIRKLAND GHASTLY PALE BLEEDING WITH HIS WOOLLEN SHIRT TORN AND HIS BLUE EYES WIDE OPEN WITH TERROR WAS CLINGING TO THE BARS <|endoftext|>",
     "tokens": [
+        50255,
         42,
         4663,
         42,
@@ -44,7 +45,8 @@
         5390,
         3336,
         347,
-        27415
+        27415,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

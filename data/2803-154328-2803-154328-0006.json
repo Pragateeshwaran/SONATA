@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0006.flac",
-    "text": "GLENARVAN'S VOICE FIRM TILL NOW FALTERED",
+    "text": "<|startoftext|> GLENARVAN'S VOICE FIRM TILL NOW FALTERED <|endoftext|>",
     "tokens": [
+        50255,
         8763,
         1677,
         1503,
@@ -19,7 +20,8 @@
         376,
         1847,
         5781,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

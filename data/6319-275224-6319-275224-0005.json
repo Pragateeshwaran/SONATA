@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0005.flac",
-    "text": "STILL THE ROSE TREE STOOD OUT THAT THERE MUST BE SOME GREAT ADVANTAGES IN A GARDENER'S CARE FOR SHE COULD NOT PRETEND TO BE IGNORANT OF HER OWN SUPERIORITY TO ALL HER WILD RELATIONS IN THE WOODS",
+    "text": "<|startoftext|> STILL THE ROSE TREE STOOD OUT THAT THERE MUST BE SOME GREAT ADVANTAGES IN A GARDENER'S CARE FOR SHE COULD NOT PRETEND TO BE IGNORANT OF HER OWN SUPERIORITY TO ALL HER WILD RELATIONS IN THE WOODS <|endoftext|>",
     "tokens": [
+        50255,
         2257,
         8267,
         3336,
@@ -60,7 +61,8 @@
         3336,
         370,
         22808,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0002.flac",
-    "text": "NOT BE IT EVER REMEMBERED THAT THE SLIGHTEST SUSPICION OF IMMORALITY ATTACHES EITHER TO THE HEROINE OF THIS BOOK OR TO THE LEADING PHILOSOPHERS OF HER SCHOOL FOR SEVERAL CENTURIES",
+    "text": "<|startoftext|> NOT BE IT EVER REMEMBERED THAT THE SLIGHTEST SUSPICION OF IMMORALITY ATTACHES EITHER TO THE HEROINE OF THIS BOOK OR TO THE LEADING PHILOSOPHERS OF HER SCHOOL FOR SEVERAL CENTURIES <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         9348,
         7283,
@@ -59,7 +60,8 @@
         1847,
         33269,
         4261,
-        11015
+        11015,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

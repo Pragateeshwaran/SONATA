@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0022.flac",
-    "text": "THE LEADEN HAIL STORM SWEPT THEM OFF THE FIELD THEY FELL BACK AND RE FORMED",
+    "text": "<|startoftext|> THE LEADEN HAIL STORM SWEPT THEM OFF THE FIELD THEY FELL BACK AND RE FORMED <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         12509,
         2885,
@@ -25,7 +26,8 @@
         5357,
         4526,
         7473,
-        30733
+        30733,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

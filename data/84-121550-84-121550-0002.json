@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0002.flac",
-    "text": "THOU MAKEST ME REMEMBER WHERE AND WHAT PROSERPINA THAT MOMENT WAS WHEN LOST HER MOTHER HER AND SHE HERSELF THE SPRING",
+    "text": "<|startoftext|> THOU MAKEST ME REMEMBER WHERE AND WHAT PROSERPINA THAT MOMENT WAS WHEN LOST HER MOTHER HER AND SHE HERSELF THE SPRING <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         2606,
         8779,
@@ -37,7 +38,8 @@
         37738,
         3336,
         49068,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

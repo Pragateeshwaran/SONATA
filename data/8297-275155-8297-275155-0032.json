@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0032.flac",
-    "text": "WHILE HE WAS WALKING UP AND DOWN THE PLATFORM WITH A MIND DOUBLY DISTRESSED BY ANXIETY ABOUT HIS BROTHER AND ANXIETY ABOUT SYDNEY THE TRAIN FROM LONDON CAME IN",
+    "text": "<|startoftext|> WHILE HE WAS WALKING UP AND DOWN THE PLATFORM WITH A MIND DOUBLY DISTRESSED BY ANXIETY ABOUT HIS BROTHER AND ANXIETY ABOUT SYDNEY THE TRAIN FROM LONDON CAME IN <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         41119,
         11179,
@@ -55,7 +56,8 @@
         47383,
         327,
         10067,
-        3268
+        3268,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

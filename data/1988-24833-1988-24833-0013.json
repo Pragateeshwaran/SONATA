@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0013.flac",
-    "text": "I GET THE PILLOWS COMFORTABLY ARRANGED ON THE FLOOR WITH A BIG BOTTLE OF SODA AND A BAG OF POPCORN WITHIN EASY REACH",
+    "text": "<|startoftext|> I GET THE PILLOWS COMFORTABLY ARRANGED ON THE FLOOR WITH A BIG BOTTLE OF SODA AND A BAG OF POPCORN WITHIN EASY REACH <|endoftext|>",
     "tokens": [
+        50255,
         40,
         17151,
         3336,
@@ -45,7 +46,8 @@
         412,
         26483,
         4526,
-        16219
+        16219,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

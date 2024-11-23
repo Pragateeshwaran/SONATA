@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\84280\\174-84280-0010.flac",
-    "text": "IF WE HAD BEEN BROTHER AND SISTER INDEED THERE WAS NOTHING",
+    "text": "<|startoftext|> IF WE HAD BEEN BROTHER AND SISTER INDEED THERE WAS NOTHING <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         12887,
         367,
@@ -20,7 +21,8 @@
         21725,
         5626,
         39,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

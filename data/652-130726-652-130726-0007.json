@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0007.flac",
-    "text": "THE POODLE DOG HAS A HOTEL ATTACHMENT WHERE ONE MAY GET ROOMS OR FULL APARTMENTS",
+    "text": "<|startoftext|> THE POODLE DOG HAS A HOTEL ATTACHMENT WHERE ONE MAY GET ROOMS OR FULL APARTMENTS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         19922,
         3727,
@@ -26,7 +27,8 @@
         34958,
         3486,
         7227,
-        28957
+        28957,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

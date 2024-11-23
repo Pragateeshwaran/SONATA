@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0021.flac",
-    "text": "HE REMAINED UP STAIRS UNTIL AFTER THE EARLY DAWN SHOWED MARY THAT SHE NEED HAVE NO FEAR OF GOING HOME THROUGH THE DESERTED AND QUIET STREETS TO TRY AND GET A LITTLE SLEEP BEFORE WORK HOUR",
+    "text": "<|startoftext|> HE REMAINED UP STAIRS UNTIL AFTER THE EARLY DAWN SHOWED MARY THAT SHE NEED HAVE NO FEAR OF GOING HOME THROUGH THE DESERTED AND QUIET STREETS TO TRY AND GET A LITTLE SLEEP BEFORE WORK HOUR <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         22657,
         29833,
@@ -63,7 +64,8 @@
         38331,
         30936,
         367,
-        11698
+        11698,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

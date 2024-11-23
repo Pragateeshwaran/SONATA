@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0005.flac",
-    "text": "ONE BLANKET WILL BE ENOUGH TO CARRY OR YOU MAY FOREGO THE PLEASURE AND BURDEN ALTOGETHER AS WOOD FOR FIRES IS EVERYWHERE ABUNDANT",
+    "text": "<|startoftext|> ONE BLANKET WILL BE ENOUGH TO CARRY OR YOU MAY FOREGO THE PLEASURE AND BURDEN ALTOGETHER AS WOOD FOR FIRES IS EVERYWHERE ABUNDANT <|endoftext|>",
     "tokens": [
+        50255,
         11651,
         9878,
         15154,
@@ -44,7 +45,8 @@
         9564,
         4944,
         35,
-        8643
+        8643,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

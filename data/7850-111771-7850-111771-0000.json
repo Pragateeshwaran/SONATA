@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0000.flac",
-    "text": "THROUGH THE INFLUENCE OF HON THOMAS L HAMER HE WAS ADMITTED AT WEST POINT IN EIGHTEEN THIRTY NINE",
+    "text": "<|startoftext|> THROUGH THE INFLUENCE OF HON THOMAS L HAMER HE WAS ADMITTED AT WEST POINT IN EIGHTEEN THIRTY NINE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         49,
         32632,
@@ -39,7 +40,8 @@
         4663,
         9936,
         399,
-        8881
+        8881,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

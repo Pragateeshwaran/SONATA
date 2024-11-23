@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0002.flac",
-    "text": "THE GHOUL LIKE FEVER WAS NOT TO BE BRAVED WITH IMPUNITY AND BAULKED OF ITS PREY",
+    "text": "<|startoftext|> THE GHOUL LIKE FEVER WAS NOT TO BE BRAVED WITH IMPUNITY AND BAULKED OF ITS PREY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         24739,
         2606,
@@ -28,7 +29,8 @@
         3963,
         42437,
         22814,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

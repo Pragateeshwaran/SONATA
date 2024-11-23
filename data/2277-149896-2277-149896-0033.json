@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0033.flac",
-    "text": "THEN HE RANG THE BELL NO ANSWER",
+    "text": "<|startoftext|> THEN HE RANG THE BELL NO ANSWER <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         11179,
@@ -13,7 +14,8 @@
         8005,
         3537,
         17887,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

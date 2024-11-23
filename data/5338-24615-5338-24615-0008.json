@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24615\\5338-24615-0008.flac",
-    "text": "IT HAD BEEN BUILT AT A PERIOD WHEN CASTLES WERE NO LONGER NECESSARY AND WHEN THE SCOTTISH ARCHITECTS HAD NOT YET ACQUIRED THE ART OF DESIGNING A DOMESTIC RESIDENCE",
+    "text": "<|startoftext|> IT HAD BEEN BUILT AT A PERIOD WHEN CASTLES WERE NO LONGER NECESSARY AND WHEN THE SCOTTISH ARCHITECTS HAD NOT YET ACQUIRED THE ART OF DESIGNING A DOMESTIC RESIDENCE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         367,
         2885,
@@ -58,7 +59,8 @@
         2149,
         15731,
         2389,
-        18310
+        18310,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

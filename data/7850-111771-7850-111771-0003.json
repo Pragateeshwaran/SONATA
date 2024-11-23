@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0003.flac",
-    "text": "GENERAL HALLECK IN SPEAKING OF THIS BATTLE SAID",
+    "text": "<|startoftext|> GENERAL HALLECK IN SPEAKING OF THIS BATTLE SAID <|endoftext|>",
     "tokens": [
+        50255,
         35353,
         27130,
         42968,
@@ -17,7 +18,8 @@
         347,
         35455,
         14719,
-        2389
+        2389,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

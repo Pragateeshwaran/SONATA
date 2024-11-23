@@ -1,12 +1,14 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0000.flac",
-    "text": "GO DO YOU HEAR",
+    "text": "<|startoftext|> GO DO YOU HEAR <|endoftext|>",
     "tokens": [
+        50255,
         11230,
         8410,
         7013,
         11179,
-        1503
+        1503,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

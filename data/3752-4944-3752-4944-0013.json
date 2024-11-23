@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0013.flac",
-    "text": "IN FACT THE RINGLEADER JOHN REX GAVE ME HIS CONFESSION AND I SENT IT TO THE BISHOP",
+    "text": "<|startoftext|> IN FACT THE RINGLEADER JOHN REX GAVE ME HIS CONFESSION AND I SENT IT TO THE BISHOP <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         376,
         10659,
@@ -30,7 +31,8 @@
         3336,
         347,
         18422,
-        3185
+        3185,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

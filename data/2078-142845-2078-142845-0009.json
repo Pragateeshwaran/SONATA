@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0009.flac",
-    "text": "ILLUSTRATION ITALIAN MILLET",
+    "text": "<|startoftext|> ILLUSTRATION ITALIAN MILLET <|endoftext|>",
     "tokens": [
+        50255,
         8267,
         7759,
         49,
@@ -10,7 +11,8 @@
         1847,
         16868,
         31515,
-        28882
+        28882,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

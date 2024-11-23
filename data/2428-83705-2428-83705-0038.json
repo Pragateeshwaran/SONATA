@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0038.flac",
-    "text": "AS IT IS UNLESS I AM MISTAKEN SOME OF THE RENDING WILL BE ON OUR SIDE AND THEY KNOW IT",
+    "text": "<|startoftext|> AS IT IS UNLESS I AM MISTAKEN SOME OF THE RENDING WILL BE ON OUR SIDE AND THEY KNOW IT <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         7283,
         3180,
@@ -27,7 +28,8 @@
         5357,
         33302,
         35876,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

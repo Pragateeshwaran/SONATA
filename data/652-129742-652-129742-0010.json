@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0010.flac",
-    "text": "STIR THE SOAKED GELATIN IN WHILE THE CUCUMBER IS HOT",
+    "text": "<|startoftext|> STIR THE SOAKED GELATIN IN WHILE THE CUCUMBER IS HOT <|endoftext|>",
     "tokens": [
+        50255,
         2257,
         4663,
         3336,
@@ -21,7 +22,8 @@
         5883,
         13246,
         3180,
-        44607
+        44607,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

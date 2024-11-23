@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0046.flac",
-    "text": "PRAY GO TO BED FOR I AM SURE YOU MUST NEED REST",
+    "text": "<|startoftext|> PRAY GO TO BED FOR I AM SURE YOU MUST NEED REST <|endoftext|>",
     "tokens": [
+        50255,
         47,
         30631,
         10351,
@@ -16,7 +17,8 @@
         7013,
         17191,
         36465,
-        30617
+        30617,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

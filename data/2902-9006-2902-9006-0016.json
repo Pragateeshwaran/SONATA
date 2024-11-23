@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0016.flac",
-    "text": "THAT EXTRAORDINARY REFORM IN MORALS WHICH ACCORDING TO SALVIAN AND HIS CONTEMPORARIES THE VANDAL CONQUERORS WORKED IN NORTH AFRICA AVAILED THEM NOTHING THEY LOST MORE THAN THEY GAVE",
+    "text": "<|startoftext|> THAT EXTRAORDINARY REFORM IN MORALS WHICH ACCORDING TO SALVIAN AND HIS CONTEMPORARIES THE VANDAL CONQUERORS WORKED IN NORTH AFRICA AVAILED THEM NOTHING THEY LOST MORE THAN THEY GAVE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         27489,
@@ -62,7 +63,8 @@
         1565,
         33302,
         14545,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

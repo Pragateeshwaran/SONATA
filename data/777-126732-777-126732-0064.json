@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0064.flac",
-    "text": "THAT POOR BOY IS IN A VERY EXCITED STATE TO NIGHT SHE MURMURED AFTER A PAUSE WHICH LASTED FOR THREE TICKS OF THE CLOCK",
+    "text": "<|startoftext|> THAT POOR BOY IS IN A VERY EXCITED STATE TO NIGHT SHE MURMURED AFTER A PAUSE WHICH LASTED FOR THREE TICKS OF THE CLOCK <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         19922,
@@ -40,7 +41,8 @@
         3963,
         3336,
         7852,
-        11290
+        11290,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

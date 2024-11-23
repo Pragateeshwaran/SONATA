@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24615\\5338-24615-0013.flac",
-    "text": "THE COURT WAS SPACIOUS WELL PAVED AND PERFECTLY CLEAN THERE BEING PROBABLY ANOTHER ENTRANCE BEHIND THE STABLES FOR REMOVING THE LITTER",
+    "text": "<|startoftext|> THE COURT WAS SPACIOUS WELL PAVED AND PERFECTLY CLEAN THERE BEING PROBABLY ANOTHER ENTRANCE BEHIND THE STABLES FOR REMOVING THE LITTER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         46627,
         21725,
@@ -47,7 +48,8 @@
         3336,
         406,
         2043,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

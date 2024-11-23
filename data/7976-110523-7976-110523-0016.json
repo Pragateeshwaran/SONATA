@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0016.flac",
-    "text": "DEAR GOOD GOD HELP US NOW SHE PRAYED",
+    "text": "<|startoftext|> DEAR GOOD GOD HELP US NOW SHE PRAYED <|endoftext|>",
     "tokens": [
+        50255,
         7206,
         1503,
         21090,
@@ -12,7 +13,8 @@
         48052,
         350,
         30631,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

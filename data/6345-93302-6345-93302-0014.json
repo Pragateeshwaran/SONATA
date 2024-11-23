@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0014.flac",
-    "text": "AND YESTERDAY I HAD A LETTER FROM HER AND SHE SEEMS TO EXPECT TO THINK AND I THOUGHT I OUGHT TO TELL YOU DARLING",
+    "text": "<|startoftext|> AND YESTERDAY I HAD A LETTER FROM HER AND SHE SEEMS TO EXPECT TO THINK AND I THOUGHT I OUGHT TO TELL YOU DARLING <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         21560,
         5781,
@@ -40,7 +41,8 @@
         7013,
         41649,
         43,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

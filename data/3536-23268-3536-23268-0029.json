@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0029.flac",
-    "text": "ON THIS HE ROSE FROM HIS CHAIR AND GOING TO HER SAID ONCE MORE SHEW YOUR SUBMISSION BY OBEYING ME A SECOND TIME TO DAY",
+    "text": "<|startoftext|> ON THIS HE ROSE FROM HIS CHAIR AND GOING TO HER SAID ONCE MORE SHEW YOUR SUBMISSION BY OBEYING ME A SECOND TIME TO DAY <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         12680,
         11179,
@@ -37,7 +38,8 @@
         18672,
         20460,
         5390,
-        24644
+        24644,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

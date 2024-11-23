@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0000.flac",
-    "text": "CHAPTER FOUR THE FIRST NIGHT IN CAMP",
+    "text": "<|startoftext|> CHAPTER FOUR THE FIRST NIGHT IN CAMP <|endoftext|>",
     "tokens": [
+        50255,
         41481,
         376,
         11698,
@@ -10,7 +11,8 @@
         37707,
         3268,
         327,
-        23518
+        23518,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

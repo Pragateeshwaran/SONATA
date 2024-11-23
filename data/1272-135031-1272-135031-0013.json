@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0013.flac",
-    "text": "INQUIRED SHAGGY IN THE METAL FOREST",
+    "text": "<|startoftext|> INQUIRED SHAGGY IN THE METAL FOREST <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         10917,
         37819,
@@ -13,7 +14,8 @@
         31243,
         1847,
         7473,
-        6465
+        6465,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

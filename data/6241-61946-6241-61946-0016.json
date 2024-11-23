@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0016.flac",
-    "text": "THESE SACRED EDIFICES ARE HOWEVER VERY MUCH LIKE THESE PEOPLE WHO DO WITHOUT WATCHES AND NEVER MISS THEM",
+    "text": "<|startoftext|> THESE SACRED EDIFICES ARE HOWEVER VERY MUCH LIKE THESE PEOPLE WHO DO WITHOUT WATCHES AND NEVER MISS THEM <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         33635,
         311,
@@ -27,7 +28,8 @@
         5357,
         33602,
         49684,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

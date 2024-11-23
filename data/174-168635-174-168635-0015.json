@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0015.flac",
-    "text": "AND THEN HE TALKED OF HER MOTHER AND HE MADE HER PRAY",
+    "text": "<|startoftext|> AND THEN HE TALKED OF HER MOTHER AND HE MADE HER PRAY <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         42243,
         11179,
@@ -18,7 +19,8 @@
         19266,
         24906,
         350,
-        30631
+        30631,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

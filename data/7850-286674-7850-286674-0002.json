@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0002.flac",
-    "text": "THEY THOUGHT THE TROUBLE CAME FROM BAD BRINGING UP OR NO BRINGING UP AT ALL",
+    "text": "<|startoftext|> THEY THOUGHT THE TROUBLE CAME FROM BAD BRINGING UP OR NO BRINGING UP AT ALL <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         2320,
@@ -27,7 +28,8 @@
         2751,
         15958,
         5161,
-        11096
+        11096,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

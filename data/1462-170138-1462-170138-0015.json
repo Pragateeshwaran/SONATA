@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0015.flac",
-    "text": "I DARE SAY IT'S QUITE TRUE THAT THERE'S NEVER BEEN ANY ONE ELSE",
+    "text": "<|startoftext|> I DARE SAY IT'S QUITE TRUE THAT THERE'S NEVER BEEN ANY ONE ELSE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         360,
         12203,
@@ -22,7 +23,8 @@
         15529,
         16329,
         17852,
-        5188
+        5188,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

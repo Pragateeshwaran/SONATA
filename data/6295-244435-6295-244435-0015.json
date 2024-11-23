@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0015.flac",
-    "text": "COLONEL KENTON WRITES WISELY",
+    "text": "<|startoftext|> COLONEL KENTON WRITES WISELY <|endoftext|>",
     "tokens": [
+        50255,
         25154,
         1340,
         3698,
@@ -13,7 +14,8 @@
         1546,
         370,
         1797,
-        30943
+        30943,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

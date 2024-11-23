@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0029.flac",
-    "text": "THE FIRST TIME HE RODE SWIFTLY BY IT LEANING OVER TO LOOK AT THE HAT AS HE PASSED HOLDING TO THE POMMEL FIRMLY WITH HIS LEFT HAND",
+    "text": "<|startoftext|> THE FIRST TIME HE RODE SWIFTLY BY IT LEANING OVER TO LOOK AT THE HAT AS HE PASSED HOLDING TO THE POMMEL FIRMLY WITH HIS LEFT HAND <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         31328,
         20460,
@@ -44,7 +45,8 @@
         12509,
         9792,
         367,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

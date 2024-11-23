@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0007.flac",
-    "text": "I HAVE NEVER KNOWN A MADGE AND YET FROM MY BOYHOOD UPWARD I HAVE DESIRED TO MEET ONE",
+    "text": "<|startoftext|> I HAVE NEVER KNOWN A MADGE AND YET FROM MY BOYHOOD UPWARD I HAVE DESIRED TO MEET ONE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         21515,
         33602,
@@ -28,7 +29,8 @@
         5390,
         11948,
         2767,
-        16329
+        16329,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

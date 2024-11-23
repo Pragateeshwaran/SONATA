@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0009.flac",
-    "text": "THESE FEATHERED PEOPLE HAD EXISTED TOO LONG IN THEIR DISTINCT VARIETY A FACT OF WHICH THE PRESENT REPRESENTATIVES JUDGING BY THEIR LUGUBRIOUS DEPORTMENT SEEMED TO BE AWARE",
+    "text": "<|startoftext|> THESE FEATHERED PEOPLE HAD EXISTED TOO LONG IN THEIR DISTINCT VARIETY A FACT OF WHICH THE PRESENT REPRESENTATIVES JUDGING BY THEIR LUGUBRIOUS DEPORTMENT SEEMED TO BE AWARE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         33635,
         18630,
@@ -60,7 +61,8 @@
         5390,
         9348,
         14356,
-        12203
+        12203,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

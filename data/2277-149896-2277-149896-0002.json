@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0002.flac",
-    "text": "HURSTWOOD WALKED THE FLOOR MENTALLY ARRANGING THE CHIEF POINTS OF HIS SITUATION",
+    "text": "<|startoftext|> HURSTWOOD WALKED THE FLOOR MENTALLY ARRANGING THE CHIEF POINTS OF HIS SITUATION <|endoftext|>",
     "tokens": [
+        50255,
         39,
         4261,
         2257,
@@ -32,7 +33,8 @@
         311,
         2043,
         52,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

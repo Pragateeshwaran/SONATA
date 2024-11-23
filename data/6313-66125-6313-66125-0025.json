@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0025.flac",
-    "text": "SHALL WE HAUL UP ASKED LIGE MAKING A MEGAPHONE OF HIS HANDS YES HAUL AWAY",
+    "text": "<|startoftext|> SHALL WE HAUL UP ASKED LIGE MAKING A MEGAPHONE OF HIS HANDS YES HAUL AWAY <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         7036,
         12887,
@@ -30,7 +31,8 @@
         14558,
         6239,
         14356,
-        4792
+        4792,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

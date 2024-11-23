@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0023.flac",
-    "text": "TO THE LEFT HAND I TURNED WITH THAT RELIANCE WITH WHICH THE LITTLE CHILD RUNS TO HIS MOTHER WHEN HE HAS FEAR OR WHEN HE IS AFFLICTED",
+    "text": "<|startoftext|> TO THE LEFT HAND I TURNED WITH THAT RELIANCE WITH WHICH THE LITTLE CHILD RUNS TO HIS MOTHER WHEN HE HAS FEAR OR WHEN HE IS AFFLICTED <|endoftext|>",
     "tokens": [
+        50255,
         10468,
         3336,
         12509,
@@ -44,7 +45,8 @@
         12341,
         3697,
         18379,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

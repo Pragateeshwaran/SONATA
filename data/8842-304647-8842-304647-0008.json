@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0008.flac",
-    "text": "THAT PENANCE HATH NO BLAME WHICH MAGDALEN FOUND SWEET PURGING OUR SHAME SELF PUNISHMENT IS VIRTUE ALL MEN KNOW",
+    "text": "<|startoftext|> THAT PENANCE HATH NO BLAME WHICH MAGDALEN FOUND SWEET PURGING OUR SHAME SELF PUNISHMENT IS VIRTUE ALL MEN KNOW <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         350,
@@ -41,7 +42,8 @@
         8924,
         11096,
         41597,
-        35876
+        35876,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

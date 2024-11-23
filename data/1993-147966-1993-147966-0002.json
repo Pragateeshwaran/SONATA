@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147966\\1993-147966-0002.flac",
-    "text": "YOUR MAMA I SAID ANGRILY WANTS OTHER PEOPLE'S THINGS",
+    "text": "<|startoftext|> YOUR MAMA I SAID ANGRILY WANTS OTHER PEOPLE'S THINGS <|endoftext|>",
     "tokens": [
+        50255,
         56,
         11698,
         337,
@@ -20,7 +21,8 @@
         6,
         50,
         2320,
-        20754
+        20754,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

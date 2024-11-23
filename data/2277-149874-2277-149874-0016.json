@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0016.flac",
-    "text": "ANYTHING WAS GOOD ENOUGH SO LONG AS IT PAID SAY FIVE DOLLARS A WEEK TO BEGIN WITH",
+    "text": "<|startoftext|> ANYTHING WAS GOOD ENOUGH SO LONG AS IT PAID SAY FIVE DOLLARS A WEEK TO BEGIN WITH <|endoftext|>",
     "tokens": [
+        50255,
         31827,
         39356,
         21725,
@@ -25,7 +26,8 @@
         5390,
         347,
         43312,
-        13315
+        13315,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

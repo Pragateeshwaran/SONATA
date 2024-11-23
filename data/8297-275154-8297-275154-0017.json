@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0017.flac",
-    "text": "OH WHY DID I ENGAGE THAT GOVERNESS",
+    "text": "<|startoftext|> OH WHY DID I ENGAGE THAT GOVERNESS <|endoftext|>",
     "tokens": [
+        50255,
         12096,
         44463,
         35697,
@@ -11,7 +12,8 @@
         14603,
         10351,
         5959,
-        31097
+        31097,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

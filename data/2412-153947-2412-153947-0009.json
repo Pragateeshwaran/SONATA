@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0009.flac",
-    "text": "I ALSO WROTE ABOUT THIS TIME THE SUBSTANCE OF WHAT ULTIMATELY BECAME THE MUSICAL BANKS AND THE TRIAL OF A MAN FOR BEING IN A CONSUMPTION",
+    "text": "<|startoftext|> I ALSO WROTE ABOUT THIS TIME THE SUBSTANCE OF WHAT ULTIMATELY BECAME THE MUSICAL BANKS AND THE TRIAL OF A MAN FOR BEING IN A CONSUMPTION <|endoftext|>",
     "tokens": [
+        50255,
         40,
         35912,
         11342,
@@ -44,7 +45,8 @@
         39537,
         5883,
         11571,
-        2849
+        2849,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

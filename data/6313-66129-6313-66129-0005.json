@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0005.flac",
-    "text": "JAM EXCLAIMED CHUNKY STRETCHING HIS NECK AND EYEING THE DISH LONGINGLY",
+    "text": "<|startoftext|> JAM EXCLAIMED CHUNKY STRETCHING HIS NECK AND EYEING THE DISH LONGINGLY <|endoftext|>",
     "tokens": [
+        50255,
         41,
         2390,
         7788,
@@ -26,7 +27,8 @@
         39,
         44533,
         2751,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

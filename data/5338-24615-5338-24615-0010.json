@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24615\\5338-24615-0010.flac",
-    "text": "STABLES AND OTHER OFFICES OCCUPIED ANOTHER SIDE OF THE SQUARE",
+    "text": "<|startoftext|> STABLES AND OTHER OFFICES OCCUPIED ANOTHER SIDE OF THE SQUARE <|endoftext|>",
     "tokens": [
+        50255,
         2257,
         6242,
         28378,
@@ -20,7 +21,8 @@
         3963,
         3336,
         45880,
-        12203
+        12203,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

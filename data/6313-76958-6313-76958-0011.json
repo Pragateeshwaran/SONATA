@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0011.flac",
-    "text": "THESE THEY SPREAD OUT ON THE GROUND USING BOOTS WRAPPED IN COATS FOR PILLOWS",
+    "text": "<|startoftext|> THESE THEY SPREAD OUT ON THE GROUND USING BOOTS WRAPPED IN COATS FOR PILLOWS <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         33635,
         33302,
@@ -25,7 +26,8 @@
         7473,
         350,
         8267,
-        22845
+        22845,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0022.flac",
-    "text": "EXCELLENT ROLLS",
+    "text": "<|startoftext|> EXCELLENT ROLLS <|endoftext|>",
     "tokens": [
+        50255,
         6369,
         5222,
         3069,
         3525,
         15107,
         3069,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

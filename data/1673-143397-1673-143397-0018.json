@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1673\\143397\\1673-143397-0018.flac",
-    "text": "AT THE SAME TIME EVERY AVENUE OF THE THRONE WAS ASSAULTED WITH GOLD",
+    "text": "<|startoftext|> AT THE SAME TIME EVERY AVENUE OF THE THRONE WAS ASSAULTED WITH GOLD <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         3336,
         311,
@@ -21,7 +22,8 @@
         16724,
         1961,
         13315,
-        44428
+        44428,
+        50256
     ],
     "metadata": {
         "speaker_id": "1673",

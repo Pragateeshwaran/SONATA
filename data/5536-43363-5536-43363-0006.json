@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0006.flac",
-    "text": "IF A MAN WERE SLAIN IN BATTLE IT WAS AN OLD CUSTOM TO PLACE HIS BODY AGAINST A TREE OR ROCK IN A SITTING POSITION ALWAYS FACING THE ENEMY TO INDICATE HIS UNDAUNTED DEFIANCE AND BRAVERY EVEN IN DEATH",
+    "text": "<|startoftext|> IF A MAN WERE SLAIN IN BATTLE IT WAS AN OLD CUSTOM TO PLACE HIS BODY AGAINST A TREE OR ROCK IN A SITTING POSITION ALWAYS FACING THE ENEMY TO INDICATE HIS UNDAUNTED DEFIANCE AND BRAVERY EVEN IN DEATH <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         317,
         17254,
@@ -66,7 +67,8 @@
         45886,
         3268,
         5550,
-        12599
+        12599,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

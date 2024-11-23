@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0037.flac",
-    "text": "IF YOU'VE GOT PISTOLS JUST YOU THINK ONCE BEFORE YOU SHOOT SAID COLLINS",
+    "text": "<|startoftext|> IF YOU'VE GOT PISTOLS JUST YOU THINK ONCE BEFORE YOU SHOOT SAID COLLINS <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         7013,
         6,
@@ -26,7 +27,8 @@
         2389,
         7375,
         3069,
-        20913
+        20913,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

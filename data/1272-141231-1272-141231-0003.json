@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0003.flac",
-    "text": "HIS INSTANT OF PANIC WAS FOLLOWED BY A SMALL SHARP BLOW HIGH ON HIS CHEST",
+    "text": "<|startoftext|> HIS INSTANT OF PANIC WAS FOLLOWED BY A SMALL SHARP BLOW HIGH ON HIS CHEST <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         40589,
@@ -25,7 +26,8 @@
         6177,
         33700,
         5870,
-        6465
+        6465,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

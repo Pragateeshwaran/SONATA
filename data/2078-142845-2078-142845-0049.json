@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0049.flac",
-    "text": "ILLUSTRATION RUSKS",
+    "text": "<|startoftext|> ILLUSTRATION RUSKS <|endoftext|>",
     "tokens": [
+        50255,
         8267,
         7759,
         49,
         6234,
         371,
         2937,
-        27015
+        27015,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

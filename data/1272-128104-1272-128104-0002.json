@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0002.flac",
-    "text": "HE TELLS US THAT AT THIS FESTIVE SEASON OF THE YEAR WITH CHRISTMAS AND ROAST BEEF LOOMING BEFORE US SIMILES DRAWN FROM EATING AND ITS RESULTS OCCUR MOST READILY TO THE MIND",
+    "text": "<|startoftext|> HE TELLS US THAT AT THIS FESTIVE SEASON OF THE YEAR WITH CHRISTMAS AND ROAST BEEF LOOMING BEFORE US SIMILES DRAWN FROM EATING AND ITS RESULTS OCCUR MOST READILY TO THE MIND <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         13368,
         3069,
@@ -55,7 +56,8 @@
         5390,
         3336,
         337,
-        12115
+        12115,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

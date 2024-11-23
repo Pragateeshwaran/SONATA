@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0028.flac",
-    "text": "HE WAS WALKING ALONG WHEN ALL AT ONCE HE DROPPED DOWN AND DIED WITHOUT A STRUGGLE OR A GROAN",
+    "text": "<|startoftext|> HE WAS WALKING ALONG WHEN ALL AT ONCE HE DROPPED DOWN AND DIED WITHOUT A STRUGGLE OR A GROAN <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         370,
@@ -33,7 +34,8 @@
         317,
         10863,
         46,
-        1565
+        1565,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

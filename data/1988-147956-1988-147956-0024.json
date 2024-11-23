@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0024.flac",
-    "text": "SHE GOT UP ON HER KNEES AND WRUNG HER HANDS",
+    "text": "<|startoftext|> SHE GOT UP ON HER KNEES AND WRUNG HER HANDS <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         41725,
@@ -18,7 +19,8 @@
         24906,
         367,
         1565,
-        5258
+        5258,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

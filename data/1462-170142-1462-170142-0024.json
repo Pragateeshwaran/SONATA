@@ -1,12 +1,14 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0024.flac",
-    "text": "AFTER THE VERY FIRST",
+    "text": "<|startoftext|> AFTER THE VERY FIRST <|endoftext|>",
     "tokens": [
+        50255,
         8579,
         5781,
         3336,
         29550,
-        31328
+        31328,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

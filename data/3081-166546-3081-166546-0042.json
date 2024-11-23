@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0042.flac",
-    "text": "I SHOULD LIKE TO SEE THE DESK YOU SPEAK OF AND THE SPOT WHERE SHE FELL",
+    "text": "<|startoftext|> I SHOULD LIKE TO SEE THE DESK YOU SPEAK OF AND THE SPOT WHERE SHE FELL <|endoftext|>",
     "tokens": [
+        50255,
         40,
         40312,
         34178,
@@ -22,7 +23,8 @@
         33411,
         48052,
         18630,
-        3069
+        3069,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

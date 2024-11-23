@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0001.flac",
-    "text": "THE HEART OF THAT EX CONVICT WAS FULL OF VIRGINITY",
+    "text": "<|startoftext|> THE HEART OF THAT EX CONVICT WAS FULL OF VIRGINITY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         11179,
         7227,
@@ -18,7 +19,8 @@
         4663,
         38,
         1268,
-        9050
+        9050,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

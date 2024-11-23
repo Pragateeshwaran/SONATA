@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0004.flac",
-    "text": "FERDINAND FELT HIS FREEDOM AS WELL AS HIS HAPPINESS",
+    "text": "<|startoftext|> FERDINAND FELT HIS FREEDOM AS WELL AS HIS HAPPINESS <|endoftext|>",
     "tokens": [
+        50255,
         24302,
         35,
         1268,
@@ -20,7 +21,8 @@
         33700,
         367,
         24805,
-        44180
+        44180,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

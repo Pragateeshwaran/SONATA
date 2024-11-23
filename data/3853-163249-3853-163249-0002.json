@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0002.flac",
-    "text": "SO CHRISTIE TURNED A DEAF EAR TO HER PROPHETIC SOUL AND GAVE HERSELF UP TO THE BLISSFUL HOLIDAY THAT HAD COME AT LAST",
+    "text": "<|startoftext|> SO CHRISTIE TURNED A DEAF EAR TO HER PROPHETIC SOUL AND GAVE HERSELF UP TO THE BLISSFUL HOLIDAY THAT HAD COME AT LAST <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         48354,
         10008,
@@ -42,7 +43,8 @@
         9440,
         36,
         5161,
-        41894
+        41894,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

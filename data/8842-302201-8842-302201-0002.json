@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0002.flac",
-    "text": "BUT WHEN I STILL SPAKE NOT ONE OF THEM WHO BEFORE HAD BEEN TALKING WITH ANOTHER ADDRESSED ME BY MY NAME SAYING TO WHAT END LOVEST THOU THIS LADY SEEING THAT THOU CANST NOT SUPPORT HER PRESENCE",
+    "text": "<|startoftext|> BUT WHEN I STILL SPAKE NOT ONE OF THEM WHO BEFORE HAD BEEN TALKING WITH ANOTHER ADDRESSED ME BY MY NAME SAYING TO WHAT END LOVEST THOU THIS LADY SEEING THAT THOU CANST NOT SUPPORT HER PRESENCE <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         42099,
         314,
@@ -59,7 +60,8 @@
         43333,
         24906,
         32552,
-        18310
+        18310,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

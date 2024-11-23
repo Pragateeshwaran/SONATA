@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0029.flac",
-    "text": "NOW HIS MIDDLE HORSE WAS BEING ALMOST DRAGGED BY THE OTHER TWO",
+    "text": "<|startoftext|> NOW HIS MIDDLE HORSE WAS BEING ALMOST DRAGGED BY THE OTHER TWO <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         33700,
         25269,
@@ -22,7 +23,8 @@
         11050,
         3336,
         25401,
-        35288
+        35288,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0003.flac",
-    "text": "THERE WERE NO BREASTWORKS YET THAT ONE LITTLE BRIGADE OF HAMILTON'S DIVISION STOOD THERE IN THE OPEN AND REPULSED ASSAULT AFTER ASSAULT",
+    "text": "<|startoftext|> THERE WERE NO BREASTWORKS YET THAT ONE LITTLE BRIGADE OF HAMILTON'S DIVISION STOOD THERE IN THE OPEN AND REPULSED ASSAULT AFTER ASSAULT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         370,
@@ -47,7 +48,8 @@
         36050,
         7054,
         4090,
-        16724
+        16724,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

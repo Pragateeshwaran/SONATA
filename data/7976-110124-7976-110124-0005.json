@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0005.flac",
-    "text": "LET ME ENTER I PRAY YOU TO PASS THE NIGHT UNDER YOUR ROOF",
+    "text": "<|startoftext|> LET ME ENTER I PRAY YOU TO PASS THE NIGHT UNDER YOUR ROOF <|endoftext|>",
     "tokens": [
+        50255,
         28882,
         11948,
         46962,
@@ -17,7 +18,8 @@
         16592,
         371,
         6684,
-        37
+        37,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

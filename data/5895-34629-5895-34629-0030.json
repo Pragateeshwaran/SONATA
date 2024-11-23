@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0030.flac",
-    "text": "ONE EVENING URSUS WAS IN THE SIDE SCENE WHICH WAS THE KITCHEN DOOR OF THE GREEN BOX SEEING MASTER NICLESS STANDING BY HIM SHOWED HIM THIS MAN IN THE CROWD AND ASKED HIM",
+    "text": "<|startoftext|> ONE EVENING URSUS WAS IN THE SIDE SCENE WHICH WAS THE KITCHEN DOOR OF THE GREEN BOX SEEING MASTER NICLESS STANDING BY HIM SHOWED HIM THIS MAN IN THE CROWD AND ASKED HIM <|endoftext|>",
     "tokens": [
+        50255,
         11651,
         45886,
         2751,
@@ -52,7 +53,8 @@
         7054,
         42,
         1961,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

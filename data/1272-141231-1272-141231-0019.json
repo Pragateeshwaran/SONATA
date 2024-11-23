@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0019.flac",
-    "text": "THERE COULD BE LITTLE ART IN THIS LAST AND FINAL ROUND OF FENCING",
+    "text": "<|startoftext|> THERE COULD BE LITTLE ART IN THIS LAST AND FINAL ROUND OF FENCING <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         327,
@@ -21,7 +22,8 @@
         3963,
         376,
         24181,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

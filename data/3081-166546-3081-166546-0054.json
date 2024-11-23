@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0054.flac",
-    "text": "MARK SOWERBY AND CLAUS HENNERBERG",
+    "text": "<|startoftext|> MARK SOWERBY AND CLAUS HENNERBERG <|endoftext|>",
     "tokens": [
+        50255,
         44,
         14175,
         311,
@@ -14,7 +15,8 @@
         1677,
         21479,
         13246,
-        38
+        38,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

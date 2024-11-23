@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0025.flac",
-    "text": "THANKS TO THE HEAT OF THESE RESIDENCES GRASS GROWS ON THE ROOF WHICH GRASS IS CAREFULLY CUT FOR HAY",
+    "text": "<|startoftext|> THANKS TO THE HEAT OF THESE RESIDENCES GRASS GROWS ON THE ROOF WHICH GRASS IS CAREFULLY CUT FOR HAY <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         15154,
         50,
@@ -37,7 +38,8 @@
         3843,
         7473,
         367,
-        4792
+        4792,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

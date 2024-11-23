@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0002.flac",
-    "text": "OH YOU SIMPLETON SAID SHE THEN WE MUST ALL FOUR DIE OF HUNGER YOU HAD BETTER PLANE THE COFFINS FOR US",
+    "text": "<|startoftext|> OH YOU SIMPLETON SAID SHE THEN WE MUST ALL FOUR DIE OF HUNGER YOU HAD BETTER PLANE THE COFFINS FOR US <|endoftext|>",
     "tokens": [
+        50255,
         12096,
         7013,
         23749,
@@ -33,7 +34,8 @@
         5777,
         20913,
         7473,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

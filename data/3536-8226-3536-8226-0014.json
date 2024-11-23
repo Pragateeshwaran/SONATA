@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0014.flac",
-    "text": "BUT AS FOR THIS HERE CHILD B",
+    "text": "<|startoftext|> BUT AS FOR THIS HERE CHILD B <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         7054,
         7473,
@@ -9,7 +10,8 @@
         15698,
         5870,
         26761,
-        347
+        347,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

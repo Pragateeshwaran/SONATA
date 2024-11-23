@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0071.flac",
-    "text": "MISTER VERLOC WAS FULLY RESPONSIVE NOW",
+    "text": "<|startoftext|> MISTER VERLOC WAS FULLY RESPONSIVE NOW <|endoftext|>",
     "tokens": [
+        50255,
         44,
         41517,
         33310,
@@ -12,7 +13,8 @@
         47203,
         19213,
         9306,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

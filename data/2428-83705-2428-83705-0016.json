@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0016.flac",
-    "text": "THERE WERE NO SIGNS OF FALTERING ABOUT HER FLOW OF LANGUAGE",
+    "text": "<|startoftext|> THERE WERE NO SIGNS OF FALTERING ABOUT HER FLOW OF LANGUAGE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         370,
@@ -22,7 +23,8 @@
         406,
         15567,
         52,
-        11879
+        11879,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

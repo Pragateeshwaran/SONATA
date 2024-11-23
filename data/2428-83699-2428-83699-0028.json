@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0028.flac",
-    "text": "THERE'S A KNOCKER IF NONE OF EM HAVEN'T TWISTED IT OFF",
+    "text": "<|startoftext|> THERE'S A KNOCKER IF NONE OF EM HAVEN'T TWISTED IT OFF <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         6,
@@ -24,7 +25,8 @@
         8808,
         1961,
         7283,
-        18562
+        18562,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

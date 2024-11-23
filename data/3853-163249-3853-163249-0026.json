@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0026.flac",
-    "text": "IT WOULD HAVE TAKEN MANY KNAPSACKS TO HOLD ALL THE GIFTS SHOWERED UPON HIM BY HIS FRIENDS AND NEIGHBORS",
+    "text": "<|startoftext|> IT WOULD HAVE TAKEN MANY KNAPSACKS TO HOLD ALL THE GIFTS SHOWERED UPON HIM BY HIS FRIENDS AND NEIGHBORS <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         370,
         24010,
@@ -37,7 +38,8 @@
         10635,
         18060,
         33,
-        20673
+        20673,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

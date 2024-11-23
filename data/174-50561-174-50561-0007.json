@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0007.flac",
-    "text": "SHE WOULD NOT SPEAK THOUGH WE DANCED A WEEK WITH HER THOUGHTS A THOUSAND LEAGUES OVER THE WATER SINGER SINGER WANDERING SINGER O MY HONEY SWEET SINGER",
+    "text": "<|startoftext|> SHE WOULD NOT SPEAK THOUGH WE DANCED A WEEK WITH HER THOUGHTS A THOUSAND LEAGUES OVER THE WATER SINGER SINGER WANDERING SINGER O MY HONEY SWEET SINGER <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         370,
@@ -56,7 +57,8 @@
         2767,
         311,
         2751,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

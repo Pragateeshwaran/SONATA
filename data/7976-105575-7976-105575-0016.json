@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0016.flac",
-    "text": "ONCE IN THE NIGHT I SLIPPED AWAY FROM THE BIVOUAC AND HURRIED TO THE OLD TISHIMINGO HOTEL TO SEE A LIEUTENANT OF MY COMPANY WHO HAD BEEN SHOT THROUGH THE BREAST",
+    "text": "<|startoftext|> ONCE IN THE NIGHT I SLIPPED AWAY FROM THE BIVOUAC AND HURRIED TO THE OLD TISHIMINGO HOTEL TO SEE A LIEUTENANT OF MY COMPANY WHO HAD BEEN SHOT THROUGH THE BREAST <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         5222,
         3268,
@@ -58,7 +59,8 @@
         32632,
         3336,
         29377,
-        11262
+        11262,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

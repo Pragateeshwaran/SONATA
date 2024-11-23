@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0004.flac",
-    "text": "HIS AMBITION WAS SOME DAY TO BUILD A HOUSE ON THEM",
+    "text": "<|startoftext|> HIS AMBITION WAS SOME DAY TO BUILD A HOUSE ON THEM <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         3001,
@@ -16,7 +17,8 @@
         317,
         46586,
         6177,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

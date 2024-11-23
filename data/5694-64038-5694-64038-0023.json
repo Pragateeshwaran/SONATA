@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0023.flac",
-    "text": "THE THIRD DAY IT WAS REPORTED THAT THE YANKEES HAD TAKEN POSITION ON THE MURFREESBORO PIKE",
+    "text": "<|startoftext|> THE THIRD DAY IT WAS REPORTED THAT THE YANKEES HAD TAKEN POSITION ON THE MURFREESBORO PIKE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         2320,
         46833,
@@ -34,7 +35,8 @@
         1581,
         46,
         30434,
-        7336
+        7336,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0000.flac",
-    "text": "HE HAD NEVER BEEN FATHER LOVER HUSBAND FRIEND",
+    "text": "<|startoftext|> HE HAD NEVER BEEN FATHER LOVER HUSBAND FRIEND <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         2885,
@@ -16,7 +17,8 @@
         27155,
         6981,
         48167,
-        10619
+        10619,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

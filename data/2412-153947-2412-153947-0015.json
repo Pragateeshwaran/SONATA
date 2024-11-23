@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0015.flac",
-    "text": "I AM STILL FAIRLY WELL SATISFIED WITH THOSE PARTS OF EREWHON THAT WERE REPEATEDLY REWRITTEN BUT FROM THOSE THAT HAD ONLY A SINGLE WRITING I WOULD GLADLY CUT OUT SOME FORTY OR FIFTY PAGES IF I COULD",
+    "text": "<|startoftext|> I AM STILL FAIRLY WELL SATISFIED WITH THOSE PARTS OF EREWHON THAT WERE REPEATEDLY REWRITTEN BUT FROM THOSE THAT HAD ONLY A SINGLE WRITING I WOULD GLADLY CUT OUT SOME FORTY OR FIFTY PAGES IF I COULD <|endoftext|>",
     "tokens": [
+        50255,
         40,
         3001,
         3563,
@@ -72,7 +73,8 @@
         16876,
         314,
         327,
-        24010
+        24010,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

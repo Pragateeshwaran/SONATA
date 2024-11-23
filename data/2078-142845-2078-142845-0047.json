@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0047.flac",
-    "text": "WHEN WE TAKE INTO ACCOUNT THAT THE ARABIANS ARE FOND OF LIZARDS AND LOCUSTS AS ARTICLES OF FOOD THEIR CUISINE ALTOGETHER IS SCARCELY A TEMPTING ONE",
+    "text": "<|startoftext|> WHEN WE TAKE INTO ACCOUNT THAT THE ARABIANS ARE FOND OF LIZARDS AND LOCUSTS AS ARTICLES OF FOOD THEIR CUISINE ALTOGETHER IS SCARCELY A TEMPTING ONE <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         12887,
@@ -52,7 +53,8 @@
         3620,
         11571,
         2751,
-        16329
+        16329,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0040.flac",
-    "text": "DOCTOR WE ALL HAVE OUR CROSSES HAVE WE NOT",
+    "text": "<|startoftext|> DOCTOR WE ALL HAVE OUR CROSSES HAVE WE NOT <|endoftext|>",
     "tokens": [
+        50255,
         18227,
         4177,
         1581,
@@ -14,7 +15,8 @@
         1546,
         21515,
         12887,
-        5626
+        5626,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

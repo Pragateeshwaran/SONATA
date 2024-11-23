@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0003.flac",
-    "text": "THE WANDERING SINGER APPROACHES THEM WITH HIS LUTE",
+    "text": "<|startoftext|> THE WANDERING SINGER APPROACHES THEM WITH HIS LUTE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         370,
         6981,
@@ -18,7 +19,8 @@
         13315,
         33700,
         406,
-        37780
+        37780,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

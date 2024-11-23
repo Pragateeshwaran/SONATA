@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0039.flac",
-    "text": "TRACING RIVERS TO THEIR FOUNTAINS MAKES THE MOST CHARMING OF TRAVELS",
+    "text": "<|startoftext|> TRACING RIVERS TO THEIR FOUNTAINS MAKES THE MOST CHARMING OF TRAVELS <|endoftext|>",
     "tokens": [
+        50255,
         5446,
         2246,
         2751,
@@ -25,7 +26,8 @@
         3963,
         29125,
         18697,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

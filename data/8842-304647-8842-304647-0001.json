@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0001.flac",
-    "text": "QUINCI IMPARA A STUPIRTI",
+    "text": "<|startoftext|> QUINCI IMPARA A STUPIRTI <|endoftext|>",
     "tokens": [
+        50255,
         10917,
         1268,
         25690,
@@ -11,7 +12,8 @@
         3563,
         8577,
         4663,
-        25621
+        25621,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0050.flac",
-    "text": "PLACE IT OVER THE FIRE KEEP CONSTANTLY STIRRING TO PREVENT ITS BURNING AND WHEN QUITE DRY PUT IN A SMALL PIECE OF BUTTER",
+    "text": "<|startoftext|> PLACE IT OVER THE FIRE KEEP CONSTANTLY STIRRING TO PREVENT ITS BURNING AND WHEN QUITE DRY PUT IN A SMALL PIECE OF BUTTER <|endoftext|>",
     "tokens": [
+        50255,
         6489,
         11598,
         7283,
@@ -42,7 +43,8 @@
         36,
         3963,
         21728,
-        5781
+        5781,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

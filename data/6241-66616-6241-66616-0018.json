@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0018.flac",
-    "text": "BUT IN TIME THE END OF IT ALL CAME AND WABI WENT BACK TO THE PRINCESS MOTHER TO MINNETAKI AND TO HIS FORESTS",
+    "text": "<|startoftext|> BUT IN TIME THE END OF IT ALL CAME AND WABI WENT BACK TO THE PRINCESS MOTHER TO MINNETAKI AND TO HIS FORESTS <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         3268,
         20460,
@@ -35,7 +36,8 @@
         33700,
         7473,
         1546,
-        4694
+        4694,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

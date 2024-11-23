@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0028.flac",
-    "text": "TWENTY THIRTY ENOUGH",
+    "text": "<|startoftext|> TWENTY THIRTY ENOUGH <|endoftext|>",
     "tokens": [
+        50255,
         34551,
         3525,
         56,
@@ -9,7 +10,8 @@
         4663,
         9936,
         12964,
-        32632
+        32632,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

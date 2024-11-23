@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0006.flac",
-    "text": "BOTH LIPS ASKED THE LARVAE",
+    "text": "<|startoftext|> BOTH LIPS ASKED THE LARVAE <|endoftext|>",
     "tokens": [
+        50255,
         33,
         26946,
         24653,
@@ -12,7 +13,8 @@
         3336,
         47211,
         11731,
-        36
+        36,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

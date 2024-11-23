@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0012.flac",
-    "text": "THEN THE SHINING OF THE WET LEAVES IS DELIGHTFUL AND THE STEAMY FRAGRANCE AND THE BURST OF BIRD SONG FROM A MULTITUDE OF THRUSHES AND FINCHES AND WARBLERS THAT HAVE NESTS IN THE CHAPARRAL",
+    "text": "<|startoftext|> THEN THE SHINING OF THE WET LEAVES IS DELIGHTFUL AND THE STEAMY FRAGRANCE AND THE BURST OF BIRD SONG FROM A MULTITUDE OF THRUSHES AND FINCHES AND WARBLERS THAT HAVE NESTS IN THE CHAPARRAL <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         3336,
@@ -64,7 +65,8 @@
         5870,
         2969,
         26465,
-        1847
+        1847,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

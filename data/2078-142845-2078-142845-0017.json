@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0017.flac",
-    "text": "MAIZE NEXT TO WHEAT AND RICE MAIZE IS THE GRAIN MOST USED IN THE NOURISHMENT OF MAN",
+    "text": "<|startoftext|> MAIZE NEXT TO WHEAT AND RICE MAIZE IS THE GRAIN MOST USED IN THE NOURISHMENT OF MAN <|endoftext|>",
     "tokens": [
+        50255,
         5673,
         35400,
         39726,
@@ -30,7 +31,8 @@
         18422,
         10979,
         3963,
-        17254
+        17254,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

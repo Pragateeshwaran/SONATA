@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0018.flac",
-    "text": "THE MERCHANT'S DAUGHTER AT FIRST DID NOT ANSWER BUT AS HE KEPT ON CALLING TO HER SHE FINALLY ASKED HIM WHAT IT WAS THAT HE WANTED",
+    "text": "<|startoftext|> THE MERCHANT'S DAUGHTER AT FIRST DID NOT ANSWER BUT AS HE KEPT ON CALLING TO HER SHE FINALLY ASKED HIM WHAT IT WAS THAT HE WANTED <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         34482,
         3398,
@@ -42,7 +43,8 @@
         14603,
         11179,
         41300,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

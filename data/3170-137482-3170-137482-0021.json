@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0021.flac",
-    "text": "I RUBBED IT WITH ALL MY STRENGTH BUT HE TOLD ME IN A SORT OF INDISTINCT WHISPER THAT THE NUMBNESS WAS SPREADING ALL ALONG THE LEFT SIDE AND THAT HE WAS DYING",
+    "text": "<|startoftext|> I RUBBED IT WITH ALL MY STRENGTH BUT HE TOLD ME IN A SORT OF INDISTINCT WHISPER THAT THE NUMBNESS WAS SPREADING ALL ALONG THE LEFT SIDE AND THAT HE WAS DYING <|endoftext|>",
     "tokens": [
+        50255,
         40,
         371,
         10526,
@@ -52,7 +53,8 @@
         11179,
         21725,
         360,
-        45761
+        45761,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

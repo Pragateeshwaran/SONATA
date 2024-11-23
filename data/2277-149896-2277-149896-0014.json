@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0014.flac",
-    "text": "AFTER A TIME HE GAVE UP WAITING AND DREARILY HEADED FOR THE MADISON CAR",
+    "text": "<|startoftext|> AFTER A TIME HE GAVE UP WAITING AND DREARILY HEADED FOR THE MADISON CAR <|endoftext|>",
     "tokens": [
+        50255,
         8579,
         5781,
         317,
@@ -24,7 +25,8 @@
         3336,
         45878,
         39960,
-        17368
+        17368,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

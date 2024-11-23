@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0002.flac",
-    "text": "I DO NOT PRETEND TO TELL OF WHAT COMMAND DISTINGUISHED ITSELF OF HEROES OF BLOOD AND WOUNDS OF SHRIEKS AND GROANS OF BRILLIANT CHARGES OF CANNON CAPTURED ET CETERA",
+    "text": "<|startoftext|> I DO NOT PRETEND TO TELL OF WHAT COMMAND DISTINGUISHED ITSELF OF HEROES OF BLOOD AND WOUNDS OF SHRIEKS AND GROANS OF BRILLIANT CHARGES OF CANNON CAPTURED ET CETERA <|endoftext|>",
     "tokens": [
+        50255,
         40,
         8410,
         5626,
@@ -60,7 +61,8 @@
         1961,
         12152,
         46632,
-        46461
+        46461,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

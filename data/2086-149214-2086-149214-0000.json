@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149214\\2086-149214-0000.flac",
-    "text": "THE NARRATIVE IT MAY BE IS WOVEN OF SO HUMBLE A TEXTURE AS TO REQUIRE THIS ADVANTAGE AND AT THE SAME TIME TO RENDER IT THE MORE DIFFICULT OF ATTAINMENT",
+    "text": "<|startoftext|> THE NARRATIVE IT MAY BE IS WOVEN OF SO HUMBLE A TEXTURE AS TO REQUIRE THIS ADVANTAGE AND AT THE SAME TIME TO RENDER IT THE MORE DIFFICULT OF ATTAINMENT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         399,
         26465,
@@ -48,7 +49,8 @@
         3963,
         5161,
         30339,
-        10979
+        10979,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

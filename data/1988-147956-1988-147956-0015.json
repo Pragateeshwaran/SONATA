@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0015.flac",
-    "text": "HE STRUCK AMBROSCH ON THE BACK AND THE BOY SMILED KNOWINGLY",
+    "text": "<|startoftext|> HE STRUCK AMBROSCH ON THE BACK AND THE BOY SMILED KNOWINGLY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         19269,
         16696,
@@ -21,7 +22,8 @@
         1961,
         35876,
         2751,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

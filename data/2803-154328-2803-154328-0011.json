@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0011.flac",
-    "text": "THE JAILER MAY FORGET THAT HE IS ON GUARD THE PRISONER NEVER FORGETS THAT HE IS GUARDED",
+    "text": "<|startoftext|> THE JAILER MAY FORGET THAT HE IS ON GUARD THE PRISONER NEVER FORGETS THAT HE IS GUARDED <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         41722,
         4146,
@@ -28,7 +29,8 @@
         3180,
         19348,
         9795,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

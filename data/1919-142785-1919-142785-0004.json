@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0004.flac",
-    "text": "THEN ADD THE YOLKS OF THE EGGS WELL BEATEN STIR THEM TO THE SAUCE BUT DO NOT ALLOW IT TO BOIL AND SERVE VERY HOT",
+    "text": "<|startoftext|> THEN ADD THE YOLKS OF THE EGGS WELL BEATEN STIR THEM TO THE SAUCE BUT DO NOT ALLOW IT TO BOIL AND SERVE VERY HOT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         27841,
@@ -40,7 +41,8 @@
         18871,
         6089,
         29550,
-        44607
+        44607,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

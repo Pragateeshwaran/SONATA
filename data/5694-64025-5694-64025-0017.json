@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0017.flac",
-    "text": "ON MONDAY MORNING I TOO CAPTURED ME A MULE",
+    "text": "<|startoftext|> ON MONDAY MORNING I TOO CAPTURED ME A MULE <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         337,
         18672,
@@ -18,7 +19,8 @@
         11948,
         317,
         337,
-        24212
+        24212,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

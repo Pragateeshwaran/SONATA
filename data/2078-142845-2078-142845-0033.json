@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0033.flac",
-    "text": "HE SAYS THAT BY CUTTING THROUGH FOUR OR FIVE SLICES AT A TIME ALL THE BUTTER IS SQUEEZED OUT OF THE UPPER ONES WHILE THE BOTTOM ONE IS SWIMMING IN FAT LIQUID",
+    "text": "<|startoftext|> HE SAYS THAT BY CUTTING THROUGH FOUR OR FIVE SLICES AT A TIME ALL THE BUTTER IS SQUEEZED OUT OF THE UPPER ONES WHILE THE BOTTOM ONE IS SWIMMING IN FAT LIQUID <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         45687,
         50,
@@ -55,7 +56,8 @@
         47200,
         24653,
         10917,
-        2389
+        2389,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

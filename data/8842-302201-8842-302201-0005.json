@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0005.flac",
-    "text": "AND I DECLARE THAT WHEN I SPEAK THEREOF LOVE SHEDS SUCH PERFECT SWEETNESS OVER ME THAT IF MY COURAGE FAILED NOT CERTAINLY TO HIM MY LISTENERS MUST BE ALL RESIGN'D",
+    "text": "<|startoftext|> AND I DECLARE THAT WHEN I SPEAK THEREOF LOVE SHEDS SUCH PERFECT SWEETNESS OVER ME THAT IF MY COURAGE FAILED NOT CERTAINLY TO HIM MY LISTENERS MUST BE ALL RESIGN'D <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         314,
         27196,
@@ -59,7 +60,8 @@
         15731,
         16284,
         6,
-        35
+        35,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

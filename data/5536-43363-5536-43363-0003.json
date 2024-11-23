@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0003.flac",
-    "text": "GIVING THEMSELVES UP WHOLLY TO THEIR GRIEF THEY ARE NO LONGER CONCERNED ABOUT ANY EARTHLY POSSESSION AND OFTEN GIVE AWAY ALL THAT THEY HAVE TO THE FIRST COMERS EVEN TO THEIR BEDS AND THEIR HOME",
+    "text": "<|startoftext|> GIVING THEMSELVES UP WHOLLY TO THEIR GRIEF THEY ARE NO LONGER CONCERNED ABOUT ANY EARTHLY POSSESSION AND OFTEN GIVE AWAY ALL THAT THEY HAVE TO THE FIRST COMERS EVEN TO THEIR BEDS AND THEIR HOME <|endoftext|>",
     "tokens": [
+        50255,
         38,
         3824,
         2751,
@@ -60,7 +61,8 @@
         50,
         5357,
         47278,
-        41779
+        41779,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0042.flac",
-    "text": "VICTORIA BUNS SEVENTEEN THIRTY TWO",
+    "text": "<|startoftext|> VICTORIA BUNS SEVENTEEN THIRTY TWO <|endoftext|>",
     "tokens": [
+        50255,
         53,
         18379,
         1581,
@@ -17,7 +18,8 @@
         2320,
         4663,
         9936,
-        35288
+        35288,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

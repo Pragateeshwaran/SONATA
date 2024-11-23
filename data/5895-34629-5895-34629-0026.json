@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0026.flac",
-    "text": "HE DID NOT COME EVERY EVENING BUT WHEN HE CAME HE LED THE PUBLIC APPLAUSE GREW INTO ACCLAMATION SUCCESS ROSE NOT TO THE ROOF FOR THERE WAS NONE BUT TO THE CLOUDS FOR THERE WERE PLENTY OF THEM",
+    "text": "<|startoftext|> HE DID NOT COME EVERY EVENING BUT WHEN HE CAME HE LED THE PUBLIC APPLAUSE GREW INTO ACCLAMATION SUCCESS ROSE NOT TO THE ROOF FOR THERE WAS NONE BUT TO THE CLOUDS FOR THERE WERE PLENTY OF THEM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         35697,
         5626,
@@ -59,7 +60,8 @@
         3525,
         56,
         3963,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0007.flac",
-    "text": "SEE BENEATH YOUR FEET IS THE MARKING OF GREAT TREE TRUNKS LYING ASLANT ACROSS THE FLOOR AND THE FORMS OF GIGANTIC PALM LEAVES STREWED AMONG THEM",
+    "text": "<|startoftext|> SEE BENEATH YOUR FEET IS THE MARKING OF GREAT TREE TRUNKS LYING ASLANT ACROSS THE FLOOR AND THE FORMS OF GIGANTIC PALM LEAVES STREWED AMONG THEM <|endoftext|>",
     "tokens": [
+        50255,
         36078,
         347,
         39267,
@@ -52,7 +53,8 @@
         1961,
         3001,
         18494,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

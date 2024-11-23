@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302201\\8842-302201-0009.flac",
-    "text": "THE SECOND BEGINS HERE AN ANGEL THE THIRD HERE DEAR SONG I KNOW",
+    "text": "<|startoftext|> THE SECOND BEGINS HERE AN ANGEL THE THIRD HERE DEAR SONG I KNOW <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         10729,
         18672,
@@ -20,7 +21,8 @@
         311,
         18494,
         314,
-        35876
+        35876,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

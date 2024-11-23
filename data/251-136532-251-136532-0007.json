@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0007.flac",
-    "text": "IT WAS LOCKED FROM THE INSIDE AND WE HAD TO BURN IT DOWN WITH A TORCH THAT'S WHERE THEY ARE",
+    "text": "<|startoftext|> IT WAS LOCKED FROM THE INSIDE AND WE HAD TO BURN IT DOWN WITH A TORCH THAT'S WHERE THEY ARE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         406,
@@ -29,7 +30,8 @@
         50,
         33411,
         33302,
-        15986
+        15986,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

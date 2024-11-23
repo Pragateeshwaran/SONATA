@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0024.flac",
-    "text": "THIS IS PHYSICALLY IMPOSSIBLE WHEN CONSCIOUS",
+    "text": "<|startoftext|> THIS IS PHYSICALLY IMPOSSIBLE WHEN CONSCIOUS <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         3180,
         9370,
@@ -15,7 +16,8 @@
         7102,
         6173,
         40,
-        20958
+        20958,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

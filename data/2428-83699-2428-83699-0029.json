@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0029.flac",
-    "text": "THERE APPEARED TO BE NO KNOCKER THOUGH WHETHER IT HAD BEEN TWISTED OFF WAS MORE THAN I COULD SAY",
+    "text": "<|startoftext|> THERE APPEARED TO BE NO KNOCKER THOUGH WHETHER IT HAD BEEN TWISTED OFF WAS MORE THAN I COULD SAY <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         3486,
@@ -35,7 +36,8 @@
         314,
         327,
         24010,
-        45687
+        45687,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

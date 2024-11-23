@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0016.flac",
-    "text": "NOT ONLY ROME WITH NO SUCH SPLENDID CAR E'ER GLADDENED AFRICANUS OR AUGUSTUS BUT POOR TO IT THAT OF THE SUN WOULD BE",
+    "text": "<|startoftext|> NOT ONLY ROME WITH NO SUCH SPLENDID CAR E'ER GLADDENED AFRICANUS OR AUGUSTUS BUT POOR TO IT THAT OF THE SUN WOULD BE <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         22224,
         371,
@@ -41,7 +42,8 @@
         35329,
         370,
         24010,
-        9348
+        9348,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

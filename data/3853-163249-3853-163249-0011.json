@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0011.flac",
-    "text": "I SHALL WAIT FOR TIME TO SHOW",
+    "text": "<|startoftext|> I SHALL WAIT FOR TIME TO SHOW <|endoftext|>",
     "tokens": [
+        50255,
         40,
         50163,
         16400,
@@ -9,7 +10,8 @@
         7473,
         20460,
         5390,
-        37041
+        37041,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

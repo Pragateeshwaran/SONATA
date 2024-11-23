@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0002.flac",
-    "text": "THIS ISN'T PART OF YOUR TESTING ROUTINE IS IT",
+    "text": "<|startoftext|> THIS ISN'T PART OF YOUR TESTING ROUTINE IS IT <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         3180,
         45,
@@ -16,7 +17,8 @@
         12425,
         8881,
         3180,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

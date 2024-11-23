@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0014.flac",
-    "text": "BY HARRY QUILTER M A",
+    "text": "<|startoftext|> BY HARRY QUILTER M A <|endoftext|>",
     "tokens": [
+        50255,
         17513,
         43638,
         18276,
@@ -9,7 +10,8 @@
         4146,
         5781,
         337,
-        317
+        317,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

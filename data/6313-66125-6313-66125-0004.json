@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0004.flac",
-    "text": "AND THAT TUMBLE'S ENOUGH TO KNOCK THE SENSE OUT OF A FULL GROWN MAN",
+    "text": "<|startoftext|> AND THAT TUMBLE'S ENOUGH TO KNOCK THE SENSE OUT OF A FULL GROWN MAN <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         14603,
         309,
@@ -23,7 +24,8 @@
         34958,
         10863,
         14165,
-        17254
+        17254,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

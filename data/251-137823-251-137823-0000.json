@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0000.flac",
-    "text": "I'LL BE GLAD TO TRY SIR HE REPLIED",
+    "text": "<|startoftext|> I'LL BE GLAD TO TRY SIR HE REPLIED <|endoftext|>",
     "tokens": [
+        50255,
         40,
         6,
         3069,
@@ -15,7 +16,8 @@
         4663,
         11179,
         45285,
-        19767
+        19767,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

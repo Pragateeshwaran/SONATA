@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0015.flac",
-    "text": "WHEN IT IS SUFFICIENTLY THICK TAKE IT OFF AS IT SHOULD NOT BOIL",
+    "text": "<|startoftext|> WHEN IT IS SUFFICIENTLY THICK TAKE IT OFF AS IT SHOULD NOT BOIL <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         7283,
@@ -22,7 +23,8 @@
         40312,
         5626,
         16494,
-        4146
+        4146,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

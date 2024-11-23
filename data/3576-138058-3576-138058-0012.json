@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0012.flac",
-    "text": "DON QUIXOTE DID SO AND ASKED HIM WHAT HAD HAPPENED TO HIM AND WHAT HE WAS AFRAID OF",
+    "text": "<|startoftext|> DON QUIXOTE DID SO AND ASKED HIM WHAT HAD HAPPENED TO HIM AND WHAT HE WAS AFRAID OF <|endoftext|>",
     "tokens": [
+        50255,
         41173,
         1195,
         10080,
@@ -30,7 +31,8 @@
         12341,
         3861,
         2389,
-        3963
+        3963,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0020.flac",
-    "text": "IT GAVE AN IMPOSING APPEARANCE TO MOST OF THE WHOLESALE HOUSES WHOSE OFFICES WERE UPON THE GROUND FLOOR AND IN PLAIN VIEW OF THE STREET",
+    "text": "<|startoftext|> IT GAVE AN IMPOSING APPEARANCE TO MOST OF THE WHOLESALE HOUSES WHOSE OFFICES WERE UPON THE GROUND FLOOR AND IN PLAIN VIEW OF THE STREET <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         14545,
         6089,
@@ -48,7 +49,8 @@
         3336,
         3563,
         2200,
-        2767
+        2767,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

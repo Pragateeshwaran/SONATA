@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3576\\138058\\3576-138058-0003.flac",
-    "text": "WHO IS TOUCHING ME AND UNTRUSSING ME",
+    "text": "<|startoftext|> WHO IS TOUCHING ME AND UNTRUSSING ME <|endoftext|>",
     "tokens": [
+        50255,
         41856,
         3180,
         309,
@@ -14,7 +15,8 @@
         5446,
         32835,
         2751,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "3576",

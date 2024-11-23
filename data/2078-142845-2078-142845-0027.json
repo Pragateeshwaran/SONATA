@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0027.flac",
-    "text": "NEVER USE NEW BREAD FOR MAKING ANY KIND OF TOAST AS IT EATS HEAVY AND BESIDES IS VERY EXTRAVAGANT",
+    "text": "<|startoftext|> NEVER USE NEW BREAD FOR MAKING ANY KIND OF TOAST AS IT EATS HEAVY AND BESIDES IS VERY EXTRAVAGANT <|endoftext|>",
     "tokens": [
+        50255,
         12161,
         5959,
         23210,
@@ -34,7 +35,8 @@
         3861,
         53,
         4760,
-        8643
+        8643,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

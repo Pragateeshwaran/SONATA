@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0018.flac",
-    "text": "WITHIN MINUTES TOM WAS IN CHARGE OF CLEARING AWAY RUBBLE AND EXTRICATING ANYONE WHO MIGHT BE TRAPPED INSIDE THE BUILDINGS",
+    "text": "<|startoftext|> WITHIN MINUTES TOM WAS IN CHARGE OF CLEARING AWAY RUBBLE AND EXTRICATING ANYONE WHO MIGHT BE TRAPPED INSIDE THE BUILDINGS <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         1268,
@@ -41,7 +42,8 @@
         3336,
         20571,
         26761,
-        20754
+        20754,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

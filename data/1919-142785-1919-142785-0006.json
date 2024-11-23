@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0006.flac",
-    "text": "ILLUSTRATION THE CUCUMBER",
+    "text": "<|startoftext|> ILLUSTRATION THE CUCUMBER <|endoftext|>",
     "tokens": [
+        50255,
         8267,
         7759,
         49,
@@ -10,7 +11,8 @@
         327,
         9598,
         5883,
-        13246
+        13246,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

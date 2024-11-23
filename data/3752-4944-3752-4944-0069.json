@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0069.flac",
-    "text": "IN THE MIDST OF HIS ARGUMENTS HE FOUND HIMSELF AT THE CUPBOARD WITH THE BOTTLE AT HIS LIPS IN AN ATTITUDE THAT WAS AT ONCE LUDICROUS AND HORRIBLE",
+    "text": "<|startoftext|> IN THE MIDST OF HIS ARGUMENTS HE FOUND HIMSELF AT THE CUPBOARD WITH THE BOTTLE AT HIS LIPS IN AN ATTITUDE THAT WAS AT ONCE LUDICROUS AND HORRIBLE <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         3336,
         25269,
@@ -52,7 +53,8 @@
         5357,
         48345,
         7112,
-        19146
+        19146,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

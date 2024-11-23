@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0001.flac",
-    "text": "AND SO STRONG WAS MY PHANTASY THAT I WEPT AGAIN IN VERY TRUTH AND SAID WITH MY TRUE VOICE O EXCELLENT SOUL HOW BLESSED IS HE THAT NOW LOOKETH UPON THEE",
+    "text": "<|startoftext|> AND SO STRONG WAS MY PHANTASY THAT I WEPT AGAIN IN VERY TRUTH AND SAID WITH MY TRUE VOICE O EXCELLENT SOUL HOW BLESSED IS HE THAT NOW LOOKETH UPON THEE <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         12809,
         19269,
@@ -50,7 +51,8 @@
         15958,
         1340,
         3336,
-        36
+        36,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

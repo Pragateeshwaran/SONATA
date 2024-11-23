@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0008.flac",
-    "text": "WITH A FEW LANTERNS OUR MEN THEN WENT ABOUT AND TRIED TO GATHER UP THE WOUNDED THE DEAD WERE LEFT TILL MORNING",
+    "text": "<|startoftext|> WITH A FEW LANTERNS OUR MEN THEN WENT ABOUT AND TRIED TO GATHER UP THE WOUNDED THE DEAD WERE LEFT TILL MORNING <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         317,
@@ -36,7 +37,8 @@
         309,
         8267,
         35208,
-        15871
+        15871,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

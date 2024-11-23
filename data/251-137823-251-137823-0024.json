@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0024.flac",
-    "text": "TOM NODDED UNHAPPILY",
+    "text": "<|startoftext|> TOM NODDED UNHAPPILY <|endoftext|>",
     "tokens": [
+        50255,
         51,
         2662,
         399,
@@ -11,7 +12,8 @@
         4725,
         39,
         24805,
-        33340
+        33340,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

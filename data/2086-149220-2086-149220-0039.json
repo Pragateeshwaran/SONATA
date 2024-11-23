@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0039.flac",
-    "text": "SHE DID NOT ALTOGETHER LIKE HIM",
+    "text": "<|startoftext|> SHE DID NOT ALTOGETHER LIKE HIM <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         35697,
@@ -12,7 +13,8 @@
         2767,
         16879,
         34178,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

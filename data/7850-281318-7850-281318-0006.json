@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0006.flac",
-    "text": "SHE POPPED INTO HER NEW HOUSE AND SAT THERE COMFORTABLY PEERING OUT THROUGH THE WINDOW SLITS WITH HER SHARP LITTLE EYES",
+    "text": "<|startoftext|> SHE POPPED INTO HER NEW HOUSE AND SAT THERE COMFORTABLY PEERING OUT THROUGH THE WINDOW SLITS WITH HER SHARP LITTLE EYES <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         37586,
@@ -39,7 +40,8 @@
         22470,
         2538,
         412,
-        43335
+        43335,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

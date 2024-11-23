@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0012.flac",
-    "text": "THE COUNTRY WAS HIGHLY CULTIVATED EVERY LEDGE BEING PLANTED WITH CHESTNUTS WALNUTS AND APPLE TREES FROM WHICH THE APPLES WERE NOW GATHERING",
+    "text": "<|startoftext|> THE COUNTRY WAS HIGHLY CULTIVATED EVERY LEDGE BEING PLANTED WITH CHESTNUTS WALNUTS AND APPLE TREES FROM WHICH THE APPLES WERE NOW GATHERING <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         31404,
         40405,
@@ -50,7 +51,8 @@
         20229,
         402,
         45226,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

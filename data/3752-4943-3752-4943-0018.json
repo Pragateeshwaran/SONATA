@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0018.flac",
-    "text": "HAVE YOU EVER BEEN IN THAT THAT PLACE I WAS IN LAST NIGHT ASKED KIRKLAND",
+    "text": "<|startoftext|> HAVE YOU EVER BEEN IN THAT THAT PLACE I WAS IN LAST NIGHT ASKED KIRKLAND <|endoftext|>",
     "tokens": [
+        50255,
         7801,
         6089,
         7013,
@@ -24,7 +25,8 @@
         509,
         4663,
         42,
-        28182
+        28182,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0012.flac",
-    "text": "IN THIS TYPE OF PRAYER THERE WAS NO BESEECHING OF FAVOR OR HELP",
+    "text": "<|startoftext|> IN THIS TYPE OF PRAYER THERE WAS NO BESEECHING OF FAVOR OR HELP <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         12680,
         41876,
@@ -21,7 +22,8 @@
         53,
         1581,
         6375,
-        49944
+        49944,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

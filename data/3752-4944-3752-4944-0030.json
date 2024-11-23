@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0030.flac",
-    "text": "YOU DON'T MEAN TO SAY HE'S GOING TO FLOG KIRKLAND",
+    "text": "<|startoftext|> YOU DON'T MEAN TO SAY HE'S GOING TO FLOG KIRKLAND <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         23917,
         6,
@@ -21,7 +22,8 @@
         509,
         4663,
         42,
-        28182
+        28182,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

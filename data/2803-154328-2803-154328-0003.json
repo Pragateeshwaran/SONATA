@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0003.flac",
-    "text": "SLEEP WHICH KEEPS ALL SORROW IN ABEYANCE SOON WEIGHED DOWN THEIR EYELIDS THEY SLEPT IN EACH OTHER'S ARMS OVERCOME BY EXHAUSTION AND PROLONGED WATCHING",
+    "text": "<|startoftext|> SLEEP WHICH KEEPS ALL SORROW IN ABEYANCE SOON WEIGHED DOWN THEIR EYELIDS THEY SLEPT IN EACH OTHER'S ARMS OVERCOME BY EXHAUSTION AND PROLONGED WATCHING <|endoftext|>",
     "tokens": [
+        50255,
         50,
         2538,
         8905,
@@ -56,7 +57,8 @@
         18494,
         1961,
         16518,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0020.flac",
-    "text": "THE GREAT GREEN FIELD SURROUNDED ON ALL SIDES BY TALL TREES MADE THE PLACE AN IDEAL ONE FOR THEIR PURPOSE",
+    "text": "<|startoftext|> THE GREAT GREEN FIELD SURROUNDED ON ALL SIDES BY TALL TREES MADE THE PLACE AN IDEAL ONE FOR THEIR PURPOSE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         37853,
         47606,
@@ -32,7 +33,8 @@
         7473,
         47278,
         33079,
-        48933
+        48933,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

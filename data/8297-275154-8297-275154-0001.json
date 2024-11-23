@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0001.flac",
-    "text": "THE SAILING MASTER ANNOUNCED THAT HE HAD ORDERS TO TAKE THE VESSEL BACK TO HER PORT WITH NO OTHER EXPLANATION THAN THAT THE CRUISE WAS OVER",
+    "text": "<|startoftext|> THE SAILING MASTER ANNOUNCED THAT HE HAD ORDERS TO TAKE THE VESSEL BACK TO HER PORT WITH NO OTHER EXPLANATION THAN THAT THE CRUISE WAS OVER <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         14719,
         4146,
@@ -46,7 +47,8 @@
         52,
         24352,
         21725,
-        28729
+        28729,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

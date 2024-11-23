@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0020.flac",
-    "text": "HE'S A KIND NEIGHBORLY MAN AND HIS BOY WILL TAKE MY PLACE ABOUT THE HOUSE AND PROTECT YOU FAITHFULLY",
+    "text": "<|startoftext|> HE'S A KIND NEIGHBORLY MAN AND HIS BOY WILL TAKE MY PLACE ABOUT THE HOUSE AND PROTECT YOU FAITHFULLY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         6,
         50,
@@ -35,7 +36,8 @@
         10554,
         37,
         9994,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

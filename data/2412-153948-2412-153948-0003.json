@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0003.flac",
-    "text": "I REACHED MY DESTINATION IN ONE OF THE LAST MONTHS OF EIGHTEEN SIXTY EIGHT BUT I DARE NOT MENTION THE SEASON LEST THE READER SHOULD GATHER IN WHICH HEMISPHERE I WAS",
+    "text": "<|startoftext|> I REACHED MY DESTINATION IN ONE OF THE LAST MONTHS OF EIGHTEEN SIXTY EIGHT BUT I DARE NOT MENTION THE SEASON LEST THE READER SHOULD GATHER IN WHICH HEMISPHERE I WAS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         4526,
         16219,
@@ -56,7 +57,8 @@
         11909,
         9338,
         314,
-        21725
+        21725,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

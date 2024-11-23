@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0012.flac",
-    "text": "HE HAD PAID HER SIX MONTHS IN ADVANCE AND HAD COMMISSIONED THE OLD WOMAN TO FURNISH THE CHAMBER AND DRESSING ROOM AS WE HAVE SEEN",
+    "text": "<|startoftext|> HE HAD PAID HER SIX MONTHS IN ADVANCE AND HAD COMMISSIONED THE OLD WOMAN TO FURNISH THE CHAMBER AND DRESSING ROOM AS WE HAVE SEEN <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         2885,
@@ -45,7 +46,8 @@
         12887,
         21515,
         7946,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

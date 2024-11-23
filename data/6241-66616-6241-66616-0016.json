@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0016.flac",
-    "text": "NECESSITY HAD BECOME HIS GRIM MASTER AND THE FOLLOWING WEEK HE WAS GOING TO WORK",
+    "text": "<|startoftext|> NECESSITY HAD BECOME HIS GRIM MASTER AND THE FOLLOWING WEEK HE WAS GOING TO WORK <|endoftext|>",
     "tokens": [
+        50255,
         45,
         2943,
         7597,
@@ -27,7 +28,8 @@
         10351,
         2751,
         5390,
-        30936
+        30936,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

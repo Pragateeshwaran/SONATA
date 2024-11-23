@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0043.flac",
-    "text": "NOW BEAT AND STRAIN THE EGGS WORK THESE UP WITH THE OTHER INGREDIENTS AND THE FORCEMEAT WILL BE READY FOR USE",
+    "text": "<|startoftext|> NOW BEAT AND STRAIN THE EGGS WORK THESE UP WITH THE OTHER INGREDIENTS AND THE FORCEMEAT WILL BE READY FOR USE <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         9348,
         1404,
@@ -36,7 +37,8 @@
         20832,
         56,
         7473,
-        23210
+        23210,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

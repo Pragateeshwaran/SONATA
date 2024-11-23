@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0015.flac",
-    "text": "I TOOK OCCASION TO CONSULT THE MAP TO SEE WHERE GARDAR WAS TO BE FOUND",
+    "text": "<|startoftext|> I TOOK OCCASION TO CONSULT THE MAP TO SEE WHERE GARDAR WAS TO BE FOUND <|endoftext|>",
     "tokens": [
+        50255,
         40,
         5390,
         11380,
@@ -24,7 +25,8 @@
         5390,
         9348,
         376,
-        15919
+        15919,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

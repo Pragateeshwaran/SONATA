@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0006.flac",
-    "text": "THE BUZZER'S WHIRR TRIGGERED HIS MUSCLES INTO COMPLETE RELAXATION",
+    "text": "<|startoftext|> THE BUZZER'S WHIRR TRIGGERED HIS MUSCLES INTO COMPLETE RELAXATION <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         20571,
         30148,
@@ -24,7 +25,8 @@
         9328,
         29749,
         25922,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

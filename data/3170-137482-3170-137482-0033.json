@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0033.flac",
-    "text": "THE THREE FRIENDS WERE ASTOUNDED",
+    "text": "<|startoftext|> THE THREE FRIENDS WERE ASTOUNDED <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         48697,
         48167,
@@ -11,7 +12,8 @@
         9338,
         29273,
         15919,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

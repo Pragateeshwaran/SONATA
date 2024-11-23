@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0032.flac",
-    "text": "HE STAYED AT HIS DESK LONG AFTER ALL OTHERS HAD GONE AND ONLY QUITTED IT WHEN THE NIGHT WATCHMAN ON HIS ROUND PULLED AT THE FRONT DOOR TO SEE IF IT WAS SAFELY LOCKED",
+    "text": "<|startoftext|> HE STAYED AT HIS DESK LONG AFTER ALL OTHERS HAD GONE AND ONLY QUITTED IT WHEN THE NIGHT WATCHMAN ON HIS ROUND PULLED AT THE FRONT DOOR TO SEE IF IT WAS SAFELY LOCKED <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         3563,
         4792,
@@ -53,7 +54,8 @@
         30943,
         406,
         11290,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

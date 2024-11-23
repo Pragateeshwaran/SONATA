@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0033.flac",
-    "text": "THE BELL REVERBERATED THROUGH WHAT SEEMED LIKE AN EMPTY HOUSE",
+    "text": "<|startoftext|> THE BELL REVERBERATED THROUGH WHAT SEEMED LIKE AN EMPTY HOUSE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         9348,
         3069,
@@ -19,7 +20,8 @@
         3537,
         38144,
         9936,
-        46586
+        46586,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

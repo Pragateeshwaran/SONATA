@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0013.flac",
-    "text": "BUT IN HIS HANDS SOLITUDE AND A VIOLIN WERE SURE TO MARRY IN MUSIC",
+    "text": "<|startoftext|> BUT IN HIS HANDS SOLITUDE AND A VIOLIN WERE SURE TO MARRY IN MUSIC <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         3268,
         33700,
@@ -26,7 +27,8 @@
         18276,
         3268,
         39484,
-        2149
+        2149,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

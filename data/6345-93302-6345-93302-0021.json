@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0021.flac",
-    "text": "DO YOU THINK I'M NOT SORRY NOW",
+    "text": "<|startoftext|> DO YOU THINK I'M NOT SORRY NOW <|endoftext|>",
     "tokens": [
+        50255,
         18227,
         7013,
         2320,
@@ -13,7 +14,8 @@
         311,
         1581,
         18276,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

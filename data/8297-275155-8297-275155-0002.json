@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0002.flac",
-    "text": "AFTER READING ONE OR TWO OF THE POLITICAL ARTICLES HE ARRIVED AT THE COLUMNS SPECIALLY DEVOTED TO FASHIONABLE INTELLIGENCE",
+    "text": "<|startoftext|> AFTER READING ONE OR TWO OF THE POLITICAL ARTICLES HE ARRIVED AT THE COLUMNS SPECIALLY DEVOTED TO FASHIONABLE INTELLIGENCE <|endoftext|>",
     "tokens": [
+        50255,
         8579,
         5781,
         20832,
@@ -42,7 +43,8 @@
         9328,
         3069,
         3528,
-        18310
+        18310,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

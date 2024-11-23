@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0009.flac",
-    "text": "GO ON DOWN THE MOUNTAIN SAID MERCURY AND AS YOU GO CAST THE BONES OF YOUR MOTHER OVER YOUR SHOULDERS BEHIND YOU AND WITH THESE WORDS HE LEAPED INTO THE AIR AND WAS SEEN NO MORE",
+    "text": "<|startoftext|> GO ON DOWN THE MOUNTAIN SAID MERCURY AND AS YOU GO CAST THE BONES OF YOUR MOTHER OVER YOUR SHOULDERS BEHIND YOU AND WITH THESE WORDS HE LEAPED INTO THE AIR AND WAS SEEN NO MORE <|endoftext|>",
     "tokens": [
+        50255,
         11230,
         6177,
         30320,
@@ -53,7 +54,8 @@
         7946,
         1677,
         8005,
-        12011
+        12011,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0013.flac",
-    "text": "NOT THAT SUCH A CREATURE AS THAT DISTURBS ME NO CREATED THING I HOPE CAN MOVE MY EQUANIMITY BUT IF I COULD STOOP TO HATE I SHOULD HATE HER HATE HER",
+    "text": "<|startoftext|> NOT THAT SUCH A CREATURE AS THAT DISTURBS ME NO CREATED THING I HOPE CAN MOVE MY EQUANIMITY BUT IF I COULD STOOP TO HATE I SHOULD HATE HER HATE HER <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         14603,
         13558,
@@ -50,7 +51,8 @@
         24906,
         367,
         6158,
-        24906
+        24906,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

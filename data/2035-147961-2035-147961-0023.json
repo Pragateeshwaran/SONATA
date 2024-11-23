@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0023.flac",
-    "text": "THE ROAD WAS CLEAR AND WHITE AND THE GROOM'S THREE BLACKS WENT LIKE THE WIND",
+    "text": "<|startoftext|> THE ROAD WAS CLEAR AND WHITE AND THE GROOM'S THREE BLACKS WENT LIKE THE WIND <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         15107,
         2885,
@@ -25,7 +26,8 @@
         34178,
         3336,
         370,
-        12115
+        12115,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

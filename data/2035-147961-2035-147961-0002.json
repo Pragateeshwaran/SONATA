@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0002.flac",
-    "text": "SHE ASKED PETER TO WAIT A MOMENT AND WHEN SHE CAME BACK FROM THE KITCHEN SHE BROUGHT A BAG OF SANDWICHES AND DOUGHNUTS FOR US",
+    "text": "<|startoftext|> SHE ASKED PETER TO WAIT A MOMENT AND WHEN SHE CAME BACK FROM THE KITCHEN SHE BROUGHT A BAG OF SANDWICHES AND DOUGHNUTS FOR US <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         7054,
@@ -48,7 +49,8 @@
         3843,
         50,
         7473,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

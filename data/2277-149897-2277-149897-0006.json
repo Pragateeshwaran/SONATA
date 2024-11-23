@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0006.flac",
-    "text": "THEN HE CALLED HARRY THE BOY OF ALL WORK AROUND THE PLACE",
+    "text": "<|startoftext|> THEN HE CALLED HARRY THE BOY OF ALL WORK AROUND THE PLACE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         11179,
@@ -19,7 +20,8 @@
         15919,
         3336,
         9297,
-        11598
+        11598,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

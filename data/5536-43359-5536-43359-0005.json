@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0005.flac",
-    "text": "INDEED THE DISTINCTIVE WORK OF BOTH GRANDPARENTS IS THAT OF ACQUAINTING THE YOUTH WITH THE NATIONAL TRADITIONS AND BELIEFS",
+    "text": "<|startoftext|> INDEED THE DISTINCTIVE WORK OF BOTH GRANDPARENTS IS THAT OF ACQUAINTING THE YOUTH WITH THE NATIONAL TRADITIONS AND BELIEFS <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         7206,
         1961,
@@ -42,7 +43,8 @@
         5357,
         29991,
         10008,
-        10652
+        10652,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

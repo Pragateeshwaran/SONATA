@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0001.flac",
-    "text": "SUCH PERFECT COMPLETENESS IS NOT IN NATURE",
+    "text": "<|startoftext|> SUCH PERFECT COMPLETENESS IS NOT IN NATURE <|endoftext|>",
     "tokens": [
+        50255,
         12564,
         3398,
         19878,
@@ -15,7 +16,8 @@
         5626,
         3268,
         10149,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

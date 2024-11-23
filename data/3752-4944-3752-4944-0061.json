@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0061.flac",
-    "text": "O LORD LOOK DOWN UPON ME",
+    "text": "<|startoftext|> O LORD LOOK DOWN UPON ME <|endoftext|>",
     "tokens": [
+        50255,
         46,
         35750,
         48045,
         30320,
         15958,
         1340,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

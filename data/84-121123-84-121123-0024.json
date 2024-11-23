@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0024.flac",
-    "text": "THE DISTRICT DOCTOR APPROACHED WITH THE INDIFFERENCE OF A MAN ACCUSTOMED TO SPEND HALF HIS TIME AMONGST THE DEAD HE THEN LIFTED THE SHEET WHICH WAS PLACED OVER THE FACE AND JUST UNCLOSED THE LIPS",
+    "text": "<|startoftext|> THE DISTRICT DOCTOR APPROACHED WITH THE INDIFFERENCE OF A MAN ACCUSTOMED TO SPEND HALF HIS TIME AMONGST THE DEAD HE THEN LIFTED THE SHEET WHICH WAS PLACED OVER THE FACE AND JUST UNCLOSED THE LIPS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         45057,
         8410,
@@ -60,7 +61,8 @@
         48751,
         3336,
         24653,
-        3705
+        3705,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

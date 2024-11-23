@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0002.flac",
-    "text": "THAT TOOK THE CENTER OF INTEREST AWAY FROM ARCHAEOLOGY AND STARTED A NEW BURST OF ACTIVITY",
+    "text": "<|startoftext|> THAT TOOK THE CENTER OF INTEREST AWAY FROM ARCHAEOLOGY AND STARTED A NEW BURST OF ACTIVITY <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         5390,
@@ -29,7 +30,8 @@
         3963,
         11741,
         3824,
-        9050
+        9050,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

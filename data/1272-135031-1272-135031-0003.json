@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0003.flac",
-    "text": "THE LITTLE GIRL HAD BEEN ASLEEP BUT SHE HEARD THE RAPS AND OPENED THE DOOR",
+    "text": "<|startoftext|> THE LITTLE GIRL HAD BEEN ASLEEP BUT SHE HEARD THE RAPS AND OPENED THE DOOR <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         406,
         22470,
@@ -28,7 +29,8 @@
         1961,
         3336,
         8410,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

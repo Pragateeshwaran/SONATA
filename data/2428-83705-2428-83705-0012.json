@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0012.flac",
-    "text": "I WAS PERSUADED THAT SOMEBODY BESIDES THAT COUSIN GOT A PROFIT OUT OF MARY ANN'S ENGAGEMENT RING BUT I HANDED OVER THE AMOUNT",
+    "text": "<|startoftext|> I WAS PERSUADED THAT SOMEBODY BESIDES THAT COUSIN GOT A PROFIT OUT OF MARY ANN'S ENGAGEMENT RING BUT I HANDED OVER THE AMOUNT <|endoftext|>",
     "tokens": [
+        50255,
         40,
         21725,
         350,
@@ -45,7 +46,8 @@
         28729,
         3336,
         3001,
-        28270
+        28270,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

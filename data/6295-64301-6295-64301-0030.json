@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0030.flac",
-    "text": "HIS VIOLIN WAS BROKEN BUT HIS BEING WAS MADE WHOLE",
+    "text": "<|startoftext|> HIS VIOLIN WAS BROKEN BUT HIS BEING WAS MADE WHOLE <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         13889,
@@ -19,7 +20,8 @@
         337,
         19266,
         19494,
-        2538
+        2538,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

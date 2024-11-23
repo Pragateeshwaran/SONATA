@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0020.flac",
-    "text": "I TURN OFF THE TELEVISION SET I'VE LOST TRACK OF WHAT'S HAPPENING AND IT DOESN'T SEEM TO BE THE GRANDFATHER WHO'S THE SPOOK AFTER ALL",
+    "text": "<|startoftext|> I TURN OFF THE TELEVISION SET I'VE LOST TRACK OF WHAT'S HAPPENING AND IT DOESN'T SEEM TO BE THE GRANDFATHER WHO'S THE SPOOK AFTER ALL <|endoftext|>",
     "tokens": [
+        50255,
         40,
         309,
         27064,
@@ -49,7 +50,8 @@
         6226,
         15308,
         36050,
-        11096
+        11096,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

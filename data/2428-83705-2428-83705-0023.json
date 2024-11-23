@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0023.flac",
-    "text": "I KNOW WHAT MAMMA CAN AFFORD TO GIVE AND I WILL SEE SHE GIVES IT",
+    "text": "<|startoftext|> I KNOW WHAT MAMMA CAN AFFORD TO GIVE AND I WILL SEE SHE GIVES IT <|endoftext|>",
     "tokens": [
+        50255,
         40,
         35876,
         25003,
@@ -22,7 +23,8 @@
         48052,
         402,
         42472,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

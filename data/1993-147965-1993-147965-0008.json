@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147965\\1993-147965-0008.flac",
-    "text": "HE MADE THE SIGN OF THE CROSS OVER ME PUT ON HIS CAP AND WENT OFF IN THE DARK",
+    "text": "<|startoftext|> HE MADE THE SIGN OF THE CROSS OVER ME PUT ON HIS CAP AND WENT OFF IN THE DARK <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         337,
         19266,
@@ -24,7 +25,8 @@
         18562,
         3268,
         3336,
-        46455
+        46455,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

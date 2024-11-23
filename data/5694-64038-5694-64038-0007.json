@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0007.flac",
-    "text": "THEY PERSUADED ELOQUENTLY",
+    "text": "<|startoftext|> THEY PERSUADED ELOQUENTLY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         350,
@@ -13,7 +14,8 @@
         46,
         10917,
         3525,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0021.flac",
-    "text": "THEN THEY BEGAN TO RUN AND RUSHING INTO THE HOUSE THEY FELL UPON THEIR FATHER'S NECK",
+    "text": "<|startoftext|> THEN THEY BEGAN TO RUN AND RUSHING INTO THE HOUSE THEY FELL UPON THEIR FATHER'S NECK <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         33302,
@@ -28,7 +29,8 @@
         6,
         50,
         399,
-        25171
+        25171,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

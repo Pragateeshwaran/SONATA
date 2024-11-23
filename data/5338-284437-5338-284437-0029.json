@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0029.flac",
-    "text": "YES IT WAS WET AN STICKY ALL RIGHT AGREED THE SAILOR BUT THE BIG FROG HELPED US AN WE GOT THROUGH ALL RIGHT",
+    "text": "<|startoftext|> YES IT WAS WET AN STICKY ALL RIGHT AGREED THE SAILOR BUT THE BIG FROG HELPED US AN WE GOT THROUGH ALL RIGHT <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         7283,
         21725,
@@ -34,7 +35,8 @@
         35383,
         32632,
         11096,
-        33621
+        33621,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

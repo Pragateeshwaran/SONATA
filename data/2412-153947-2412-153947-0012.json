@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0012.flac",
-    "text": "THERE WAS ALSO ANOTHER CAUSE",
+    "text": "<|startoftext|> THERE WAS ALSO ANOTHER CAUSE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         21725,
@@ -9,7 +10,8 @@
         3537,
         31858,
         7257,
-        19108
+        19108,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

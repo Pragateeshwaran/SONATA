@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0011.flac",
-    "text": "BUT HOW TO GET HIM OUT WAS THE UNSOLVED PROBLEM",
+    "text": "<|startoftext|> BUT HOW TO GET HIM OUT WAS THE UNSOLVED PROBLEM <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         29630,
         5390,
@@ -18,7 +19,8 @@
         4810,
         9864,
         2538,
-        44
+        44,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

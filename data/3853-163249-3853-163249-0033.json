@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0033.flac",
-    "text": "NO HE AIN'T IT'S A TRAINER ADDED ANN LIZY",
+    "text": "<|startoftext|> NO HE AIN'T IT'S A TRAINER ADDED ANN LIZY <|endoftext|>",
     "tokens": [
+        50255,
         15285,
         11179,
         317,
@@ -20,7 +21,8 @@
         40126,
         406,
         14887,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0013.flac",
-    "text": "HERE COMES THE SNAPPING TURTLE",
+    "text": "<|startoftext|> HERE COMES THE SNAPPING TURTLE <|endoftext|>",
     "tokens": [
+        50255,
         39,
         9338,
         9440,
@@ -13,7 +14,8 @@
         309,
         4261,
         51,
-        2538
+        2538,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

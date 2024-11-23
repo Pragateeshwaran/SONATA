@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0010.flac",
-    "text": "THE PROGRESS OF PRESIDENT DAVIS TO THE NEW CAPITAL SET IN THE VERY FACE OF THE FOE WAS TO BE ONE HUGE TRIUMPH OF FAITH AND LOYALTY",
+    "text": "<|startoftext|> THE PROGRESS OF PRESIDENT DAVIS TO THE NEW CAPITAL SET IN THE VERY FACE OF THE FOE WAS TO BE ONE HUGE TRIUMPH OF FAITH AND LOYALTY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         38688,
         49,
@@ -39,7 +40,8 @@
         17579,
         56,
         1847,
-        9936
+        9936,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

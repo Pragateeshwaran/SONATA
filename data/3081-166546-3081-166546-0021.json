@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0021.flac",
-    "text": "I EMPHASISED COMPLACENTLY",
+    "text": "<|startoftext|> I EMPHASISED COMPLACENTLY <|endoftext|>",
     "tokens": [
+        50255,
         40,
         38144,
         39,
@@ -12,7 +13,8 @@
         6489,
         2246,
         3525,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

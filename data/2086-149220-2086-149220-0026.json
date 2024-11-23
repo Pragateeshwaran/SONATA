@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0026.flac",
-    "text": "YET THE ORIGINAL WEARS TO COMMON EYES A VERY DIFFERENT EXPRESSION",
+    "text": "<|startoftext|> YET THE ORIGINAL WEARS TO COMMON EYES A VERY DIFFERENT EXPRESSION <|endoftext|>",
     "tokens": [
+        50255,
         56,
         2767,
         3336,
@@ -22,7 +23,8 @@
         3525,
         7788,
         32761,
-        2849
+        2849,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

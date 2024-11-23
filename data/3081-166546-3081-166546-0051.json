@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0051.flac",
-    "text": "WHETHER HE GOT ANYTHING ELSE IT WOULD BE IMPOSSIBLE TO SAY FROM HIS MANNER AS HE FINALLY SANK INTO A CHAIR BY ONE OF THE OPENINGS AND LOOKED DOWN ON THE LOBBY BELOW",
+    "text": "<|startoftext|> WHETHER HE GOT ANYTHING ELSE IT WOULD BE IMPOSSIBLE TO SAY FROM HIS MANNER AS HE FINALLY SANK INTO A CHAIR BY ONE OF THE OPENINGS AND LOOKED DOWN ON THE LOBBY BELOW <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         2767,
         16879,
@@ -49,7 +50,8 @@
         406,
         9864,
         17513,
-        45339
+        45339,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

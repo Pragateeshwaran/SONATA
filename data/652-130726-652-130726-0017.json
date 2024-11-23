@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0017.flac",
-    "text": "OF COURSE THESE ARE NOT THE ENTIRE MENUS BUT OF ALL THE WELL PREPARED DISHES THESE ARE THEIR BEST",
+    "text": "<|startoftext|> OF COURSE THESE ARE NOT THE ENTIRE MENUS BUT OF ALL THE WELL PREPARED DISHES THESE ARE THEIR BEST <|endoftext|>",
     "tokens": [
+        50255,
         19238,
         37384,
         5188,
@@ -28,7 +29,8 @@
         48947,
         15986,
         47278,
-        38502
+        38502,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

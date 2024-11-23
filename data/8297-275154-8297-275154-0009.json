@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0009.flac",
-    "text": "HE DRANK THE WINE GREEDILY",
+    "text": "<|startoftext|> HE DRANK THE WINE GREEDILY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         10560,
         15154,
@@ -10,7 +11,8 @@
         8881,
         19928,
         1961,
-        33340
+        33340,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

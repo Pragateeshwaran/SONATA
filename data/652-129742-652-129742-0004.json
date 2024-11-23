@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0004.flac",
-    "text": "ADD TWO TABLESPOONS THICK SOUR CREAM TWO TABLESPOONS SUGAR A SPRINKLE OF MUSTARD AND HALF CUP OF VINEGAR",
+    "text": "<|startoftext|> ADD TWO TABLESPOONS THICK SOUR CREAM TWO TABLESPOONS SUGAR A SPRINKLE OF MUSTARD AND HALF CUP OF VINEGAR <|endoftext|>",
     "tokens": [
+        50255,
         29266,
         35288,
         309,
@@ -40,7 +41,8 @@
         569,
         1268,
         7156,
-        1503
+        1503,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

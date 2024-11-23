@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0026.flac",
-    "text": "LET ME REST A LITTLE HE PLEADED IF I'M NOT IN THE WAY",
+    "text": "<|startoftext|> LET ME REST A LITTLE HE PLEADED IF I'M NOT IN THE WAY <|endoftext|>",
     "tokens": [
+        50255,
         28882,
         11948,
         30617,
@@ -21,7 +22,8 @@
         5626,
         3268,
         3336,
-        34882
+        34882,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

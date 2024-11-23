@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0008.flac",
-    "text": "WITH A LONG STAINED FINGERNAIL HE MAPPED THE CONSTELLATIONS ON THE MARBLE TILED FLOOR",
+    "text": "<|startoftext|> WITH A LONG STAINED FINGERNAIL HE MAPPED THE CONSTELLATIONS ON THE MARBLE TILED FLOOR <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         317,
@@ -32,7 +33,8 @@
         1961,
         9977,
         46,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

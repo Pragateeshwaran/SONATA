@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0010.flac",
-    "text": "WE WOULD FIGHT TO THE DEATH OF COURSE BUT AFTER THAT",
+    "text": "<|startoftext|> WE WOULD FIGHT TO THE DEATH OF COURSE BUT AFTER THAT <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         370,
         24010,
@@ -15,7 +16,8 @@
         5188,
         21728,
         36050,
-        14603
+        14603,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

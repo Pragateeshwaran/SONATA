@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0000.flac",
-    "text": "NOT HAVING HEARD FROM CAPTAIN BENNYDECK FOR SOME LITTLE TIME RANDAL THOUGHT IT DESIRABLE IN SYDNEY'S INTERESTS TO MAKE INQUIRIES AT HIS CLUB",
+    "text": "<|startoftext|> NOT HAVING HEARD FROM CAPTAIN BENNYDECK FOR SOME LITTLE TIME RANDAL THOUGHT IT DESIRABLE IN SYDNEY'S INTERESTS TO MAKE INQUIRIES AT HIS CLUB <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         367,
         10116,
@@ -50,7 +51,8 @@
         5161,
         33700,
         7852,
-        10526
+        10526,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

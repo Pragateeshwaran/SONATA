@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0003.flac",
-    "text": "THEIR MINDS WERE SO DISTRACTED AT THIS CHANGE OF ROUTE AS TO BE QUITE UNHINGED",
+    "text": "<|startoftext|> THEIR MINDS WERE SO DISTRACTED AT THIS CHANGE OF ROUTE AS TO BE QUITE UNHINGED <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         4663,
         20625,
@@ -27,7 +28,8 @@
         4725,
         39,
         2751,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

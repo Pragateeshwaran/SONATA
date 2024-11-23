@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0004.flac",
-    "text": "LIKE THE TWO KINGS OF SPARTA THEY REIGNED JOINTLY DIVIDING BETWEEN THEM THE LABOURS AND CARES OF STATE",
+    "text": "<|startoftext|> LIKE THE TWO KINGS OF SPARTA THEY REIGNED JOINTLY DIVIDING BETWEEN THEM THE LABOURS AND CARES OF STATE <|endoftext|>",
     "tokens": [
+        50255,
         31271,
         7336,
         3336,
@@ -36,7 +37,8 @@
         17368,
         1546,
         3963,
-        35454
+        35454,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

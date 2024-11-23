@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0004.flac",
-    "text": "THE KING HAS FLED IN DISGRACE AND YOUR FRIENDS ARE ASKING FOR YOU",
+    "text": "<|startoftext|> THE KING HAS FLED IN DISGRACE AND YOUR FRIENDS ARE ASKING FOR YOU <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         32957,
         33930,
@@ -20,7 +21,8 @@
         7054,
         37286,
         7473,
-        7013
+        7013,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

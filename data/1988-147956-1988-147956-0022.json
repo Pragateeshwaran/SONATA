@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0022.flac",
-    "text": "SHE POINTED INTO THE GOLD COTTONWOOD TREE BEHIND WHOSE TOP WE STOOD AND SAID AGAIN WHAT NAME",
+    "text": "<|startoftext|> SHE POINTED INTO THE GOLD COTTONWOOD TREE BEHIND WHOSE TOP WE STOOD AND SAID AGAIN WHAT NAME <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         19922,
@@ -31,7 +32,8 @@
         36218,
         1268,
         25003,
-        36751
+        36751,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

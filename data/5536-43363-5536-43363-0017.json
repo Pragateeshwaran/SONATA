@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0017.flac",
-    "text": "AT ANOTHER TIME WHEN I WAS FOURTEEN YEARS OLD WE HAD JUST LEFT FORT ELLIS ON THE ASSINIBOINE RIVER AND MY YOUNGEST UNCLE HAD SELECTED A FINE SPOT FOR OUR NIGHT CAMP",
+    "text": "<|startoftext|> AT ANOTHER TIME WHEN I WAS FOURTEEN YEARS OLD WE HAD JUST LEFT FORT ELLIS ON THE ASSINIBOINE RIVER AND MY YOUNGEST UNCLE HAD SELECTED A FINE SPOT FOR OUR NIGHT CAMP <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         3537,
         31858,
@@ -57,7 +58,8 @@
         30229,
         37707,
         327,
-        23518
+        23518,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

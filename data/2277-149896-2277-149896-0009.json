@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0009.flac",
-    "text": "WHILE THE DANGER HAD NOT LESSENED IT HAD NOT AS YET MATERIALISED AND WITH HIM NO NEWS WAS GOOD NEWS",
+    "text": "<|startoftext|> WHILE THE DANGER HAD NOT LESSENED IT HAD NOT AS YET MATERIALISED AND WITH HIM NO NEWS WAS GOOD NEWS <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         41119,
         3336,
@@ -34,7 +35,8 @@
         28840,
         21725,
         21090,
-        28840
+        28840,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

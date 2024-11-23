@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0015.flac",
-    "text": "LET'S SEE ABOUT GETTING HELP FOR MISTER FABER",
+    "text": "<|startoftext|> LET'S SEE ABOUT GETTING HELP FOR MISTER FABER <|endoftext|>",
     "tokens": [
+        50255,
         28882,
         6,
         50,
@@ -15,7 +16,8 @@
         41517,
         376,
         6242,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

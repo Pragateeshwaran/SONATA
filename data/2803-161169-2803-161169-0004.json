@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0004.flac",
-    "text": "THE ENTRANCE IS LIGHT BECAUSE IT OPENS SO WIDE BUT WE CAN SEE THAT THE FLOOR SLOPES DOWNWARD AND THE WAY LOOKS DARK AND NARROW BEFORE US",
+    "text": "<|startoftext|> THE ENTRANCE IS LIGHT BECAUSE IT OPENS SO WIDE BUT WE CAN SEE THAT THE FLOOR SLOPES DOWNWARD AND THE WAY LOOKS DARK AND NARROW BEFORE US <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         12964,
         5446,
@@ -43,7 +44,8 @@
         26465,
         3913,
         38331,
-        1294
+        1294,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

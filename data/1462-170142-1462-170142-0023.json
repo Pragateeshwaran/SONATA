@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0023.flac",
-    "text": "I HAVE THOUGHT ABOUT IT UNTIL I AM WORN OUT",
+    "text": "<|startoftext|> I HAVE THOUGHT ABOUT IT UNTIL I AM WORN OUT <|endoftext|>",
     "tokens": [
+        50255,
         40,
         21515,
         2320,
@@ -17,7 +18,8 @@
         3001,
         21881,
         45,
-        16289
+        16289,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

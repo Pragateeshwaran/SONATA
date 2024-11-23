@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0003.flac",
-    "text": "OUTSIDE OF THESE OCCASIONAL REMINDERS WE COULD SEE NO EVIDENCE OF THE DESOLATION OF THE TRACK OF AN INVADING ARMY",
+    "text": "<|startoftext|> OUTSIDE OF THESE OCCASIONAL REMINDERS WE COULD SEE NO EVIDENCE OF THE DESOLATION OF THE TRACK OF AN INVADING ARMY <|endoftext|>",
     "tokens": [
+        50255,
         2606,
         4694,
         14114,
@@ -38,7 +39,8 @@
         2885,
         2751,
         20359,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0000.flac",
-    "text": "HE WAS IN A FEVERED STATE OF MIND OWING TO THE BLIGHT HIS WIFE'S ACTION THREATENED TO CAST UPON HIS ENTIRE FUTURE",
+    "text": "<|startoftext|> HE WAS IN A FEVERED STATE OF MIND OWING TO THE BLIGHT HIS WIFE'S ACTION THREATENED TO CAST UPON HIS ENTIRE FUTURE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         3268,
@@ -40,7 +41,8 @@
         41736,
         376,
         3843,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0032.flac",
-    "text": "OUR PICKETS HAD RUN IN AND REPORTED A NIGHT ATTACK",
+    "text": "<|startoftext|> OUR PICKETS HAD RUN IN AND REPORTED A NIGHT ATTACK <|endoftext|>",
     "tokens": [
+        50255,
         11698,
         350,
         11860,
@@ -16,7 +17,8 @@
         317,
         37707,
         26195,
-        8120
+        8120,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0028.flac",
-    "text": "MOVE IT BACKWARDS AND FORWARDS UNTIL THE BREAD IS NICELY COLOURED THEN TURN IT AND TOAST THE OTHER SIDE AND DO NOT PLACE IT SO NEAR THE FIRE THAT IT BLACKENS",
+    "text": "<|startoftext|> MOVE IT BACKWARDS AND FORWARDS UNTIL THE BREAD IS NICELY COLOURED THEN TURN IT AND TOAST THE OTHER SIDE AND DO NOT PLACE IT SO NEAR THE FIRE THAT IT BLACKENS <|endoftext|>",
     "tokens": [
+        50255,
         11770,
         6089,
         7283,
@@ -49,7 +50,8 @@
         14603,
         7283,
         31963,
-        16938
+        16938,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

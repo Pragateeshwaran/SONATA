@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0014.flac",
-    "text": "THE HOSPITALITY OF THE WIGWAM IS ONLY LIMITED BY THE INSTITUTION OF WAR",
+    "text": "<|startoftext|> THE HOSPITALITY OF THE WIGWAM IS ONLY LIMITED BY THE INSTITUTION OF WAR <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         367,
         47053,
@@ -22,7 +23,8 @@
         2043,
         35354,
         3963,
-        11837
+        11837,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

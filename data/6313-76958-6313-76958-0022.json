@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0022.flac",
-    "text": "ALMOST BEFORE THE ECHOES OF HIS VOICE HAD DIED AWAY A SHRILL VOICE PIPED UP FROM THE TAIL END OF THE CHUCK WAGON",
+    "text": "<|startoftext|> ALMOST BEFORE THE ECHOES OF HIS VOICE HAD DIED AWAY A SHRILL VOICE PIPED UP FROM THE TAIL END OF THE CHUCK WAGON <|endoftext|>",
     "tokens": [
+        50255,
         1847,
         44,
         10892,
@@ -41,7 +42,8 @@
         16696,
         370,
         4760,
-        1340
+        1340,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

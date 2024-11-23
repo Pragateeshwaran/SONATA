@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0021.flac",
-    "text": "HE SAYS TIDE REPLIED MY UNCLE TRANSLATING THE DANISH WORD FOR MY INFORMATION",
+    "text": "<|startoftext|> HE SAYS TIDE REPLIED MY UNCLE TRANSLATING THE DANISH WORD FOR MY INFORMATION <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         45687,
         50,
@@ -23,7 +24,8 @@
         12532,
         7473,
         17615,
-        38044
+        38044,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

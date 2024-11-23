@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0023.flac",
-    "text": "SOMETHING HAD TO BE DONE A CLIMAX WAS NEAR AND SHE WOULD NOT SIT IDLE",
+    "text": "<|startoftext|> SOMETHING HAD TO BE DONE A CLIMAX WAS NEAR AND SHE WOULD NOT SIT IDLE <|endoftext|>",
     "tokens": [
+        50255,
         50,
         2662,
         20702,
@@ -27,7 +28,8 @@
         311,
         2043,
         4522,
-        2538
+        2538,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

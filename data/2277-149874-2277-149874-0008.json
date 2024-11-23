@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0008.flac",
-    "text": "THEN SHE WALKED AND SANG TO IT UNTIL HANSON DISTURBED IN HIS READING CAME AND TOOK IT",
+    "text": "<|startoftext|> THEN SHE WALKED AND SANG TO IT UNTIL HANSON DISTURBED IN HIS READING CAME AND TOOK IT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         48052,
@@ -33,7 +34,8 @@
         5357,
         5390,
         11380,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

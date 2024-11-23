@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0004.flac",
-    "text": "THE SMOKE ITSELF WHICH HAD FORMED A VAST CLOUD OVER HARBOR FORTS AND CITY WAS NOW DRIFTING OUT TO SEA LEAVING ALL THINGS ETCHED SHARPLY IN THE DAZZLING SUNLIGHT OF A SOUTHERN SPRING DAY",
+    "text": "<|startoftext|> THE SMOKE ITSELF WHICH HAD FORMED A VAST CLOUD OVER HARBOR FORTS AND CITY WAS NOW DRIFTING OUT TO SEA LEAVING ALL THINGS ETCHED SHARPLY IN THE DAZZLING SUNLIGHT OF A SOUTHERN SPRING DAY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         9447,
         46,
@@ -64,7 +65,8 @@
         45,
         49068,
         2751,
-        24644
+        24644,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

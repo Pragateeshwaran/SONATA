@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0010.flac",
-    "text": "PARTICULARLY SO ON THIS LAST NIGHT WHEN ONLY TWO OF THE LITTLE CUBICLES WERE OCCUPIED THE THOUSANDS OF OTHERS STANDING WITH DARK EMPTY DOORS",
+    "text": "<|startoftext|> PARTICULARLY SO ON THIS LAST NIGHT WHEN ONLY TWO OF THE LITTLE CUBICLES WERE OCCUPIED THE THOUSANDS OF OTHERS STANDING WITH DARK EMPTY DOORS <|endoftext|>",
     "tokens": [
+        50255,
         30709,
         2149,
         37232,
@@ -45,7 +46,8 @@
         38144,
         9936,
         8410,
-        20673
+        20673,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

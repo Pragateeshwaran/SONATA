@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0029.flac",
-    "text": "IN THE ACT OF RECOVERING HIMSELF HE HEARD THE NECK OF HIS INSTRUMENT PART FROM THE BODY WITH A TEARING DISCORDANT CRY LIKE THE SOUND OF THE RUIN OF A LIVING WORLD",
+    "text": "<|startoftext|> IN THE ACT OF RECOVERING HIMSELF HE HEARD THE NECK OF HIS INSTRUMENT PART FROM THE BODY WITH A TEARING DISCORDANT CRY LIKE THE SOUND OF THE RUIN OF A LIVING WORLD <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         3336,
         11741,
@@ -53,7 +54,8 @@
         406,
         3824,
         2751,
-        29564
+        29564,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

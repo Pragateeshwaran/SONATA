@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0010.flac",
-    "text": "HE ENTERED A LARGE FORECOURT AND STOOD STILL WITH AMAZEMENT AND AWE",
+    "text": "<|startoftext|> HE ENTERED A LARGE FORECOURT AND STOOD STILL WITH AMAZEMENT AND AWE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         46962,
         1961,
@@ -23,7 +24,8 @@
         12529,
         5357,
         317,
-        8845
+        8845,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0009.flac",
-    "text": "IT WAS A MONOTONOUS LIFE BUT IT WAS VERY HEALTHY AND ONE DOES NOT MUCH MIND ANYTHING WHEN ONE IS WELL",
+    "text": "<|startoftext|> IT WAS A MONOTONOUS LIFE BUT IT WAS VERY HEALTHY AND ONE DOES NOT MUCH MIND ANYTHING WHEN ONE IS WELL <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         317,
@@ -30,7 +31,8 @@
         16329,
         3180,
         12887,
-        3069
+        3069,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

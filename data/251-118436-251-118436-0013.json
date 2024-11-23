@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0013.flac",
-    "text": "BY WHICH A SOUL IS DRAWN FROM ITS BODY AND ACROSS GULFS OF ECHOING SPACE RETURNED THE MAN ON THE MAT",
+    "text": "<|startoftext|> BY WHICH A SOUL IS DRAWN FROM ITS BODY AND ACROSS GULFS OF ECHOING SPACE RETURNED THE MAN ON THE MAT <|endoftext|>",
     "tokens": [
+        50255,
         17513,
         7655,
         20739,
@@ -35,7 +36,8 @@
         17254,
         6177,
         3336,
-        36775
+        36775,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

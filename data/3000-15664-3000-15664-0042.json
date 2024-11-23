@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0042.flac",
-    "text": "THE ASCENT OF LASSEN'S BUTTE IS AN EASY WALK AND THE VIEWS FROM THE SUMMIT ARE EXTREMELY TELLING",
+    "text": "<|startoftext|> THE ASCENT OF LASSEN'S BUTTE IS AN EASY WALK AND THE VIEWS FROM THE SUMMIT ARE EXTREMELY TELLING <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         25400,
         3525,
@@ -33,7 +34,8 @@
         30943,
         13368,
         3069,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

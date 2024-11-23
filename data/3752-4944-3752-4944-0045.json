@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0045.flac",
-    "text": "THEN DON'T YOU INTERFERE WITH ME SIR",
+    "text": "<|startoftext|> THEN DON'T YOU INTERFERE WITH ME SIR <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         23917,
@@ -14,7 +15,8 @@
         13315,
         11948,
         311,
-        4663
+        4663,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0002.flac",
-    "text": "OUR BRIGADE WAS FEARFULLY OUTNUMBERED",
+    "text": "<|startoftext|> OUR BRIGADE WAS FEARFULLY OUTNUMBERED <|endoftext|>",
     "tokens": [
+        50255,
         11698,
         11177,
         3528,
@@ -15,7 +16,8 @@
         16289,
         41359,
         13246,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

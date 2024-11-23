@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147964\\1993-147964-0009.flac",
-    "text": "FROM UNDER THE LINING HE NOW PRODUCED A COLLECTION OF BRILLIANTLY COLORED PAPER FIGURES SEVERAL INCHES HIGH AND STIFF ENOUGH TO STAND ALONE",
+    "text": "<|startoftext|> FROM UNDER THE LINING HE NOW PRODUCED A COLLECTION OF BRILLIANTLY COLORED PAPER FIGURES SEVERAL INCHES HIGH AND STIFF ENOUGH TO STAND ALONE <|endoftext|>",
     "tokens": [
+        50255,
         10913,
         2662,
         35219,
@@ -47,7 +48,8 @@
         5390,
         49053,
         8355,
-        11651
+        11651,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

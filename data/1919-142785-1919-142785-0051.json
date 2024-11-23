@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0051.flac",
-    "text": "PUT THE UDDER INTO A STEWPAN WITH SUFFICIENT WATER TO COVER IT LET IT STEW GENTLY TILL QUITE DONE WHEN TAKE IT OUT TO COOL",
+    "text": "<|startoftext|> PUT THE UDDER INTO A STEWPAN WITH SUFFICIENT WATER TO COVER IT LET IT STEW GENTLY TILL QUITE DONE WHEN TAKE IT OUT TO COOL <|endoftext|>",
     "tokens": [
+        50255,
         30076,
         3336,
         43700,
@@ -42,7 +43,8 @@
         16289,
         5390,
         7375,
-        3535
+        3535,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

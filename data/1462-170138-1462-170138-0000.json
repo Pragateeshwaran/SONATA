@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0000.flac",
-    "text": "HE HAD WRITTEN A NUMBER OF BOOKS HIMSELF AMONG THEM A HISTORY OF DANCING A HISTORY OF COSTUME A KEY TO SHAKESPEARE'S SONNETS A STUDY OF THE POETRY OF ERNEST DOWSON ET CETERA",
+    "text": "<|startoftext|> HE HAD WRITTEN A NUMBER OF BOOKS HIMSELF AMONG THEM A HISTORY OF DANCING A HISTORY OF COSTUME A KEY TO SHAKESPEARE'S SONNETS A STUDY OF THE POETRY OF ERNEST DOWSON ET CETERA <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         2885,
@@ -65,7 +66,8 @@
         11782,
         12152,
         46632,
-        46461
+        46461,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

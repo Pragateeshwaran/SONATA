@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0056.flac",
-    "text": "THE LIGHT THROWN DOWN BY THE SHADE FELL DAZZLINGLY ON THE WHITE PILLOW SUNK BY THE WEIGHT OF HER HEAD REPOSING WITH CLOSED EYES AND DARK HAIR DONE UP IN SEVERAL PLAITS FOR THE NIGHT",
+    "text": "<|startoftext|> THE LIGHT THROWN DOWN BY THE SHADE FELL DAZZLINGLY ON THE WHITE PILLOW SUNK BY THE WEIGHT OF HER HEAD REPOSING WITH CLOSED EYES AND DARK HAIR DONE UP IN SEVERAL PLAITS FOR THE NIGHT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         406,
         9947,
@@ -57,7 +58,8 @@
         29722,
         7473,
         3336,
-        37707
+        37707,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

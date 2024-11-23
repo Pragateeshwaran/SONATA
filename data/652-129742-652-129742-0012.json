@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0012.flac",
-    "text": "SALAD TWO CUPS OF APPLES CUT INTO SMALL PIECES ONE CUP CELERY CUT INTO SMALL PIECES ONE CUP ENGLISH WALNUTS",
+    "text": "<|startoftext|> SALAD TWO CUPS OF APPLES CUT INTO SMALL PIECES ONE CUP CELERY CUT INTO SMALL PIECES ONE CUP ENGLISH WALNUTS <|endoftext|>",
     "tokens": [
+        50255,
         50,
         1847,
         2885,
@@ -44,7 +45,8 @@
         1847,
         45,
         3843,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0006.flac",
-    "text": "THEY SEEM VERY IGNORANT POOR THINGS SAID ANOTHER IN REPLY",
+    "text": "<|startoftext|> THEY SEEM VERY IGNORANT POOR THINGS SAID ANOTHER IN REPLY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         7946,
@@ -20,7 +21,8 @@
         31858,
         3268,
         45285,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

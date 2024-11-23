@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0018.flac",
-    "text": "YES DAVID SISTER AND SWEETHEART ANSWERED BRAVELY FORGETTING IN THE FERVOR OF THE MOMENT WHAT HEAVY CONSEQUENCES GOD MIGHT SEE FIT TO SEND GOOD",
+    "text": "<|startoftext|> YES DAVID SISTER AND SWEETHEART ANSWERED BRAVELY FORGETTING IN THE FERVOR OF THE MOMENT WHAT HEAVY CONSEQUENCES GOD MIGHT SEE FIT TO SEND GOOD <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         42274,
         2389,
@@ -52,7 +53,8 @@
         5390,
         311,
         10619,
-        21090
+        21090,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

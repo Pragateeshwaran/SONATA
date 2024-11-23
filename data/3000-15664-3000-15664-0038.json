@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0038.flac",
-    "text": "ASPLENIUM EPILOBIUM HEUCHERA HAZEL DOGWOOD AND ALDER MAKE A LUXURIOUS FRINGE AND SETTING AND THE FORESTS OF DOUGLAS SPRUCE ALONG THE BANKS ARE THE FINEST I HAVE EVER SEEN IN THE SIERRA",
+    "text": "<|startoftext|> ASPLENIUM EPILOBIUM HEUCHERA HAZEL DOGWOOD AND ALDER MAKE A LUXURIOUS FRINGE AND SETTING AND THE FORESTS OF DOUGLAS SPRUCE ALONG THE BANKS ARE THE FINEST I HAVE EVER SEEN IN THE SIERRA <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         6489,
         1677,
@@ -68,7 +69,8 @@
         3336,
         25861,
         1137,
-        3861
+        3861,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

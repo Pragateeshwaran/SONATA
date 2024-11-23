@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0015.flac",
-    "text": "THEY TALKED FOR FOUR HOURS AND HAD NOT THEN SAID HALF THAT WAS IN THEIR HEADS TO SAY",
+    "text": "<|startoftext|> THEY TALKED FOR FOUR HOURS AND HAD NOT THEN SAID HALF THAT WAS IN THEIR HEADS TO SAY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         309,
@@ -28,7 +29,8 @@
         39837,
         50,
         5390,
-        45687
+        45687,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0035.flac",
-    "text": "AND WHAT ALLUREMENTS OR WHAT VANTAGES UPON THE FOREHEAD OF THE OTHERS SHOWED THAT THOU SHOULDST TURN THY FOOTSTEPS UNTO THEM",
+    "text": "<|startoftext|> AND WHAT ALLUREMENTS OR WHAT VANTAGES UPON THE FOREHEAD OF THE OTHERS SHOWED THAT THOU SHOULDST TURN THY FOOTSTEPS UNTO THEM <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         25003,
         11096,
@@ -40,7 +41,8 @@
         3705,
         4725,
         10468,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

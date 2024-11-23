@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147965\\1993-147965-0004.flac",
-    "text": "ALL AFTERNOON HE SAT IN THE DINING ROOM",
+    "text": "<|startoftext|> ALL AFTERNOON HE SAT IN THE DINING ROOM <|endoftext|>",
     "tokens": [
+        50255,
         7036,
         36050,
         15285,
@@ -14,7 +15,8 @@
         1268,
         2751,
         15107,
-        2662
+        2662,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

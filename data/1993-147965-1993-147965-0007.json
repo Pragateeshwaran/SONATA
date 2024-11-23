@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147965\\1993-147965-0007.flac",
-    "text": "HIS FACE HAD A LOOK OF WEARINESS AND PLEASURE LIKE THAT OF SICK PEOPLE WHEN THEY FEEL RELIEF FROM PAIN",
+    "text": "<|startoftext|> HIS FACE HAD A LOOK OF WEARINESS AND PLEASURE LIKE THAT OF SICK PEOPLE WHEN THEY FEEL RELIEF FROM PAIN <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         46587,
@@ -33,7 +34,8 @@
         37,
         16034,
         8147,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

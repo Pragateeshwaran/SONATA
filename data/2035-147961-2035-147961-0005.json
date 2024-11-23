@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0005.flac",
-    "text": "THEY MADE ME THINK OF DEFEATED ARMIES RETREATING OR OF GHOSTS WHO WERE TRYING DESPERATELY TO GET IN FOR SHELTER AND THEN WENT MOANING ON",
+    "text": "<|startoftext|> THEY MADE ME THINK OF DEFEATED ARMIES RETREATING OR OF GHOSTS WHO WERE TRYING DESPERATELY TO GET IN FOR SHELTER AND THEN WENT MOANING ON <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         337,
@@ -47,7 +48,8 @@
         13070,
         1565,
         2751,
-        6177
+        6177,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

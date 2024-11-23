@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0008.flac",
-    "text": "WE COULD NOT EVEN FLY FLY JOHN",
+    "text": "<|startoftext|> WE COULD NOT EVEN FLY FLY JOHN <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         327,
         24010,
@@ -11,7 +12,8 @@
         56,
         9977,
         56,
-        39263
+        39263,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

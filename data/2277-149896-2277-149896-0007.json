@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0007.flac",
-    "text": "HE WOULD SEE HOW THINGS TURNED OUT TO MORROW AND THEN HE WOULD TALK TO HER THEY WERE GOING TO MEET AS USUAL",
+    "text": "<|startoftext|> HE WOULD SEE HOW THINGS TURNED OUT TO MORROW AND THEN HE WOULD TALK TO HER THEY WERE GOING TO MEET AS USUAL <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         370,
         24010,
@@ -36,7 +37,8 @@
         2767,
         7054,
         1294,
-        25620
+        25620,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

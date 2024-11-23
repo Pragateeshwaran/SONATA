@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0047.flac",
-    "text": "THEN CAPTAIN BURGESS CRIED NORTH HIS PALE FACE FLUSHING I TELL YOU THE BOY'S BLOOD WILL BE ON YOUR HEAD",
+    "text": "<|startoftext|> THEN CAPTAIN BURGESS CRIED NORTH HIS PALE FACE FLUSHING I TELL YOU THE BOY'S BLOOD WILL BE ON YOUR HEAD <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         20176,
@@ -36,7 +37,8 @@
         9348,
         6177,
         16592,
-        39837
+        39837,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

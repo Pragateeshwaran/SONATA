@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0030.flac",
-    "text": "THEN DARKNESS LIKE DEATH",
+    "text": "<|startoftext|> THEN DARKNESS LIKE DEATH <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         46455,
         31097,
         34178,
         5550,
-        12599
+        12599,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

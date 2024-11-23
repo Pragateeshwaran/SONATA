@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\24615\\5338-24615-0000.flac",
-    "text": "IT WAS ABOUT NOON WHEN CAPTAIN WAVERLEY ENTERED THE STRAGGLING VILLAGE OR RATHER HAMLET OF TULLY VEOLAN CLOSE TO WHICH WAS SITUATED THE MANSION OF THE PROPRIETOR",
+    "text": "<|startoftext|> IT WAS ABOUT NOON WHEN CAPTAIN WAVERLEY ENTERED THE STRAGGLING VILLAGE OR RATHER HAMLET OF TULLY VEOLAN CLOSE TO WHICH WAS SITUATED THE MANSION OF THE PROPRIETOR <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         33478,
@@ -56,7 +57,8 @@
         3185,
         7112,
         2767,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

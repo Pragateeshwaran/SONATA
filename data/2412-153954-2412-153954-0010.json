@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0010.flac",
-    "text": "THE CHILDREN WERE INFINITE IN NUMBER AND EXCEEDINGLY MERRY I NEED HARDLY SAY THAT THEY CAME IN FOR THEIR FULL SHARE OF THE PREVAILING BEAUTY",
+    "text": "<|startoftext|> THE CHILDREN WERE INFINITE IN NUMBER AND EXCEEDINGLY MERRY I NEED HARDLY SAY THAT THEY CAME IN FOR THEIR FULL SHARE OF THE PREVAILING BEAUTY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         5870,
         4146,
@@ -47,7 +48,8 @@
         2751,
         9348,
         39371,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

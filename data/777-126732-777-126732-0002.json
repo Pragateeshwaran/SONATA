@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0002.flac",
-    "text": "AT BEST THEY CAN ONLY INTERPRET THE MIND OF THE PROPHET AND CAN HAVE NO OBJECTIVE VALUE",
+    "text": "<|startoftext|> AT BEST THEY CAN ONLY INTERPRET THE MIND OF THE PROPHET AND CAN HAVE NO OBJECTIVE VALUE <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         38502,
         33302,
@@ -27,7 +28,8 @@
         23680,
         9306,
         26173,
-        8924
+        8924,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0003.flac",
-    "text": "THE VINE GREW OUTSIDE MANY OF THE HOUSES AND THERE WERE SOME WITH SIGN BOARDS ON WHICH WAS PAINTED A BOTTLE AND A GLASS THAT MADE ME FEEL MUCH AT HOME",
+    "text": "<|startoftext|> THE VINE GREW OUTSIDE MANY OF THE HOUSES AND THERE WERE SOME WITH SIGN BOARDS ON WHICH WAS PAINTED A BOTTLE AND A GLASS THAT MADE ME FEEL MUCH AT HOME <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         569,
         8881,
@@ -49,7 +50,8 @@
         3698,
         45859,
         5161,
-        41779
+        41779,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

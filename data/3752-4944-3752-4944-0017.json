@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0017.flac",
-    "text": "THERE'S NO FEAR OF HIM SAID BURGESS CHEERILY IF HE GROWS UPROARIOUS WE'LL SOON GIVE HIM A TOUCH OF THE CAT",
+    "text": "<|startoftext|> THERE'S NO FEAR OF HIM SAID BURGESS CHEERILY IF HE GROWS UPROARIOUS WE'LL SOON GIVE HIM A TOUCH OF THE CAT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         6,
@@ -42,7 +43,8 @@
         3398,
         3963,
         3336,
-        38348
+        38348,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

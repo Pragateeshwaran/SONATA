@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0021.flac",
-    "text": "I KNEW YOU WOULD GO I SAW YOU GETTING READY AND I MADE UP MY MIND TO FOLLOW",
+    "text": "<|startoftext|> I KNEW YOU WOULD GO I SAW YOU GETTING READY AND I MADE UP MY MIND TO FOLLOW <|endoftext|>",
     "tokens": [
+        50255,
         40,
         509,
         13965,
@@ -27,7 +28,8 @@
         12115,
         5390,
         11895,
-        44765
+        44765,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

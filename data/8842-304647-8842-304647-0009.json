@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0009.flac",
-    "text": "ORGAN OF RUT NOT REASON IS THE LORD WHO FROM THE BODY POLITIC DOTH DRAIN LUST FOR HIMSELF INSTEAD OF TOIL AND PAIN LEAVING US LEAN AS CRICKETS ON DRY SWARD",
+    "text": "<|startoftext|> ORGAN OF RUT NOT REASON IS THE LORD WHO FROM THE BODY POLITIC DOTH DRAIN LUST FOR HIMSELF INSTEAD OF TOIL AND PAIN LEAVING US LEAN AS CRICKETS ON DRY SWARD <|endoftext|>",
     "tokens": [
+        50255,
         1581,
         45028,
         3963,
@@ -54,7 +55,8 @@
         10560,
         56,
         12672,
-        9795
+        9795,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

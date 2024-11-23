@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0016.flac",
-    "text": "A LITTLE LONGER AND SHE WAS COMPELLED TO YIELD AND THE SILENT TEARS FLOWED FREELY",
+    "text": "<|startoftext|> A LITTLE LONGER AND SHE WAS COMPELLED TO YIELD AND THE SILENT TEARS FLOWED FREELY <|endoftext|>",
     "tokens": [
+        50255,
         32,
         406,
         22470,
@@ -28,7 +29,8 @@
         3913,
         1961,
         44253,
-        30943
+        30943,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

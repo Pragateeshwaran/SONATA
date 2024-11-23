@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0001.flac",
-    "text": "WHAT BANKRUPTS IN THE WORLD WE FEEL WHEN DEATH LIKE SOME REMORSELESS CREDITOR SEIZES ON ALL WE FONDLY THOUGHT OUR OWN THE TWINS",
+    "text": "<|startoftext|> WHAT BANKRUPTS IN THE WORLD WE FEEL WHEN DEATH LIKE SOME REMORSELESS CREDITOR SEIZES ON ALL WE FONDLY THOUGHT OUR OWN THE TWINS <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         347,
         15154,
@@ -43,7 +44,8 @@
         47672,
         3336,
         17306,
-        20913
+        20913,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

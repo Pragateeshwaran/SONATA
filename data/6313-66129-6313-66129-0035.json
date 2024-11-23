@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0035.flac",
-    "text": "AS A RESULT INSTEAD OF STOPPING WHEN HE REACHED THE HAT THE BOY KEPT ON GOING",
+    "text": "<|startoftext|> AS A RESULT INSTEAD OF STOPPING WHEN HE REACHED THE HAT THE BOY KEPT ON GOING <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         317,
         15731,
@@ -29,7 +30,8 @@
         51,
         6177,
         10351,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

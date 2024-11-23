@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0037.flac",
-    "text": "THERE WAS A RUSH OF RETREATING FEET AN EXPOSTULATING VOICE THEN DARKNESS AGAIN AND SILENCE",
+    "text": "<|startoftext|> THERE WAS A RUSH OF RETREATING FEET AN EXPOSTULATING VOICE THEN DARKNESS AGAIN AND SILENCE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         21725,
@@ -28,7 +29,8 @@
         1268,
         5357,
         47551,
-        18310
+        18310,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

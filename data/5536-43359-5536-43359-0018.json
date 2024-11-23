@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0018.flac",
-    "text": "THIS BOND IS BETWEEN MAN AND MAN IS USUALLY FORMED IN EARLY YOUTH AND CAN ONLY BE BROKEN BY DEATH",
+    "text": "<|startoftext|> THIS BOND IS BETWEEN MAN AND MAN IS USUALLY FORMED IN EARLY YOUTH AND CAN ONLY BE BROKEN BY DEATH <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         347,
         18672,
@@ -32,7 +33,8 @@
         1677,
         11050,
         5550,
-        12599
+        12599,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

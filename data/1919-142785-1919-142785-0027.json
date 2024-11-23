@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0027.flac",
-    "text": "BEAT THE YOLKS OF THE OTHER TWO EGGS ADD THEM WITH A LITTLE FLOUR AND SALT TO THOSE POUNDED MIX ALL WELL TOGETHER AND ROLL INTO BALLS",
+    "text": "<|startoftext|> BEAT THE YOLKS OF THE OTHER TWO EGGS ADD THEM WITH A LITTLE FLOUR AND SALT TO THOSE POUNDED MIX ALL WELL TOGETHER AND ROLL INTO BALLS <|endoftext|>",
     "tokens": [
+        50255,
         12473,
         1404,
         3336,
@@ -46,7 +47,8 @@
         3069,
         39319,
         48091,
-        6561
+        6561,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

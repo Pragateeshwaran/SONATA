@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0010.flac",
-    "text": "WHAT HAPPIER FUTURE COULD AWAIT HER ESPECIALLY IF SHE JUSTIFIED RANDAL'S PAST EXPERIENCE OF ALL THAT WAS CANDID AND TRUTHFUL IN HER CHARACTER THAN TO BECOME HIS FRIEND'S WIFE",
+    "text": "<|startoftext|> WHAT HAPPIER FUTURE COULD AWAIT HER ESPECIALLY IF SHE JUSTIFIED RANDAL'S PAST EXPERIENCE OF ALL THAT WAS CANDID AND TRUTHFUL IN HER CHARACTER THAN TO BECOME HIS FRIEND'S WIFE <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         367,
         2969,
@@ -61,7 +62,8 @@
         6,
         50,
         370,
-        29150
+        29150,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

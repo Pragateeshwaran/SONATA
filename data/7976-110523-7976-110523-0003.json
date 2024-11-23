@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0003.flac",
-    "text": "BUT SHE LEFT HIM NO PEACE TILL HE CONSENTED SAYING AH BUT I SHALL MISS THE POOR CHILDREN",
+    "text": "<|startoftext|> BUT SHE LEFT HIM NO PEACE TILL HE CONSENTED SAYING AH BUT I SHALL MISS THE POOR CHILDREN <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         48052,
         12509,
@@ -29,7 +30,8 @@
         5870,
         4146,
         7707,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

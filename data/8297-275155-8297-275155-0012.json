@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0012.flac",
-    "text": "YOU ARE TO UNDERSTAND THAT CATHERINE IS A WIDOW",
+    "text": "<|startoftext|> YOU ARE TO UNDERSTAND THAT CATHERINE IS A WIDOW <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         15986,
         5390,
@@ -16,7 +17,8 @@
         317,
         370,
         2389,
-        3913
+        3913,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

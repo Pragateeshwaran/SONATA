@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0012.flac",
-    "text": "THE OLD MAN'S EYES REMAINED FIXED ON THE DOOR",
+    "text": "<|startoftext|> THE OLD MAN'S EYES REMAINED FIXED ON THE DOOR <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         440,
         11163,
@@ -18,7 +19,8 @@
         6177,
         3336,
         8410,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

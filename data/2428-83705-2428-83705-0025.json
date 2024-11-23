@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0025.flac",
-    "text": "I HAVE DRAWN UP A LIST OF ALL THE PEOPLE WHO OUGHT TO GIVE US A PRESENT AND I SHALL TELL THEM WHAT THEY OUGHT TO GIVE IT WON'T BE MY FAULT IF I DON'T GET IT",
+    "text": "<|startoftext|> I HAVE DRAWN UP A LIST OF ALL THE PEOPLE WHO OUGHT TO GIVE US A PRESENT AND I SHALL TELL THEM WHAT THEY OUGHT TO GIVE IT WON'T BE MY FAULT IF I DON'T GET IT <|endoftext|>",
     "tokens": [
+        50255,
         40,
         21515,
         360,
@@ -54,7 +55,8 @@
         6,
         51,
         17151,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

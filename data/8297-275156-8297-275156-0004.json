@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0004.flac",
-    "text": "SUPPOSING THE REPORT HAD BEEN TRUE",
+    "text": "<|startoftext|> SUPPOSING THE REPORT HAD BEEN TRUE <|endoftext|>",
     "tokens": [
+        50255,
         40331,
         37997,
         2751,
@@ -11,7 +12,8 @@
         2885,
         9348,
         1677,
-        26751
+        26751,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

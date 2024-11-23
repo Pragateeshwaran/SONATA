@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0000.flac",
-    "text": "WHEN SHE SAID GOOD NIGHT TO BEENIE AND WENT TO HER CHAMBER OVER THAT WHERE THE LOVED PARENT AND FRIEND WOULD FALL ASLEEP NO MORE SHE FELT AS IF SHE WENT WALKING ALONG TO HER TOMB",
+    "text": "<|startoftext|> WHEN SHE SAID GOOD NIGHT TO BEENIE AND WENT TO HER CHAMBER OVER THAT WHERE THE LOVED PARENT AND FRIEND WOULD FALL ASLEEP NO MORE SHE FELT AS IF SHE WENT WALKING ALONG TO HER TOMB <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         48052,
@@ -59,7 +60,8 @@
         5390,
         24906,
         41526,
-        33
+        33,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

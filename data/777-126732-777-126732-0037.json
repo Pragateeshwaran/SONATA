@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0037.flac",
-    "text": "THE DISDAINFUL POUT OF COMRADE OSSIPON'S THICK LIPS ACCENTUATED THE NEGRO TYPE OF HIS FACE",
+    "text": "<|startoftext|> THE DISDAINFUL POUT OF COMRADE OSSIPON'S THICK LIPS ACCENTUATED THE NEGRO TYPE OF HIS FACE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         13954,
         5631,
@@ -34,7 +35,8 @@
         41876,
         3963,
         33700,
-        46587
+        46587,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

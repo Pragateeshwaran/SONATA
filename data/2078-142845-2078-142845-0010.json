@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0010.flac",
-    "text": "ITALIAN MILLET OR GREAT INDIAN MILLET IS CULTIVATED IN EGYPT AND NUBIA WHERE IT IS CALLED DHOURRA AND IS USED AS HUMAN FOOD AS WELL AS FOR THE FERMENTATION OF BEER",
+    "text": "<|startoftext|> ITALIAN MILLET OR GREAT INDIAN MILLET IS CULTIVATED IN EGYPT AND NUBIA WHERE IT IS CALLED DHOURRA AND IS USED AS HUMAN FOOD AS WELL AS FOR THE FERMENTATION OF BEER <|endoftext|>",
     "tokens": [
+        50255,
         40579,
         16868,
         31515,
@@ -55,7 +56,8 @@
         6234,
         3963,
         9348,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

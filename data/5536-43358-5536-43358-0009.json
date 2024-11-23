@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0009.flac",
-    "text": "WHEN HE RETURNED TO THE CAMP HE MUST REMAIN AT A DISTANCE UNTIL HE HAD AGAIN ENTERED THE VAPOR BATH AND PREPARED HIMSELF FOR INTERCOURSE WITH HIS FELLOWS",
+    "text": "<|startoftext|> WHEN HE RETURNED TO THE CAMP HE MUST REMAIN AT A DISTANCE UNTIL HE HAD AGAIN ENTERED THE VAPOR BATH AND PREPARED HIMSELF FOR INTERCOURSE WITH HIS FELLOWS <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         11179,
@@ -53,7 +54,8 @@
         33700,
         18630,
         3069,
-        22845
+        22845,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

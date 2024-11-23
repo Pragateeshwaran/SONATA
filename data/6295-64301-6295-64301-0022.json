@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0022.flac",
-    "text": "HAST THOU YET TO LEARN THAT THE LOVE OF THE HUMAN IS LOVE IS DIVINE IS BUT A LOWER FORM OF A PART OF THE LOVE OF GOD",
+    "text": "<|startoftext|> HAST THOU YET TO LEARN THAT THE LOVE OF THE HUMAN IS LOVE IS DIVINE IS BUT A LOWER FORM OF A PART OF THE LOVE OF GOD <|endoftext|>",
     "tokens": [
+        50255,
         39,
         11262,
         2320,
@@ -38,7 +39,8 @@
         3336,
         27889,
         3963,
-        29562
+        29562,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

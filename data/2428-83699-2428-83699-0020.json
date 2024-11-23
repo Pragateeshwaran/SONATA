@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0020.flac",
-    "text": "WHEN THE TRAP DID APPEAR IT LOOKED TO ME UNCOMMONLY LIKE AN OPEN SPRING CART",
+    "text": "<|startoftext|> WHEN THE TRAP DID APPEAR IT LOOKED TO ME UNCOMMONLY LIKE AN OPEN SPRING CART <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         3336,
@@ -26,7 +27,8 @@
         49068,
         2751,
         327,
-        7227
+        7227,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

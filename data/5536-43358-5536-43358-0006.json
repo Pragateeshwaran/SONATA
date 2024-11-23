@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0006.flac",
-    "text": "THE FIRST BAMBEDAY OR RELIGIOUS RETREAT MARKED AN EPOCH IN THE LIFE OF THE YOUTH WHICH MAY BE COMPARED TO THAT OF CONFIRMATION OR CONVERSION IN CHRISTIAN EXPERIENCE",
+    "text": "<|startoftext|> THE FIRST BAMBEDAY OR RELIGIOUS RETREAT MARKED AN EPOCH IN THE LIFE OF THE YOUTH WHICH MAY BE COMPARED TO THAT OF CONFIRMATION OR CONVERSION IN CHRISTIAN EXPERIENCE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         31328,
         347,
@@ -52,7 +53,8 @@
         16868,
         7788,
         18973,
-        42589
+        42589,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

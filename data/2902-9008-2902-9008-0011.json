@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0011.flac",
-    "text": "THERE IS FRUIT WITH LENTILS AND RICE WAITING FOR YOU IN THE NEXT ROOM AND BREAD UNLESS YOU DESPISE IT TOO MUCH",
+    "text": "<|startoftext|> THERE IS FRUIT WITH LENTILS AND RICE WAITING FOR YOU IN THE NEXT ROOM AND BREAD UNLESS YOU DESPISE IT TOO MUCH <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         3180,
@@ -37,7 +38,8 @@
         7283,
         5390,
         46,
-        45859
+        45859,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0021.flac",
-    "text": "IT WAS A DIFFERENT HARRY WHO STARTED HOME LATE IN APRIL",
+    "text": "<|startoftext|> IT WAS A DIFFERENT HARRY WHO STARTED HOME LATE IN APRIL <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         317,
@@ -19,7 +20,8 @@
         6158,
         3268,
         40410,
-        4146
+        4146,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

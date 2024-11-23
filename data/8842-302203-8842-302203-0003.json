@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0003.flac",
-    "text": "WHEN BEING AROUSED I OPENED MINE EYES AND KNEW THAT IT HAD BEEN A DECEPTION",
+    "text": "<|startoftext|> WHEN BEING AROUSED I OPENED MINE EYES AND KNEW THAT IT HAD BEEN A DECEPTION <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         9348,
@@ -28,7 +29,8 @@
         317,
         27196,
         8905,
-        24131
+        24131,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

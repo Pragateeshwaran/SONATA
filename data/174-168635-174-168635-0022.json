@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0022.flac",
-    "text": "HE WAS THAT CHILD'S STAY AND SHE WAS HIS PROP",
+    "text": "<|startoftext|> HE WAS THAT CHILD'S STAY AND SHE WAS HIS PROP <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         14603,
@@ -16,7 +17,8 @@
         21725,
         33700,
         4810,
-        3185
+        3185,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

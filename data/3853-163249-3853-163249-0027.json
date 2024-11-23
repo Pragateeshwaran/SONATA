@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0027.flac",
-    "text": "FINDING THAT LISHA SHOWED LITTLE ENTHUSIASM ON THE SUBJECT SHE TRIED TO ROUSE HIM BY PATRIOTIC APPEALS OF VARIOUS SORTS",
+    "text": "<|startoftext|> FINDING THAT LISHA SHOWED LITTLE ENTHUSIASM ON THE SUBJECT SHE TRIED TO ROUSE HIM BY PATRIOTIC APPEALS OF VARIOUS SORTS <|endoftext|>",
     "tokens": [
+        50255,
         37,
         12115,
         2751,
@@ -44,7 +45,8 @@
         33604,
         20958,
         311,
-        33002
+        33002,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

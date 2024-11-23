@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0007.flac",
-    "text": "THE OTHER WAS A GIRL THREE YEARS YOUNGER AND NEWSOME INSISTED THAT SHE BE CALLED MINNETAKI",
+    "text": "<|startoftext|> THE OTHER WAS A GIRL THREE YEARS YOUNGER AND NEWSOME INSISTED THAT SHE BE CALLED MINNETAKI <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         25401,
         21725,
@@ -29,7 +30,8 @@
         20625,
         12884,
         10206,
-        40
+        40,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

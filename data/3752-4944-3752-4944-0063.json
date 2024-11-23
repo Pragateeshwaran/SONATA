@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0063.flac",
-    "text": "IT RELIEVED HIM FOR A WHILE",
+    "text": "<|startoftext|> IT RELIEVED HIM FOR A WHILE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         29749,
         10008,
@@ -11,7 +12,8 @@
         7473,
         317,
         7655,
-        41119
+        41119,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

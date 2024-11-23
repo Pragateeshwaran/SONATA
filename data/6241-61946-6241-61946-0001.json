@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0001.flac",
-    "text": "HANS OUR EXTRAORDINARY GUIDE WENT FIRST WALKING WITH A STEADY RAPID UNVARYING STEP",
+    "text": "<|startoftext|> HANS OUR EXTRAORDINARY GUIDE WENT FIRST WALKING WITH A STEADY RAPID UNVARYING STEP <|endoftext|>",
     "tokens": [
+        50255,
         39,
         15037,
         30229,
@@ -30,7 +31,8 @@
         53,
         13153,
         2751,
-        49154
+        49154,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

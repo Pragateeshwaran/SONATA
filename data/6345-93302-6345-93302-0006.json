@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0006.flac",
-    "text": "THE SETTING OF THE SCENE SEEMED TO HER ALL IMPORTANT",
+    "text": "<|startoftext|> THE SETTING OF THE SCENE SEEMED TO HER ALL IMPORTANT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         25823,
         48996,
@@ -17,7 +18,8 @@
         11096,
         30023,
         9863,
-        8643
+        8643,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

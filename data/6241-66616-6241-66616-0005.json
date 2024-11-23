@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0005.flac",
-    "text": "FROM THAT HOUR DATED ONE OF THE MOST SANGUINARY FEUDS IN THE HISTORY OF THE GREAT TRADING COMPANY A FEUD WHICH AS WE SHALL SEE WAS DESTINED TO LIVE EVEN UNTO THE SECOND GENERATION",
+    "text": "<|startoftext|> FROM THAT HOUR DATED ONE OF THE MOST SANGUINARY FEUDS IN THE HISTORY OF THE GREAT TRADING COMPANY A FEUD WHICH AS WE SHALL SEE WAS DESTINED TO LIVE EVEN UNTO THE SECOND GENERATION <|endoftext|>",
     "tokens": [
+        50255,
         10913,
         2662,
         14603,
@@ -58,7 +59,8 @@
         18672,
         24700,
         1137,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

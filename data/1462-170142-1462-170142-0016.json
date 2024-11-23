@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0016.flac",
-    "text": "I AM NOT A MAN WHO CAN LIVE TWO LIVES HE WENT ON FEVERISHLY EACH LIFE SPOILS THE OTHER",
+    "text": "<|startoftext|> I AM NOT A MAN WHO CAN LIVE TWO LIVES HE WENT ON FEVERISHLY EACH LIFE SPOILS THE OTHER <|endoftext|>",
     "tokens": [
+        50255,
         40,
         3001,
         5626,
@@ -29,7 +30,8 @@
         46,
         45484,
         3336,
-        25401
+        25401,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

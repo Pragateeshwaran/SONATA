@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0029.flac",
-    "text": "IT WAS A COMFORT TO HER WHEN SCOLDED BY MISS SIMMONDS TO THINK OF THE DAY WHEN SHE WOULD DRIVE UP TO THE DOOR IN HER OWN CARRIAGE TO ORDER HER GOWNS FROM THE HASTY TEMPERED YET KIND DRESSMAKER",
+    "text": "<|startoftext|> IT WAS A COMFORT TO HER WHEN SCOLDED BY MISS SIMMONDS TO THINK OF THE DAY WHEN SHE WOULD DRIVE UP TO THE DOOR IN HER OWN CARRIAGE TO ORDER HER GOWNS FROM THE HASTY TEMPERED YET KIND DRESSMAKER <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         317,
@@ -64,7 +65,8 @@
         10560,
         7597,
         5673,
-        42839
+        42839,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

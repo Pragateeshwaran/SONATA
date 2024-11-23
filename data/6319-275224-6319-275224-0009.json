@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\275224\\6319-275224-0009.flac",
-    "text": "INDEED NOT A FLOWER ESCAPED HIS MISCHIEVOUS SUGGESTIONS",
+    "text": "<|startoftext|> INDEED NOT A FLOWER ESCAPED HIS MISCHIEVOUS SUGGESTIONS <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         7206,
         1961,
@@ -22,7 +23,8 @@
         7340,
         38,
         6465,
-        11053
+        11053,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

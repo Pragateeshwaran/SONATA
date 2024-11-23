@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0025.flac",
-    "text": "OTHERS HAD DIED BEFORE DURING THE TWENTIES AND DEATH DURING THE LAST ROUND WAS IN SOME WAYS EASIER THAN DEFEAT",
+    "text": "<|startoftext|> OTHERS HAD DIED BEFORE DURING THE TWENTIES AND DEATH DURING THE LAST ROUND WAS IN SOME WAYS EASIER THAN DEFEAT <|endoftext|>",
     "tokens": [
+        50255,
         26946,
         4877,
         367,
@@ -38,7 +39,8 @@
         1565,
         5550,
         15112,
-        1404
+        1404,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

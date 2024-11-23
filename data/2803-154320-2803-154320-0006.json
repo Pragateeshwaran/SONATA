@@ -1,11 +1,13 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0006.flac",
-    "text": "WHAT THEN MY LORD",
+    "text": "<|startoftext|> WHAT THEN MY LORD <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         42243,
         17615,
-        35750
+        35750,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0011.flac",
-    "text": "BUT THE FACES OF THE MEN WERE ROSY AND THE GOBLETS BY THEM HAD A FEW DROPS OF WINE LEFT",
+    "text": "<|startoftext|> BUT THE FACES OF THE MEN WERE ROSY AND THE GOBLETS BY THEM HAD A FEW DROPS OF WINE LEFT <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         3336,
         44216,
@@ -32,7 +33,8 @@
         370,
         8881,
         12509,
-        9792
+        9792,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

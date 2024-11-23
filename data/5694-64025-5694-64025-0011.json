@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0011.flac",
-    "text": "I HAD BEEN FEELING MEAN ALL THE MORNING AS IF I HAD STOLEN A SHEEP BUT WHEN THE ORDER TO CHARGE WAS GIVEN I GOT HAPPY",
+    "text": "<|startoftext|> I HAD BEEN FEELING MEAN ALL THE MORNING AS IF I HAD STOLEN A SHEEP BUT WHEN THE ORDER TO CHARGE WAS GIVEN I GOT HAPPY <|endoftext|>",
     "tokens": [
+        50255,
         40,
         367,
         2885,
@@ -42,7 +43,8 @@
         41725,
         367,
         24805,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

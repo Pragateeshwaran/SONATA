@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0024.flac",
-    "text": "THAT WILL DO MISSUS PRESTY YOUR DEFENSE IS THOROUGHLY WORTHY OF YOUR CONDUCT IN ALL OTHER RESPECTS",
+    "text": "<|startoftext|> THAT WILL DO MISSUS PRESTY YOUR DEFENSE IS THOROUGHLY WORTHY OF YOUR CONDUCT IN ALL OTHER RESPECTS <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         17682,
@@ -33,7 +34,8 @@
         25401,
         47203,
         2943,
-        4694
+        4694,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

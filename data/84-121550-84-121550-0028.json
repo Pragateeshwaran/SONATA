@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0028.flac",
-    "text": "YE KEEP YOUR WATCH IN THE ETERNAL DAY SO THAT NOR NIGHT NOR SLEEP CAN STEAL FROM YOU ONE STEP THE AGES MAKE UPON THEIR PATH",
+    "text": "<|startoftext|> YE KEEP YOUR WATCH IN THE ETERNAL DAY SO THAT NOR NIGHT NOR SLEEP CAN STEAL FROM YOU ONE STEP THE AGES MAKE UPON THEIR PATH <|endoftext|>",
     "tokens": [
+        50255,
         48743,
         509,
         35238,
@@ -35,7 +36,8 @@
         15958,
         1340,
         47278,
-        46490
+        46490,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

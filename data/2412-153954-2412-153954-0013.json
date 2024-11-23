@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0013.flac",
-    "text": "I SAW A FEW SHEEP WITH ROUNDED NOSES AND ENORMOUS TAILS",
+    "text": "<|startoftext|> I SAW A FEW SHEEP WITH ROUNDED NOSES AND ENORMOUS TAILS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         311,
         12298,
@@ -23,7 +24,8 @@
         44,
         20958,
         21664,
-        45484
+        45484,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

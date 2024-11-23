@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0019.flac",
-    "text": "DON'T JEM PLEASE DON'T WHISPERED SHE AGAIN BELIEVING THAT HIS SILENCE WAS ONLY ANOTHER FORM OF GRIEF",
+    "text": "<|startoftext|> DON'T JEM PLEASE DON'T WHISPERED SHE AGAIN BELIEVING THAT HIS SILENCE WAS ONLY ANOTHER FORM OF GRIEF <|endoftext|>",
     "tokens": [
+        50255,
         41173,
         6,
         51,
@@ -34,7 +35,8 @@
         3963,
         402,
         7112,
-        25425
+        25425,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

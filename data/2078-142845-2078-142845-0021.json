@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0021.flac",
-    "text": "SOUR MILK OR BUTTERMILK MAY BE USED BUT THEN A LITTLE LESS ACID WILL BE NEEDED",
+    "text": "<|startoftext|> SOUR MILK OR BUTTERMILK MAY BE USED BUT THEN A LITTLE LESS ACID WILL BE NEEDED <|endoftext|>",
     "tokens": [
+        50255,
         50,
         11698,
         31515,
@@ -29,7 +30,8 @@
         17682,
         9348,
         36465,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

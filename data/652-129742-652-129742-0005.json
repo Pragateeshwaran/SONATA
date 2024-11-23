@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\129742\\652-129742-0005.flac",
-    "text": "BEAT UNTIL THOROUGHLY MIXED POUR OVER THE CABBAGE AND TOSS LIGHTLY UNTIL UNIFORMLY SEASONED",
+    "text": "<|startoftext|> BEAT UNTIL THOROUGHLY MIXED POUR OVER THE CABBAGE AND TOSS LIGHTLY UNTIL UNIFORMLY SEASONED <|endoftext|>",
     "tokens": [
+        50255,
         12473,
         1404,
         4725,
@@ -40,7 +41,8 @@
         56,
         7946,
         36033,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

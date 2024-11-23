@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0068.flac",
-    "text": "THAT BOY HEARS TOO MUCH OF WHAT IS TALKED ABOUT HERE",
+    "text": "<|startoftext|> THAT BOY HEARS TOO MUCH OF WHAT IS TALKED ABOUT HERE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1404,
         16494,
@@ -18,7 +19,8 @@
         28082,
         1961,
         33478,
-        15698
+        15698,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

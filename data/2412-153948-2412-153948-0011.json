@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153948\\2412-153948-0011.flac",
-    "text": "SO LONELY AND SO SOLEMN WITH THE SAD GREY CLOUDS ABOVE AND NO SOUND SAVE A LOST LAMB BLEATING UPON THE MOUNTAIN SIDE AS THOUGH ITS LITTLE HEART WERE BREAKING",
+    "text": "<|startoftext|> SO LONELY AND SO SOLEMN WITH THE SAD GREY CLOUDS ABOVE AND NO SOUND SAVE A LOST LAMB BLEATING UPON THE MOUNTAIN SIDE AS THOUGH ITS LITTLE HEART WERE BREAKING <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         406,
         1340,
@@ -58,7 +59,8 @@
         370,
         9338,
         29377,
-        43602
+        43602,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

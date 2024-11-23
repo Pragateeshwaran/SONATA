@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0037.flac",
-    "text": "THE VIVID GREEN OF THE BOULDERS BENEATH THE WATER IS VERY STRIKING AND COLORS THE ENTIRE STREAM WITH THE EXCEPTION OF THE PORTIONS BROKEN INTO FOAM",
+    "text": "<|startoftext|> THE VIVID GREEN OF THE BOULDERS BENEATH THE WATER IS VERY STRIKING AND COLORS THE ENTIRE STREAM WITH THE EXCEPTION OF THE PORTIONS BROKEN INTO FOAM <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         569,
         3824,
@@ -46,7 +47,8 @@
         1677,
         39319,
         11895,
-        2390
+        2390,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

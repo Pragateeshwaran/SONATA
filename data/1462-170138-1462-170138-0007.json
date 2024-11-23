@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0007.flac",
-    "text": "AS THEY SAT DOWN A BURST OF APPLAUSE DREW ALEXANDER'S ATTENTION TO THE STAGE",
+    "text": "<|startoftext|> AS THEY SAT DOWN A BURST OF APPLAUSE DREW ALEXANDER'S ATTENTION TO THE STAGE <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         33302,
         29020,
@@ -27,7 +28,8 @@
         5390,
         3336,
         3563,
-        11879
+        11879,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\302203\\8842-302203-0005.flac",
-    "text": "AND THEREWITHAL SUCH A BEWILDERMENT POSSESS'D ME THAT I SHUT MINE EYES FOR PEACE AND IN MY BRAIN DID CEASE ORDER OF THOUGHT AND EVERY HEALTHFUL THING",
+    "text": "<|startoftext|> AND THEREWITHAL SUCH A BEWILDERMENT POSSESS'D ME THAT I SHUT MINE EYES FOR PEACE AND IN MY BRAIN DID CEASE ORDER OF THOUGHT AND EVERY HEALTHFUL THING <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         2320,
         1137,
@@ -53,7 +54,8 @@
         40818,
         46476,
         2320,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

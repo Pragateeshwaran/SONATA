@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0044.flac",
-    "text": "BOIL FOR FIVE MINUTES MINCE IT VERY SMALL AND MIX IT WITH THE OTHER INGREDIENTS",
+    "text": "<|startoftext|> BOIL FOR FIVE MINUTES MINCE IT VERY SMALL AND MIX IT WITH THE OTHER INGREDIENTS <|endoftext|>",
     "tokens": [
+        50255,
         8202,
         4146,
         7473,
@@ -27,7 +28,8 @@
         10761,
         1961,
         40,
-        15365
+        15365,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

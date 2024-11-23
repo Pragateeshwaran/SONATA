@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0002.flac",
-    "text": "SHE BLUSHED AND SMILED AND FUMBLED HIS CARD IN HER CONFUSION BEFORE SHE RAN UPSTAIRS",
+    "text": "<|startoftext|> SHE BLUSHED AND SMILED AND FUMBLED HIS CARD IN HER CONFUSION BEFORE SHE RAN UPSTAIRS <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         9878,
@@ -31,7 +32,8 @@
         15958,
         2257,
         42149,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0001.flac",
-    "text": "THEY HAD ONE NIGHT IN WHICH TO PREPARE FOR DEATH",
+    "text": "<|startoftext|> THEY HAD ONE NIGHT IN WHICH TO PREPARE FOR DEATH <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         367,
@@ -17,7 +18,8 @@
         12203,
         7473,
         5550,
-        12599
+        12599,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

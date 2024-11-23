@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0018.flac",
-    "text": "LET BUT A MOOD BE STRONG ENOUGH AND THE SOUL CLOTHING ITSELF IN THAT MOOD AS WITH A GARMENT CAN WALK ABROAD AND HAUNT THE WORLD",
+    "text": "<|startoftext|> LET BUT A MOOD BE STRONG ENOUGH AND THE SOUL CLOTHING ITSELF IN THAT MOOD AS WITH A GARMENT CAN WALK ABROAD AND HAUNT THE WORLD <|endoftext|>",
     "tokens": [
+        50255,
         28882,
         21728,
         317,
@@ -42,7 +43,8 @@
         4944,
         51,
         3336,
-        29564
+        29564,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

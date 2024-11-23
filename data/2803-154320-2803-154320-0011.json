@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0011.flac",
-    "text": "THINK OF LADY GLENARVAN THINK OF MARY GRANT",
+    "text": "<|startoftext|> THINK OF LADY GLENARVAN THINK OF MARY GRANT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         17248,
         3963,
@@ -19,7 +20,8 @@
         337,
         13153,
         10863,
-        8643
+        8643,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

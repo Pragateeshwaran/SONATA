@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0013.flac",
-    "text": "IT WAS INDEED DANCING ON A VOLCANO",
+    "text": "<|startoftext|> IT WAS INDEED DANCING ON A VOLCANO <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         3268,
@@ -14,7 +15,8 @@
         317,
         38570,
         44565,
-        46
+        46,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

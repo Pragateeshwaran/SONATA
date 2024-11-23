@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130737\\652-130737-0002.flac",
-    "text": "WITH ENTREES SERVE CLARETS OR OTHER RED WINES SUCH AS SWISS BORDEAUX HUNGARIAN OR ITALIAN WINES",
+    "text": "<|startoftext|> WITH ENTREES SERVE CLARETS OR OTHER RED WINES SUCH AS SWISS BORDEAUX HUNGARIAN OR ITALIAN WINES <|endoftext|>",
     "tokens": [
+        50255,
         54,
         10554,
         47353,
@@ -36,7 +37,8 @@
         1847,
         16868,
         25779,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

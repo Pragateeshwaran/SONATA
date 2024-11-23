@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0017.flac",
-    "text": "WHEN HE AND I HAPPENED TO BE LEFT TOGETHER HE NATURALLY WONDERED AFTER HAVING SEEN THE BEAUTIFUL WIFE WHERE THE LUCKY HUSBAND MIGHT BE",
+    "text": "<|startoftext|> WHEN HE AND I HAPPENED TO BE LEFT TOGETHER HE NATURALLY WONDERED AFTER HAVING SEEN THE BEAUTIFUL WIFE WHERE THE LUCKY HUSBAND MIGHT BE <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         11179,
@@ -49,7 +50,8 @@
         6981,
         337,
         9947,
-        9348
+        9348,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

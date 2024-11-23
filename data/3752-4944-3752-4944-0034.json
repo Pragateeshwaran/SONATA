@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0034.flac",
-    "text": "I SHALL FIND MY PORTMANTEAU IN MY ROOM YOU SAID YES YES",
+    "text": "<|startoftext|> I SHALL FIND MY PORTMANTEAU IN MY ROOM YOU SAID YES YES <|endoftext|>",
     "tokens": [
+        50255,
         40,
         50163,
         376,
@@ -21,7 +22,8 @@
         14719,
         2389,
         21560,
-        21560
+        21560,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

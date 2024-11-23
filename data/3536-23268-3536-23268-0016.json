@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0016.flac",
-    "text": "MISS WOODLEY OBEDIENTLY SAT DOWN AND THOUGH HER THOUGHTS AND HEART WERE IN THE CHAMBER OF HER FRIEND SHE NEVER MARKED BY ONE IMPERTINENT WORD OR BY ONE LINE OF HER FACE THE RESTRAINT SHE SUFFERED",
+    "text": "<|startoftext|> MISS WOODLEY OBEDIENTLY SAT DOWN AND THOUGH HER THOUGHTS AND HEART WERE IN THE CHAMBER OF HER FRIEND SHE NEVER MARKED BY ONE IMPERTINENT WORD OR BY ONE LINE OF HER FACE THE RESTRAINT SHE SUFFERED <|endoftext|>",
     "tokens": [
+        50255,
         44,
         16744,
         370,
@@ -60,7 +61,8 @@
         48052,
         13558,
         45746,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

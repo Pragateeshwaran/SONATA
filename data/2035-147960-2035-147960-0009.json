@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0009.flac",
-    "text": "LOOK TONY THAT'S HIS POISON I SAID",
+    "text": "<|startoftext|> LOOK TONY THAT'S HIS POISON I SAID <|endoftext|>",
     "tokens": [
+        50255,
         43,
         15308,
         309,
@@ -14,7 +15,8 @@
         39960,
         314,
         14719,
-        2389
+        2389,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

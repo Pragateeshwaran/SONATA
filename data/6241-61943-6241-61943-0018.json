@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0018.flac",
-    "text": "NOW HARRY SAID MY UNCLE RUBBING HIS HANDS AN GOES WELL THE WORSE DIFFICULTY IS NOW OVER",
+    "text": "<|startoftext|> NOW HARRY SAID MY UNCLE RUBBING HIS HANDS AN GOES WELL THE WORSE DIFFICULTY IS NOW OVER <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         43638,
         18276,
@@ -33,7 +34,8 @@
         9936,
         3180,
         20229,
-        28729
+        28729,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

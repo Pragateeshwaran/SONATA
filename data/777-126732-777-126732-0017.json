@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0017.flac",
-    "text": "VERY CHARACTERISTIC PERFECTLY TYPICAL",
+    "text": "<|startoftext|> VERY CHARACTERISTIC PERFECTLY TYPICAL <|endoftext|>",
     "tokens": [
+        50255,
         5959,
         56,
         28521,
@@ -15,7 +16,8 @@
         11319,
         24412,
         47,
-        20151
+        20151,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

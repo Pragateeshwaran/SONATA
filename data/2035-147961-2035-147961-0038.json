@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0038.flac",
-    "text": "THE LOSS OF HIS TWO FRIENDS HAD A DEPRESSING EFFECT UPON OLD MISTER SHIMERDA",
+    "text": "<|startoftext|> THE LOSS OF HIS TWO FRIENDS HAD A DEPRESSING EFFECT UPON OLD MISTER SHIMERDA <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         406,
         18420,
@@ -28,7 +29,8 @@
         6006,
         3955,
         1137,
-        5631
+        5631,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

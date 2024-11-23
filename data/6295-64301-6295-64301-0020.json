@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0020.flac",
-    "text": "NOR WAS THIS EXACTLY THE SHAPE THE THING TOOK TO THE CONSCIOUSNESS OF THE MUSICIAN",
+    "text": "<|startoftext|> NOR WAS THIS EXACTLY THE SHAPE THE THING TOOK TO THE CONSCIOUSNESS OF THE MUSICIAN <|endoftext|>",
     "tokens": [
+        50255,
         35510,
         21725,
         12680,
@@ -28,7 +29,8 @@
         3336,
         39484,
         2149,
-        16868
+        16868,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

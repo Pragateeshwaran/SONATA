@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0011.flac",
-    "text": "AFTER HER DANCE SHE WITHDREW FROM THE DIALOGUE AND RETREATED TO THE DITCH WALL BACK OF PHILLY'S BURROW WHERE SHE SAT SINGING THE RISING OF THE MOON AND MAKING A WREATH OF PRIMROSES FOR HER DONKEY",
+    "text": "<|startoftext|> AFTER HER DANCE SHE WITHDREW FROM THE DIALOGUE AND RETREATED TO THE DITCH WALL BACK OF PHILLY'S BURROW WHERE SHE SAT SINGING THE RISING OF THE MOON AND MAKING A WREATH OF PRIMROSES FOR HER DONKEY <|endoftext|>",
     "tokens": [
+        50255,
         8579,
         5781,
         24906,
@@ -68,7 +69,8 @@
         7473,
         24906,
         23917,
-        20373
+        20373,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

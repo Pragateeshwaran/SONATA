@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0004.flac",
-    "text": "AS GLADDEN RODE BY US A COURIER RODE UP AND TOLD HIM SOMETHING",
+    "text": "<|startoftext|> AS GLADDEN RODE BY US A COURIER RODE UP AND TOLD HIM SOMETHING <|endoftext|>",
     "tokens": [
+        50255,
         1921,
         10188,
         29266,
@@ -24,7 +25,8 @@
         45909,
         42121,
         20702,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

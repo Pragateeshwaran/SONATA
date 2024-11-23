@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0039.flac",
-    "text": "WHEN HE WAS OUT HUNTING HE USED TO GO INTO THE EMPTY LOG HOUSE AND SIT THERE BROODING",
+    "text": "<|startoftext|> WHEN HE WAS OUT HUNTING HE USED TO GO INTO THE EMPTY LOG HOUSE AND SIT THERE BROODING <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         11179,
@@ -26,7 +27,8 @@
         34702,
         11177,
         22808,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

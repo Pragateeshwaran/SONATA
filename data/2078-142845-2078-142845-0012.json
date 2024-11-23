@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0012.flac",
-    "text": "IT HAS BEEN INTRODUCED INTO ITALY WHERE THEY MAKE A COARSE BREAD FROM IT AND IT IS ALSO EMPLOYED IN PASTRY AND PUDDINGS THEY ALSO USE IT FOR FEEDING HORSES AND DOMESTIC FOWLS",
+    "text": "<|startoftext|> IT HAS BEEN INTRODUCED INTO ITALY WHERE THEY MAKE A COARSE BREAD FROM IT AND IT IS ALSO EMPLOYED IN PASTRY AND PUDDINGS THEY ALSO USE IT FOR FEEDING HORSES AND DOMESTIC FOWLS <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         33930,
         9348,
@@ -60,7 +61,8 @@
         2149,
         376,
         3913,
-        6561
+        6561,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

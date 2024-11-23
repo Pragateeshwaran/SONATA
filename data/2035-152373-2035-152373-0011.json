@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0011.flac",
-    "text": "THE BARREN ROCK ABOUT THREE MILES IN LENGTH WAS COVERED WITH MONASTIC BUILDINGS AND ITS CEMETERY WAS ALREADY ADORNED WITH THE TOMBS OF SAINTS AND KINGS",
+    "text": "<|startoftext|> THE BARREN ROCK ABOUT THREE MILES IN LENGTH WAS COVERED WITH MONASTIC BUILDINGS AND ITS CEMETERY WAS ALREADY ADORNED WITH THE TOMBS OF SAINTS AND KINGS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         347,
         26465,
@@ -47,7 +48,8 @@
         4694,
         5357,
         509,
-        20754
+        20754,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

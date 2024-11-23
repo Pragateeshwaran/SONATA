@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0015.flac",
-    "text": "THE INTERVAL BETWEEN THESE FOUR CONTAINED A CHARIOT TRIUMPHAL ON TWO WHEELS WHICH BY A GRIFFIN'S NECK CAME DRAWN ALONG",
+    "text": "<|startoftext|> THE INTERVAL BETWEEN THESE FOUR CONTAINED A CHARIOT TRIUMPHAL ON TWO WHEELS WHICH BY A GRIFFIN'S NECK CAME DRAWN ALONG <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         23255,
         23428,
@@ -44,7 +45,8 @@
         20530,
         45,
         8355,
-        18494
+        18494,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

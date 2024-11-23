@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0047.flac",
-    "text": "I WILL SIT IN THE PARLOR AWHILE AND COLLECT MY THOUGHTS",
+    "text": "<|startoftext|> I WILL SIT IN THE PARLOR AWHILE AND COLLECT MY THOUGHTS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         17682,
         311,
@@ -20,7 +21,8 @@
         17615,
         2320,
         32632,
-        4694
+        4694,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

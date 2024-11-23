@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0015.flac",
-    "text": "AFORE CHRISTMAS TIME I WAS AS FULL AS FULL COULD BE OF GOING HOME FOR GOOD AND ALL YO HAN HEARD HOW I'VE WISHED IT THIS TERRIBLE LONG TIME",
+    "text": "<|startoftext|> AFORE CHRISTMAS TIME I WAS AS FULL AS FULL COULD BE OF GOING HOME FOR GOOD AND ALL YO HAN HEARD HOW I'VE WISHED IT THIS TERRIBLE LONG TIME <|endoftext|>",
     "tokens": [
+        50255,
         8579,
         6965,
         48354,
@@ -43,7 +44,8 @@
         7112,
         19146,
         44533,
-        20460
+        20460,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

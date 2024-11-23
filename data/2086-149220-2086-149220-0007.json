@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0007.flac",
-    "text": "IT NOW CONTAINED ONLY CHANTICLEER HIS TWO WIVES AND A SOLITARY CHICKEN",
+    "text": "<|startoftext|> IT NOW CONTAINED ONLY CHANTICLEER HIS TWO WIVES AND A SOLITARY CHICKEN <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         20229,
         7102,
@@ -23,7 +24,8 @@
         13153,
         5870,
         11860,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

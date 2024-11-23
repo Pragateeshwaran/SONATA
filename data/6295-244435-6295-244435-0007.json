@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0007.flac",
-    "text": "ALL THE AMENITIES WERE PRESERVED BETWEEN THE CAPTURED GARRISON AND THEIR CAPTORS",
+    "text": "<|startoftext|> ALL THE AMENITIES WERE PRESERVED BETWEEN THE CAPTURED GARRISON AND THEIR CAPTORS <|endoftext|>",
     "tokens": [
+        50255,
         7036,
         3336,
         3001,
@@ -28,7 +29,8 @@
         47278,
         20176,
         51,
-        20673
+        20673,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

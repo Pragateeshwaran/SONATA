@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0005.flac",
-    "text": "HIS EYES WANDERED CEASELESSLY OVER THE BLANK HORIZON",
+    "text": "<|startoftext|> HIS EYES WANDERED CEASELESSLY OVER THE BLANK HORIZON <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         412,
@@ -21,7 +22,8 @@
         15154,
         48345,
         14887,
-        1340
+        1340,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

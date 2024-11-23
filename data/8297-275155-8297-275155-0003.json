@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0003.flac",
-    "text": "RANDAL LOOKED AGAIN AT THE FIRST WORDS IN THE PARAGRAPH",
+    "text": "<|startoftext|> RANDAL LOOKED AGAIN AT THE FIRST WORDS IN THE PARAGRAPH <|endoftext|>",
     "tokens": [
+        50255,
         49,
         6981,
         1847,
@@ -19,7 +20,8 @@
         29463,
         4760,
         49,
-        31300
+        31300,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0083.flac",
-    "text": "I WILL TROUBLE YOU NO FURTHER",
+    "text": "<|startoftext|> I WILL TROUBLE YOU NO FURTHER <|endoftext|>",
     "tokens": [
+        50255,
         40,
         17682,
         7579,
@@ -11,7 +12,8 @@
         8005,
         376,
         4261,
-        21250
+        21250,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

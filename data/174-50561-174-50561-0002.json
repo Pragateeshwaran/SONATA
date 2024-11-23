@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0002.flac",
-    "text": "BUT THIS IS A FALLACY",
+    "text": "<|startoftext|> BUT THIS IS A FALLACY <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         12680,
         3180,
         317,
         376,
         7036,
-        43300
+        43300,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

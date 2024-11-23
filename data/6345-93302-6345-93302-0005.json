@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0005.flac",
-    "text": "SHE ONLY WISHED FOR MAY AND THE ORCHARD INSTEAD OF JANUARY AND THE DINGY DUSTY WAITING ROOM THE PLAIN FACED PREOCCUPIED TRAVELLERS THE DIM DESOLATE WEATHER",
+    "text": "<|startoftext|> SHE ONLY WISHED FOR MAY AND THE ORCHARD INSTEAD OF JANUARY AND THE DINGY DUSTY WAITING ROOM THE PLAIN FACED PREOCCUPIED TRAVELLERS THE DIM DESOLATE WEATHER <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         22224,
@@ -57,7 +58,8 @@
         3535,
         6158,
         12887,
-        45226
+        45226,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\24833\\1988-24833-0008.flac",
-    "text": "I'LL BE LUCKY IF I HAVE TIME TO BREATHE",
+    "text": "<|startoftext|> I'LL BE LUCKY IF I HAVE TIME TO BREATHE <|endoftext|>",
     "tokens": [
+        50255,
         40,
         6,
         3069,
@@ -16,7 +17,8 @@
         5390,
         29377,
         12599,
-        36
+        36,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0001.flac",
-    "text": "THIS IS A MISTAKE THOUGH A PERFECTLY NATURAL ONE",
+    "text": "<|startoftext|> THIS IS A MISTAKE THOUGH A PERFECTLY NATURAL ONE <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         3180,
         317,
@@ -18,7 +19,8 @@
         10149,
         4261,
         1847,
-        16329
+        16329,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

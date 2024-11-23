@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0011.flac",
-    "text": "IT IS A FEARFUL NIGHT TO SEND AWAY A BEGGAR SAID THE ELDEST SISTER WHILE THEY WERE EATING",
+    "text": "<|startoftext|> IT IS A FEARFUL NIGHT TO SEND AWAY A BEGGAR SAID THE ELDEST SISTER WHILE THEY WERE EATING <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         3180,
         317,
@@ -33,7 +34,8 @@
         370,
         9338,
         412,
-        33881
+        33881,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

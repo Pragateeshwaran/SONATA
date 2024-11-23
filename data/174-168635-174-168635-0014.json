@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0014.flac",
-    "text": "COSETTE WAS NO LONGER IN RAGS SHE WAS IN MOURNING",
+    "text": "<|startoftext|> COSETTE WAS NO LONGER IN RAGS SHE WAS IN MOURNING <|endoftext|>",
     "tokens": [
+        50255,
         34,
         2640,
         2767,
@@ -19,7 +20,8 @@
         3268,
         337,
         11698,
-        15871
+        15871,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

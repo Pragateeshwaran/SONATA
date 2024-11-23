@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\652\\130726\\652-130726-0001.flac",
-    "text": "THOMPSON OPENED A LARGE RESTAURANT IN O'FARRELL STREET JUST ABOVE FILLMORE AND FOR TWO YEARS OR MORE DID A THRIVING BUSINESS HIS PLACE BEING NOTED FOR ITS GOOD COOKING AND ITS SPLENDID SERVICE",
+    "text": "<|startoftext|> THOMPSON OPENED A LARGE RESTAURANT IN O'FARRELL STREET JUST ABOVE FILLMORE AND FOR TWO YEARS OR MORE DID A THRIVING BUSINESS HIS PLACE BEING NOTED FOR ITS GOOD COOKING AND ITS SPLENDID SERVICE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         2662,
         3705,
@@ -64,7 +65,8 @@
         46341,
         10619,
         2389,
-        47453
+        47453,
+        50256
     ],
     "metadata": {
         "speaker_id": "652",

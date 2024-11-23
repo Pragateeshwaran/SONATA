@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0012.flac",
-    "text": "MODE PUT THE MILK IN A VERY CLEAN SAUCEPAN AND LET IT BOIL",
+    "text": "<|startoftext|> MODE PUT THE MILK IN A VERY CLEAN SAUCEPAN AND LET IT BOIL <|endoftext|>",
     "tokens": [
+        50255,
         49058,
         350,
         3843,
@@ -22,7 +23,8 @@
         37994,
         7283,
         16494,
-        4146
+        4146,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

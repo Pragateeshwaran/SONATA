@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0019.flac",
-    "text": "THE OLD MAN MADE A SIGN IN THE AFFIRMATIVE",
+    "text": "<|startoftext|> THE OLD MAN MADE A SIGN IN THE AFFIRMATIVE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         440,
         11163,
@@ -16,7 +17,8 @@
         5777,
         4663,
         44,
-        37045
+        37045,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0012.flac",
-    "text": "SHE WOULD HAVE SHARED HIS SORROW AND SHOWN HERSELF HALF WIFE HALF ANGEL FROM HEAVEN IN THIS DARK HOUR",
+    "text": "<|startoftext|> SHE WOULD HAVE SHARED HIS SORROW AND SHOWN HERSELF HALF WIFE HALF ANGEL FROM HEAVEN IN THIS DARK HOUR <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         370,
@@ -35,7 +36,8 @@
         12680,
         46455,
         367,
-        11698
+        11698,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

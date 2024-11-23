@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0015.flac",
-    "text": "A SHOCK OF UNBELIEVABLE RELIEF TINGLED THROUGH HER SO THAT WAS ALL WHAT WAS IT COMPARED WITH HER FEARS",
+    "text": "<|startoftext|> A SHOCK OF UNBELIEVABLE RELIEF TINGLED THROUGH HER SO THAT WAS ALL WHAT WAS IT COMPARED WITH HER FEARS <|endoftext|>",
     "tokens": [
+        50255,
         32,
         6006,
         11290,
@@ -35,7 +36,8 @@
         24906,
         376,
         17133,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

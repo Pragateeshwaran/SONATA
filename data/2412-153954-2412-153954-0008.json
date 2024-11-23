@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0008.flac",
-    "text": "THE MEN WERE AS HANDSOME AS THE WOMEN BEAUTIFUL",
+    "text": "<|startoftext|> THE MEN WERE AS HANDSOME AS THE WOMEN BEAUTIFUL <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         41597,
         370,
@@ -18,7 +19,8 @@
         9348,
         39371,
         5064,
-        6239
+        6239,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

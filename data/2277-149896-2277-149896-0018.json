@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0018.flac",
-    "text": "HIS FIRST IMPULSE WAS TO WRITE BUT FOUR WORDS IN REPLY GO TO THE DEVIL",
+    "text": "<|startoftext|> HIS FIRST IMPULSE WAS TO WRITE BUT FOUR WORDS IN REPLY GO TO THE DEVIL <|endoftext|>",
     "tokens": [
+        50255,
         39,
         1797,
         31328,
@@ -25,7 +26,8 @@
         3336,
         5550,
         53,
-        4146
+        4146,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

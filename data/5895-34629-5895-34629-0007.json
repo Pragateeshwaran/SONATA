@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0007.flac",
-    "text": "THE PLACARD GWYNPLAINE THE LAUGHING MAN TAKEN FROM ITS NAIL IN THE GREEN BOX WAS HUNG UP CLOSE TO THE SIGN OF THE INN",
+    "text": "<|startoftext|> THE PLACARD GWYNPLAINE THE LAUGHING MAN TAKEN FROM ITS NAIL IN THE GREEN BOX WAS HUNG UP CLOSE TO THE SIGN OF THE INN <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         9297,
         2246,
@@ -38,7 +39,8 @@
         3963,
         3336,
         3268,
-        45
+        45,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

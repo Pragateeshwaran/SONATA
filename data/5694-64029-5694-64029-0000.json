@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0000.flac",
-    "text": "WE REMAINED SEVERAL MONTHS BUT SOON WE WERE ON THE TRAMP AGAIN",
+    "text": "<|startoftext|> WE REMAINED SEVERAL MONTHS BUT SOON WE WERE ON THE TRAMP AGAIN <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         22657,
         29833,
@@ -23,7 +24,8 @@
         7579,
         23518,
         36218,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

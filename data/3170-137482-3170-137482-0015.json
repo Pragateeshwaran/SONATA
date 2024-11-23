@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0015.flac",
-    "text": "MY READERS MAY IMAGINE WHETHER WE FELT INCLINED TO LAUGH WHEN THE CHARMING CREATURE BADE US GOOD NIGHT THANKING US ALL WITH PERFECT GOOD FAITH",
+    "text": "<|startoftext|> MY READERS MAY IMAGINE WHETHER WE FELT INCLINED TO LAUGH WHEN THE CHARMING CREATURE BADE US GOOD NIGHT THANKING US ALL WITH PERFECT GOOD FAITH <|endoftext|>",
     "tokens": [
+        50255,
         26708,
         20832,
         4877,
@@ -45,7 +46,8 @@
         9782,
         21090,
         9677,
-        10554
+        10554,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

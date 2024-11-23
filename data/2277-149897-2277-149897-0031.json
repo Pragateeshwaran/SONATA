@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0031.flac",
-    "text": "HE TROUBLED OVER MANY LITTLE DETAILS AND TALKED PERFUNCTORILY TO EVERYBODY",
+    "text": "<|startoftext|> HE TROUBLED OVER MANY LITTLE DETAILS AND TALKED PERFUNCTORILY TO EVERYBODY <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         7579,
         2606,
@@ -28,7 +29,8 @@
         5390,
         27222,
         33,
-        33076
+        33076,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

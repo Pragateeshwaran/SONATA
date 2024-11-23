@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0027.flac",
-    "text": "LOOK AT ME WELL IN SOOTH I'M BEATRICE",
+    "text": "<|startoftext|> LOOK AT ME WELL IN SOOTH I'M BEATRICE <|endoftext|>",
     "tokens": [
+        50255,
         43,
         15308,
         5161,
@@ -17,7 +18,8 @@
         9348,
         1404,
         49,
-        8476
+        8476,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

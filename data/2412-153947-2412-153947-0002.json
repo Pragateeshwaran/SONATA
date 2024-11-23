@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0002.flac",
-    "text": "ON MY RETURN I PURPOSELY AVOIDED LOOKING INTO IT UNTIL I HAD SENT BACK MY LAST REVISES TO THE PRINTER",
+    "text": "<|startoftext|> ON MY RETURN I PURPOSELY AVOIDED LOOKING INTO IT UNTIL I HAD SENT BACK MY LAST REVISES TO THE PRINTER <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         17615,
         30826,
@@ -35,7 +36,8 @@
         5390,
         3336,
         4810,
-        41358
+        41358,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

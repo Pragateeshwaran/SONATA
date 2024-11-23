@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0038.flac",
-    "text": "POUND WELL AND BIND WITH ONE OR TWO EGGS WHICH HAVE BEEN PREVIOUSLY BEATEN AND STRAINED",
+    "text": "<|startoftext|> POUND WELL AND BIND WITH ONE OR TWO EGGS WHICH HAVE BEEN PREVIOUSLY BEATEN AND STRAINED <|endoftext|>",
     "tokens": [
+        50255,
         47,
         15919,
         12887,
@@ -33,7 +34,8 @@
         3563,
         3861,
         1268,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

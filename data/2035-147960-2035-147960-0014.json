@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147960\\2035-147960-0014.flac",
-    "text": "HE COULD STAND RIGHT UP AND TALK TO YOU HE COULD DID HE FIGHT HARD",
+    "text": "<|startoftext|> HE COULD STAND RIGHT UP AND TALK TO YOU HE COULD DID HE FIGHT HARD <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         327,
         24010,
@@ -20,7 +21,8 @@
         11179,
         39941,
         367,
-        9795
+        9795,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\281318\\7850-281318-0017.flac",
-    "text": "HERE WOOD PIGEON SAID MOTHER MAGPIE YOU MUST PLACE THOSE STICKS THROUGH AND ACROSS CRISS CROSS CRISS CROSS SO",
+    "text": "<|startoftext|> HERE WOOD PIGEON SAID MOTHER MAGPIE YOU MUST PLACE THOSE STICKS THROUGH AND ACROSS CRISS CROSS CRISS CROSS SO <|endoftext|>",
     "tokens": [
+        50255,
         39,
         9338,
         370,
@@ -40,7 +41,8 @@
         16744,
         8740,
         18420,
-        12809
+        12809,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

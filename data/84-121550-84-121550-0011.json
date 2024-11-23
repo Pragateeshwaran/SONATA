@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0011.flac",
-    "text": "NOW HELICON MUST NEEDS POUR FORTH FOR ME AND WITH HER CHOIR URANIA MUST ASSIST ME TO PUT IN VERSE THINGS DIFFICULT TO THINK",
+    "text": "<|startoftext|> NOW HELICON MUST NEEDS POUR FORTH FOR ME AND WITH HER CHOIR URANIA MUST ASSIST ME TO PUT IN VERSE THINGS DIFFICULT TO THINK <|endoftext|>",
     "tokens": [
+        50255,
         45669,
         36255,
         2149,
@@ -41,7 +42,8 @@
         16724,
         5390,
         2320,
-        17248
+        17248,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

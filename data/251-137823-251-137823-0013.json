@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0013.flac",
-    "text": "WE'D BETTER NOT TRY TO MOVE HIM TOM DECIDED WE'LL GET AN AMBULANCE",
+    "text": "<|startoftext|> WE'D BETTER NOT TRY TO MOVE HIM TOM DECIDED WE'LL GET AN AMBULANCE <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         6,
         35,
@@ -26,7 +27,8 @@
         3001,
         33,
         6239,
-        19240
+        19240,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

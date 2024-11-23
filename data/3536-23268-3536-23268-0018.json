@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0018.flac",
-    "text": "MISS WOODLEY THOUGHT IT HER DUTY TO BE MUTE AND NOW THE GINGLE OF A TEA SPOON WAS LIKE A DEEP TONED BELL ALL WAS SO QUIET",
+    "text": "<|startoftext|> MISS WOODLEY THOUGHT IT HER DUTY TO BE MUTE AND NOW THE GINGLE OF A TEA SPOON WAS LIKE A DEEP TONED BELL ALL WAS SO QUIET <|endoftext|>",
     "tokens": [
+        50255,
         44,
         16744,
         370,
@@ -48,7 +49,8 @@
         12809,
         1195,
         10080,
-        2767
+        2767,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

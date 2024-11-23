@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0029.flac",
-    "text": "HE THOUGHT IT WAS A LAST BURST OF ENERGY HE KNEW HOW CLOSE THEY BOTH WERE TO EXHAUSTION",
+    "text": "<|startoftext|> HE THOUGHT IT WAS A LAST BURST OF ENERGY HE KNEW HOW CLOSE THEY BOTH WERE TO EXHAUSTION <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         2320,
         2606,
@@ -32,7 +33,8 @@
         7788,
         7801,
         7759,
-        2849
+        2849,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

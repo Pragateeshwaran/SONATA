@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0040.flac",
-    "text": "OH REJOINED THE DAGUERREOTYPIST BECAUSE LIKE AN OLD LADY'S CUP OF TEA IT IS WATER BEWITCHED",
+    "text": "<|startoftext|> OH REJOINED THE DAGUERREOTYPIST BECAUSE LIKE AN OLD LADY'S CUP OF TEA IT IS WATER BEWITCHED <|endoftext|>",
     "tokens": [
+        50255,
         12096,
         4526,
         45006,
@@ -40,7 +41,8 @@
         347,
         6217,
         31949,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

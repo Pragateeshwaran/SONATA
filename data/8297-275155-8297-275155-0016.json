@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0016.flac",
-    "text": "HE WAS INTRODUCED TO MISSUS NORMAN AND TO MISSUS NORMAN'S LITTLE GIRL AND WE WERE ALL CHARMED WITH HIM",
+    "text": "<|startoftext|> HE WAS INTRODUCED TO MISSUS NORMAN AND TO MISSUS NORMAN'S LITTLE GIRL AND WE WERE ALL CHARMED WITH HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         3268,
@@ -36,7 +37,8 @@
         28521,
         30733,
         13315,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

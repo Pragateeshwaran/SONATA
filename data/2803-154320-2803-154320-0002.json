@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154320\\2803-154320-0002.flac",
-    "text": "THEIR FRIENDS DID THEIR BEST TO AMUSE THEM",
+    "text": "<|startoftext|> THEIR FRIENDS DID THEIR BEST TO AMUSE THEM <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         4663,
         48167,
@@ -13,7 +14,8 @@
         5390,
         3001,
         19108,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

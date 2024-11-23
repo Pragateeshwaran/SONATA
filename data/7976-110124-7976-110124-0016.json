@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0016.flac",
-    "text": "IT WAS THE YOUNGEST ONE WHO DECEIVED ME CRIED THE ROBBER CHIEFTAIN",
+    "text": "<|startoftext|> IT WAS THE YOUNGEST ONE WHO DECEIVED ME CRIED THE ROBBER CHIEFTAIN <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         3336,
@@ -24,7 +25,8 @@
         5870,
         10008,
         37,
-        30339
+        30339,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

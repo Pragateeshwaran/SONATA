@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0014.flac",
-    "text": "AT THE AGE OF ABOUT SEVENTY FIVE YEARS HE SAVED HIS BAND FROM UTTER DESTRUCTION AT THE HANDS OF THEIR ANCESTRAL ENEMIES BY SUDDENLY GIVING WARNING RECEIVED IN A DREAM OF THE APPROACH OF A LARGE WAR PARTY",
+    "text": "<|startoftext|> AT THE AGE OF ABOUT SEVENTY FIVE YEARS HE SAVED HIS BAND FROM UTTER DESTRUCTION AT THE HANDS OF THEIR ANCESTRAL ENEMIES BY SUDDENLY GIVING WARNING RECEIVED IN A DREAM OF THE APPROACH OF A LARGE WAR PARTY <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         3336,
         317,
@@ -72,7 +73,8 @@
         8264,
         11837,
         16652,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

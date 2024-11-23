@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170138\\1462-170138-0002.flac",
-    "text": "I HAPPEN TO HAVE MAC CONNELL'S BOX FOR TONIGHT OR THERE'D BE NO CHANCE OF OUR GETTING PLACES",
+    "text": "<|startoftext|> I HAPPEN TO HAVE MAC CONNELL'S BOX FOR TONIGHT OR THERE'D BE NO CHANCE OF OUR GETTING PLACES <|endoftext|>",
     "tokens": [
+        50255,
         40,
         367,
         24805,
@@ -33,7 +34,8 @@
         48996,
         9297,
         2246,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0013.flac",
-    "text": "WE LOOKED ALL AROUND AND THOUGHT THAT THE COAST WAS CLEAR",
+    "text": "<|startoftext|> WE LOOKED ALL AROUND AND THOUGHT THAT THE COAST WAS CLEAR <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         48045,
         1961,
@@ -19,7 +20,8 @@
         11262,
         21725,
         30301,
-        1503
+        1503,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

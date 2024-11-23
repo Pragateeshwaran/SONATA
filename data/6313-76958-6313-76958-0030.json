@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0030.flac",
-    "text": "HOW ASKED TAD",
+    "text": "<|startoftext|> HOW ASKED TAD <|endoftext|>",
     "tokens": [
+        50255,
         37181,
         7054,
         42,
         1961,
         309,
-        2885
+        2885,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0018.flac",
-    "text": "EVEN IN AMERICA EVER'BODY BOWS LOW TO OUR PRESIDENT AN THE BLUESKINS ARE SO FRAID O THEIR BOOLOOROO THAT THEY TREMBLE WHENEVER THEY GO NEAR HIM",
+    "text": "<|startoftext|> EVEN IN AMERICA EVER'BODY BOWS LOW TO OUR PRESIDENT AN THE BLUESKINS ARE SO FRAID O THEIR BOOLOOROO THAT THEY TREMBLE WHENEVER THEY GO NEAR HIM <|endoftext|>",
     "tokens": [
+        50255,
         20114,
         1677,
         3268,
@@ -46,7 +47,8 @@
         10351,
         10635,
         1503,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

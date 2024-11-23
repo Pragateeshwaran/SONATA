@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\73752\\7850-73752-0002.flac",
-    "text": "IT REQUIRES SOME SELF COMMUNION TO PREPARE OURSELVES FOR GOOD FORTUNE AS WELL AS TO ENCOUNTER DIFFICULTY AND DANGER AND DISGRACE",
+    "text": "<|startoftext|> IT REQUIRES SOME SELF COMMUNION TO PREPARE OURSELVES FOR GOOD FORTUNE AS WELL AS TO ENCOUNTER DIFFICULTY AND DANGER AND DISGRACE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         4526,
         10917,
@@ -47,7 +48,8 @@
         5357,
         13954,
         10761,
-        11598
+        11598,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

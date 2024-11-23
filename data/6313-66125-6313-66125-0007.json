@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0007.flac",
-    "text": "I AM THE ONE TO GO AFTER WALT IF ANYONE HAS TO I'LL GO DOWN MISTER THOMAS",
+    "text": "<|startoftext|> I AM THE ONE TO GO AFTER WALT IF ANYONE HAS TO I'LL GO DOWN MISTER THOMAS <|endoftext|>",
     "tokens": [
+        50255,
         40,
         3001,
         3336,
@@ -25,7 +26,8 @@
         41517,
         2320,
         2662,
-        1921
+        1921,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

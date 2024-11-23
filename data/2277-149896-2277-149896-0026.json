@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0026.flac",
-    "text": "THE LONG DRIZZLE HAD BEGUN PEDESTRIANS HAD TURNED UP COLLARS AND TROUSERS AT THE BOTTOM",
+    "text": "<|startoftext|> THE LONG DRIZZLE HAD BEGUN PEDESTRIANS HAD TURNED UP COLLARS AND TROUSERS AT THE BOTTOM <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         44533,
         360,
@@ -36,7 +37,8 @@
         3336,
         347,
         29089,
-        2662
+        2662,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

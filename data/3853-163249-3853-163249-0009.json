@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0009.flac",
-    "text": "IN THAT CASE YOU WILL FIND ME A PROUD IMPETUOUS AMBITIOUS FELLOW CHRISTIE AND HOW WILL THAT SUIT",
+    "text": "<|startoftext|> IN THAT CASE YOU WILL FIND ME A PROUD IMPETUOUS AMBITIOUS FELLOW CHRISTIE AND HOW WILL THAT SUIT <|endoftext|>",
     "tokens": [
+        50255,
         1268,
         14603,
         42001,
@@ -31,7 +32,8 @@
         17682,
         14603,
         13558,
-        2043
+        2043,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

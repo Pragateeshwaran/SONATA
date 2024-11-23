@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0013.flac",
-    "text": "LINE OF BATTLE WAS FORMED ON THE NORTH BANK OF STONE'S RIVER ON THE YANKEE SIDE",
+    "text": "<|startoftext|> LINE OF BATTLE WAS FORMED ON THE NORTH BANK OF STONE'S RIVER ON THE YANKEE SIDE <|endoftext|>",
     "tokens": [
+        50255,
         24027,
         3963,
         347,
@@ -28,7 +29,8 @@
         15154,
         6500,
         311,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

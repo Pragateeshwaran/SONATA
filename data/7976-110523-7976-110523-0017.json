@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0017.flac",
-    "text": "CREEP IN SAID THE WITCH AND SEE IF IT IS HOT ENOUGH AND THEN WE WILL PUT IN THE BREAD BUT SHE INTENDED WHEN GRETHEL GOT IN TO SHUT UP THE OVEN AND LET HER BAKE SO THAT SHE MIGHT EAT HER AS WELL AS HANSEL",
+    "text": "<|startoftext|> CREEP IN SAID THE WITCH AND SEE IF IT IS HOT ENOUGH AND THEN WE WILL PUT IN THE BREAD BUT SHE INTENDED WHEN GRETHEL GOT IN TO SHUT UP THE OVEN AND LET HER BAKE SO THAT SHE MIGHT EAT HER AS WELL AS HANSEL <|endoftext|>",
     "tokens": [
+        50255,
         43387,
         8905,
         3268,
@@ -64,7 +65,8 @@
         7054,
         367,
         15037,
-        3698
+        3698,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

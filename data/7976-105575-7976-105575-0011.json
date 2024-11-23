@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0011.flac",
-    "text": "I REMAINED AWAKE ALL NIGHT TALKING WITH A COMRADE WHO SHARED MY BLANKET WITH ME POOR JIMMY KING",
+    "text": "<|startoftext|> I REMAINED AWAKE ALL NIGHT TALKING WITH A COMRADE WHO SHARED MY BLANKET WITH ME POOR JIMMY KING <|endoftext|>",
     "tokens": [
+        50255,
         40,
         22657,
         29833,
@@ -33,7 +34,8 @@
         449,
         3955,
         26708,
-        32957
+        32957,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

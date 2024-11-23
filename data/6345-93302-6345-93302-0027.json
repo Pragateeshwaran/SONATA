@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0027.flac",
-    "text": "AT THE CORNER HE REMEMBERED THAT HE HAD GONE AWAY WITHOUT PAYING FOR THE TEA AND HIS NATURAL IMPULSE WAS TO GO BACK AND REMEDY THAT ERROR",
+    "text": "<|startoftext|> AT THE CORNER HE REMEMBERED THAT HE HAD GONE AWAY WITHOUT PAYING FOR THE TEA AND HIS NATURAL IMPULSE WAS TO GO BACK AND REMEDY THAT ERROR <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         3336,
         23929,
@@ -43,7 +44,8 @@
         1961,
         56,
         14603,
-        33854
+        33854,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

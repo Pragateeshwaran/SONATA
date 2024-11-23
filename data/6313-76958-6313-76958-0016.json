@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0016.flac",
-    "text": "YOU WON'T BE SO FAST TO WAKE UP HARD WORKING COWBOYS AFTER THAT I RECKON",
+    "text": "<|startoftext|> YOU WON'T BE SO FAST TO WAKE UP HARD WORKING COWBOYS AFTER THAT I RECKON <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         370,
         1340,
@@ -28,7 +29,8 @@
         314,
         19644,
         42,
-        1340
+        1340,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

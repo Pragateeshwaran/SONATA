@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0000.flac",
-    "text": "ON THE SECOND OF THE MONTH AT TWO IN THE MORNING OUR PRECIOUS CARGO OF LUGGAGE WAS TAKEN ON BOARD THE GOOD SHIP VALKYRIE",
+    "text": "<|startoftext|> ON THE SECOND OF THE MONTH AT TWO IN THE MORNING OUR PRECIOUS CARGO OF LUGGAGE WAS TAKEN ON BOARD THE GOOD SHIP VALKYRIE <|endoftext|>",
     "tokens": [
+        50255,
         1340,
         3336,
         10729,
@@ -41,7 +42,8 @@
         26173,
         31159,
         7112,
-        36
+        36,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

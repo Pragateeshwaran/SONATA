@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0021.flac",
-    "text": "TO PICKLE EGGS",
+    "text": "<|startoftext|> TO PICKLE EGGS <|endoftext|>",
     "tokens": [
+        50255,
         10468,
         350,
         11860,
         2538,
         412,
         11190,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

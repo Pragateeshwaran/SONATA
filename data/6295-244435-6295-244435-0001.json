@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0001.flac",
-    "text": "COLONEL LEONIDAS TALBOT REGARDED THE WHITE FLAG WITH FEELINGS IN WHICH TRIUMPH AND SADNESS WERE MINGLED STRANGELY",
+    "text": "<|startoftext|> COLONEL LEONIDAS TALBOT REGARDED THE WHITE FLAG WITH FEELINGS IN WHICH TRIUMPH AND SADNESS WERE MINGLED STRANGELY <|endoftext|>",
     "tokens": [
+        50255,
         25154,
         1340,
         3698,
@@ -41,7 +42,8 @@
         30465,
         19269,
         15567,
-        30943
+        30943,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

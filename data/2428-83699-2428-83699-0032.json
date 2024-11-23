@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0032.flac",
-    "text": "MAYBE THEY'RE UP TO SOME OF THEIR GAMES AND WANTS ROUSING",
+    "text": "<|startoftext|> MAYBE THEY'RE UP TO SOME OF THEIR GAMES AND WANTS ROUSING <|endoftext|>",
     "tokens": [
+        50255,
         44,
         4792,
         12473,
@@ -21,7 +22,8 @@
         4694,
         371,
         20958,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

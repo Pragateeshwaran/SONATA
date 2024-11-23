@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\168635\\174-168635-0003.flac",
-    "text": "HE SUFFERED ALL THE PANGS OF A MOTHER AND HE KNEW NOT WHAT IT MEANT FOR THAT GREAT AND SINGULAR MOVEMENT OF A HEART WHICH BEGINS TO LOVE IS A VERY OBSCURE AND A VERY SWEET THING",
+    "text": "<|startoftext|> HE SUFFERED ALL THE PANGS OF A MOTHER AND HE KNEW NOT WHAT IT MEANT FOR THAT GREAT AND SINGULAR MOVEMENT OF A HEART WHICH BEGINS TO LOVE IS A VERY OBSCURE AND A VERY SWEET THING <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         13558,
         45746,
@@ -57,7 +58,8 @@
         8845,
         2767,
         2320,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

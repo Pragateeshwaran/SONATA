@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\244435\\6295-244435-0029.flac",
-    "text": "HE FELT THE DIFFERENCE AS SOON AS HE REACHED THE HILLS OF HIS NATIVE STATE",
+    "text": "<|startoftext|> HE FELT THE DIFFERENCE AS SOON AS HE REACHED THE HILLS OF HIS NATIVE STATE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         376,
         3698,
@@ -27,7 +28,8 @@
         33700,
         10149,
         9306,
-        35454
+        35454,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

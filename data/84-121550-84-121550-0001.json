@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0001.flac",
-    "text": "ALL WATERS THAT ON EARTH MOST LIMPID ARE WOULD SEEM TO HAVE WITHIN THEMSELVES SOME MIXTURE COMPARED WITH THAT WHICH NOTHING DOTH CONCEAL",
+    "text": "<|startoftext|> ALL WATERS THAT ON EARTH MOST LIMPID ARE WOULD SEEM TO HAVE WITHIN THEMSELVES SOME MIXTURE COMPARED WITH THAT WHICH NOTHING DOTH CONCEAL <|endoftext|>",
     "tokens": [
+        50255,
         7036,
         370,
         1404,
@@ -48,7 +49,8 @@
         26946,
         7102,
         5222,
-        1847
+        1847,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

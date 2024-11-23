@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0008.flac",
-    "text": "THIS WAS THE OLD ESTABLISHMENT OF URSUS ITS PROPORTIONS AUGMENTED BY SUCCESS AND IMPROVED FROM A WRETCHED BOOTH INTO A THEATRE",
+    "text": "<|startoftext|> THIS WAS THE OLD ESTABLISHMENT OF URSUS ITS PROPORTIONS AUGMENTED BY SUCCESS AND IMPROVED FROM A WRETCHED BOOTH INTO A THEATRE <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         21725,
         3336,
@@ -45,7 +46,8 @@
         317,
         3336,
         1404,
-        2200
+        2200,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0000.flac",
-    "text": "THEY ALSO FOUND A MARTIAN CALENDAR THE YEAR HAD BEEN DIVIDED INTO TEN MORE OR LESS EQUAL MONTHS AND ONE OF THEM HAD BEEN DOMA",
+    "text": "<|startoftext|> THEY ALSO FOUND A MARTIAN CALENDAR THE YEAR HAD BEEN DIVIDED INTO TEN MORE OR LESS EQUAL MONTHS AND ONE OF THEM HAD BEEN DOMA <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         35912,
@@ -45,7 +46,8 @@
         9348,
         1677,
         24121,
-        32
+        32,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

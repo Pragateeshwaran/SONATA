@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61943\\6241-61943-0026.flac",
-    "text": "I SAW BUT FEW INHABITANTS DURING MY EXCURSION BUT I MET A CROWD ON THE BEACH DRYING SALTING AND LOADING CODFISH THE PRINCIPAL ARTICLE OF EXPORTATION",
+    "text": "<|startoftext|> I SAW BUT FEW INHABITANTS DURING MY EXCURSION BUT I MET A CROWD ON THE BEACH DRYING SALTING AND LOADING CODFISH THE PRINCIPAL ARTICLE OF EXPORTATION <|endoftext|>",
     "tokens": [
+        50255,
         40,
         311,
         12298,
@@ -56,7 +57,8 @@
         3963,
         7788,
         15490,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

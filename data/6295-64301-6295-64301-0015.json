@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0015.flac",
-    "text": "HER HEART SEEMED TO SWELL UP INTO HER THROAT AND IT WAS ALL SHE COULD DO TO KEEP FROM WEEPING",
+    "text": "<|startoftext|> HER HEART SEEMED TO SWELL UP INTO HER THROAT AND IT WAS ALL SHE COULD DO TO KEEP FROM WEEPING <|endoftext|>",
     "tokens": [
+        50255,
         16879,
         11179,
         7227,
@@ -32,7 +33,8 @@
         16034,
         370,
         35238,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

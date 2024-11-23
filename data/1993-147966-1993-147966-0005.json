@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147966\\1993-147966-0005.flac",
-    "text": "THEY BEGAN TO LAUGH BOISTEROUSLY WHEN THEY SAW ME CALLING",
+    "text": "<|startoftext|> THEY BEGAN TO LAUGH BOISTEROUSLY WHEN THEY SAW ME CALLING <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         56,
         347,
@@ -21,7 +22,8 @@
         12298,
         11948,
         42815,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

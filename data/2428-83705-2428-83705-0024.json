@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0024.flac",
-    "text": "AND I WILL SEE THAT THERE IS NO SHIRKING ABOUT THE BOYS OR ABOUT THE GIRLS EITHER",
+    "text": "<|startoftext|> AND I WILL SEE THAT THERE IS NO SHIRKING ABOUT THE BOYS OR ABOUT THE GIRLS EITHER <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         314,
         17682,
@@ -25,7 +26,8 @@
         6561,
         412,
         10554,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

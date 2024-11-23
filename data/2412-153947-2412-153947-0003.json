@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0003.flac",
-    "text": "THEN I HAD MUCH PLEASURE IN READING IT BUT WAS INDEED SURPRISED AT THE MANY LITTLE POINTS OF SIMILARITY BETWEEN THE TWO BOOKS IN SPITE OF THEIR ENTIRE INDEPENDENCE TO ONE ANOTHER",
+    "text": "<|startoftext|> THEN I HAD MUCH PLEASURE IN READING IT BUT WAS INDEED SURPRISED AT THE MANY LITTLE POINTS OF SIMILARITY BETWEEN THE TWO BOOKS IN SPITE OF THEIR ENTIRE INDEPENDENCE TO ONE ANOTHER <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         314,
@@ -61,7 +62,8 @@
         5390,
         16329,
         3537,
-        31858
+        31858,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

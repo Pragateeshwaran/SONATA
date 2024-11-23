@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0000.flac",
-    "text": "WHEN HURSTWOOD GOT BACK TO HIS OFFICE AGAIN HE WAS IN A GREATER QUANDARY THAN EVER",
+    "text": "<|startoftext|> WHEN HURSTWOOD GOT BACK TO HIS OFFICE AGAIN HE WAS IN A GREATER QUANDARY THAN EVER <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         367,
@@ -27,7 +28,8 @@
         13153,
         2320,
         1565,
-        20498
+        20498,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0005.flac",
-    "text": "I'M NOT A TALKER YOU KNOW AND AS THE LAWS OF GRAVITATION FORBID MY SOARING ALOFT ANYWHERE I CAN ONLY EXPRESS MY JOYFULLY UPLIFTED STATE OF MIND BY PRANCING AS YOU CALL IT",
+    "text": "<|startoftext|> I'M NOT A TALKER YOU KNOW AND AS THE LAWS OF GRAVITATION FORBID MY SOARING ALOFT ANYWHERE I CAN ONLY EXPRESS MY JOYFULLY UPLIFTED STATE OF MIND BY PRANCING AS YOU CALL IT <|endoftext|>",
     "tokens": [
+        50255,
         40,
         6,
         44,
@@ -61,7 +62,8 @@
         7054,
         7013,
         42815,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

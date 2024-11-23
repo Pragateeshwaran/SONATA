@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0000.flac",
-    "text": "BECAUSE YOU WERE SLEEPING INSTEAD OF CONQUERING THE LOVELY ROSE PRINCESS HAS BECOME A FIDDLE WITHOUT A BOW WHILE POOR SHAGGY SITS THERE A COOING DOVE",
+    "text": "<|startoftext|> BECAUSE YOU WERE SLEEPING INSTEAD OF CONQUERING THE LOVELY ROSE PRINCESS HAS BECOME A FIDDLE WITHOUT A BOW WHILE POOR SHAGGY SITS THERE A COOING DOVE <|endoftext|>",
     "tokens": [
+        50255,
         33,
         36600,
         19108,
@@ -57,7 +58,8 @@
         6684,
         2751,
         8410,
-        6089
+        6089,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

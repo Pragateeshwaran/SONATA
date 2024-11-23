@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0021.flac",
-    "text": "FOR HIM THE CRIMINAL IS THE PRISONER SIMPLE IS IT NOT",
+    "text": "<|startoftext|> FOR HIM THE CRIMINAL IS THE PRISONER SIMPLE IS IT NOT <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         45909,
         3336,
@@ -17,7 +18,8 @@
         16437,
         3180,
         7283,
-        5626
+        5626,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

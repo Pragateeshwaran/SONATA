@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0006.flac",
-    "text": "I COULD NOT HELP SMILING TO SEE HIM LOOK SO BIG ON HIS LITTLE HORSE HIS LONG LEGS NOW AND THEN TOUCHING THE GROUND MADE HIM LOOK LIKE A SIX FOOTED CENTAUR",
+    "text": "<|startoftext|> I COULD NOT HELP SMILING TO SEE HIM LOOK SO BIG ON HIS LITTLE HORSE HIS LONG LEGS NOW AND THEN TOUCHING THE GROUND MADE HIM LOOK LIKE A SIX FOOTED CENTAUR <|endoftext|>",
     "tokens": [
+        50255,
         40,
         327,
         24010,
@@ -50,7 +51,8 @@
         1961,
         33269,
         32,
-        4261
+        4261,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

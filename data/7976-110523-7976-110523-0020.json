@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110523\\7976-110523-0020.flac",
-    "text": "AND NOW AS THERE WAS NOTHING TO FEAR THEY WENT BACK TO THE WITCH'S HOUSE WHERE IN EVERY CORNER WERE CASKETS FULL OF PEARLS AND PRECIOUS STONES",
+    "text": "<|startoftext|> AND NOW AS THERE WAS NOTHING TO FEAR THEY WENT BACK TO THE WITCH'S HOUSE WHERE IN EVERY CORNER WERE CASKETS FULL OF PEARLS AND PRECIOUS STONES <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         20229,
         7054,
@@ -44,7 +45,8 @@
         25690,
         20958,
         3563,
-        39677
+        39677,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0013.flac",
-    "text": "IT'S THAT AS MAKES EM I WON'T SAY WHAT",
+    "text": "<|startoftext|> IT'S THAT AS MAKES EM I WON'T SAY WHAT <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         6,
         50,
@@ -17,7 +18,8 @@
         6,
         51,
         45687,
-        25003
+        25003,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

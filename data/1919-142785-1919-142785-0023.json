@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0023.flac",
-    "text": "A STORE OF PICKLED EGGS WILL BE FOUND VERY USEFUL AND ORNAMENTAL IN SERVING WITH MANY FIRST AND SECOND COURSE DISHES",
+    "text": "<|startoftext|> A STORE OF PICKLED EGGS WILL BE FOUND VERY USEFUL AND ORNAMENTAL IN SERVING WITH MANY FIRST AND SECOND COURSE DISHES <|endoftext|>",
     "tokens": [
+        50255,
         32,
         3563,
         6965,
@@ -39,7 +40,8 @@
         5188,
         13954,
         39,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

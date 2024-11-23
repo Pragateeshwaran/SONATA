@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0043.flac",
-    "text": "I MIGHT BE TOLD THAT IF I HAD WISHED TO FOLLOW THE RULES OF PURE MORALITY I OUGHT EITHER TO HAVE DECLINED INTIMATE INTERCOURSE WITH THEM OR TO HAVE UNDECEIVED THEM",
+    "text": "<|startoftext|> I MIGHT BE TOLD THAT IF I HAD WISHED TO FOLLOW THE RULES OF PURE MORALITY I OUGHT EITHER TO HAVE DECLINED INTIMATE INTERCOURSE WITH THEM OR TO HAVE UNDECEIVED THEM <|endoftext|>",
     "tokens": [
+        50255,
         40,
         337,
         9947,
@@ -58,7 +59,8 @@
         36,
         3824,
         1961,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

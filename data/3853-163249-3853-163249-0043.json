@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0043.flac",
-    "text": "NOTHING CAN PART US ANY MORE NOT EVEN DEATH FOR LOVE LIKE OURS WILL LAST FOR EVER",
+    "text": "<|startoftext|> NOTHING CAN PART US ANY MORE NOT EVEN DEATH FOR LOVE LIKE OURS WILL LAST FOR EVER <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         39,
         2751,
@@ -22,7 +23,8 @@
         17682,
         41894,
         7473,
-        20498
+        20498,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0012.flac",
-    "text": "THE MUSIC WAS BROKEN AND JOSEPH LEFT ALONE WITH THE DUMB INSTRUMENTS",
+    "text": "<|startoftext|> THE MUSIC WAS BROKEN AND JOSEPH LEFT ALONE WITH THE DUMB INSTRUMENTS <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         39484,
         2149,
@@ -26,7 +27,8 @@
         3268,
         18601,
         5883,
-        15365
+        15365,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

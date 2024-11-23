@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0000.flac",
-    "text": "HE WAS YOUNG NO SPEAR HAD TOUCHED HIM NO POISON LURKED IN HIS WINE",
+    "text": "<|startoftext|> HE WAS YOUNG NO SPEAR HAD TOUCHED HIM NO POISON LURKED IN HIS WINE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         21725,
         7013,
@@ -26,7 +27,8 @@
         3268,
         33700,
         370,
-        8881
+        8881,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

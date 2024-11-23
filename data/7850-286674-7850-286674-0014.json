@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0014.flac",
-    "text": "SURE ENOUGH THERE HE CAME THROUGH THE SHALLOW WATER HIS WET BACK SHELL PARTLY OUT OF IT AND SHINING IN THE SUNLIGHT",
+    "text": "<|startoftext|> SURE ENOUGH THERE HE CAME THROUGH THE SHALLOW WATER HIS WET BACK SHELL PARTLY OUT OF IT AND SHINING IN THE SUNLIGHT <|endoftext|>",
     "tokens": [
+        50255,
         50,
         11335,
         12964,
@@ -36,7 +37,8 @@
         3336,
         35329,
         43,
-        9947
+        9947,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

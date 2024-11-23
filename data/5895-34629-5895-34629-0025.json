@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0025.flac",
-    "text": "THIS CONNOISSEUR WAS SUDDENLY FASCINATED AND HAD ADOPTED THE LAUGHING MAN",
+    "text": "<|startoftext|> THIS CONNOISSEUR WAS SUDDENLY FASCINATED AND HAD ADOPTED THE LAUGHING MAN <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         7102,
         15285,
@@ -27,7 +28,8 @@
         9131,
         44004,
         2751,
-        17254
+        17254,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

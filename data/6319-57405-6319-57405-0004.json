@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0004.flac",
-    "text": "NO ONE BUT DEUCALION THE SON OF PROMETHEUS WAS READY FOR SUCH A STORM",
+    "text": "<|startoftext|> NO ONE BUT DEUCALION THE SON OF PROMETHEUS WAS READY FOR SUCH A STORM <|endoftext|>",
     "tokens": [
+        50255,
         15285,
         16329,
         21728,
@@ -26,7 +27,8 @@
         3398,
         317,
         46366,
-        44
+        44,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

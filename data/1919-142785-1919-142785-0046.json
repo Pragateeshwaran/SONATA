@@ -1,13 +1,15 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0046.flac",
-    "text": "ILLUSTRATION BASIL",
+    "text": "<|startoftext|> ILLUSTRATION BASIL <|endoftext|>",
     "tokens": [
+        50255,
         8267,
         7759,
         49,
         6234,
         29809,
-        4146
+        4146,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

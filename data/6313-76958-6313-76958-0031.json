@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0031.flac",
-    "text": "WE HAD BETTER START THE DRIVE THIS MORNING",
+    "text": "<|startoftext|> WE HAD BETTER START THE DRIVE THIS MORNING <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         367,
         2885,
@@ -13,7 +14,8 @@
         9306,
         12680,
         35208,
-        15871
+        15871,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

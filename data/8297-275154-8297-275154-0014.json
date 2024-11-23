@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275154\\8297-275154-0014.flac",
-    "text": "YOU DON'T KNOW WHAT IT IS TO BE USED TO SEEING A PRETTY CREATURE ALWAYS NICELY DRESSED ALWAYS ABOUT THE ROOM THINKING SO MUCH OF YOU AND SO LITTLE OF HERSELF AND THEN TO BE LEFT ALONE AS I AM LEFT OUT IN THE DARK",
+    "text": "<|startoftext|> YOU DON'T KNOW WHAT IT IS TO BE USED TO SEEING A PRETTY CREATURE ALWAYS NICELY DRESSED ALWAYS ABOUT THE ROOM THINKING SO MUCH OF YOU AND SO LITTLE OF HERSELF AND THEN TO BE LEFT ALONE AS I AM LEFT OUT IN THE DARK <|endoftext|>",
     "tokens": [
+        50255,
         36981,
         23917,
         6,
@@ -66,7 +67,8 @@
         16289,
         3268,
         3336,
-        46455
+        46455,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

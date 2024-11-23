@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0017.flac",
-    "text": "A THOUSAND PLANS WERE MADE A THOUSAND ADVENTURES PICTURED AND THE MOTHER WOULD SMILE AND LAUGH AND PLAN WITH THEM",
+    "text": "<|startoftext|> A THOUSAND PLANS WERE MADE A THOUSAND ADVENTURES PICTURED AND THE MOTHER WOULD SMILE AND LAUGH AND PLAN WITH THEM <|endoftext|>",
     "tokens": [
+        50255,
         32,
         2320,
         20958,
@@ -38,7 +39,8 @@
         5357,
         45650,
         13315,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

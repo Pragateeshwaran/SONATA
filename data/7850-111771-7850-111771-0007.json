@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0007.flac",
-    "text": "TIME WORE AWAY AND ON THE NINTH OF APRIL EIGHTEEN SIXTY FIVE GRANT CAPTURED THE CONFEDERATE ARMY UNDER LEE THUS VIRTUALLY ENDING THE WAR",
+    "text": "<|startoftext|> TIME WORE AWAY AND ON THE NINTH OF APRIL EIGHTEEN SIXTY FIVE GRANT CAPTURED THE CONFEDERATE ARMY UNDER LEE THUS VIRTUALLY ENDING THE WAR <|endoftext|>",
     "tokens": [
+        50255,
         34694,
         370,
         6965,
@@ -51,7 +52,8 @@
         23578,
         2751,
         3336,
-        11837
+        11837,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

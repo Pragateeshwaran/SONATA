@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\174\\50561\\174-50561-0008.flac",
-    "text": "BUT IF I PLAY YOU A ROUNDEL LADY GET ME A GIFT FROM THE EMPEROR'S DAUGHTER HER FINGER RING FOR MY FINGER BRING THOUGH SHE'S PLEDGED A THOUSAND LEAGUES OVER THE WATER LADY LADY MY FAIR LADY O MY ROSE WHITE LADY",
+    "text": "<|startoftext|> BUT IF I PLAY YOU A ROUNDEL LADY GET ME A GIFT FROM THE EMPEROR'S DAUGHTER HER FINGER RING FOR MY FINGER BRING THOUGH SHE'S PLEDGED A THOUSAND LEAGUES OVER THE WATER LADY LADY MY FAIR LADY O MY ROSE WHITE LADY <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         16876,
         314,
@@ -81,7 +82,8 @@
         44925,
         406,
         2885,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "174",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0014.flac",
-    "text": "SHE ASKED MINNIE FOR INK AND PAPER WHICH WERE UPON THE MANTEL IN THE DINING ROOM AND WHEN THE LATTER HAD GONE TO BED AT TEN GOT OUT DROUET'S CARD AND WROTE HIM",
+    "text": "<|startoftext|> SHE ASKED MINNIE FOR INK AND PAPER WHICH WERE UPON THE MANTEL IN THE DINING ROOM AND WHEN THE LATTER HAD GONE TO BED AT TEN GOT OUT DROUET'S CARD AND WROTE HIM <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         7054,
@@ -60,7 +61,8 @@
         5357,
         11342,
         23051,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

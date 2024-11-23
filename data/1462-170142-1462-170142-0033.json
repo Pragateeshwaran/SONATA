@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0033.flac",
-    "text": "BARTLEY LEANED HIS HEAD IN HIS HANDS AND SPOKE THROUGH HIS TEETH",
+    "text": "<|startoftext|> BARTLEY LEANED HIS HEAD IN HIS HANDS AND SPOKE THROUGH HIS TEETH <|endoftext|>",
     "tokens": [
+        50255,
         33,
         7227,
         25173,
@@ -23,7 +24,8 @@
         32632,
         33700,
         13368,
-        20702
+        20702,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

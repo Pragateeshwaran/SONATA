@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0015.flac",
-    "text": "WE WALKED OVER THIS FLOATING BRIDGE AND SOON FOUND OURSELVES ON THE TENNESSEE SIDE OF TENNESSEE RIVER",
+    "text": "<|startoftext|> WE WALKED OVER THIS FLOATING BRIDGE AND SOON FOUND OURSELVES ON THE TENNESSEE SIDE OF TENNESSEE RIVER <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         370,
         28082,
@@ -38,7 +39,8 @@
         1546,
         36078,
         371,
-        38757
+        38757,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

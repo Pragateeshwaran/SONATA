@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0025.flac",
-    "text": "I THINK I CANNOT GO RIGHT FOR I EITHER CHECK MYSELF TILL I'M DOWNRIGHT CROSS TO HIM OR ELSE I SPEAK JUST NATURAL AND THAT'S TOO KIND AND TENDER BY HALF",
+    "text": "<|startoftext|> I THINK I CANNOT GO RIGHT FOR I EITHER CHECK MYSELF TILL I'M DOWNRIGHT CROSS TO HIM OR ELSE I SPEAK JUST NATURAL AND THAT'S TOO KIND AND TENDER BY HALF <|endoftext|>",
     "tokens": [
+        50255,
         40,
         2320,
         17248,
@@ -57,7 +58,8 @@
         1137,
         11050,
         42968,
-        37
+        37,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

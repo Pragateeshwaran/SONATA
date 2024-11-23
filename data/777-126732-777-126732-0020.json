@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0020.flac",
-    "text": "LOMBROSO IS AN ASS",
+    "text": "<|startoftext|> LOMBROSO IS AN ASS <|endoftext|>",
     "tokens": [
+        50255,
         43,
         2662,
         11473,
@@ -9,7 +10,8 @@
         46,
         3180,
         3537,
-        24994
+        24994,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9008\\2902-9008-0004.flac",
-    "text": "IF THEY HAVE CEASED TO GUIDE NATIONS THEY HAVE NOT CEASED TO SPEAK TO THEIR OWN ELECT",
+    "text": "<|startoftext|> IF THEY HAVE CEASED TO GUIDE NATIONS THEY HAVE NOT CEASED TO SPEAK TO THEIR OWN ELECT <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         33302,
         21515,
@@ -24,7 +25,8 @@
         5390,
         47278,
         47672,
-        46323
+        46323,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

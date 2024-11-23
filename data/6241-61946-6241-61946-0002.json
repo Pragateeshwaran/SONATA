@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0002.flac",
-    "text": "OUR TWO HORSES WITH THE LUGGAGE FOLLOWED OF THEIR OWN ACCORD WITHOUT REQUIRING WHIP OR SPUR",
+    "text": "<|startoftext|> OUR TWO HORSES WITH THE LUGGAGE FOLLOWED OF THEIR OWN ACCORD WITHOUT REQUIRING WHIP OR SPUR <|endoftext|>",
     "tokens": [
+        50255,
         11698,
         35288,
         367,
@@ -30,7 +31,8 @@
         4061,
         6375,
         6226,
-        4261
+        4261,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

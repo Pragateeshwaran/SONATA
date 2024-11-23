@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0012.flac",
-    "text": "WE KEPT FALLING BACK AND FIRING ALL DAY AND WERE RELIEVED BY ANOTHER REGIMENT ABOUT DARK WE REJOINED OUR REGIMENT",
+    "text": "<|startoftext|> WE KEPT FALLING BACK AND FIRING ALL DAY AND WERE RELIEVED BY ANOTHER REGIMENT ABOUT DARK WE REJOINED OUR REGIMENT <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         509,
         8905,
@@ -38,7 +39,8 @@
         30229,
         23337,
         3955,
-        3525
+        3525,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121123\\84-121123-0020.flac",
-    "text": "IT WAS SOMETHING TERRIBLE TO WITNESS THE SILENT AGONY THE MUTE DESPAIR OF NOIRTIER WHOSE TEARS SILENTLY ROLLED DOWN HIS CHEEKS",
+    "text": "<|startoftext|> IT WAS SOMETHING TERRIBLE TO WITNESS THE SILENT AGONY THE MUTE DESPAIR OF NOIRTIER WHOSE TEARS SILENTLY ROLLED DOWN HIS CHEEKS <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         42121,
@@ -43,7 +44,8 @@
         33700,
         5870,
         6500,
-        27015
+        27015,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

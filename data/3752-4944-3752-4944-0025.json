@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0025.flac",
-    "text": "BUT MACKLEWAIN WAS TIRED AND WANTED TO GET HOME",
+    "text": "<|startoftext|> BUT MACKLEWAIN WAS TIRED AND WANTED TO GET HOME <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         337,
         8120,
@@ -16,7 +17,8 @@
         1961,
         5390,
         17151,
-        41779
+        41779,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

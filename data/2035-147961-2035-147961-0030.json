@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0030.flac",
-    "text": "PAVEL KNOCKED HIM OVER THE SIDE OF THE SLEDGE AND THREW THE GIRL AFTER HIM",
+    "text": "<|startoftext|> PAVEL KNOCKED HIM OVER THE SIDE OF THE SLEDGE AND THREW THE GIRL AFTER HIM <|endoftext|>",
     "tokens": [
+        50255,
         4537,
         18697,
         22466,
@@ -26,7 +27,8 @@
         4663,
         43,
         36050,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

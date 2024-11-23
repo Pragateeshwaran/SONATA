@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0003.flac",
-    "text": "HE ENTERED HEAVEN ONLY BY THE ARTISTS DOOR",
+    "text": "<|startoftext|> HE ENTERED HEAVEN ONLY BY THE ARTISTS DOOR <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         46962,
         1961,
@@ -15,7 +16,8 @@
         1797,
         4694,
         8410,
-        1581
+        1581,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

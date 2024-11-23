@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\66616\\6241-66616-0009.flac",
-    "text": "WABI ON THE OTHER HAND WAS AN INDIAN IN APPEARANCE FROM HIS MOCCASINS TO THE CROWN OF HIS HEAD SWARTHY SINEWY AS AGILE AS A LYNX AND WITH EVERY INSTINCT IN HIM CRYING FOR THE LIFE OF THE WILD",
+    "text": "<|startoftext|> WABI ON THE OTHER HAND WAS AN INDIAN IN APPEARANCE FROM HIS MOCCASINS TO THE CROWN OF HIS HEAD SWARTHY SINEWY AS AGILE AS A LYNX AND WITH EVERY INSTINCT IN HIM CRYING FOR THE LIFE OF THE WILD <|endoftext|>",
     "tokens": [
+        50255,
         15543,
         3483,
         6177,
@@ -63,7 +64,8 @@
         3963,
         3336,
         370,
-        26761
+        26761,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0049.flac",
-    "text": "THIS SURVEY WAS UNFAVOURABLE",
+    "text": "<|startoftext|> THIS SURVEY WAS UNFAVOURABLE <|endoftext|>",
     "tokens": [
+        50255,
         43559,
         41016,
         6089,
@@ -12,7 +13,8 @@
         53,
         2606,
         3861,
-        19146
+        19146,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

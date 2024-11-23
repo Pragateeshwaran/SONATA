@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0014.flac",
-    "text": "I TOOK QUITE A FANCY TO HIM WHY",
+    "text": "<|startoftext|> I TOOK QUITE A FANCY TO HIM WHY <|endoftext|>",
     "tokens": [
+        50255,
         40,
         5390,
         11380,
@@ -13,7 +14,8 @@
         56,
         5390,
         45909,
-        44463
+        44463,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

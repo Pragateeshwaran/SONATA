@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0024.flac",
-    "text": "HE STOOD UP SUDDENLY DO YOU MEAN IT",
+    "text": "<|startoftext|> HE STOOD UP SUDDENLY DO YOU MEAN IT <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         3563,
         22808,
@@ -14,7 +15,8 @@
         7013,
         11948,
         1565,
-        7283
+        7283,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

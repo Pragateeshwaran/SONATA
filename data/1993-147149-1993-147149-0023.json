@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0023.flac",
-    "text": "HER THOUGHTS RAN ON JEM'S MANNER AND WORDS NOT BUT WHAT SHE HAD KNOWN THE TALE THEY TOLD FOR MANY A DAY BUT STILL SHE WISHED HE HAD NOT PUT IT SO PLAINLY",
+    "text": "<|startoftext|> HER THOUGHTS RAN ON JEM'S MANNER AND WORDS NOT BUT WHAT SHE HAD KNOWN THE TALE THEY TOLD FOR MANY A DAY BUT STILL SHE WISHED HE HAD NOT PUT IT SO PLAINLY <|endoftext|>",
     "tokens": [
+        50255,
         16879,
         2320,
         32632,
@@ -54,7 +55,8 @@
         12809,
         9297,
         29833,
-        11319
+        11319,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\128104\\1272-128104-0007.flac",
-    "text": "PAINTING HE TELLS US IS OF A DIFFERENT QUALITY TO MATHEMATICS AND FINISH IN ART IS ADDING MORE FACT",
+    "text": "<|startoftext|> PAINTING HE TELLS US IS OF A DIFFERENT QUALITY TO MATHEMATICS AND FINISH IN ART IS ADDING MORE FACT <|endoftext|>",
     "tokens": [
+        50255,
         4537,
         12394,
         2751,
@@ -36,7 +37,8 @@
         2751,
         12011,
         376,
-        10659
+        10659,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

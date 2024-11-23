@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\161169\\2803-161169-0017.flac",
-    "text": "WHEN YOUR HANDS OR LIPS ARE CRACKED AND ROUGH FROM THE COLD DOES YOUR MOTHER EVER PUT ON GLYCERIN TO HEAL THEM",
+    "text": "<|startoftext|> WHEN YOUR HANDS OR LIPS ARE CRACKED AND ROUGH FROM THE COLD DOES YOUR MOTHER EVER PUT ON GLYCERIN TO HEAL THEM <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         16592,
@@ -37,7 +38,8 @@
         5390,
         11179,
         1847,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

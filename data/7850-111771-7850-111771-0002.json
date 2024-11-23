@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\111771\\7850-111771-0002.flac",
-    "text": "GRANT ACTED AS MUSTERING OFFICER UNTIL BEING COMMISSIONED COLONEL OF THE TWENTY FIRST ILLINOIS VOLUNTEERS HE TOOK THE FIELD",
+    "text": "<|startoftext|> GRANT ACTED AS MUSTERING OFFICER UNTIL BEING COMMISSIONED COLONEL OF THE TWENTY FIRST ILLINOIS VOLUNTEERS HE TOOK THE FIELD <|endoftext|>",
     "tokens": [
+        50255,
         10761,
         8643,
         11741,
@@ -42,7 +43,8 @@
         11380,
         3336,
         18930,
-        24639
+        24639,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

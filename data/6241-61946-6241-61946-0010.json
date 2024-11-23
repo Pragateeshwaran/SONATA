@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6241\\61946\\6241-61946-0010.flac",
-    "text": "MY ARMS ARE RIGHT BUT MY LEGS ARE GETTING A LITTLE STIFF",
+    "text": "<|startoftext|> MY ARMS ARE RIGHT BUT MY LEGS ARE GETTING A LITTLE STIFF <|endoftext|>",
     "tokens": [
+        50255,
         26708,
         5923,
         5653,
@@ -19,7 +20,8 @@
         22470,
         2538,
         3563,
-        29267
+        29267,
+        50256
     ],
     "metadata": {
         "speaker_id": "6241",

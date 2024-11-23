@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\137823\\251-137823-0007.flac",
-    "text": "FOR MINUTES NO ONE STIRRED AMONG THE WRECKAGE",
+    "text": "<|startoftext|> FOR MINUTES NO ONE STIRRED AMONG THE WRECKAGE <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         20625,
         3843,
@@ -17,7 +18,8 @@
         370,
         38827,
         42,
-        11879
+        11879,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

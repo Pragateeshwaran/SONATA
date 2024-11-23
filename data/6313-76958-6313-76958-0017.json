@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\76958\\6313-76958-0017.flac",
-    "text": "LUMPY BATES CAME RUNNING TOWARD HIM NOT DARING TO CALL OUT FOR FEAR OF WAKING THE CAMP",
+    "text": "<|startoftext|> LUMPY BATES CAME RUNNING TOWARD HIM NOT DARING TO CALL OUT FOR FEAR OF WAKING THE CAMP <|endoftext|>",
     "tokens": [
+        50255,
         43,
         20476,
         56,
@@ -29,7 +30,8 @@
         43602,
         3336,
         327,
-        23518
+        23518,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

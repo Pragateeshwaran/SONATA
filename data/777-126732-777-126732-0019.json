@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0019.flac",
-    "text": "IT WAS KARL YUNDT WHO WAS HEARD IMPLACABLE TO HIS LAST BREATH",
+    "text": "<|startoftext|> IT WAS KARL YUNDT WHO WAS HEARD IMPLACABLE TO HIS LAST BREATH <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         509,
@@ -22,7 +23,8 @@
         33700,
         41894,
         29377,
-        12599
+        12599,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

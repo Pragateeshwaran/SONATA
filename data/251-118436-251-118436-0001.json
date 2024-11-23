@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0001.flac",
-    "text": "I TELL YOU IT IS NOT POISON SHE CRIED",
+    "text": "<|startoftext|> I TELL YOU IT IS NOT POISON SHE CRIED <|endoftext|>",
     "tokens": [
+        50255,
         40,
         13368,
         3069,
@@ -14,7 +15,8 @@
         48052,
         327,
         7112,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

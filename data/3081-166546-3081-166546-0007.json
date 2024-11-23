@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0007.flac",
-    "text": "DO THEY STILL INSIST THAT MISS CHALLONER WAS THE ONLY PERSON IN THE ROOM WITH THEM AT THIS TIME",
+    "text": "<|startoftext|> DO THEY STILL INSIST THAT MISS CHALLONER WAS THE ONLY PERSON IN THE ROOM WITH THEM AT THIS TIME <|endoftext|>",
     "tokens": [
+        50255,
         18227,
         33302,
         3563,
@@ -26,7 +27,8 @@
         44788,
         5161,
         12680,
-        20460
+        20460,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

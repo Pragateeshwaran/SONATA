@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0032.flac",
-    "text": "IT'S THE MOST INEXPLICABLE THERE",
+    "text": "<|startoftext|> IT'S THE MOST INEXPLICABLE THERE <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         6,
         50,
@@ -12,7 +13,8 @@
         6369,
         31484,
         17534,
-        34702
+        34702,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

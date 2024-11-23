@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0023.flac",
-    "text": "ANTONIA POINTED UP TO THE SKY AND QUESTIONED ME WITH HER GLANCE",
+    "text": "<|startoftext|> ANTONIA POINTED UP TO THE SKY AND QUESTIONED ME WITH HER GLANCE <|endoftext|>",
     "tokens": [
+        50255,
         8643,
         1340,
         3539,
@@ -21,7 +22,8 @@
         13315,
         24906,
         10188,
-        19240
+        19240,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

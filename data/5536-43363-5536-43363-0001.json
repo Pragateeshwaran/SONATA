@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0001.flac",
-    "text": "THEREFORE HE COURTS DEATH IN BATTLE ON THE OTHER HAND HE WOULD REGARD IT AS DISGRACEFUL TO BE KILLED IN A PRIVATE QUARREL",
+    "text": "<|startoftext|> THEREFORE HE COURTS DEATH IN BATTLE ON THE OTHER HAND HE WOULD REGARD IT AS DISGRACEFUL TO BE KILLED IN A PRIVATE QUARREL <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         9338,
         30818,
@@ -40,7 +41,8 @@
         6158,
         19604,
         1503,
-        16448
+        16448,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

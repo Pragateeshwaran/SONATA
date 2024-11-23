@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0003.flac",
-    "text": "NONE MIGHT EXHORT OR CONFESS OR IN ANY WAY MEDDLE WITH THE RELIGIOUS EXPERIENCE OF ANOTHER",
+    "text": "<|startoftext|> NONE MIGHT EXHORT OR CONFESS OR IN ANY WAY MEDDLE WITH THE RELIGIOUS EXPERIENCE OF ANOTHER <|endoftext|>",
     "tokens": [
+        50255,
         45,
         11651,
         337,
@@ -31,7 +32,8 @@
         42589,
         3963,
         3537,
-        31858
+        31858,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

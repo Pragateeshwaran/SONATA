@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0051.flac",
-    "text": "HE LOOKED DUBIOUSLY AT HIS BROTHER IN LAW BUT HE DID NOT ASK HIM FOR INFORMATION",
+    "text": "<|startoftext|> HE LOOKED DUBIOUSLY AT HIS BROTHER IN LAW BUT HE DID NOT ASK HIM FOR INFORMATION <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         48045,
         1961,
@@ -24,7 +25,8 @@
         42,
         45909,
         7473,
-        38044
+        38044,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

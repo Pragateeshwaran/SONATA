@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275156\\8297-275156-0000.flac",
-    "text": "WHAT ARE YOU DOING HERE HE ASKED",
+    "text": "<|startoftext|> WHAT ARE YOU DOING HERE HE ASKED <|endoftext|>",
     "tokens": [
+        50255,
         32971,
         15986,
         7013,
@@ -11,7 +12,8 @@
         11179,
         7054,
         42,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

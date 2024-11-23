@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0021.flac",
-    "text": "ALL THE SAME HE ADDED IRRELEVANTLY YOU SHALL HAVE THE LATCH KEY",
+    "text": "<|startoftext|> ALL THE SAME HE ADDED IRRELEVANTLY YOU SHALL HAVE THE LATCH KEY <|endoftext|>",
     "tokens": [
+        50255,
         7036,
         3336,
         311,
@@ -21,7 +22,8 @@
         3336,
         406,
         11417,
-        35374
+        35374,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

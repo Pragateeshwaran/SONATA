@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0028.flac",
-    "text": "THE OLD LEAVEN INFUSED YEARS AGO BY HER AUNT ESTHER FERMENTED IN HER LITTLE BOSOM AND PERHAPS ALL THE MORE FOR HER FATHER'S AVERSION TO THE RICH AND THE GENTLE",
+    "text": "<|startoftext|> THE OLD LEAVEN INFUSED YEARS AGO BY HER AUNT ESTHER FERMENTED IN HER LITTLE BOSOM AND PERHAPS ALL THE MORE FOR HER FATHER'S AVERSION TO THE RICH AND THE GENTLE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         440,
         11163,
@@ -58,7 +59,8 @@
         3336,
         402,
         3525,
-        2538
+        2538,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

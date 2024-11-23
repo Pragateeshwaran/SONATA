@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1462\\170142\\1462-170142-0031.flac",
-    "text": "SHE LISTENED INTENTLY BUT SHE HEARD NOTHING BUT THE CREAKING OF HIS CHAIR",
+    "text": "<|startoftext|> SHE LISTENED INTENTLY BUT SHE HEARD NOTHING BUT THE CREAKING OF HIS CHAIR <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         39498,
@@ -24,7 +25,8 @@
         3963,
         33700,
         5870,
-        42149
+        42149,
+        50256
     ],
     "metadata": {
         "speaker_id": "1462",

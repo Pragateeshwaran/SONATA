@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147149\\1993-147149-0011.flac",
-    "text": "THEN THE MOTHER LIFTED UP HER VOICE AND WEPT",
+    "text": "<|startoftext|> THEN THE MOTHER LIFTED UP HER VOICE AND WEPT <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         3336,
@@ -17,7 +18,8 @@
         5357,
         370,
         8905,
-        51
+        51,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

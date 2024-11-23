@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8297\\275155\\8297-275155-0028.flac",
-    "text": "NOT AT THE HOTEL JUST NOW",
+    "text": "<|startoftext|> NOT AT THE HOTEL JUST NOW <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         5161,
         3336,
         44607,
         3698,
         25848,
-        20229
+        20229,
+        50256
     ],
     "metadata": {
         "speaker_id": "8297",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0013.flac",
-    "text": "LISTEN SAID HE MOTIONING THEM TO STOOP",
+    "text": "<|startoftext|> LISTEN SAID HE MOTIONING THEM TO STOOP <|endoftext|>",
     "tokens": [
+        50255,
         45849,
         1677,
         14719,
@@ -14,7 +15,8 @@
         5390,
         3563,
         46,
-        3185
+        3185,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

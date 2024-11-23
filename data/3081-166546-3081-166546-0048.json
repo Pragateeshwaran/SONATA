@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3081\\166546\\3081-166546-0048.flac",
-    "text": "WELL WELL THAT'S HONEST AT ALL EVENTS",
+    "text": "<|startoftext|> WELL WELL THAT'S HONEST AT ALL EVENTS <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         3069,
         12887,
@@ -14,7 +15,8 @@
         6465,
         5161,
         11096,
-        22399
+        22399,
+        50256
     ],
     "metadata": {
         "speaker_id": "3081",

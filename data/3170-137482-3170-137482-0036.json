@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0036.flac",
-    "text": "IF THE QUESTION WAS SO OBSCURE THAT I COULD NOT MAKE OUT THE SENSE OF IT IT WAS NATURAL THAT I SHOULD NOT UNDERSTAND THE ANSWER",
+    "text": "<|startoftext|> IF THE QUESTION WAS SO OBSCURE THAT I COULD NOT MAKE OUT THE SENSE OF IT IT WAS NATURAL THAT I SHOULD NOT UNDERSTAND THE ANSWER <|endoftext|>",
     "tokens": [
+        50255,
         5064,
         3336,
         43658,
@@ -39,7 +40,8 @@
         3336,
         3537,
         17887,
-        1137
+        1137,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

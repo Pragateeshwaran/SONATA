@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0019.flac",
-    "text": "THE GLORY OF GWYNPLAINE HAD NOT PASSED LONDON BRIDGE",
+    "text": "<|startoftext|> THE GLORY OF GWYNPLAINE HAD NOT PASSED LONDON BRIDGE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         10188,
         15513,
@@ -19,7 +20,8 @@
         47383,
         11177,
         2389,
-        8264
+        8264,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

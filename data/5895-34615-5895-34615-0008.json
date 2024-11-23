@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34615\\5895-34615-0008.flac",
-    "text": "THE OUTSIDE DID NOT DEPEND ON THE INTERIOR",
+    "text": "<|startoftext|> THE OUTSIDE DID NOT DEPEND ON THE INTERIOR <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         16289,
         50,
@@ -14,7 +15,8 @@
         6177,
         3336,
         23255,
-        41254
+        41254,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

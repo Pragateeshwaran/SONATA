@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43363\\5536-43363-0013.flac",
-    "text": "ANOTHER FAMOUS MEDICINE MAN WAS BORN ON THE RUM RIVER ABOUT ONE HUNDRED AND FIFTY YEARS AGO AND LIVED TO BE OVER A CENTURY OLD",
+    "text": "<|startoftext|> ANOTHER FAMOUS MEDICINE MAN WAS BORN ON THE RUM RIVER ABOUT ONE HUNDRED AND FIFTY YEARS AGO AND LIVED TO BE OVER A CENTURY OLD <|endoftext|>",
     "tokens": [
+        50255,
         1565,
         31858,
         42129,
@@ -44,7 +45,8 @@
         4261,
         56,
         440,
-        11163
+        11163,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

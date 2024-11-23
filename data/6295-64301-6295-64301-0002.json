@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6295\\64301\\6295-64301-0002.flac",
-    "text": "WAS THERE EVER A HAPPIER MAN THAN JOSEPH THAT NIGHT AS HE STRODE ALONG THE FOOTPATH",
+    "text": "<|startoftext|> WAS THERE EVER A HAPPIER MAN THAN JOSEPH THAT NIGHT AS HE STRODE ALONG THE FOOTPATH <|endoftext|>",
     "tokens": [
+        50255,
         54,
         1921,
         34702,
@@ -29,7 +30,8 @@
         3336,
         11895,
         2394,
-        34219
+        34219,
+        50256
     ],
     "metadata": {
         "speaker_id": "6295",

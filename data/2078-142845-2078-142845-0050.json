@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0050.flac",
-    "text": "MODE PUT THE MILK AND BUTTER INTO A SAUCEPAN AND KEEP SHAKING IT ROUND UNTIL THE LATTER IS MELTED",
+    "text": "<|startoftext|> MODE PUT THE MILK AND BUTTER INTO A SAUCEPAN AND KEEP SHAKING IT ROUND UNTIL THE LATTER IS MELTED <|endoftext|>",
     "tokens": [
+        50255,
         49058,
         350,
         3843,
@@ -35,7 +36,8 @@
         3180,
         337,
         3698,
-        36493
+        36493,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

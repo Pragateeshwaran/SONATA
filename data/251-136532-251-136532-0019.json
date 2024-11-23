@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0019.flac",
-    "text": "NOT THAT I'M INTERESTED IN ALL THIS FOR MYSELF HE DISCLAIMED AFTER LISTENING TO THE TELECAST FROM TERRA TWO DAYS AFTER HIS DISCOVERY",
+    "text": "<|startoftext|> NOT THAT I'M INTERESTED IN ALL THIS FOR MYSELF HE DISCLAIMED AFTER LISTENING TO THE TELECAST FROM TERRA TWO DAYS AFTER HIS DISCOVERY <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         14603,
         314,
@@ -41,7 +42,8 @@
         13954,
         8220,
         5959,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0022.flac",
-    "text": "MISSUS BOZZLE WHO WELL UNDERSTOOD THAT BUSINESS WAS BUSINESS AND THAT WIVES WERE NOT BUSINESS FELT NO ANGER AT THIS AND HANDED HER HUSBAND HIS BEST COAT",
+    "text": "<|startoftext|> MISSUS BOZZLE WHO WELL UNDERSTOOD THAT BUSINESS WAS BUSINESS AND THAT WIVES WERE NOT BUSINESS FELT NO ANGER AT THIS AND HANDED HER HUSBAND HIS BEST COAT <|endoftext|>",
     "tokens": [
+        50255,
         44,
         16744,
         2937,
@@ -48,7 +49,8 @@
         33700,
         38502,
         7375,
-        1404
+        1404,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

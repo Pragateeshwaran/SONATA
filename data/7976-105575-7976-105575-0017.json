@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0017.flac",
-    "text": "I COULD NOT HELP MY FRIEND",
+    "text": "<|startoftext|> I COULD NOT HELP MY FRIEND <|endoftext|>",
     "tokens": [
+        50255,
         40,
         327,
         24010,
@@ -9,7 +10,8 @@
         49944,
         17615,
         48167,
-        10619
+        10619,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

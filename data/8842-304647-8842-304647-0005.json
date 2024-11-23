@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\8842\\304647\\8842-304647-0005.flac",
-    "text": "IL POPOLO E UNA BESTIA",
+    "text": "<|startoftext|> IL POPOLO E UNA BESTIA <|endoftext|>",
     "tokens": [
+        50255,
         4146,
         37586,
         3535,
@@ -10,7 +11,8 @@
         471,
         4535,
         38502,
-        3539
+        3539,
+        50256
     ],
     "metadata": {
         "speaker_id": "8842",

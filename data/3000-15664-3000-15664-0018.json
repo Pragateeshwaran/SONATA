@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0018.flac",
-    "text": "THE LONG GRAY SLOPES LEADING UP TO THE GLACIER SEEM REMARKABLY SMOOTH AND UNBROKEN",
+    "text": "<|startoftext|> THE LONG GRAY SLOPES LEADING UP TO THE GLACIER SEEM REMARKABLY SMOOTH AND UNBROKEN <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         44533,
         402,
@@ -31,7 +32,8 @@
         4725,
         11473,
         11380,
-        1677
+        1677,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\118436\\251-118436-0007.flac",
-    "text": "NOT UNTIL THE HEAVENS WERE IN THE PROPER ORDER COULD THEY PERFORM THIS NECROMANCY",
+    "text": "<|startoftext|> NOT UNTIL THE HEAVENS WERE IN THE PROPER ORDER COULD THEY PERFORM THIS NECROMANCY <|endoftext|>",
     "tokens": [
+        50255,
         11929,
         4725,
         51,
@@ -26,7 +27,8 @@
         41804,
         33676,
         20940,
-        56
+        56,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

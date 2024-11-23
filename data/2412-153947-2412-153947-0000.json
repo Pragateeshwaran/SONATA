@@ -1,14 +1,16 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153947\\2412-153947-0000.flac",
-    "text": "PREFACE TO SECOND EDITION",
+    "text": "<|startoftext|> PREFACE TO SECOND EDITION <|endoftext|>",
     "tokens": [
+        50255,
         47,
         31688,
         11598,
         5390,
         10729,
         18672,
-        39219
+        39219,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

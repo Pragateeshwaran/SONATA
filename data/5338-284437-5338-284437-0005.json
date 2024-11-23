@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5338\\284437\\5338-284437-0005.flac",
-    "text": "THESE INTRUDERS ARE VERY PECULIAR PEOPLE REMARKED A MAN IN THE CROWD",
+    "text": "<|startoftext|> THESE INTRUDERS ARE VERY PECULIAR PEOPLE REMARKED A MAN IN THE CROWD <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         33635,
         3268,
@@ -25,7 +26,8 @@
         3336,
         8740,
         3913,
-        35
+        35,
+        50256
     ],
     "metadata": {
         "speaker_id": "5338",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93306\\6345-93306-0010.flac",
-    "text": "HE HAD NO TIME TO THINK BUT HE WAS AWARE THAT THIS WAS THE MOST EXCITING ADVENTURE THAT HAD EVER HAPPENED TO HIM",
+    "text": "<|startoftext|> HE HAD NO TIME TO THINK BUT HE WAS AWARE THAT THIS WAS THE MOST EXCITING ADVENTURE THAT HAD EVER HAPPENED TO HIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         367,
         2885,
@@ -37,7 +38,8 @@
         1677,
         1961,
         5390,
-        45909
+        45909,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

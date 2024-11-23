@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0056.flac",
-    "text": "FRIED BREAD CRUMBS",
+    "text": "<|startoftext|> FRIED BREAD CRUMBS <|endoftext|>",
     "tokens": [
+        50255,
         37,
         7112,
         1961,
@@ -9,7 +10,8 @@
         15675,
         8740,
         5883,
-        4462
+        4462,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

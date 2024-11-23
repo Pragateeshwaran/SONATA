@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43359\\5536-43359-0009.flac",
-    "text": "BEFORE THIS CALAMITY CAME UPON US YOU COULD NOT FIND ANYWHERE A HAPPIER HOME THAN THAT CREATED BY THE INDIAN WOMAN",
+    "text": "<|startoftext|> BEFORE THIS CALAMITY CAME UPON US YOU COULD NOT FIND ANYWHERE A HAPPIER HOME THAN THAT CREATED BY THE INDIAN WOMAN <|endoftext|>",
     "tokens": [
+        50255,
         12473,
         30818,
         12680,
@@ -37,7 +38,8 @@
         24413,
         16868,
         45386,
-        1565
+        1565,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

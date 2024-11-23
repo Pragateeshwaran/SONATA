@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0032.flac",
-    "text": "BUT WHY ON THAT ACCOUNT THEY SHOULD PITY ME I ALTOGETHER FAIL TO UNDERSTAND",
+    "text": "<|startoftext|> BUT WHY ON THAT ACCOUNT THEY SHOULD PITY ME I ALTOGETHER FAIL TO UNDERSTAND <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         44463,
         6177,
@@ -24,7 +25,8 @@
         5390,
         35219,
         2257,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

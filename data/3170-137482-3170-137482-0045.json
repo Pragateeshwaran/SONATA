@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0045.flac",
-    "text": "WHOEVER YOU MAY BE I AM INDEBTED TO YOU FOR MY LIFE",
+    "text": "<|startoftext|> WHOEVER YOU MAY BE I AM INDEBTED TO YOU FOR MY LIFE <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         27799,
         5959,
@@ -18,7 +19,8 @@
         7013,
         7473,
         17615,
-        36821
+        36821,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

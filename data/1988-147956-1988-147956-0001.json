@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\147956\\1988-147956-0001.flac",
-    "text": "OCCASIONALLY ONE OF THE HORSES WOULD TEAR OFF WITH HIS TEETH A PLANT FULL OF BLOSSOMS AND WALK ALONG MUNCHING IT THE FLOWERS NODDING IN TIME TO HIS BITES AS HE ATE DOWN TOWARD THEM",
+    "text": "<|startoftext|> OCCASIONALLY ONE OF THE HORSES WOULD TEAR OFF WITH HIS TEETH A PLANT FULL OF BLOSSOMS AND WALK ALONG MUNCHING IT THE FLOWERS NODDING IN TIME TO HIS BITES AS HE ATE DOWN TOWARD THEM <|endoftext|>",
     "tokens": [
+        50255,
         46,
         4093,
         1921,
@@ -62,7 +63,8 @@
         309,
         3913,
         9795,
-        44788
+        44788,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

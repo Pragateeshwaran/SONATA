@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34622\\5895-34622-0016.flac",
-    "text": "URSUS AND HOMO TOOK CHARGE OF EACH OTHER",
+    "text": "<|startoftext|> URSUS AND HOMO TOOK CHARGE OF EACH OTHER <|endoftext|>",
     "tokens": [
+        50255,
         4261,
         50,
         2937,
@@ -16,7 +17,8 @@
         3963,
         412,
         16219,
-        25401
+        25401,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

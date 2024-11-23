@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0004.flac",
-    "text": "AND WE'VE GOT A SURPRISE FOR YOU ANNOUNCED STACY SWELLING WITH PRIDE",
+    "text": "<|startoftext|> AND WE'VE GOT A SURPRISE FOR YOU ANNOUNCED STACY SWELLING WITH PRIDE <|endoftext|>",
     "tokens": [
+        50255,
         6981,
         12887,
         6,
@@ -25,7 +26,8 @@
         2751,
         13315,
         4810,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

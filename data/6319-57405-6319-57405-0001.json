@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\57405\\6319-57405-0001.flac",
-    "text": "AFTER JUPITER HAD BOUND PROMETHEUS ON MOUNT CAUCASUS AND HAD SENT DISEASES AND CARES INTO THE WORLD MEN BECAME VERY VERY WICKED",
+    "text": "<|startoftext|> AFTER JUPITER HAD BOUND PROMETHEUS ON MOUNT CAUCASUS AND HAD SENT DISEASES AND CARES INTO THE WORLD MEN BECAME VERY VERY WICKED <|endoftext|>",
     "tokens": [
+        50255,
         8579,
         5781,
         449,
@@ -47,7 +48,8 @@
         29550,
         370,
         11860,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

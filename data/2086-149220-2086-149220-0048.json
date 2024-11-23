@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2086\\149220\\2086-149220-0048.flac",
-    "text": "WHILE THUS DISMISSING HER THE MAIDEN LADY STEPT FORWARD KISSED PHOEBE AND PRESSED HER TO HER HEART WHICH BEAT AGAINST THE GIRL'S BOSOM WITH A STRONG HIGH AND TUMULTUOUS SWELL",
+    "text": "<|startoftext|> WHILE THUS DISMISSING HER THE MAIDEN LADY STEPT FORWARD KISSED PHOEBE AND PRESSED HER TO HER HEART WHICH BEAT AGAINST THE GIRL'S BOSOM WITH A STRONG HIGH AND TUMULTUOUS SWELL <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         41119,
         2320,
@@ -64,7 +65,8 @@
         20958,
         311,
         8845,
-        3069
+        3069,
+        50256
     ],
     "metadata": {
         "speaker_id": "2086",

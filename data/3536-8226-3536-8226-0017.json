@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0017.flac",
-    "text": "THEN BOZZLE CAME FORWARD AND INTRODUCED HIS WIFE",
+    "text": "<|startoftext|> THEN BOZZLE CAME FORWARD AND INTRODUCED HIS WIFE <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         1677,
         16494,
@@ -19,7 +20,8 @@
         1961,
         33700,
         370,
-        29150
+        29150,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

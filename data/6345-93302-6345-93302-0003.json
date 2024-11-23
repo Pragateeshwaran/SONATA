@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0003.flac",
-    "text": "SHE HAD TO THE FULL LIMIT ALLOWED OF HER READING AND HER ENVIRONMENT THE LITERARY SENSE",
+    "text": "<|startoftext|> SHE HAD TO THE FULL LIMIT ALLOWED OF HER READING AND HER ENVIRONMENT THE LITERARY SENSE <|endoftext|>",
     "tokens": [
+        50255,
         9693,
         36,
         367,
@@ -31,7 +32,8 @@
         1137,
         13153,
         311,
-        24290
+        24290,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

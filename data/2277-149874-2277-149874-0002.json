@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0002.flac",
-    "text": "TO HIM THE PRESENCE OR ABSENCE OF HIS WIFE'S SISTER WAS A MATTER OF INDIFFERENCE",
+    "text": "<|startoftext|> TO HIM THE PRESENCE OR ABSENCE OF HIS WIFE'S SISTER WAS A MATTER OF INDIFFERENCE <|endoftext|>",
     "tokens": [
+        50255,
         10468,
         45909,
         3336,
@@ -26,7 +27,8 @@
         24413,
         5064,
         24302,
-        18310
+        18310,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

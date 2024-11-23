@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0010.flac",
-    "text": "FIFTEEN OFFICERS OF OUR LITTLE HALF REGIMENT WERE DEAD OR WOUNDED",
+    "text": "<|startoftext|> FIFTEEN OFFICERS OF OUR LITTLE HALF REGIMENT WERE DEAD OR WOUNDED <|endoftext|>",
     "tokens": [
+        50255,
         37,
         5064,
         9328,
@@ -24,7 +25,8 @@
         6375,
         370,
         15919,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

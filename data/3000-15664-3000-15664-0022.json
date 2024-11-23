@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3000\\15664\\3000-15664-0022.flac",
-    "text": "HERE YOU STRIKE THE OLD EMIGRANT ROAD WHICH LEADS OVER THE LOW DIVIDE TO THE EASTERN SLOPES OF THE MOUNTAIN",
+    "text": "<|startoftext|> HERE YOU STRIKE THE OLD EMIGRANT ROAD WHICH LEADS OVER THE LOW DIVIDE TO THE EASTERN SLOPES OF THE MOUNTAIN <|endoftext|>",
     "tokens": [
+        50255,
         39,
         9338,
         7013,
@@ -38,7 +39,8 @@
         3336,
         337,
         19385,
-        30339
+        30339,
+        50256
     ],
     "metadata": {
         "speaker_id": "3000",

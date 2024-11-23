@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7850\\286674\\7850-286674-0017.flac",
-    "text": "THE NYMPHS HAD ALREADY GOTTEN AWAY",
+    "text": "<|startoftext|> THE NYMPHS HAD ALREADY GOTTEN AWAY <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         6645,
         7378,
@@ -15,7 +16,8 @@
         29089,
         1677,
         14356,
-        4792
+        4792,
+        50256
     ],
     "metadata": {
         "speaker_id": "7850",

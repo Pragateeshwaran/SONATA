@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\135031\\1272-135031-0007.flac",
-    "text": "HE EATS AND SLEEPS VERY STEADILY REPLIED THE NEW KING",
+    "text": "<|startoftext|> HE EATS AND SLEEPS VERY STEADILY REPLIED THE NEW KING <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         412,
         33586,
@@ -18,7 +19,8 @@
         19767,
         3336,
         12682,
-        32957
+        32957,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

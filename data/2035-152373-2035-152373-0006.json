@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0006.flac",
-    "text": "LASTLY THE ROYAL BROTHERS FELL THEMSELVES VICTIMS TO THE EPIDEMIC WHICH SO SADLY SIGNALIZES THEIR REIGN",
+    "text": "<|startoftext|> LASTLY THE ROYAL BROTHERS FELL THEMSELVES VICTIMS TO THE EPIDEMIC WHICH SO SADLY SIGNALIZES THEIR REIGN <|endoftext|>",
     "tokens": [
+        50255,
         43,
         11262,
         11319,
@@ -41,7 +42,8 @@
         1546,
         47278,
         4526,
-        16284
+        16284,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

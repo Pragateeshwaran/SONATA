@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\147961\\2035-147961-0021.flac",
-    "text": "SOMETHING HAPPENED TO THE HINDMOST SLEDGE THE DRIVER LOST CONTROL HE WAS PROBABLY VERY DRUNK THE HORSES LEFT THE ROAD THE SLEDGE WAS CAUGHT IN A CLUMP OF TREES AND OVERTURNED",
+    "text": "<|startoftext|> SOMETHING HAPPENED TO THE HINDMOST SLEDGE THE DRIVER LOST CONTROL HE WAS PROBABLY VERY DRUNK THE HORSES LEFT THE ROAD THE SLEDGE WAS CAUGHT IN A CLUMP OF TREES AND OVERTURNED <|endoftext|>",
     "tokens": [
+        50255,
         50,
         2662,
         20702,
@@ -63,7 +64,8 @@
         440,
         15858,
         27064,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

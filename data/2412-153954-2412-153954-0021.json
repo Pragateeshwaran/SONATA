@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2412\\153954\\2412-153954-0021.flac",
-    "text": "WE PASSED MANY CASES AND AT LAST CAME TO ONE IN WHICH THERE WERE SEVERAL CLOCKS AND TWO OR THREE OLD WATCHES",
+    "text": "<|startoftext|> WE PASSED MANY CASES AND AT LAST CAME TO ONE IN WHICH THERE WERE SEVERAL CLOCKS AND TWO OR THREE OLD WATCHES <|endoftext|>",
     "tokens": [
+        50255,
         8845,
         41752,
         1961,
@@ -35,7 +36,8 @@
         440,
         11163,
         16518,
-        1546
+        1546,
+        50256
     ],
     "metadata": {
         "speaker_id": "2412",

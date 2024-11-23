@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0017.flac",
-    "text": "THREE MAIDENS AT THE RIGHT WHEEL IN A CIRCLE CAME ONWARD DANCING ONE SO VERY RED THAT IN THE FIRE SHE HARDLY HAD BEEN NOTED",
+    "text": "<|startoftext|> THREE MAIDENS AT THE RIGHT WHEEL IN A CIRCLE CAME ONWARD DANCING ONE SO VERY RED THAT IN THE FIRE SHE HARDLY HAD BEEN NOTED <|endoftext|>",
     "tokens": [
+        50255,
         4221,
         11587,
         8779,
@@ -42,7 +43,8 @@
         9348,
         1677,
         5626,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

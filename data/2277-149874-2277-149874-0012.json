@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149874\\2277-149874-0012.flac",
-    "text": "MINNIE BEGAN TO EXPLAIN BUT HER HUSBAND TOOK THIS PART OF THE CONVERSATION TO HIMSELF",
+    "text": "<|startoftext|> MINNIE BEGAN TO EXPLAIN BUT HER HUSBAND TOOK THIS PART OF THE CONVERSATION TO HIMSELF <|endoftext|>",
     "tokens": [
+        50255,
         23678,
         45,
         10008,
@@ -29,7 +30,8 @@
         5390,
         45909,
         50,
-        37738
+        37738,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

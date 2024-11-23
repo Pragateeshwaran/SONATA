@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\777\\126732\\777-126732-0060.flac",
-    "text": "THE COMPARISON OCCURRED TO MISTER VERLOC BECAUSE HE HAD SAT ASTRIDE VARIOUS ARMY HORSES IN HIS TIME AND HAD NOW THE SENSATION OF AN INCIPIENT FALL",
+    "text": "<|startoftext|> THE COMPARISON OCCURRED TO MISTER VERLOC BECAUSE HE HAD SAT ASTRIDE VARIOUS ARMY HORSES IN HIS TIME AND HAD NOW THE SENSATION OF AN INCIPIENT FALL <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         24301,
         1503,
@@ -50,7 +51,8 @@
         4061,
         28495,
         376,
-        7036
+        7036,
+        50256
     ],
     "metadata": {
         "speaker_id": "777",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1988\\148538\\1988-148538-0007.flac",
-    "text": "CHAPTER SIXTEEN WHY THE NATIONAL VANITY OF THE AMERICANS IS MORE RESTLESS AND CAPTIOUS THAN THAT OF THE ENGLISH",
+    "text": "<|startoftext|> CHAPTER SIXTEEN WHY THE NATIONAL VANITY OF THE AMERICANS IS MORE RESTLESS AND CAPTIOUS THAN THAT OF THE ENGLISH <|endoftext|>",
     "tokens": [
+        50255,
         41481,
         311,
         10426,
@@ -34,7 +35,8 @@
         3336,
         12964,
         8763,
-        18422
+        18422,
+        50256
     ],
     "metadata": {
         "speaker_id": "1988",

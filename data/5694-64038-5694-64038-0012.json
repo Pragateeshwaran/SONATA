@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64038\\5694-64038-0012.flac",
-    "text": "THE POOR FELLOW STAYED IN THAT WELL ALL NIGHT",
+    "text": "<|startoftext|> THE POOR FELLOW STAYED IN THAT WELL ALL NIGHT <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         19922,
         1581,
@@ -15,7 +16,8 @@
         12887,
         3069,
         11096,
-        37707
+        37707,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0041.flac",
-    "text": "I'M MISTER CHRISTOPHER FROM LONDON",
+    "text": "<|startoftext|> I'M MISTER CHRISTOPHER FROM LONDON <|endoftext|>",
     "tokens": [
+        50255,
         40,
         6,
         44,
@@ -12,7 +13,8 @@
         16879,
         16034,
         406,
-        47383
+        47383,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

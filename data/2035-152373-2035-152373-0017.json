@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2035\\152373\\2035-152373-0017.flac",
-    "text": "SAINT MOLING SURVIVED HIM THREE YEARS AND SAINT ADAMNAN SO INTIMATELY CONNECTED WITH HIS REIGN TEN YEARS",
+    "text": "<|startoftext|> SAINT MOLING SURVIVED HIM THREE YEARS AND SAINT ADAMNAN SO INTIMATELY CONNECTED WITH HIS REIGN TEN YEARS <|endoftext|>",
     "tokens": [
+        50255,
         4090,
         12394,
         337,
@@ -37,7 +38,8 @@
         309,
         1677,
         32914,
-        50
+        50,
+        50256
     ],
     "metadata": {
         "speaker_id": "2035",

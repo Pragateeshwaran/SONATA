@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\64257\\6345-64257-0015.flac",
-    "text": "I KNOW IT AND THERE IS NO WAKING",
+    "text": "<|startoftext|> I KNOW IT AND THERE IS NO WAKING <|endoftext|>",
     "tokens": [
+        50255,
         40,
         35876,
         7283,
@@ -10,7 +11,8 @@
         3180,
         8005,
         370,
-        43602
+        43602,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1272\\141231\\1272-141231-0011.flac",
-    "text": "THE OTHER VOICE SNAPPED WITH A HARSH URGENCY CLEARLY USED TO COMMAND",
+    "text": "<|startoftext|> THE OTHER VOICE SNAPPED WITH A HARSH URGENCY CLEARLY USED TO COMMAND <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         25401,
         30578,
@@ -23,7 +24,8 @@
         1961,
         5390,
         22240,
-        6981
+        6981,
+        50256
     ],
     "metadata": {
         "speaker_id": "1272",

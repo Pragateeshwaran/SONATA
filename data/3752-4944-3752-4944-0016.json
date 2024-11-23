@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4944\\3752-4944-0016.flac",
-    "text": "HE SEEMS TO ME TO BE TRULY PENITENT FOR HIS OFFENCES A MISGUIDED BUT NOT A HYPOCRITICAL MAN IF MY KNOWLEDGE OF HUMAN NATURE GOES FOR ANYTHING I HOPE HE IS SAID NORTH",
+    "text": "<|startoftext|> HE SEEMS TO ME TO BE TRULY PENITENT FOR HIS OFFENCES A MISGUIDED BUT NOT A HYPOCRITICAL MAN IF MY KNOWLEDGE OF HUMAN NATURE GOES FOR ANYTHING I HOPE HE IS SAID NORTH <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         7946,
         39201,
@@ -59,7 +60,8 @@
         14719,
         2389,
         25273,
-        4221
+        4221,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

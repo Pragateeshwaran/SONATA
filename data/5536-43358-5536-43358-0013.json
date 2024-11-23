@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0013.flac",
-    "text": "FROM THE SUN AS THE UNIVERSAL FATHER PROCEEDS THE QUICKENING PRINCIPLE IN NATURE AND IN THE PATIENT AND FRUITFUL WOMB OF OUR MOTHER THE EARTH ARE HIDDEN EMBRYOS OF PLANTS AND MEN",
+    "text": "<|startoftext|> FROM THE SUN AS THE UNIVERSAL FATHER PROCEEDS THE QUICKENING PRINCIPLE IN NATURE AND IN THE PATIENT AND FRUITFUL WOMB OF OUR MOTHER THE EARTH ARE HIDDEN EMBRYOS OF PLANTS AND MEN <|endoftext|>",
     "tokens": [
+        50255,
         10913,
         2662,
         3336,
@@ -58,7 +59,8 @@
         45650,
         4694,
         5357,
-        41597
+        41597,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

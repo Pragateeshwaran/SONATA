@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147966\\1993-147966-0003.flac",
-    "text": "FOR AMBROSCH MY MAMA COME HERE",
+    "text": "<|startoftext|> FOR AMBROSCH MY MAMA COME HERE <|endoftext|>",
     "tokens": [
+        50255,
         13775,
         3001,
         11473,
@@ -12,7 +13,8 @@
         25087,
         9440,
         36,
-        15698
+        15698,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

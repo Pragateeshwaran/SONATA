@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0003.flac",
-    "text": "NIGHT AFTER NIGHT HIS SLEEP HAD BEEN DISTURBED BY FEARS FOR HER WHEN ABROAD MORNING AFTER MORNING IT HAD BEEN BROKEN BY THE CLAMOUR OF HER RETURN",
+    "text": "<|startoftext|> NIGHT AFTER NIGHT HIS SLEEP HAD BEEN DISTURBED BY FEARS FOR HER WHEN ABROAD MORNING AFTER MORNING IT HAD BEEN BROKEN BY THE CLAMOUR OF HER RETURN <|endoftext|>",
     "tokens": [
+        50255,
         45,
         9947,
         36050,
@@ -50,7 +51,8 @@
         3963,
         24906,
         30826,
-        27064
+        27064,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

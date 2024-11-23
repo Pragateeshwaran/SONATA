@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0024.flac",
-    "text": "JUST AS HE REACHED IT HOWEVER THE FIGURE OF MISTER NORTH ROSE FROM BEHIND A PILE OF STONES",
+    "text": "<|startoftext|> JUST AS HE REACHED IT HOWEVER THE FIGURE OF MISTER NORTH ROSE FROM BEHIND A PILE OF STONES <|endoftext|>",
     "tokens": [
+        50255,
         25008,
         7054,
         11179,
@@ -31,7 +32,8 @@
         2538,
         3963,
         3563,
-        39677
+        39677,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

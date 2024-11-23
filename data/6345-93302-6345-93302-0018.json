@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6345\\93302\\6345-93302-0018.flac",
-    "text": "I DON'T WONDER YOU WERE AFRAID TO TELL ME SHE BEGAN YOU DON'T LOVE ME YOU'VE NEVER LOVED ME I WAS AN IDIOT TO BELIEVE YOU DID",
+    "text": "<|startoftext|> I DON'T WONDER YOU WERE AFRAID TO TELL ME SHE BEGAN YOU DON'T LOVE ME YOU'VE NEVER LOVED ME I WAS AN IDIOT TO BELIEVE YOU DID <|endoftext|>",
     "tokens": [
+        50255,
         40,
         23917,
         6,
@@ -48,7 +49,8 @@
         10008,
         6089,
         7013,
-        35697
+        35697,
+        50256
     ],
     "metadata": {
         "speaker_id": "6345",

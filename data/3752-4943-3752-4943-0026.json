@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3752\\4943\\3752-4943-0026.flac",
-    "text": "OH MISTER NORTH SAYS KIRKLAND WHY DID YOU STOP ME",
+    "text": "<|startoftext|> OH MISTER NORTH SAYS KIRKLAND WHY DID YOU STOP ME <|endoftext|>",
     "tokens": [
+        50255,
         12096,
         337,
         41517,
@@ -17,7 +18,8 @@
         35697,
         7013,
         44934,
-        11948
+        11948,
+        50256
     ],
     "metadata": {
         "speaker_id": "3752",

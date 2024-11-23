@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\110124\\7976-110124-0010.flac",
-    "text": "HOWEVER IN SPITE OF ALL SHE COULD SAY THE ELDER SISTERS OPENED THE DOOR AND ADMITTED THE BEGGAR",
+    "text": "<|startoftext|> HOWEVER IN SPITE OF ALL SHE COULD SAY THE ELDER SISTERS OPENED THE DOOR AND ADMITTED THE BEGGAR <|endoftext|>",
     "tokens": [
+        50255,
         37181,
         36,
         5959,
@@ -35,7 +36,8 @@
         347,
         7156,
         38,
-        1503
+        1503,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

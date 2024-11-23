@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\84\\121550\\84-121550-0032.flac",
-    "text": "SO LOW HE FELL THAT ALL APPLIANCES FOR HIS SALVATION WERE ALREADY SHORT SAVE SHOWING HIM THE PEOPLE OF PERDITION",
+    "text": "<|startoftext|> SO LOW HE FELL THAT ALL APPLIANCES FOR HIS SALVATION WERE ALREADY SHORT SAVE SHOWING HIM THE PEOPLE OF PERDITION <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         46663,
         11179,
@@ -36,7 +37,8 @@
         3963,
         19878,
         35,
-        17941
+        17941,
+        50256
     ],
     "metadata": {
         "speaker_id": "84",

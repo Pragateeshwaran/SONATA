@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1919\\142785\\1919-142785-0029.flac",
-    "text": "LEMON JUICE MAY BE ADDED AT PLEASURE",
+    "text": "<|startoftext|> LEMON JUICE MAY BE ADDED AT PLEASURE <|endoftext|>",
     "tokens": [
+        50255,
         2538,
         27857,
         449,
@@ -15,7 +16,8 @@
         350,
         2538,
         1921,
-        11335
+        11335,
+        50256
     ],
     "metadata": {
         "speaker_id": "1919",

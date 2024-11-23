@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\1993\\147964\\1993-147964-0001.flac",
-    "text": "ANYWAY HE WOULD NEVER ALLOW ONE OF HIS HORSES TO BE PUT TO SUCH A STRAIN",
+    "text": "<|startoftext|> ANYWAY HE WOULD NEVER ALLOW ONE OF HIS HORSES TO BE PUT TO SUCH A STRAIN <|endoftext|>",
     "tokens": [
+        50255,
         31827,
         27285,
         11179,
@@ -26,7 +27,8 @@
         317,
         3563,
         3861,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "1993",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6319\\64726\\6319-64726-0013.flac",
-    "text": "HE PASSED THROUGH ONE APARTMENT AFTER ANOTHER WHERE WERE LADIES AND GENTLEMEN ASLEEP IN THEIR CHAIRS OR STANDING",
+    "text": "<|startoftext|> HE PASSED THROUGH ONE APARTMENT AFTER ANOTHER WHERE WERE LADIES AND GENTLEMEN ASLEEP IN THEIR CHAIRS OR STANDING <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         41752,
         1961,
@@ -35,7 +36,8 @@
         50,
         6375,
         49053,
-        2751
+        2751,
+        50256
     ],
     "metadata": {
         "speaker_id": "6319",

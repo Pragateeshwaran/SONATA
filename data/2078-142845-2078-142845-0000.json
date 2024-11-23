@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2078\\142845\\2078-142845-0000.flac",
-    "text": "KIRKLEATHAM YEAST",
+    "text": "<|startoftext|> KIRKLEATHAM YEAST <|endoftext|>",
     "tokens": [
+        50255,
         42,
         4663,
         42,
@@ -10,7 +11,8 @@
         2390,
         575,
         36,
-        11262
+        11262,
+        50256
     ],
     "metadata": {
         "speaker_id": "2078",

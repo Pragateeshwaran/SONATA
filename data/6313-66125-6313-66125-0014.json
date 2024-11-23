@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66125\\6313-66125-0014.flac",
-    "text": "THE MOVEMENT SENT HIS BODY SWAYING GIDDILY FROM SIDE TO SIDE",
+    "text": "<|startoftext|> THE MOVEMENT SENT HIS BODY SWAYING GIDDILY FROM SIDE TO SIDE <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         28184,
         12529,
@@ -22,7 +23,8 @@
         14114,
         5390,
         311,
-        14114
+        14114,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

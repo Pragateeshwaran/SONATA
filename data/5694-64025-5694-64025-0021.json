@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64025\\5694-64025-0021.flac",
-    "text": "SO HE GOT A LARGE TWO INCH ROPE TIED ONE END AROUND THE MULE'S NECK AND THE OTHER TO THE CAISSON AND ORDERED THE DRIVER TO WHIP UP",
+    "text": "<|startoftext|> SO HE GOT A LARGE TWO INCH ROPE TIED ONE END AROUND THE MULE'S NECK AND THE OTHER TO THE CAISSON AND ORDERED THE DRIVER TO WHIP UP <|endoftext|>",
     "tokens": [
+        50255,
         15821,
         11179,
         41725,
@@ -43,7 +44,8 @@
         5390,
         7655,
         4061,
-        15958
+        15958,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

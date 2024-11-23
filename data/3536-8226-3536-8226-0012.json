@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\8226\\3536-8226-0012.flac",
-    "text": "DRAT EM ALL WHAT IS IT THEY WANTS THEY DON'T KNOW WHAT THEY WANTS",
+    "text": "<|startoftext|> DRAT EM ALL WHAT IS IT THEY WANTS THEY DON'T KNOW WHAT THEY WANTS <|endoftext|>",
     "tokens": [
+        50255,
         7707,
         1404,
         17228,
@@ -22,7 +23,8 @@
         33302,
         370,
         1565,
-        4694
+        4694,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149896\\2277-149896-0030.flac",
-    "text": "HE BEGAN TO WISH THAT HE HAD COMPROMISED IN SOME WAY OR OTHER THAT HE HAD SENT THE MONEY PERHAPS HE COULD DO IT UP HERE",
+    "text": "<|startoftext|> HE BEGAN TO WISH THAT HE HAD COMPROMISED IN SOME WAY OR OTHER THAT HE HAD SENT THE MONEY PERHAPS HE COULD DO IT UP HERE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         347,
         7156,
@@ -41,7 +42,8 @@
         8410,
         7283,
         15958,
-        15698
+        15698,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3536\\23268\\3536-23268-0006.flac",
-    "text": "YES INDEED AND I BELIEVE IT IS RIGHT THAT I SHOULD KEEP MY FIRST PROMISE IS IT NOT",
+    "text": "<|startoftext|> YES INDEED AND I BELIEVE IT IS RIGHT THAT I SHOULD KEEP MY FIRST PROMISE IS IT NOT <|endoftext|>",
     "tokens": [
+        50255,
         43335,
         3268,
         7206,
@@ -26,7 +27,8 @@
         24352,
         3180,
         7283,
-        5626
+        5626,
+        50256
     ],
     "metadata": {
         "speaker_id": "3536",

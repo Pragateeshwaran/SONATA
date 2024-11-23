@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3170\\137482\\3170-137482-0046.flac",
-    "text": "YOUR APARTMENT IS READY YOU MAY SEND YOUR CLOTHES YOU SHALL HAVE A SERVANT A GONDOLA AT YOUR ORDERS MY OWN TABLE AND TEN SEQUINS A MONTH",
+    "text": "<|startoftext|> YOUR APARTMENT IS READY YOU MAY SEND YOUR CLOTHES YOU SHALL HAVE A SERVANT A GONDOLA AT YOUR ORDERS MY OWN TABLE AND TEN SEQUINS A MONTH <|endoftext|>",
     "tokens": [
+        50255,
         56,
         11698,
         3486,
@@ -45,7 +46,8 @@
         20913,
         317,
         25000,
-        4221
+        4221,
+        50256
     ],
     "metadata": {
         "speaker_id": "3170",

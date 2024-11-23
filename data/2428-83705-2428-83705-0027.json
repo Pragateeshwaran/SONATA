@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83705\\2428-83705-0027.flac",
-    "text": "HERS HAS BEEN PRODIGIOUS",
+    "text": "<|startoftext|> HERS HAS BEEN PRODIGIOUS <|endoftext|>",
     "tokens": [
+        50255,
         39,
         4877,
         33930,
@@ -11,7 +12,8 @@
         3727,
         3528,
         40,
-        20958
+        20958,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2428\\83699\\2428-83699-0039.flac",
-    "text": "I TOLLED THE BELL AGAIN",
+    "text": "<|startoftext|> I TOLLED THE BELL AGAIN <|endoftext|>",
     "tokens": [
+        50255,
         40,
         5390,
         3069,
@@ -10,7 +11,8 @@
         9348,
         3069,
         36218,
-        1268
+        1268,
+        50256
     ],
     "metadata": {
         "speaker_id": "2428",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\6313\\66129\\6313-66129-0034.flac",
-    "text": "AT THE MOMENT WHEN HE FREED HIS LEFT FOOT FROM THE STIRRUP HE THREW HIS BODY SHARPLY TO THE RIGHT REACHING FOR THE HAT WITHOUT TAKING THE PRECAUTION TO GRASP THE POMMEL",
+    "text": "<|startoftext|> AT THE MOMENT WHEN HE FREED HIS LEFT FOOT FROM THE STIRRUP HE THREW HIS BODY SHARPLY TO THE RIGHT REACHING FOR THE HAT WITHOUT TAKING THE PRECAUTION TO GRASP THE POMMEL <|endoftext|>",
     "tokens": [
+        50255,
         1404,
         3336,
         337,
@@ -57,7 +58,8 @@
         350,
         2662,
         44,
-        3698
+        3698,
+        50256
     ],
     "metadata": {
         "speaker_id": "6313",

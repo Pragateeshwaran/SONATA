@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2803\\154328\\2803-154328-0005.flac",
-    "text": "GOD WHO READS OUR HEARTS KNOWS THAT WE HAD A NOBLE END IN VIEW",
+    "text": "<|startoftext|> GOD WHO READS OUR HEARTS KNOWS THAT WE HAD A NOBLE END IN VIEW <|endoftext|>",
     "tokens": [
+        50255,
         38,
         3727,
         19494,
@@ -22,7 +23,8 @@
         19146,
         23578,
         3268,
-        49880
+        49880,
+        50256
     ],
     "metadata": {
         "speaker_id": "2803",

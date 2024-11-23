@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\7976\\105575\\7976-105575-0013.flac",
-    "text": "WHEN MORNING CAME THE FIRING OPENED AND FOR ALL THAT DAY THE BATTLE RAGED FIERCELY AT THE LEFT AND CENTER LEFT WE GETTING THE WORST OF IT TOO",
+    "text": "<|startoftext|> WHEN MORNING CAME THE FIRING OPENED AND FOR ALL THAT DAY THE BATTLE RAGED FIERCELY AT THE LEFT AND CENTER LEFT WE GETTING THE WORST OF IT TOO <|endoftext|>",
     "tokens": [
+        50255,
         12418,
         1677,
         35208,
@@ -45,7 +46,8 @@
         3963,
         7283,
         5390,
-        46
+        46,
+        50256
     ],
     "metadata": {
         "speaker_id": "7976",

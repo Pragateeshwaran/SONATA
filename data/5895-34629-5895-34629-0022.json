@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5895\\34629\\5895-34629-0022.flac",
-    "text": "URSUS WAS SATISFIED WITH THE APPLAUSE OF SOUTHWARK BUT BY NO MEANS ASTONISHED",
+    "text": "<|startoftext|> URSUS WAS SATISFIED WITH THE APPLAUSE OF SOUTHWARK BUT BY NO MEANS ASTONISHED <|endoftext|>",
     "tokens": [
+        50255,
         4261,
         50,
         2937,
@@ -28,7 +29,8 @@
         29273,
         1340,
         18422,
-        1961
+        1961,
+        50256
     ],
     "metadata": {
         "speaker_id": "5895",

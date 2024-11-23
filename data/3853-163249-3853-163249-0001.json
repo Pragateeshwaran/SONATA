@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\3853\\163249\\3853-163249-0001.flac",
-    "text": "BUT EVEN WHILE SHE ENJOYED EVERY HOUR OF LIFE AND BEGRUDGED THE TIME GIVEN TO SLEEP SHE FELT AS IF THE DREAM WAS TOO BEAUTIFUL TO LAST AND OFTEN SAID",
+    "text": "<|startoftext|> BUT EVEN WHILE SHE ENJOYED EVERY HOUR OF LIFE AND BEGRUDGED THE TIME GIVEN TO SLEEP SHE FELT AS IF THE DREAM WAS TOO BEAUTIFUL TO LAST AND OFTEN SAID <|endoftext|>",
     "tokens": [
+        50255,
         47526,
         45886,
         7655,
@@ -55,7 +56,8 @@
         51,
         1677,
         14719,
-        2389
+        2389,
+        50256
     ],
     "metadata": {
         "speaker_id": "3853",

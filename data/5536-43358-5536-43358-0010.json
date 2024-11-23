@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5536\\43358\\5536-43358-0010.flac",
-    "text": "IT WAS NOT THEN WHOLLY FROM IGNORANCE OR IMPROVIDENCE THAT HE FAILED TO ESTABLISH PERMANENT TOWNS AND TO DEVELOP A MATERIAL CIVILIZATION",
+    "text": "<|startoftext|> IT WAS NOT THEN WHOLLY FROM IGNORANCE OR IMPROVIDENCE THAT HE FAILED TO ESTABLISH PERMANENT TOWNS AND TO DEVELOP A MATERIAL CIVILIZATION <|endoftext|>",
     "tokens": [
+        50255,
         2043,
         21725,
         5626,
@@ -47,7 +48,8 @@
         3824,
         4146,
         14887,
-        6234
+        6234,
+        50256
     ],
     "metadata": {
         "speaker_id": "5536",

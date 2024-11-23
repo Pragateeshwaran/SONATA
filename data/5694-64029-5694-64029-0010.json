@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\5694\\64029\\5694-64029-0010.flac",
-    "text": "HE DIVINED MY MOTIVE AND FIRED THE BALL MISSED ITS AIM",
+    "text": "<|startoftext|> HE DIVINED MY MOTIVE AND FIRED THE BALL MISSED ITS AIM <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         360,
         3824,
@@ -19,7 +20,8 @@
         1961,
         42437,
         317,
-        3955
+        3955,
+        50256
     ],
     "metadata": {
         "speaker_id": "5694",

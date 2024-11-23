@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2902\\9006\\2902-9006-0012.flac",
-    "text": "TRIBE AFTER TRIBE WAS CROWDING DOWN TO THE ALPS AND TRAMPLING UPON EACH OTHER ON THE FRONTIERS OF THE EMPIRE",
+    "text": "<|startoftext|> TRIBE AFTER TRIBE WAS CROWDING DOWN TO THE ALPS AND TRAMPLING UPON EACH OTHER ON THE FRONTIERS OF THE EMPIRE <|endoftext|>",
     "tokens": [
+        50255,
         5446,
         9865,
         36,
@@ -37,7 +38,8 @@
         3963,
         3336,
         38144,
-        41736
+        41736,
+        50256
     ],
     "metadata": {
         "speaker_id": "2902",

@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\251\\136532\\251-136532-0023.flac",
-    "text": "THE ORGANIZATION OF A SOCIETY OF MARTIAN ARCHAEOLOGY WITH ANTHONY LATTIMER PH D THE LOGICAL CANDIDATE FOR THE CHAIR",
+    "text": "<|startoftext|> THE ORGANIZATION OF A SOCIETY OF MARTIAN ARCHAEOLOGY WITH ANTHONY LATTIMER PH D THE LOGICAL CANDIDATE FOR THE CHAIR <|endoftext|>",
     "tokens": [
+        50255,
         10970,
         6375,
         45028,
@@ -41,7 +42,8 @@
         7473,
         3336,
         5870,
-        42149
+        42149,
+        50256
     ],
     "metadata": {
         "speaker_id": "251",

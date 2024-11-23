@@ -1,7 +1,8 @@
 {
     "audio_path": "dev-clean\\LibriSpeech\\dev-clean\\2277\\149897\\2277-149897-0021.flac",
-    "text": "HE SAW A BUSY SATURDAY USHERED OUT THE SABBATH IN AND NOTHING DONE",
+    "text": "<|startoftext|> HE SAW A BUSY SATURDAY USHERED OUT THE SABBATH IN AND NOTHING DONE <|endoftext|>",
     "tokens": [
+        50255,
         13909,
         311,
         12298,
@@ -26,7 +27,8 @@
         39,
         2751,
         360,
-        11651
+        11651,
+        50256
     ],
     "metadata": {
         "speaker_id": "2277",
