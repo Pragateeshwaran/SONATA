@@ -11,8 +11,8 @@ class Configuration:
     n_decoder_layers: int = 4
     d_model: int = 512
     n_heads: int = 8
-    d_ff: int = 2048
-    max_seq_length: int = 1500
+    d_ff: int = 512
+    max_seq_length: int = 32
     vocab_size: int = 51876
     n_conv_channels: list = (80, 256, 512, 1024)
     dropout: float = 0.1
@@ -32,7 +32,7 @@ class PositionalEncoding(nn.Module):
         return x + self.pe[:x.size(0)]
 
 
-class SONATA_ATTENTION(nn.Module):
+class CustomAttention(nn.Module):
     def __init__(self, d_model: int, n_heads: int, dropout: float = 0.1):
         super().__init__()
         assert d_model % n_heads == 0, "d_model must be divisible by n_heads"
@@ -61,7 +61,7 @@ class SONATA_ATTENTION(nn.Module):
 class EncoderLayer(nn.Module):
     def __init__(self, config: Configuration):
         super().__init__()
-        self.attn = SONATA_ATTENTION(config.d_model, config.n_heads, config.dropout)
+        self.attn = CustomAttention(config.d_model, config.n_heads, config.dropout)
         self.attn_layer_norm = nn.LayerNorm(config.d_model, eps=1e-4)
         self.activation = nn.SiLU()
         self.fc1 = nn.Linear(config.d_model, config.d_ff)
@@ -82,8 +82,8 @@ class EncoderLayer(nn.Module):
 class DecoderLayer(nn.Module):
     def __init__(self, config: Configuration):
         super().__init__()
-        self.self_attn = SONATA_ATTENTION(config.d_model, config.n_heads, config.dropout)
-        self.cross_attn = SONATA_ATTENTION(config.d_model, config.n_heads, config.dropout)
+        self.self_attn = CustomAttention(config.d_model, config.n_heads, config.dropout)
+        self.cross_attn = CustomAttention(config.d_model, config.n_heads, config.dropout)
         self.ffn = nn.Sequential(
             nn.Linear(config.d_model, config.d_ff),
             nn.ReLU(),
